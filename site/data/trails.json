@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-09T04:30:06+0530",
- "lens_searches": 41,
- "credits_spent_this_run": 0,
+ "generated_at": "2026-10-09T04:45:19+0530",
+ "lens_searches": 42,
+ "credits_spent_this_run": 1,
  "trails": {
   "10704": {
    "recall": {
@@ -25423,6 +25423,59 @@
    "status": "ok",
    "raw_json": "data/raw/google_lens_babf07fc22731587.json",
    "recall_photo_local": "thumbs/recall-10698.jpg"
+  },
+  "10668": {
+   "recall": {
+    "recall_id": "10668",
+    "number": "26335",
+    "date": "2026-03-19",
+    "title": "Aisstxoer Adult Bicycle Helmets Recalled Due to Risk of Serious Injury or Death from Head Injury; Violates Mandatory Standard for Bicycle Helmets; Sold on Amazon by YXTDZ Store",
+    "url": "https://www.cpsc.gov/Recalls/2026/Aisstxoer-Adult-Bicycle-Helmets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violates-Mandatory-Standard-for-Bicycle-Helmets-Sold-on-Amazon-by-YXTDZ-Store",
+    "product": "Aisstxoer Adult Bike Helmets",
+    "risk": "Risk of serious injury or death from head injury",
+    "standard": "Mandatory standard for bicycle helmets",
+    "units": "About 200",
+    "sold_on": "Amazon",
+    "seller": "YXTDZ Store",
+    "countries": [
+     "China"
+    ],
+    "photos": [
+     {
+      "url": "https://www.cpsc.gov/s3fs-public/Picture1_51.jpg",
+      "caption": "Recalled Aisstxoer Adult Bike Helmet (pink)"
+     }
+    ],
+    "kids": false,
+    "fire": false,
+    "marketplace": true
+   },
+   "photo": {
+    "url": "https://www.cpsc.gov/s3fs-public/Picture1_51.jpg",
+    "caption": "Recalled Aisstxoer Adult Bike Helmet (pink)",
+    "border_white": 0.966,
+    "width": 233,
+    "height": 156,
+    "listing_style": true
+   },
+   "recall_photo_url": "https://www.cpsc.gov/s3fs-public/Picture1_51.jpg",
+   "search_key": "google_lens_d2a5cec24d04978c",
+   "matches_total": 7,
+   "matches_capped": false,
+   "kinds": {
+    "news": 5,
+    "other": 1,
+    "spam": 1
+   },
+   "countries": [],
+   "stores": 0,
+   "recalled_brand": "Aisstxoer",
+   "recalled_brand_listings": 0,
+   "selling": [],
+   "india": [],
+   "status": "ok",
+   "raw_json": "data/raw/google_lens_d2a5cec24d04978c.json",
+   "recall_photo_local": "thumbs/recall-10668.jpg"
   }
  }
 }

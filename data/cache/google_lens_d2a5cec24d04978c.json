@@ -1,0 +1,95 @@
+{
+ "search_metadata": {
+  "id": "6ac82401b24c5d50010b7c79",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Fqoj1UYlnAgOBv2v9mN4LYBOcyyQu-wOM8Npbgby1fQ/6ac82401b24c5d50010b7c79.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Fqoj1UYlnAgOBv2v9mN4LYBOcyyQu-wOM8Npbgby1fQ/6ac82401b24c5d50010b7c79.md",
+  "created_at": "2026-10-08 23:15:13 UTC",
+  "processed_at": "2026-10-08 23:15:13 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2FPicture1_51.jpg",
+  "raw_html_file": "https://serpapi.com/searches/Fqoj1UYlnAgOBv2v9mN4LYBOcyyQu-wOM8Npbgby1fQ/6ac82401b24c5d50010b7c79.html",
+  "total_time_taken": 4.31
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/Picture1_51.jpg",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Aisstxoer Adult Bicycle Helmets Recalled Due to Risk of Serious ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Aisstxoer-Adult-Bicycle-Helmets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violates-Mandatory-Standard-for-Bicycle-Helmets-Sold-on-Amazon-by-YXTDZ-Store",
+   "thumbnail": "https://serpapi.com/searches/6ac82401b24c5d50010b7c79/images/y4ZsnCmj_qcP9EcchU5kDoanMEEk3igEj2gn5YX0IMo.jpeg",
+   "actual_image_width": 233,
+   "actual_image_height": 156
+  },
+  {
+   "position": 2,
+   "title": "Aisstxoer Adult Bicycle Helmets Recalled Due to Risk of Serious ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10668/",
+   "thumbnail": "https://serpapi.com/searches/6ac82401b24c5d50010b7c79/images/SVbZCVgsq4cGc2Ws0rtFETPg5Q09CojqkfaCGhX4U7I.jpeg",
+   "date": "Mar 18, 2026",
+   "actual_image_width": 233,
+   "actual_image_height": 156
+  },
+  {
+   "position": 3,
+   "title": "Aisstxoer Adult Bicycle Helmets recalled due to risk of serious injury ...",
+   "source": "MyParisTexas",
+   "source_icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAABwBwCdASocABwAPtE-tFooIigoFAEAGglsALD4E1fHxgHYEcAxgUzXxifRPsABlwv9JhxvCf1WT7z3T-hvL2IBPn0QAAD-9ge-uf3fxvwvuK6fzFANOqCX6LuH6KkYCXMR-ZVD7qLgb_PAQofs168EA-flpYrNHofiVe3aHOdteifTBURmJYXpOPMnTqNpTWvAV2q65YZh4ADeuYV3KTS0bwHvEjjCo73xCZOc7_Mrz8dMRIQH-QSnaw7UjJ24vtOZBd1S9Obz9BnnBcfR-4OhmB4lldQo7igodB-39jo9zw-d9gHJMv4ccyEbqZpyTsTLh_7qz9FM351M2ypVcAflv9rtc01vSqNCTHzJV76kxCS2BT35FAv8a0Yu1u9hJ4_gPny85PCTLxohuLapJO1nYolUjphMY6M8hE73P4o1d9o7l9UDSsrPX6aep_8e-IMpIxM_k7EFyTOWkCy6-nRvXB35UyniKhUDqSV00YLXW_0atvv-0jo3fX3SnuAA.webp",
+   "link": "https://myparistexas.com/aisstxoer-adult-bicycle-helmets-recalled-due-to-risk-of-serious-injury-or-death-from-head-injury-sold-on-amazon-by-yxtdz-store/",
+   "thumbnail": "https://serpapi.com/searches/6ac82401b24c5d50010b7c79/images/9RiqQcnbpy135cR25ktz3XwiIUhimVf4QBN8kvD5Arg.jpeg",
+   "date": "Apr 1, 2026",
+   "actual_image_width": 1000,
+   "actual_image_height": 600
+  },
+  {
+   "position": 4,
+   "title": "Multiple consumer products recalled nationwide over injury, burn ...",
+   "source": "WRNJ Radio",
+   "source_icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAADwBgCdASocABwAPtE-tFooIigoFAEAGgloALUbMA4CER_Lvna84LOV7j8GZGyZSIgu8KBe-Roh1Qlpsi_FfrS4AP79K8ZcFF47xGAZ2vT47lDnovVK40eyuFgVjnsZM7XaQmEpcwM_-eOdSAnhHKsbY_fHLD_qhI_58U--bTvH7fA7L5Kr89Q6HK_9642YuKQRYchT69Z6_OUv2qK2dz3AIXGwn3sIsNT6CXV7POjUVapuRZIG9d5AibZSbPC3Xpf8dQorsh3iyKEGU3bCbtJXbti75i4jL4vTjE3WdNa0Frs4MEhsp3o4ve3rI1Ob_HqkNwsL0xqxc_Pv1rvoxy9sqxyUSPN-xEn7ziaFA6XPR1Aqk8-vsBOQtnGQ6cgwLycQ78m-0vfiiNxSlevzbz50VZBhReHPC_qtYL5rtaBDDZ8RZHOm78S3fflM4b1gBAcp6o1XobLlvIm1QYayviM_TGAPLr2gMTzyH-NZ7sS_B_xQiNIu_3Fouh3YAAAA.webp",
+   "link": "https://wrnjradio.com/multiple-consumer-products-recalled-nationwide-over-injury-burn-and-safety-risks/",
+   "thumbnail": "https://serpapi.com/searches/6ac82401b24c5d50010b7c79/images/gdBwtXzKyC9MGks2s-ImGBYatmNNV3dTphqRmpVi1O8.jpeg",
+   "date": "Mar 20, 2026",
+   "actual_image_width": 233,
+   "actual_image_height": 156
+  },
+  {
+   "position": 5,
+   "title": "Consumer product safety recall roundup for March 19, 2026",
+   "source": "ConsumerAffairs",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtFBg9YcctCXueewyu3h6_js8_uBq-L-___I2_NUj9lmmd3nZ7hfAAAAC3RSTlMAHGkKi__xL9Cn5OXyBpAAAAChSURBVHgBbM1VEsAgFEPRWioQHPa_1bq_83snk-qpbpq6krUdFl0rtabHpm9-aRhxGYf32YSXqX6fvdzXg4JADVscIRq3P9y0xq1-RxpLMW6c1xQjgRCjAfiPOjkfF96l_F-WpW0C_5HZbctC4RO0cZEIMS5LHz3EqGPKOcVMKeYAkkH-BLGYhxQI-AIeb5Thj2zCyQQzgRFImoQTNd7sAAAzTw4gNIcHNwAAAABJRU5ErkJggg.png",
+   "link": "https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-march-19-2026-032026.html",
+   "thumbnail": "https://serpapi.com/searches/6ac82401b24c5d50010b7c79/images/fJjKiigxsol5o7-Vw55enbUR2TWVxbiqG0r6SoOmgx4.jpeg",
+   "date": "Mar 20, 2026",
+   "actual_image_width": 233,
+   "actual_image_height": 156
+  },
+  {
+   "position": 6,
+   "title": "Aisstxoer安全帽將召回全額退款 - 輪彥國際",
+   "source": "輪彥國際有限公司",
+   "source_icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAKwZoDbAbhjeHd5TK8EMW8a30r7AYZZ1pq-GvdwMX57l88YEv-OqTBdc-AAAAP72BfPMEQor11smc1fYgVByKyh3HDx7kJe9xHIBu0v63JmO1-RBU_RP3j4riRQDXQKBdxO_tEdiaCglayw8XZnb14OsstxwRBxQnL6d0GDztviFMWrH0taizf9BLwjLeIYr6fH_8SzcOPGOpcS6Qi5xpo9SjHACx1KFRqM53aiZbLj3QKh-B_-M6KtvYlEBPOV7XHX0R1weTTkVew-mFQNDne5N-V_o60Nfoa37_f1rYeCezkQRbZjJhv5nyM7edVJXrJX5crbGOXX3NH3mKlQv7JWv_eboHP_6hHvTS6E1u757BHNCtkSPQ-1m96y0Z3Uf11OLSfHRw5Kr4cr5AFOZSubLHQK8nw66T3BrH_oztrbS0nH1zB0UqTcAoz-7fDwsSYyt-APLAgAA.webp",
+   "link": "https://www.wheelgiant.com.tw/2026/03/20/aisstxoer%E5%AE%89%E5%85%A8%E5%B8%BD%E5%B0%87%E5%8F%AC%E5%9B%9E%E5%85%A8%E9%A1%8D%E9%80%80%E6%AC%BE/",
+   "thumbnail": "https://serpapi.com/searches/6ac82401b24c5d50010b7c79/images/zShu3_INtXZ4L4MoDYNRnHUCNZHFnFNaxI-CsQIPFV4.jpeg",
+   "date": "Mar 20, 2026",
+   "actual_image_width": 233,
+   "actual_image_height": 156
+  },
+  {
+   "position": 7,
+   "title": "中国出口的自行车头盔在美国市场被召回 - 江苏省技术性贸易措施平台",
+   "source": "Tbtguide",
+   "source_icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASocABwAPtEutFooIagoGAEAGglkAAUQHtXxM9BDIMhIo0Idl9WppsRWhf26YADOP-4ew4xEm9Ib5j4tDEjQTgr83y6e6x_9fXW_-Af__-8nPuz5mwJpi40dBAH_2zO366U_zR83__asgec9BTrI8VT0Ul552YF5mJEgphFhLA5sebu0JyxBg20IcPdFEz7bhlicIEN9Di3bFvWIz-dawTJHVgT-_rt-iGje_QWP7Kv33-1MV-23-_dCn6jN-9slXgqJBUV8egjRFgf2APnwnq3L9pw730qx5A5XeFHntLG8H-vQW9QE1ebYAAA.webp",
+   "link": "https://www.tbtguide.com/c/mypt/CPSC/614712.jhtml",
+   "thumbnail": "https://serpapi.com/searches/6ac82401b24c5d50010b7c79/images/_RpD1a5Xxo5TofPld6iBjPiwlRa4he0Zvjp_gib3nzA.jpeg",
+   "actual_image_width": 233,
+   "actual_image_height": 156
+  }
+ ]
+}
