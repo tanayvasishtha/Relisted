@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Relisted: recall</title>
+  <meta name="description" content="Store listings that Google Lens matches to one recalled product's photo, grouped by country, with a link to every source.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Relisted">
+  <meta property="og:image" content="https://tanayvasishtha.github.io/Relisted/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to the recall</a>
+  <div id="local-bar"></div>
+  <header class="site-header wrap">
+    <a class="wordmark" href="index.html">Relisted</a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="index.html">All recalls</a>
+      <a href="method.html">How it works</a>
+      <a href="https://github.com/tanayvasishtha/Relisted">Source code</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <div class="recall-band"><div class="wrap"><p id="band">Recall</p></div></div>
+    <div class="wrap recall-layout">
+      <aside class="recall-facts" aria-label="About the recall">
+        <div class="frame recall-photo" id="recall-photo"></div>
+        <h1 class="recall-name" id="recall-name"></h1>
+        <dl class="facts" id="facts"></dl>
+      </aside>
+      <section aria-labelledby="claim">
+        <h2 class="title" id="claim"></h2>
+        <dl class="counts" id="counts"></dl>
+        <div id="india"></div>
+        <div id="listings"></div>
+        <div id="left-out"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Recall data: US Consumer Product Safety Commission. Image search: Google Lens through SerpApi.</p>
+      <p>These are leads for review, not findings. A listing that matches a recall photo may be a different item, or may already be gone.</p>
+      <p class="quiet"><span id="snapshot"></span> Built for the SerpApi India Hackathon 2026.</p>
+    </div>
+  </footer>
+  <script type="module" src="assets/live.js"></script>
+  <script type="module" src="assets/recall.js"></script>
+</body>
+</html>
