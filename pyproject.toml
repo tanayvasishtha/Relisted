@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-dev = ["pytest>=8.0", "ruff>=0.5"]
+dev = ["pytest>=8.0", "ruff>=0.5", "httpx2>=2.0"]
 
 [project.scripts]
 relisted = "relisted.cli:main"

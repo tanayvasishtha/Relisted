@@ -157,3 +157,12 @@ def priority(recall: Recall) -> int:
     if recall.photos:
         score += 1
     return score
+
+
+MIN_PRIORITY = 4
+
+
+def ranked(recalls: list[Recall], min_priority: int = MIN_PRIORITY) -> list[Recall]:
+    """Recalls worth a search, most promising first: marketplace, children's, fire, newest."""
+    pool = [r for r in recalls if priority(r) >= min_priority]
+    return sorted(pool, key=lambda r: (priority(r), r.date), reverse=True)

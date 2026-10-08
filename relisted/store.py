@@ -8,7 +8,6 @@ import time
 from pathlib import Path
 
 from .config import ROOT
-from .hunt import Trail
 
 TRAILS_PATH = ROOT / "site" / "data" / "trails.json"
 
@@ -31,10 +30,3 @@ def save(trails: dict[str, dict], credits_spent: int, path: Path = TRAILS_PATH) 
     tmp.write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding="utf-8")
     os.replace(tmp, path)
     return doc
-
-
-def upsert(trail: Trail, credits_spent: int = 0, path: Path = TRAILS_PATH) -> dict:
-    doc = load(path)
-    trails = doc.get("trails", {})
-    trails[trail.recall["recall_id"]] = trail.to_dict()
-    return save(trails, credits_spent, path)

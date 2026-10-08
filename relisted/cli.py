@@ -7,17 +7,15 @@ import sys
 
 from serpapi import SerpApiError
 
-from . import og, publish, stats, store
+from . import og, publish, recalls, stats, store
 from .config import load_settings
 from .hunt import best_photo, hunt
-from .recalls import Recall, fetch, priority
+from .recalls import MIN_PRIORITY, Recall, fetch
 from .serp import BudgetExceeded, NotRecorded, SerpClient, account_status
 
 
 def ranked(args: argparse.Namespace) -> list[Recall]:
-    """Recalls worth a search, most promising first: marketplace, kids, fire, newest."""
-    pool = [r for r in fetch(args.since) if priority(r) >= args.min_priority]
-    return sorted(pool, key=lambda r: (priority(r), r.date), reverse=True)[: args.limit]
+    return recalls.ranked(fetch(args.since), args.min_priority)[: args.limit]
 
 
 def cmd_candidates(args: argparse.Namespace) -> None:
@@ -111,7 +109,7 @@ def main(argv: list[str] | None = None) -> None:
         p = sub.add_parser(name, help=help_text)
         p.add_argument("--since", default="2026-01-01")
         p.add_argument("--limit", type=int, default=60)
-        p.add_argument("--min-priority", type=int, default=6)
+        p.add_argument("--min-priority", type=int, default=MIN_PRIORITY)
         p.set_defaults(func=fn)
 
     sub.add_parser("thumbs", help="save thumbnails and raw responses for the site (free)").set_defaults(
