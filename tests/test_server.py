@@ -116,3 +116,9 @@ def test_the_count_drops_at_once_after_a_paid_search(client, live, monkeypatch):
     client.post("/api/search/10901", headers=HEADERS)
     assert client.get("/api/status").json()["searches_left"] == 202
     assert len(calls) == 1  # the new count came from local arithmetic, not a second account call
+
+
+def test_the_font_is_served_with_its_real_type(client):
+    response = client.get("/assets/fonts/archivo-latin.woff2")
+    assert response.status_code == 200
+    assert response.headers["content-type"] == "font/woff2"

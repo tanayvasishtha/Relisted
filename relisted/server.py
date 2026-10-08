@@ -7,6 +7,7 @@ required: a web page on another origin cannot send it without a CORS preflight, 
 from __future__ import annotations
 
 import dataclasses
+import mimetypes
 import threading
 import time
 from typing import Any
@@ -23,6 +24,7 @@ from .recalls import fetch, ranked
 from .serp import BudgetExceeded, NotRecorded, SerpClient, account_status
 
 SITE = ROOT / "site"
+mimetypes.add_type("font/woff2", ".woff2")
 STATUS_TTL = 60  # seconds the free Account API answer is reused
 CANDIDATES = 12
 

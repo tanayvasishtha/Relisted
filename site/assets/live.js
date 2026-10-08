@@ -84,7 +84,8 @@ async function renderCandidates() {
   section.hidden = false;
 }
 
-const status = await getJson("api/status");
+const LOCAL = ["localhost", "127.0.0.1", "[::1]"].includes(location.hostname);
+const status = LOCAL ? await getJson("api/status") : null;
 if (status) {
   renderBar(status);
   if (status.mode === "live") await renderCandidates();
