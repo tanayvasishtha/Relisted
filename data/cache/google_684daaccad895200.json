@@ -1,0 +1,369 @@
+{
+ "search_metadata": {
+  "id": "6ac80fe98d50e632773588b7",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/4ijnrojS7y6R39EuZty5sa3_m04b4tiGrUo2Ke8Mx4M/6ac80fe98d50e632773588b7.json",
+  "markdown_endpoint": "https://serpapi.com/searches/4ijnrojS7y6R39EuZty5sa3_m04b4tiGrUo2Ke8Mx4M/6ac80fe98d50e632773588b7.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/4ijnrojS7y6R39EuZty5sa3_m04b4tiGrUo2Ke8Mx4M/6ac80fe98d50e632773588b7.json_with_pixel_position",
+  "created_at": "2026-10-08 21:49:29 UTC",
+  "processed_at": "2026-10-08 21:49:29 UTC",
+  "google_url": "https://www.google.com/search?q=%28Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife%29+%28site%3Aamazon.in+OR+site%3Aubuy.co.in+OR+site%3Aflipkart.com+OR+site%3Ameesho.com%29&oq=%28Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife%29+%28site%3Aamazon.in+OR+site%3Aubuy.co.in+OR+site%3Aflipkart.com+OR+site%3Ameesho.com%29&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/4ijnrojS7y6R39EuZty5sa3_m04b4tiGrUo2Ke8Mx4M/6ac80fe98d50e632773588b7.html",
+  "total_time_taken": 1.57
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "(Wnttmt OR Cpzzkq OR Syera OR BUSOHA OR PIXLABBY OR AMASKY OR Oitnlaughter OR NEWDERY OR GIHNJSI OR Chillife) (site:amazon.in OR site:ubuy.co.in OR site:flipkart.com OR site:meesho.com)",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "(Wnttmt OR Cpzzkq OR Syera OR BUSOHA OR PIXLABBY OR AMASKY OR Oitnlaughter OR NEWDERY OR GIHNJSI OR Chillife) (site:amazon.in OR site:ubuy.co.in OR site:flipkart.com OR site:meesho.com)",
+  "total_results": 54,
+  "time_taken_displayed": 0.32,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Khatushyam Bunny soft toys baby toys 38 CM pink colour ...",
+   "link": "https://www.shopsy.in/khatushyam-bunny-soft-toys-baby-38-cm-pink-colour/p/itm8ce0154ddfe02",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFTKE5vFp6MD6_7j59g-vCO38tQJairO0ZLPKobYOP2kzBzDerwzoUsJCJeKW9Ixiu1woLeOL4tzg64TBlwwTPwpfWQNyeN3V6RUm0QTnXPclBpFz_p6PSUEZzhaFPe5dt_NRS_Zc8xJyxawk961jXpqrUgOcyoWgAJCbJhCGCFlK2Tnj3OAzSiiBz0CuIbVJJA&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQFnoECBEQAQ&uoh=1",
+   "displayed_link": "https://www.shopsy.in › khatushyam-bunny-soft-toys-b...",
+   "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAMxEACbQyIYC_2CaU9a85R2Vad_5zFv73iXMr8AA_vYC9j7kNhcZaXEdrLd-s3lU81SgsSWBuGqbD8laQiCvTeAD1jfrSX3-Xn7hT_9dKCXIzvQ2lDL0W18zYoOS9QeLa7_Xwj5ikn6OjZ8nRyM1eVACulC-qsGjPou_5sIS4yKKcNOUZa5DVPY8wvtCudOYa9UDIkjQo4MXUbLZ_fuY4lU4rRyJJbLg3veUtpWizxshX_0UyuHidgaSuv771h_yMb9xL0CV2-Zu9AlAd8g8yp9M5RjGyAKXTRpgkD16l_rPQJf3w0Y7AAA.webp",
+   "snippet": "Buy Khatushyam Bunny soft toys baby toys 38 CM pink colour baby toys for Rs.1299.0 online. at Flipkart.com",
+   "snippet_highlighted_words": [
+    "Buy Khatushyam Bunny soft toys baby toys"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "detected_extensions": {
+      "price": 344.0,
+      "currency": "₹"
+     },
+     "extensions": [
+      "₹344.00",
+      "In stock",
+      "Free delivery"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Buy Khatushyam Bunny soft toys baby toys 38 CM pink colour baby toys for Rs.1299.0 online. at Flipkart.com",
+     "source_info_link": "https://www.shopsy.in/khatushyam-bunny-soft-toys-baby-38-cm-pink-colour/p/itm8ce0154ddfe02",
+     "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAMxEACbQyIYC_2CaU9a85R2Vad_5zFv73iXMr8AA_vYC9j7kNhcZaXEdrLd-s3lU81SgsSWBuGqbD8laQiCvTeAD1jfrSX3-Xn7hT_9dKCXIzvQ2lDL0W18zYoOS9QeLa7_Xwj5ikn6OjZ8nRyM1eVACulC-qsGjPou_5sIS4yKKcNOUZa5DVPY8wvtCudOYa9UDIkjQo4MXUbLZ_fuY4lU4rRyJJbLg3veUtpWizxshX_0UyuHidgaSuv771h_yMb9xL0CV2-Zu9AlAd8g8yp9M5RjGyAKXTRpgkD16l_rPQJf3w0Y7AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZUS0U1dkZwNk1ENl83ajU5Zy12Q08zOHRRSmFpck8wWkxQS29iWU9QMmt6QnpEZXJ3em9Vc0pDSmVLVzlJeGl1MXdvTGVPTDR0emc2NFRCbHd3VFB3cGZXUU55ZU4zVjZSVW0wUVRuWFBjbEJwRnpfcDZQU1VFWnpoYUZQZTVkdF9OUlNfWmM4eEp5eGF3azk2MWpYcHFyVWdPY3lvV2dBSkNiSmhDR0NGbEsyVG5qM09BelNpaUJ6MEN1SWJWSkpBEgQaAggAGooFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQOYECAAQABgAIAAqyAEKBndudHRtdBUAAAAAGgh3IG50dCBtdBoHd250IHRtdBoHY3B6IHprcRoHYnVzIG9oYRoJcGl4bGFiIGJ5GglwaXhsIGFiYnkaCXBpeCBsYWJieRoHYW1hIHNreRoNb2l0biBsYXVnaHRlchoDbmV3GghnaWhuIGpzaRoJY2hpbGxpIGZlGgljaGlsIGxpZmUaCWNoaWxsIGlmZRoNb2l0bmxhdWdodGVycxoHd250dG10cxoIYW1hc2t5J3MaCW5ld2RlcnknczLYAS9nb3RvP3VybD1DQUVTbFFFQjZ6c3dGVEtFNXZGcDZNRDZfN2o1OWctdkNPMzh0UUphaXJPMFpMUEtvYllPUDJrekJ6RGVyd3pvVXNKQ0plS1c5SXhpdTF3b0xlT0w0dHpnNjRUQmx3d1RQd3BmV1FOeWVOM1Y2UlVtMFFUblhQY2xCcEZ6X3A2UFNVRVp6aGFGUGU1ZHRfTlJTX1pjOHhKeXhhd2s5NjFqWHBxclVnT2N5b1dnQUpDYkpoQ0dDRmxLMlRuajNPQXpTaWlCejBDdUliVkpKQTo-QnV5IEtoYXR1c2h5YW0gQnVubnkgc29mdCB0b3lzIGJhYnkgdG95cyAzOCBDTSBwaW5rIGNvbG91ciAuLi5CcTxiPkJ1eSBLaGF0dXNoeWFtIEJ1bm55IHNvZnQgdG95cyBiYWJ5IHRveXM8L2I-IDM4IENNIHBpbmsgY29sb3VyIGJhYnkgdG95cyBmb3IgUnMuMTI5OS4wIG9ubGluZS4gYXQgRmxpcGthcnQuY29tUgNuZXciAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZUS0U1dkZwNk1ENl83ajU5Zy12Q08zOHRRSmFpck8wWkxQS29iWU9QMmt6QnpEZXJ3em9Vc0pDSmVLVzlJeGl1MXdvTGVPTDR0emc2NFRCbHd3VFB3cGZXUU55ZU4zVjZSVW0wUVRuWFBjbEJwRnpfcDZQU1VFWnpoYUZQZTVkdF9OUlNfWmM4eEp5eGF3azk2MWpYcHFyVWdPY3lvV2dBSkNiSmhDR0NGbEsyVG5qM09BelNpaUJ6MEN1SWJWSkpBEgQaAggAGooFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQOYECAAQABgAIAAqyAEKBndudHRtdBUAAAAAGgh3IG50dCBtdBoHd250IHRtdBoHY3B6IHprcRoHYnVzIG9oYRoJcGl4bGFiIGJ5GglwaXhsIGFiYnkaCXBpeCBsYWJieRoHYW1hIHNreRoNb2l0biBsYXVnaHRlchoDbmV3GghnaWhuIGpzaRoJY2hpbGxpIGZlGgljaGlsIGxpZmUaCWNoaWxsIGlmZRoNb2l0bmxhdWdodGVycxoHd250dG10cxoIYW1hc2t5J3MaCW5ld2RlcnknczLYAS9nb3RvP3VybD1DQUVTbFFFQjZ6c3dGVEtFNXZGcDZNRDZfN2o1OWctdkNPMzh0UUphaXJPMFpMUEtvYllPUDJrekJ6RGVyd3pvVXNKQ0plS1c5SXhpdTF3b0xlT0w0dHpnNjRUQmx3d1RQd3BmV1FOeWVOM1Y2UlVtMFFUblhQY2xCcEZ6X3A2UFNVRVp6aGFGUGU1ZHRfTlJTX1pjOHhKeXhhd2s5NjFqWHBxclVnT2N5b1dnQUpDYkpoQ0dDRmxLMlRuajNPQXpTaWlCejBDdUliVkpKQTo-QnV5IEtoYXR1c2h5YW0gQnVubnkgc29mdCB0b3lzIGJhYnkgdG95cyAzOCBDTSBwaW5rIGNvbG91ciAuLi5CcTxiPkJ1eSBLaGF0dXNoeWFtIEJ1bm55IHNvZnQgdG95cyBiYWJ5IHRveXM8L2I-IDM4IENNIHBpbmsgY29sb3VyIGJhYnkgdG95cyBmb3IgUnMuMTI5OS4wIG9ubGluZS4gYXQgRmxpcGthcnQuY29tUgNuZXciAhABSABYAGgA",
+   "source": "Shopsy"
+  },
+  {
+   "position": 2,
+   "title": "https://www.flipkart.com/sellers?pid=STFHYQGFHVHAKUGD",
+   "link": "https://www.flipkart.com/sellers?pid=STFHYQGFHVHAKUGD",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVHtyi7Tq5ViDzGNizZoVuwu0yMJFnej3SSdiHLE0Lmv_x6lOT8OESIxdo8JhrTsU7KrsomLMPYI_Wl1eJssUPTWs_LlK9RCI_kbIQPd1DnqbNGUGqZtHNttkrcToVbO7jMggn6L3yjs1UZhk&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQFnoECBUQAQ&uoh=1",
+   "displayed_link": "https://www.flipkart.com › sellers",
+   "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
+   "snippet": "No information is available for this page.",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.0,
+      "reviews": 4,
+      "price": 183.0,
+      "currency": "₹"
+     },
+     "extensions": [
+      "4.0(4)",
+      "₹183.00",
+      "In stock",
+      "Free delivery"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "source_info_link": "https://www.flipkart.com/sellers?pid=STFHYQGFHVHAKUGD",
+     "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkh0eWk3VHE1VmlEekdOaXpab1Z1d3UweU1KRm5lajNTU2RpSExFMExtdl94NmxPVDhPRVNJeGRvOEpoclRzVTdLcnNvbUxNUFlJX1dsMWVKc3NVUFRXc19MbEs5UkNJX2tiSVFQZDFEbnFiTkdVR3FadEhOdHRrcmNUb1ZiTzdqTWdnbjZMM3lqczFVWmhrEgQaAggAGqYDEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQIIDCAAQABgAIAAqyAEKBndudHRtdBUAAAAAGgh3IG50dCBtdBoHd250IHRtdBoHY3B6IHprcRoHYnVzIG9oYRoJcGl4bGFiIGJ5GglwaXhsIGFiYnkaCXBpeCBsYWJieRoHYW1hIHNreRoNb2l0biBsYXVnaHRlchoDbmV3GghnaWhuIGpzaRoJY2hpbGxpIGZlGgljaGlsIGxpZmUaCWNoaWxsIGlmZRoNb2l0bmxhdWdodGVycxoHd250dG10cxoIYW1hc2t5J3MaCW5ld2RlcnknczKlAS9nb3RvP3VybD1DQUVTY0FIck96QVZIdHlpN1RxNVZpRHpHTml6Wm9WdXd1MHlNSkZuZWozU1NkaUhMRTBMbXZfeDZsT1Q4T0VTSXhkbzhKaHJUc1U3S3Jzb21MTVBZSV9XbDFlSnNzVVBUV3NfTGxLOVJDSV9rYklRUGQxRG5xYk5HVUdxWnRITnR0a3JjVG9WYk83ak1nZ242TDN5anMxVVpoazoAUgNuZXciAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVkh0eWk3VHE1VmlEekdOaXpab1Z1d3UweU1KRm5lajNTU2RpSExFMExtdl94NmxPVDhPRVNJeGRvOEpoclRzVTdLcnNvbUxNUFlJX1dsMWVKc3NVUFRXc19MbEs5UkNJX2tiSVFQZDFEbnFiTkdVR3FadEhOdHRrcmNUb1ZiTzdqTWdnbjZMM3lqczFVWmhrEgQaAggAGqYDEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQIIDCAAQABgAIAAqyAEKBndudHRtdBUAAAAAGgh3IG50dCBtdBoHd250IHRtdBoHY3B6IHprcRoHYnVzIG9oYRoJcGl4bGFiIGJ5GglwaXhsIGFiYnkaCXBpeCBsYWJieRoHYW1hIHNreRoNb2l0biBsYXVnaHRlchoDbmV3GghnaWhuIGpzaRoJY2hpbGxpIGZlGgljaGlsIGxpZmUaCWNoaWxsIGlmZRoNb2l0bmxhdWdodGVycxoHd250dG10cxoIYW1hc2t5J3MaCW5ld2RlcnknczKlAS9nb3RvP3VybD1DQUVTY0FIck96QVZIdHlpN1RxNVZpRHpHTml6Wm9WdXd1MHlNSkZuZWozU1NkaUhMRTBMbXZfeDZsT1Q4T0VTSXhkbzhKaHJUc1U3S3Jzb21MTVBZSV9XbDFlSnNzVVBUV3NfTGxLOVJDSV9rYklRUGQxRG5xYk5HVUdxWnRITnR0a3JjVG9WYk83ak1nZ242TDN5anMxVVpoazoAUgNuZXciAhABSABYAGgA",
+   "source": "Flipkart"
+  },
+  {
+   "position": 3,
+   "title": "Buy Toyingly Dark Pink Zipper Strawberry Bunny Plush ...",
+   "link": "https://www.shopsy.in/toyingly-dark-pink-zipper-strawberry-bunny-plush-toy-boy-girl-birthday-gift/p/itm43f957fd31300",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrwEB6zswFUkCJ23NmV-3SjUiYqCerDzq6wxQGpO-5P4LdOQTfGkWEi6sVbQ_cNzx2eERBZMRRNjrdldAbqEgIQGCT2Xhwm_GwMTgGXF7hVQOmabkwqcXIVVobd0ka-Am6OM_wlGo5M0wS4HRGgVsZ_numdUYw4buh9Z5qq207kX5JKRXzCB5xKD4hbN2rKPyN9Jed70TKWFdrWZLZGbsTQAjRiv3lRJTJxSAe1Ij055H&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQFnoECBYQAQ&uoh=1",
+   "displayed_link": "https://www.shopsy.in › toyingly-dark-pink-zipper-stra...",
+   "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAMxEACbQyIYC_2CaU9a85R2Vad_5zFv73iXMr8AA_vYC9j7kNhcZaXEdrLd-s3lU81SgsSWBuGqbD8laQiCvTeAD1jfrSX3-Xn7hT_9dKCXIzvQ2lDL0W18zYoOS9QeLa7_Xwj5ikn6OjZ8nRyM1eVACulC-qsGjPou_5sIS4yKKcNOUZa5DVPY8wvtCudOYa9UDIkjQo4MXUbLZ_fuY4lU4rRyJJbLg3veUtpWizxshX_0UyuHidgaSuv771h_yMb9xL0CV2-Zu9AlAd8g8yp9M5RjGyAKXTRpgkD16l_rPQJf3w0Y7AAA.webp",
+   "snippet": "Buy Toyingly Dark Pink Zipper Strawberry Bunny Plush Toy for Boy/Girl Birthday Gift for Rs.999.0 online. Gift online at Flipkart.com",
+   "snippet_highlighted_words": [
+    "Buy Toyingly Dark Pink Zipper Strawberry Bunny Plush Toy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Buy Toyingly Dark Pink Zipper Strawberry Bunny Plush Toy for Boy/Girl Birthday Gift for Rs.999.0 online. Gift online at Flipkart.com",
+     "source_info_link": "https://www.shopsy.in/toyingly-dark-pink-zipper-strawberry-bunny-plush-toy-boy-girl-birthday-gift/p/itm43f957fd31300",
+     "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAMxEACbQyIYC_2CaU9a85R2Vad_5zFv73iXMr8AA_vYC9j7kNhcZaXEdrLd-s3lU81SgsSWBuGqbD8laQiCvTeAD1jfrSX3-Xn7hT_9dKCXIzvQ2lDL0W18zYoOS9QeLa7_Xwj5ikn6OjZ8nRyM1eVACulC-qsGjPou_5sIS4yKKcNOUZa5DVPY8wvtCudOYa9UDIkjQo4MXUbLZ_fuY4lU4rRyJJbLg3veUtpWizxshX_0UyuHidgaSuv771h_yMb9xL0CV2-Zu9AlAd8g8yp9M5RjGyAKXTRpgkD16l_rPQJf3w0Y7AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZVa0NKMjNObVYtM1NqVWlZcUNlckR6cTZ3eFFHcE8tNVA0TGRPUVRmR2tXRWk2c1ZiUV9jTnp4MmVFUkJaTVJSTmpyZGxkQWJxRWdJUUdDVDJYaHdtX0d3TVRnR1hGN2hWUU9tYWJrd3FjWElWVm9iZDBrYS1BbTZPTV93bEdvNU0wd1M0SFJHZ1ZzWl9udW1kVVl3NGJ1aDlaNXFxMjA3a1g1SktSWHpDQjV4S0Q0aGJOMnJLUHlOOUplZDcwVEtXRmRyV1pMWkdic1RRQWpSaXYzbFJKVEp4U0FlMUlqMDU1SBIEGgIIABrGBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCiBQgAEAAYACAAKsgBCgZ3bnR0bXQVAAAAABoIdyBudHQgbXQaB3dudCB0bXQaB2NweiB6a3EaB2J1cyBvaGEaCXBpeGxhYiBieRoJcGl4bCBhYmJ5GglwaXggbGFiYnkaB2FtYSBza3kaDW9pdG4gbGF1Z2h0ZXIaA25ldxoIZ2lobiBqc2kaCWNoaWxsaSBmZRoJY2hpbCBsaWZlGgljaGlsbCBpZmUaDW9pdG5sYXVnaHRlcnMaB3dudHRtdHMaCGFtYXNreSdzGgluZXdkZXJ5J3My-gEvZ290bz91cmw9Q0FFU3J3RUI2enN3RlVrQ0oyM05tVi0zU2pVaVlxQ2VyRHpxNnd4UUdwTy01UDRMZE9RVGZHa1dFaTZzVmJRX2NOengyZUVSQlpNUlJOanJkbGRBYnFFZ0lRR0NUMlhod21fR3dNVGdHWEY3aFZRT21hYmt3cWNYSVZWb2JkMGthLUFtNk9NX3dsR281TTB3UzRIUkdnVnNaX251bWRVWXc0YnVoOVo1cXEyMDdrWDVKS1JYekNCNXhLRDRoYk4ycktQeU45SmVkNzBUS1dGZHJXWkxaR2JzVFFBalJpdjNsUkpUSnhTQWUxSWowNTVIOj1Ub3lpbmdseSBEYXJrIFBpbmsgWmlwcGVyIFN0cmF3YmVycnkgQnVubnkgUGx1c2ggLi4uIC0gU2hvcHN5QosBPGI-QnV5IFRveWluZ2x5IERhcmsgUGluayBaaXBwZXIgU3RyYXdiZXJyeSBCdW5ueSBQbHVzaCBUb3k8L2I-IGZvciBCb3kvR2lybCBCaXJ0aGRheSBHaWZ0IGZvciBScy45OTkuMCBvbmxpbmUuIEdpZnQgb25saW5lIGF0IEZsaXBrYXJ0LmNvbVIDbmV3IgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvoBL2dvdG8_dXJsPUNBRVNyd0VCNnpzd0ZVa0NKMjNObVYtM1NqVWlZcUNlckR6cTZ3eFFHcE8tNVA0TGRPUVRmR2tXRWk2c1ZiUV9jTnp4MmVFUkJaTVJSTmpyZGxkQWJxRWdJUUdDVDJYaHdtX0d3TVRnR1hGN2hWUU9tYWJrd3FjWElWVm9iZDBrYS1BbTZPTV93bEdvNU0wd1M0SFJHZ1ZzWl9udW1kVVl3NGJ1aDlaNXFxMjA3a1g1SktSWHpDQjV4S0Q0aGJOMnJLUHlOOUplZDcwVEtXRmRyV1pMWkdic1RRQWpSaXYzbFJKVEp4U0FlMUlqMDU1SBIEGgIIABrGBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCiBQgAEAAYACAAKsgBCgZ3bnR0bXQVAAAAABoIdyBudHQgbXQaB3dudCB0bXQaB2NweiB6a3EaB2J1cyBvaGEaCXBpeGxhYiBieRoJcGl4bCBhYmJ5GglwaXggbGFiYnkaB2FtYSBza3kaDW9pdG4gbGF1Z2h0ZXIaA25ldxoIZ2lobiBqc2kaCWNoaWxsaSBmZRoJY2hpbCBsaWZlGgljaGlsbCBpZmUaDW9pdG5sYXVnaHRlcnMaB3dudHRtdHMaCGFtYXNreSdzGgluZXdkZXJ5J3My-gEvZ290bz91cmw9Q0FFU3J3RUI2enN3RlVrQ0oyM05tVi0zU2pVaVlxQ2VyRHpxNnd4UUdwTy01UDRMZE9RVGZHa1dFaTZzVmJRX2NOengyZUVSQlpNUlJOanJkbGRBYnFFZ0lRR0NUMlhod21fR3dNVGdHWEY3aFZRT21hYmt3cWNYSVZWb2JkMGthLUFtNk9NX3dsR281TTB3UzRIUkdnVnNaX251bWRVWXc0YnVoOVo1cXEyMDdrWDVKS1JYekNCNXhLRDRoYk4ycktQeU45SmVkNzBUS1dGZHJXWkxaR2JzVFFBalJpdjNsUkpUSnhTQWUxSWowNTVIOj1Ub3lpbmdseSBEYXJrIFBpbmsgWmlwcGVyIFN0cmF3YmVycnkgQnVubnkgUGx1c2ggLi4uIC0gU2hvcHN5QosBPGI-QnV5IFRveWluZ2x5IERhcmsgUGluayBaaXBwZXIgU3RyYXdiZXJyeSBCdW5ueSBQbHVzaCBUb3k8L2I-IGZvciBCb3kvR2lybCBCaXJ0aGRheSBHaWZ0IGZvciBScy45OTkuMCBvbmxpbmUuIEdpZnQgb25saW5lIGF0IEZsaXBrYXJ0LmNvbVIDbmV3IgIQAUgAWABoAA",
+   "source": "Shopsy"
+  },
+  {
+   "position": 4,
+   "title": "Something went wrong",
+   "link": "https://www.shopsy.in/induxin-nibbler-soother-babies-silicone-fruit-juice-feeder-kids-nipple-teether/p/itm7ea8afbd3f780",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsgEB6zswFbYU5jLTsuCVW-AivCPzhWT0iQjvRw3K5TVAtIBz2gqP3K2mz9lHYVrUW1gwZwtubY772OeAJxovB621Jl7E8TaVSWMN5gwyGzvoUjDlSsFjaqGiQOW6r1qGloWwC_SH2pyaJOwHmkTiDycNc4dAelSsl1MzfaLGYIOhz2jPOwdSRCQppZThjkm7t5qSQBoiAt75YgIoGa_4hEm9VHFoHtJvndC6qeOoZUCCUvdI&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQFnoECBIQAQ&uoh=1",
+   "displayed_link": "https://www.shopsy.in › induxin-nibbler-soother-babies...",
+   "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAMxEACbQyIYC_2CaU9a85R2Vad_5zFv73iXMr8AA_vYC9j7kNhcZaXEdrLd-s3lU81SgsSWBuGqbD8laQiCvTeAD1jfrSX3-Xn7hT_9dKCXIzvQ2lDL0W18zYoOS9QeLa7_Xwj5ikn6OjZ8nRyM1eVACulC-qsGjPou_5sIS4yKKcNOUZa5DVPY8wvtCudOYa9UDIkjQo4MXUbLZ_fuY4lU4rRyJJbLg3veUtpWizxshX_0UyuHidgaSuv771h_yMb9xL0CV2-Zu9AlAd8g8yp9M5RjGyAKXTRpgkD16l_rPQJf3w0Y7AAA.webp",
+   "snippet": "Something went wrong Something went wrong 500 Retry",
+   "snippet_highlighted_words": [
+    "Something went wrong"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "detected_extensions": {
+      "price": 148.0,
+      "currency": "₹"
+     },
+     "extensions": [
+      "₹148.00",
+      "In stock",
+      "Free delivery"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Something went wrong Something went wrong 500 Retry",
+     "source_info_link": "https://www.shopsy.in/induxin-nibbler-soother-babies-silicone-fruit-juice-feeder-kids-nipple-teether/p/itm7ea8afbd3f780",
+     "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAMxEACbQyIYC_2CaU9a85R2Vad_5zFv73iXMr8AA_vYC9j7kNhcZaXEdrLd-s3lU81SgsSWBuGqbD8laQiCvTeAD1jfrSX3-Xn7hT_9dKCXIzvQ2lDL0W18zYoOS9QeLa7_Xwj5ikn6OjZ8nRyM1eVACulC-qsGjPou_5sIS4yKKcNOUZa5DVPY8wvtCudOYa9UDIkjQo4MXUbLZ_fuY4lU4rRyJJbLg3veUtpWizxshX_0UyuHidgaSuv771h_yMb9xL0CV2-Zu9AlAd8g8yp9M5RjGyAKXTRpgkD16l_rPQJf3w0Y7AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZiWVU1akxUc3VDVlctQWl2Q1B6aFdUMGlRanZSdzNLNVRWQXRJQnoyZ3FQM0sybXo5bEhZVnJVVzFnd1p3dHViWTc3Mk9lQUp4b3ZCNjIxSmw3RThUYVZTV01ONWd3eUd6dm9VakRsU3NGamFxR2lRT1c2cjFxR2xvV3dDX1NIMnB5YUpPd0hta1RpRHljTmM0ZEFlbFNzbDFNemZhTEdZSU9oejJqUE93ZFNSQ1FwcFpUaGprbTd0NXFTUUJvaUF0NzVZZ0lvR2FfNGhFbTlWSEZvSHRKdm5kQzZxZU9vWlVDQ1V2ZEkSBBoCCAAa2AQSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtAQIABAAGAAgACrIAQoGd250dG10FQAAAAAaCHcgbnR0IG10Ggd3bnQgdG10GgdjcHogemtxGgdidXMgb2hhGglwaXhsYWIgYnkaCXBpeGwgYWJieRoJcGl4IGxhYmJ5GgdhbWEgc2t5Gg1vaXRuIGxhdWdodGVyGgNuZXcaCGdpaG4ganNpGgljaGlsbGkgZmUaCWNoaWwgbGlmZRoJY2hpbGwgaWZlGg1vaXRubGF1Z2h0ZXJzGgd3bnR0bXRzGghhbWFza3kncxoJbmV3ZGVyeSdzMv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZiWVU1akxUc3VDVlctQWl2Q1B6aFdUMGlRanZSdzNLNVRWQXRJQnoyZ3FQM0sybXo5bEhZVnJVVzFnd1p3dHViWTc3Mk9lQUp4b3ZCNjIxSmw3RThUYVZTV01ONWd3eUd6dm9VakRsU3NGamFxR2lRT1c2cjFxR2xvV3dDX1NIMnB5YUpPd0hta1RpRHljTmM0ZEFlbFNzbDFNemZhTEdZSU9oejJqUE93ZFNSQ1FwcFpUaGprbTd0NXFTUUJvaUF0NzVZZ0lvR2FfNGhFbTlWSEZvSHRKdm5kQzZxZU9vWlVDQ1V2ZEk6HVNvbWV0aGluZyB3ZW50IHdyb25nIC0gU2hvcHN5Qjo8Yj5Tb21ldGhpbmcgd2VudCB3cm9uZzwvYj4gU29tZXRoaW5nIHdlbnQgd3JvbmcgNTAwIFJldHJ5UgNuZXciAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZiWVU1akxUc3VDVlctQWl2Q1B6aFdUMGlRanZSdzNLNVRWQXRJQnoyZ3FQM0sybXo5bEhZVnJVVzFnd1p3dHViWTc3Mk9lQUp4b3ZCNjIxSmw3RThUYVZTV01ONWd3eUd6dm9VakRsU3NGamFxR2lRT1c2cjFxR2xvV3dDX1NIMnB5YUpPd0hta1RpRHljTmM0ZEFlbFNzbDFNemZhTEdZSU9oejJqUE93ZFNSQ1FwcFpUaGprbTd0NXFTUUJvaUF0NzVZZ0lvR2FfNGhFbTlWSEZvSHRKdm5kQzZxZU9vWlVDQ1V2ZEkSBBoCCAAa2AQSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtAQIABAAGAAgACrIAQoGd250dG10FQAAAAAaCHcgbnR0IG10Ggd3bnQgdG10GgdjcHogemtxGgdidXMgb2hhGglwaXhsYWIgYnkaCXBpeGwgYWJieRoJcGl4IGxhYmJ5GgdhbWEgc2t5Gg1vaXRuIGxhdWdodGVyGgNuZXcaCGdpaG4ganNpGgljaGlsbGkgZmUaCWNoaWwgbGlmZRoJY2hpbGwgaWZlGg1vaXRubGF1Z2h0ZXJzGgd3bnR0bXRzGghhbWFza3kncxoJbmV3ZGVyeSdzMv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZiWVU1akxUc3VDVlctQWl2Q1B6aFdUMGlRanZSdzNLNVRWQXRJQnoyZ3FQM0sybXo5bEhZVnJVVzFnd1p3dHViWTc3Mk9lQUp4b3ZCNjIxSmw3RThUYVZTV01ONWd3eUd6dm9VakRsU3NGamFxR2lRT1c2cjFxR2xvV3dDX1NIMnB5YUpPd0hta1RpRHljTmM0ZEFlbFNzbDFNemZhTEdZSU9oejJqUE93ZFNSQ1FwcFpUaGprbTd0NXFTUUJvaUF0NzVZZ0lvR2FfNGhFbTlWSEZvSHRKdm5kQzZxZU9vWlVDQ1V2ZEk6HVNvbWV0aGluZyB3ZW50IHdyb25nIC0gU2hvcHN5Qjo8Yj5Tb21ldGhpbmcgd2VudCB3cm9uZzwvYj4gU29tZXRoaW5nIHdlbnQgd3JvbmcgNTAwIFJldHJ5UgNuZXciAhABSABYAGgA",
+   "source": "Shopsy"
+  },
+  {
+   "position": 5,
+   "title": "Goosey Goosey Gander | Sujatha Nursery English Children Song",
+   "link": "https://www.youtube.com/watch?v=zzaa1DbqN70",
+   "displayed_link": "1.1K+ views · 2 years ago",
+   "thumbnail": "https://serpapi.com/searches/6ac80fe98d50e632773588b7/images/oX5DyspfoT0Kl3CFH6k7HyhJuvx-ZCuOHxVRAVS8C70.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Sujatha Nursery English Children Song. We Are Happy While of Joy This Is One Through Out The Day Happiness with Here To Stay. It Will Try never ...",
+   "duration": "3:14",
+   "about_this_result": {
+    "source": {
+     "description": "Sujatha Nursery English Children Song. We Are Happy While of Joy This Is One Through Out The Day Happiness with Here To Stay. It Will Try never ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmZfV0xIVFc5bF96TFhnSXpMOTV4SDlmN3hCT240ei16RlJsbExITWc4Z1BXekN3VDFkamR1NVdFa1E1WExVYktOem9HYkc4YWsxQjAybEQtSHZ1anlyTTY1UUZ3cGwyYS1HZVBtNDNOMEI3T2p0Wm1jWE1PUkx3U0ZWRTdwRUotN3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmZfV0xIVFc5bF96TFhnSXpMOTV4SDlmN3hCT240ei16RlJsbExITWc4Z1BXekN3VDFkamR1NVdFa1E1WExVYktOem9HYkc4YWsxQjAybEQtSHZ1anlyTTY1UUZ3cGwyYS1HZVBtNDNOMEI3T2p0Wm1jWE1PUkx3U0ZWRTdwRUotN3cSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTBi_ZDiGv549OdS9lLqXQWARO9xdV5M8o3Aw",
+   "source": "YouTube · PDL Kids"
+  },
+  {
+   "position": 6,
+   "title": "Buy 5 Zozobaa Teether in India",
+   "link": "https://www.flipkart.com/hi/zozobaa-soft-silicone-teether-baby-gums-pain-relief-non-toxic-soothing/p/itm022dbae79e31a",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEB6zswFfzBUjSgHW-GT-MH8XDDgxtsfaCQ3U4rLqcychm6R21CspQz1AM2SFyrCghDWpcmQCCRCGY9pqQRx5aQwJbc7i3kmiRn_W2WTNa5hbgMvGQ1OcMAvxmpY7PH1KN8iIuUxcrsh8oE27MmBE33fOIIEhO6wGUDvmSKP7N-aq4Rbymbk_P07V0RBDty8PMeRcibvhEyjZG3eI1LRT_ZeeO2AQVf_YCn58ftc9ruPA&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQFnoECA8QAQ&uoh=1",
+   "displayed_link": "https://www.flipkart.com › zozoba...",
+   "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
+   "snippet": "Flipkart.com is offering Zozobaa Soft Silicone Teether For Baby Gums, Pain-Relief, Non-Toxic, Soothing Teether Teether only for Rs | Flipkart.com.",
+   "snippet_highlighted_words": [
+    "Zozobaa Soft Silicone Teether"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Flipkart.com is offering Zozobaa Soft Silicone Teether For Baby Gums, Pain-Relief, Non-Toxic, Soothing Teether Teether only for Rs | Flipkart.com.",
+     "source_info_link": "https://www.flipkart.com/hi/zozobaa-soft-silicone-teether-baby-gums-pain-relief-non-toxic-soothing/p/itm022dbae79e31a",
+     "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZmekJValNnSFctR1QtTUg4WEREZ3h0c2ZhQ1EzVTRyTHFjeWNobTZSMjFDc3BRejFBTTJTRnlyQ2doRFdwY21RQ0NSQ0dZOXBxUVJ4NWFRd0piYzdpM2ttaVJuX1cyV1ROYTVoYmdNdkdRMU9jTUF2eG1wWTdQSDFLTjhpSXVVeGNyc2g4b0UyN01tQkUzM2ZPSUlFaE82d0dVRHZtU0tQN04tYXE0UmJ5bWJrX1AwN1YwUkJEdHk4UE1lUmNpYnZoRXlqWkczZUkxTFJUX1plZU8yQVFWZl9ZQ241OGZ0YzlydVBBEgQaAggAGsYFEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQKIFCAAQABgAIAAqyAEKBndudHRtdBUAAAAAGgh3IG50dCBtdBoHd250IHRtdBoHY3B6IHprcRoHYnVzIG9oYRoJcGl4bGFiIGJ5GglwaXhsIGFiYnkaCXBpeCBsYWJieRoHYW1hIHNreRoNb2l0biBsYXVnaHRlchoDbmV3GghnaWhuIGpzaRoJY2hpbGxpIGZlGgljaGlsIGxpZmUaCWNoaWxsIGlmZRoNb2l0bmxhdWdodGVycxoHd250dG10cxoIYW1hc2t5J3MaCW5ld2RlcnknczL8AS9nb3RvP3VybD1DQUVTc0FFQjZ6c3dGZnpCVWpTZ0hXLUdULU1IOFhERGd4dHNmYUNRM1U0ckxxY3ljaG02UjIxQ3NwUXoxQU0yU0Z5ckNnaERXcGNtUUNDUkNHWTlwcVFSeDVhUXdKYmM3aTNrbWlSbl9XMldUTmE1aGJnTXZHUTFPY01BdnhtcFk3UEgxS044aUl1VXhjcnNoOG9FMjdNbUJFMzNmT0lJRWhPNndHVUR2bVNLUDdOLWFxNFJieW1ia19QMDdWMFJCRHR5OFBNZVJjaWJ2aEV5alpHM2VJMUxSVF9aZWVPMkFRVmZfWUNuNThmdGM5cnVQQTotQnV5IDUgWm96b2JhYSBUZWV0aGVyIGluIEluZGlhIHwgRmxpcGthcnQuY29tQpkBRmxpcGthcnQuY29tIGlzIG9mZmVyaW5nIDxiPlpvem9iYWEgU29mdCBTaWxpY29uZSBUZWV0aGVyPC9iPiBGb3IgQmFieSBHdW1zLCBQYWluLVJlbGllZiwgTm9uLVRveGljLCBTb290aGluZyBUZWV0aGVyIFRlZXRoZXIgb25seSBmb3IgUnMgfCBGbGlwa2FydC5jb20uUgNuZXciAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZmekJValNnSFctR1QtTUg4WEREZ3h0c2ZhQ1EzVTRyTHFjeWNobTZSMjFDc3BRejFBTTJTRnlyQ2doRFdwY21RQ0NSQ0dZOXBxUVJ4NWFRd0piYzdpM2ttaVJuX1cyV1ROYTVoYmdNdkdRMU9jTUF2eG1wWTdQSDFLTjhpSXVVeGNyc2g4b0UyN01tQkUzM2ZPSUlFaE82d0dVRHZtU0tQN04tYXE0UmJ5bWJrX1AwN1YwUkJEdHk4UE1lUmNpYnZoRXlqWkczZUkxTFJUX1plZU8yQVFWZl9ZQ241OGZ0YzlydVBBEgQaAggAGsYFEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQKIFCAAQABgAIAAqyAEKBndudHRtdBUAAAAAGgh3IG50dCBtdBoHd250IHRtdBoHY3B6IHprcRoHYnVzIG9oYRoJcGl4bGFiIGJ5GglwaXhsIGFiYnkaCXBpeCBsYWJieRoHYW1hIHNreRoNb2l0biBsYXVnaHRlchoDbmV3GghnaWhuIGpzaRoJY2hpbGxpIGZlGgljaGlsIGxpZmUaCWNoaWxsIGlmZRoNb2l0bmxhdWdodGVycxoHd250dG10cxoIYW1hc2t5J3MaCW5ld2RlcnknczL8AS9nb3RvP3VybD1DQUVTc0FFQjZ6c3dGZnpCVWpTZ0hXLUdULU1IOFhERGd4dHNmYUNRM1U0ckxxY3ljaG02UjIxQ3NwUXoxQU0yU0Z5ckNnaERXcGNtUUNDUkNHWTlwcVFSeDVhUXdKYmM3aTNrbWlSbl9XMldUTmE1aGJnTXZHUTFPY01BdnhtcFk3UEgxS044aUl1VXhjcnNoOG9FMjdNbUJFMzNmT0lJRWhPNndHVUR2bVNLUDdOLWFxNFJieW1ia19QMDdWMFJCRHR5OFBNZVJjaWJ2aEV5alpHM2VJMUxSVF9aZWVPMkFRVmZfWUNuNThmdGM5cnVQQTotQnV5IDUgWm96b2JhYSBUZWV0aGVyIGluIEluZGlhIHwgRmxpcGthcnQuY29tQpkBRmxpcGthcnQuY29tIGlzIG9mZmVyaW5nIDxiPlpvem9iYWEgU29mdCBTaWxpY29uZSBUZWV0aGVyPC9iPiBGb3IgQmFieSBHdW1zLCBQYWluLVJlbGllZiwgTm9uLVRveGljLCBTb290aGluZyBUZWV0aGVyIFRlZXRoZXIgb25seSBmb3IgUnMgfCBGbGlwa2FydC5jb20uUgNuZXciAhABSABYAGgA",
+   "source": "Flipkart"
+  },
+  {
+   "position": 7,
+   "title": "Something went wrong",
+   "link": "https://www.shopsy.in/kidsy-zilla-baby-fruit-nibbler-teether-multicolor-nmb-03-feeder/p/itm1ed8b1155df9d",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFci8cGw7V7dwzTMJ6JdCvc2Bz--20UM33UigjJtCoxR8hslYHVvYQtMSdDkcRIT44rVX_8A6aOEjglOGCoj2EjvaAjrm8W1iOjVschH3_IUxpv4YVqfxj3NtMHqIUpfe81_Kabg4_hfh9rPil8e2ZPK33_bJ6dMtShZMmaHiOy5d4oXjI11gmil2Z_D7DXy6Dv2M_vzmDMGkrS2ycZzg&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQFnoECBQQAQ&uoh=1",
+   "displayed_link": "https://www.shopsy.in › kidsy-zilla-baby-fruit-nibbler-t...",
+   "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAMxEACbQyIYC_2CaU9a85R2Vad_5zFv73iXMr8AA_vYC9j7kNhcZaXEdrLd-s3lU81SgsSWBuGqbD8laQiCvTeAD1jfrSX3-Xn7hT_9dKCXIzvQ2lDL0W18zYoOS9QeLa7_Xwj5ikn6OjZ8nRyM1eVACulC-qsGjPou_5sIS4yKKcNOUZa5DVPY8wvtCudOYa9UDIkjQo4MXUbLZ_fuY4lU4rRyJJbLg3veUtpWizxshX_0UyuHidgaSuv771h_yMb9xL0CV2-Zu9AlAd8g8yp9M5RjGyAKXTRpgkD16l_rPQJf3w0Y7AAA.webp",
+   "snippet": "Something went wrong Something went wrong 500 Retry",
+   "snippet_highlighted_words": [
+    "Something went wrong"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "detected_extensions": {
+      "price": 142.0,
+      "currency": "₹"
+     },
+     "extensions": [
+      "₹142.00",
+      "In stock",
+      "Free delivery"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Something went wrong Something went wrong 500 Retry",
+     "source_info_link": "https://www.shopsy.in/kidsy-zilla-baby-fruit-nibbler-teether-multicolor-nmb-03-feeder/p/itm1ed8b1155df9d",
+     "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAMxEACbQyIYC_2CaU9a85R2Vad_5zFv73iXMr8AA_vYC9j7kNhcZaXEdrLd-s3lU81SgsSWBuGqbD8laQiCvTeAD1jfrSX3-Xn7hT_9dKCXIzvQ2lDL0W18zYoOS9QeLa7_Xwj5ikn6OjZ8nRyM1eVACulC-qsGjPou_5sIS4yKKcNOUZa5DVPY8wvtCudOYa9UDIkjQo4MXUbLZ_fuY4lU4rRyJJbLg3veUtpWizxshX_0UyuHidgaSuv771h_yMb9xL0CV2-Zu9AlAd8g8yp9M5RjGyAKXTRpgkD16l_rPQJf3w0Y7AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZjaThjR3c3Vjdkd3pUTUo2SmRDdmMyQnotLTIwVU0zM1VpZ2pKdENveFI4aHNsWUhWdllRdE1TZERrY1JJVDQ0clZYXzhBNmFPRWpnbE9HQ29qMkVqdmFBanJtOFcxaU9qVnNjaEgzX0lVeHB2NFlWcWZ4ajNOdE1IcUlVcGZlODFfS2FiZzRfaGZoOXJQaWw4ZTJaUEszM19iSjZkTXRTaFpNbWFIaU95NWQ0b1hqSTExZ21pbDJaX0Q3RFh5NkR2Mk1fdnptRE1Ha3JTMnljWnpnEgQaAggAGsQEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQKAECAAQABgAIAAqyAEKBndudHRtdBUAAAAAGgh3IG50dCBtdBoHd250IHRtdBoHY3B6IHprcRoHYnVzIG9oYRoJcGl4bGFiIGJ5GglwaXhsIGFiYnkaCXBpeCBsYWJieRoHYW1hIHNreRoNb2l0biBsYXVnaHRlchoDbmV3GghnaWhuIGpzaRoJY2hpbGxpIGZlGgljaGlsIGxpZmUaCWNoaWxsIGlmZRoNb2l0bmxhdWdodGVycxoHd250dG10cxoIYW1hc2t5J3MaCW5ld2RlcnknczLqAS9nb3RvP3VybD1DQUVTb3dFQjZ6c3dGY2k4Y0d3N1Y3ZHd6VE1KNkpkQ3ZjMkJ6LS0yMFVNMzNVaWdqSnRDb3hSOGhzbFlIVnZZUXRNU2REa2NSSVQ0NHJWWF84QTZhT0VqZ2xPR0NvajJFanZhQWpybThXMWlPalZzY2hIM19JVXhwdjRZVnFmeGozTnRNSHFJVXBmZTgxX0thYmc0X2hmaDlyUGlsOGUyWlBLMzNfYko2ZE10U2haTW1hSGlPeTVkNG9YakkxMWdtaWwyWl9EN0RYeTZEdjJNX3Z6bURNR2tyUzJ5Y1p6ZzodU29tZXRoaW5nIHdlbnQgd3JvbmcgLSBTaG9wc3lCOjxiPlNvbWV0aGluZyB3ZW50IHdyb25nPC9iPiBTb21ldGhpbmcgd2VudCB3cm9uZyA1MDAgUmV0cnlSA25ldyICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZjaThjR3c3Vjdkd3pUTUo2SmRDdmMyQnotLTIwVU0zM1VpZ2pKdENveFI4aHNsWUhWdllRdE1TZERrY1JJVDQ0clZYXzhBNmFPRWpnbE9HQ29qMkVqdmFBanJtOFcxaU9qVnNjaEgzX0lVeHB2NFlWcWZ4ajNOdE1IcUlVcGZlODFfS2FiZzRfaGZoOXJQaWw4ZTJaUEszM19iSjZkTXRTaFpNbWFIaU95NWQ0b1hqSTExZ21pbDJaX0Q3RFh5NkR2Mk1fdnptRE1Ha3JTMnljWnpnEgQaAggAGsQEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQKAECAAQABgAIAAqyAEKBndudHRtdBUAAAAAGgh3IG50dCBtdBoHd250IHRtdBoHY3B6IHprcRoHYnVzIG9oYRoJcGl4bGFiIGJ5GglwaXhsIGFiYnkaCXBpeCBsYWJieRoHYW1hIHNreRoNb2l0biBsYXVnaHRlchoDbmV3GghnaWhuIGpzaRoJY2hpbGxpIGZlGgljaGlsIGxpZmUaCWNoaWxsIGlmZRoNb2l0bmxhdWdodGVycxoHd250dG10cxoIYW1hc2t5J3MaCW5ld2RlcnknczLqAS9nb3RvP3VybD1DQUVTb3dFQjZ6c3dGY2k4Y0d3N1Y3ZHd6VE1KNkpkQ3ZjMkJ6LS0yMFVNMzNVaWdqSnRDb3hSOGhzbFlIVnZZUXRNU2REa2NSSVQ0NHJWWF84QTZhT0VqZ2xPR0NvajJFanZhQWpybThXMWlPalZzY2hIM19JVXhwdjRZVnFmeGozTnRNSHFJVXBmZTgxX0thYmc0X2hmaDlyUGlsOGUyWlBLMzNfYko2ZE10U2haTW1hSGlPeTVkNG9YakkxMWdtaWwyWl9EN0RYeTZEdjJNX3Z6bURNR2tyUzJ5Y1p6ZzodU29tZXRoaW5nIHdlbnQgd3JvbmcgLSBTaG9wc3lCOjxiPlNvbWV0aGluZyB3ZW50IHdyb25nPC9iPiBTb21ldGhpbmcgd2VudCB3cm9uZyA1MDAgUmV0cnlSA25ldyICEAFIAFgAaAA",
+   "source": "Shopsy"
+  },
+  {
+   "position": 8,
+   "title": "Watch Cute Cartoon Bunny Squeaky Squeeze Toy on ...",
+   "link": "https://www.amazon.in/live/video/1d5f16ddcd204727b192ee0e3c2fe506",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVW0AzsuZu4bLVlEjjm6ld_moIdEmF6dLjS04FnmKY0LRcr-DHPN5Nxb6NS8tMApFksqu9r1VMCa5D6JgFJdKKL34Lpl2gb-UhXImgDWXJrwGJQM2DTWU5fX4T1LUy4F2yVoV8xvTzMhO7MmYc_OnvVXFzhp3Ah4Y&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQFnoECBMQAQ&uoh=1",
+   "displayed_link": "https://www.amazon.in › live › video",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Shop with expert advice from ZELVO in their latest video Cute Cartoon Bunny Squeaky Squeeze Toy.",
+   "snippet_highlighted_words": [
+    "Cute Cartoon Bunny Squeaky Squeeze Toy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Shop with expert advice from ZELVO in their latest video Cute Cartoon Bunny Squeaky Squeeze Toy.",
+     "source_info_link": "https://www.amazon.in/live/video/1d5f16ddcd204727b192ee0e3c2fe506",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlcwQXpzdVp1NGJMVmxFamptNmxkX21vSWRFbUY2ZExqUzA0Rm5tS1kwTFJjci1ESFBONU54YjZOUzh0TUFwRmtzcXU5cjFWTUNhNUQ2SmdGSmRLS0wzNExwbDJnYi1VaFhJbWdEV1hKcndHSlFNMkRUV1U1Zlg0VDFMVXk0RjJ5Vm9WOHh2VHpNaE83TW1ZY19PbnZWWEZ6aHAzQWg0WRIEGgIIABrfBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWg0IARIJYW1hem9uLmlucgB6AIJArgQIABAAGAAgACrIAQoGd250dG10FQAAAAAaCHcgbnR0IG10Ggd3bnQgdG10GgdjcHogemtxGgdidXMgb2hhGglwaXhsYWIgYnkaCXBpeGwgYWJieRoJcGl4IGxhYmJ5GgdhbWEgc2t5Gg1vaXRuIGxhdWdodGVyGgNuZXcaCGdpaG4ganNpGgljaGlsbGkgZmUaCWNoaWwgbGlmZRoJY2hpbGwgaWZlGg1vaXRubGF1Z2h0ZXJzGgd3bnR0bXRzGghhbWFza3kncxoJbmV3ZGVyeSdzMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlcwQXpzdVp1NGJMVmxFamptNmxkX21vSWRFbUY2ZExqUzA0Rm5tS1kwTFJjci1ESFBONU54YjZOUzh0TUFwRmtzcXU5cjFWTUNhNUQ2SmdGSmRLS0wzNExwbDJnYi1VaFhJbWdEV1hKcndHSlFNMkRUV1U1Zlg0VDFMVXk0RjJ5Vm9WOHh2VHpNaE83TW1ZY19PbnZWWEZ6aHAzQWg0WTozV2F0Y2ggQ3V0ZSBDYXJ0b29uIEJ1bm55IFNxdWVha3kgU3F1ZWV6ZSBUb3kgb24gLi4uQmdTaG9wIHdpdGggZXhwZXJ0IGFkdmljZSBmcm9tIFpFTFZPIGluIHRoZWlyIGxhdGVzdCB2aWRlbyA8Yj5DdXRlIENhcnRvb24gQnVubnkgU3F1ZWFreSBTcXVlZXplIFRveTwvYj4uUgNuZXciAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlcwQXpzdVp1NGJMVmxFamptNmxkX21vSWRFbUY2ZExqUzA0Rm5tS1kwTFJjci1ESFBONU54YjZOUzh0TUFwRmtzcXU5cjFWTUNhNUQ2SmdGSmRLS0wzNExwbDJnYi1VaFhJbWdEV1hKcndHSlFNMkRUV1U1Zlg0VDFMVXk0RjJ5Vm9WOHh2VHpNaE83TW1ZY19PbnZWWEZ6aHAzQWg0WRIEGgIIABrfBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWg0IARIJYW1hem9uLmlucgB6AIJArgQIABAAGAAgACrIAQoGd250dG10FQAAAAAaCHcgbnR0IG10Ggd3bnQgdG10GgdjcHogemtxGgdidXMgb2hhGglwaXhsYWIgYnkaCXBpeGwgYWJieRoJcGl4IGxhYmJ5GgdhbWEgc2t5Gg1vaXRuIGxhdWdodGVyGgNuZXcaCGdpaG4ganNpGgljaGlsbGkgZmUaCWNoaWwgbGlmZRoJY2hpbGwgaWZlGg1vaXRubGF1Z2h0ZXJzGgd3bnR0bXRzGghhbWFza3kncxoJbmV3ZGVyeSdzMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlcwQXpzdVp1NGJMVmxFamptNmxkX21vSWRFbUY2ZExqUzA0Rm5tS1kwTFJjci1ESFBONU54YjZOUzh0TUFwRmtzcXU5cjFWTUNhNUQ2SmdGSmRLS0wzNExwbDJnYi1VaFhJbWdEV1hKcndHSlFNMkRUV1U1Zlg0VDFMVXk0RjJ5Vm9WOHh2VHpNaE83TW1ZY19PbnZWWEZ6aHAzQWg0WTozV2F0Y2ggQ3V0ZSBDYXJ0b29uIEJ1bm55IFNxdWVha3kgU3F1ZWV6ZSBUb3kgb24gLi4uQmdTaG9wIHdpdGggZXhwZXJ0IGFkdmljZSBmcm9tIFpFTFZPIGluIHRoZWlyIGxhdGVzdCB2aWRlbyA8Yj5DdXRlIENhcnRvb24gQnVubnkgU3F1ZWFreSBTcXVlZXplIFRveTwvYj4uUgNuZXciAhABSABYAGgA",
+   "source": "Amazon.in"
+  },
+  {
+   "position": 9,
+   "title": "Goosy Goosy Gander - English Nursery Rhymes",
+   "link": "https://www.youtube.com/watch?v=yVVE9nx808o",
+   "displayed_link": "6.8K+ views · 11 years ago",
+   "thumbnail": "https://serpapi.com/searches/6ac80fe98d50e632773588b7/images/oX5DyspfoT0Kl3CFH6k7H15CVEnJDuyOv5aVpl01-ns.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Goosey Goosey Gander - Popular Nursery Rhymes & Children Songs. Kidipedes Children Nursery Rhymes•57K views ; HOP A LITTLE JUMP A LITTLE NURSERY ...",
+   "duration": "0:59",
+   "about_this_result": {
+    "source": {
+     "description": "Goosey Goosey Gander - Popular Nursery Rhymes & Children Songs. Kidipedes Children Nursery Rhymes•57K views ; HOP A LITTLE JUMP A LITTLE NURSERY ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmVlNy0zcUZDdGdJS0dfZ1BMMVJTT2hQMUo1QnJDaE1IYk5GaDd4RnFVbkxvLURxVDNQYk53d2pMNnlhdEExa0xsRDdCMzR3MHlGOE9rWTFjSVJvS095R3JFODY0blRrRzZiNTY0TWRlWGhHTDhmY1RjUm8ySXA4NVJnUnBGbm4tN0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmVlNy0zcUZDdGdJS0dfZ1BMMVJTT2hQMUo1QnJDaE1IYk5GaDd4RnFVbkxvLURxVDNQYk53d2pMNnlhdEExa0xsRDdCMzR3MHlGOE9rWTFjSVJvS095R3JFODY0blRrRzZiNTY0TWRlWGhHTDhmY1RjUm8ySXA4NVJnUnBGbm4tN0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTUU7RTtKZqRvBsWuIWYq6SBgESHblgQDBIHw",
+   "source": "YouTube · BENTO CHILDREN DVD`S"
+  },
+  {
+   "position": 10,
+   "title": "Watch Sterling Bazaar Gujiya, Ghughra, Momos Maker",
+   "link": "https://www.amazon.in/live/video/13d7e73966cb4433b9e6eba0d5a6aeef",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAV2KrbYT5qrQ2CB4iY5Hz3Rhm_bFnAv6mu9J0jCIDRZM9szRt4nHGI1LOspk8Tj6Oyx1WypEQV72mzGq8i-4GDbBeK1Rk5n2ZGaD7EuzVLHHC4DhYnR3DgqljhoanCBkW5w5Wp0g1U85ktpeFx-6s0uKJ69PRM230&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQFnoECA4QAQ&uoh=1",
+   "displayed_link": "https://www.amazon.in › live › video",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Watch Sterling Bazaar Gujiya, Ghughra, Momos Maker | Machine, Dumpling Skin Press Mould for Gujia Ghughra on Amazon Live · Browse all categories.",
+   "snippet_highlighted_words": [
+    "Watch Sterling Bazaar Gujiya, Ghughra, Momos Maker"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Watch Sterling Bazaar Gujiya, Ghughra, Momos Maker | Machine, Dumpling Skin Press Mould for Gujia Ghughra on Amazon Live · Browse all categories.",
+     "source_info_link": "https://www.amazon.in/live/video/13d7e73966cb4433b9e6eba0d5a6aeef",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjJLcmJZVDVxclEyQ0I0aVk1SHozUmhtX2JGbkF2Nm11OUowakNJRFJaTTlzelJ0NG5IR0kxTE9zcGs4VGo2T3l4MVd5cEVRVjcybXpHcThpLTRHRGJCZUsxUms1bjJaR2FEN0V1elZMSEhDNERoWW5SM0RncWxqaG9hbkNCa1c1dzVXcDBnMVU4NWt0cGVGeC02czB1S0o2OVBSTTIzMBIEGgIIABqXBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWg0IARIJYW1hem9uLmlucgB6AIJA5gQIABAAGAAgACrIAQoGd250dG10FQAAAAAaCHcgbnR0IG10Ggd3bnQgdG10GgdjcHogemtxGgdidXMgb2hhGglwaXhsYWIgYnkaCXBpeGwgYWJieRoJcGl4IGxhYmJ5GgdhbWEgc2t5Gg1vaXRuIGxhdWdodGVyGgNuZXcaCGdpaG4ganNpGgljaGlsbGkgZmUaCWNoaWwgbGlmZRoJY2hpbGwgaWZlGg1vaXRubGF1Z2h0ZXJzGgd3bnR0bXRzGghhbWFza3kncxoJbmV3ZGVyeSdzMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjJLcmJZVDVxclEyQ0I0aVk1SHozUmhtX2JGbkF2Nm11OUowakNJRFJaTTlzelJ0NG5IR0kxTE9zcGs4VGo2T3l4MVd5cEVRVjcybXpHcThpLTRHRGJCZUsxUms1bjJaR2FEN0V1elZMSEhDNERoWW5SM0RncWxqaG9hbkNCa1c1dzVXcDBnMVU4NWt0cGVGeC02czB1S0o2OVBSTTIzMDoyV2F0Y2ggU3RlcmxpbmcgQmF6YWFyIEd1aml5YSwgR2h1Z2hyYSwgTW9tb3MgTWFrZXJCnwE8Yj5XYXRjaCBTdGVybGluZyBCYXphYXIgR3VqaXlhLCBHaHVnaHJhLCBNb21vcyBNYWtlcjwvYj4gfCBNYWNoaW5lLCBEdW1wbGluZyBTa2luIFByZXNzIE1vdWxkIGZvciBHdWppYSBHaHVnaHJhIG9uIEFtYXpvbiBMaXZlICZtaWRkb3Q7IEJyb3dzZSBhbGwgY2F0ZWdvcmllcy5SA25ldyICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjJLcmJZVDVxclEyQ0I0aVk1SHozUmhtX2JGbkF2Nm11OUowakNJRFJaTTlzelJ0NG5IR0kxTE9zcGs4VGo2T3l4MVd5cEVRVjcybXpHcThpLTRHRGJCZUsxUms1bjJaR2FEN0V1elZMSEhDNERoWW5SM0RncWxqaG9hbkNCa1c1dzVXcDBnMVU4NWt0cGVGeC02czB1S0o2OVBSTTIzMBIEGgIIABqXBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWg0IARIJYW1hem9uLmlucgB6AIJA5gQIABAAGAAgACrIAQoGd250dG10FQAAAAAaCHcgbnR0IG10Ggd3bnQgdG10GgdjcHogemtxGgdidXMgb2hhGglwaXhsYWIgYnkaCXBpeGwgYWJieRoJcGl4IGxhYmJ5GgdhbWEgc2t5Gg1vaXRuIGxhdWdodGVyGgNuZXcaCGdpaG4ganNpGgljaGlsbGkgZmUaCWNoaWwgbGlmZRoJY2hpbGwgaWZlGg1vaXRubGF1Z2h0ZXJzGgd3bnR0bXRzGghhbWFza3kncxoJbmV3ZGVyeSdzMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjJLcmJZVDVxclEyQ0I0aVk1SHozUmhtX2JGbkF2Nm11OUowakNJRFJaTTlzelJ0NG5IR0kxTE9zcGs4VGo2T3l4MVd5cEVRVjcybXpHcThpLTRHRGJCZUsxUms1bjJaR2FEN0V1elZMSEhDNERoWW5SM0RncWxqaG9hbkNCa1c1dzVXcDBnMVU4NWt0cGVGeC02czB1S0o2OVBSTTIzMDoyV2F0Y2ggU3RlcmxpbmcgQmF6YWFyIEd1aml5YSwgR2h1Z2hyYSwgTW9tb3MgTWFrZXJCnwE8Yj5XYXRjaCBTdGVybGluZyBCYXphYXIgR3VqaXlhLCBHaHVnaHJhLCBNb21vcyBNYWtlcjwvYj4gfCBNYWNoaW5lLCBEdW1wbGluZyBTa2luIFByZXNzIE1vdWxkIGZvciBHdWppYSBHaHVnaHJhIG9uIEFtYXpvbiBMaXZlICZtaWRkb3Q7IEJyb3dzZSBhbGwgY2F0ZWdvcmllcy5SA25ldyICEAFIAFgAaAA",
+   "source": "Amazon.in",
+   "read_more_link": "https://www.amazon.in/live/video/13d7e73966cb4433b9e6eba0d5a6aeef#:~:text=Top%20of%20page"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=(Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife)+(site:amazon.in+OR+site:ubuy.co.in+OR+site:flipkart.com+OR+site:meesho.com)&sca_esv=5b7f624190c766d8&hl=en&gl=in&sxsrf=APpeQnt4OpFjOmOhNbzwb6Bz1zsWI-t3tg:1791496170699&ei=6g_IavWNKu-W4-EPrLPWsQ4&start=10&sa=N&sstk=AS6-VmKr8j4RBhG7m2sQsO2WKAICNddWsod9LQrl0WgJvxouEUODC-HnMO1XvNAkzgl7TH5rjdy8dDYug9wukZtq_m8rvkK4NDT43Q&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQ8NMDegQIPBAO",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=(Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife)+(site:amazon.in+OR+site:ubuy.co.in+OR+site:flipkart.com+OR+site:meesho.com)&sca_esv=5b7f624190c766d8&hl=en&gl=in&sxsrf=APpeQnt4OpFjOmOhNbzwb6Bz1zsWI-t3tg:1791496170699&ei=6g_IavWNKu-W4-EPrLPWsQ4&start=10&sa=N&sstk=AS6-VmKr8j4RBhG7m2sQsO2WKAICNddWsod9LQrl0WgJvxouEUODC-HnMO1XvNAkzgl7TH5rjdy8dDYug9wukZtq_m8rvkK4NDT43Q&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQ8tMDegQIPBAE",
+   "3": "https://www.google.com/search?q=(Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife)+(site:amazon.in+OR+site:ubuy.co.in+OR+site:flipkart.com+OR+site:meesho.com)&sca_esv=5b7f624190c766d8&hl=en&gl=in&sxsrf=APpeQnt4OpFjOmOhNbzwb6Bz1zsWI-t3tg:1791496170699&ei=6g_IavWNKu-W4-EPrLPWsQ4&start=20&sa=N&sstk=AS6-VmKr8j4RBhG7m2sQsO2WKAICNddWsod9LQrl0WgJvxouEUODC-HnMO1XvNAkzgl7TH5rjdy8dDYug9wukZtq_m8rvkK4NDT43Q&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQ8tMDegQIPBAG",
+   "4": "https://www.google.com/search?q=(Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife)+(site:amazon.in+OR+site:ubuy.co.in+OR+site:flipkart.com+OR+site:meesho.com)&sca_esv=5b7f624190c766d8&hl=en&gl=in&sxsrf=APpeQnt4OpFjOmOhNbzwb6Bz1zsWI-t3tg:1791496170699&ei=6g_IavWNKu-W4-EPrLPWsQ4&start=30&sa=N&sstk=AS6-VmKr8j4RBhG7m2sQsO2WKAICNddWsod9LQrl0WgJvxouEUODC-HnMO1XvNAkzgl7TH5rjdy8dDYug9wukZtq_m8rvkK4NDT43Q&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQ8tMDegQIPBAI",
+   "5": "https://www.google.com/search?q=(Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife)+(site:amazon.in+OR+site:ubuy.co.in+OR+site:flipkart.com+OR+site:meesho.com)&sca_esv=5b7f624190c766d8&hl=en&gl=in&sxsrf=APpeQnt4OpFjOmOhNbzwb6Bz1zsWI-t3tg:1791496170699&ei=6g_IavWNKu-W4-EPrLPWsQ4&start=40&sa=N&sstk=AS6-VmKr8j4RBhG7m2sQsO2WKAICNddWsod9LQrl0WgJvxouEUODC-HnMO1XvNAkzgl7TH5rjdy8dDYug9wukZtq_m8rvkK4NDT43Q&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQ8tMDegQIPBAK",
+   "6": "https://www.google.com/search?q=(Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife)+(site:amazon.in+OR+site:ubuy.co.in+OR+site:flipkart.com+OR+site:meesho.com)&sca_esv=5b7f624190c766d8&hl=en&gl=in&sxsrf=APpeQnt4OpFjOmOhNbzwb6Bz1zsWI-t3tg:1791496170699&ei=6g_IavWNKu-W4-EPrLPWsQ4&start=50&sa=N&sstk=AS6-VmKr8j4RBhG7m2sQsO2WKAICNddWsod9LQrl0WgJvxouEUODC-HnMO1XvNAkzgl7TH5rjdy8dDYug9wukZtq_m8rvkK4NDT43Q&ved=2ahUKEwj1qvums6uXAxVvyzgGHayZNeYQ8tMDegQIPBAM"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%28Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife%29+%28site%3Aamazon.in+OR+site%3Aubuy.co.in+OR+site%3Aflipkart.com+OR+site%3Ameesho.com%29&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%28Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife%29+%28site%3Aamazon.in+OR+site%3Aubuy.co.in+OR+site%3Aflipkart.com+OR+site%3Ameesho.com%29&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%28Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife%29+%28site%3Aamazon.in+OR+site%3Aubuy.co.in+OR+site%3Aflipkart.com+OR+site%3Ameesho.com%29&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%28Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife%29+%28site%3Aamazon.in+OR+site%3Aubuy.co.in+OR+site%3Aflipkart.com+OR+site%3Ameesho.com%29&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%28Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife%29+%28site%3Aamazon.in+OR+site%3Aubuy.co.in+OR+site%3Aflipkart.com+OR+site%3Ameesho.com%29&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%28Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife%29+%28site%3Aamazon.in+OR+site%3Aubuy.co.in+OR+site%3Aflipkart.com+OR+site%3Ameesho.com%29&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%28Wnttmt+OR+Cpzzkq+OR+Syera+OR+BUSOHA+OR+PIXLABBY+OR+AMASKY+OR+Oitnlaughter+OR+NEWDERY+OR+GIHNJSI+OR+Chillife%29+%28site%3Aamazon.in+OR+site%3Aubuy.co.in+OR+site%3Aflipkart.com+OR+site%3Ameesho.com%29&start=50"
+  }
+ }
+}

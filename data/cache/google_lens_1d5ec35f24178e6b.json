@@ -1,0 +1,23 @@
+{
+ "search_metadata": {
+  "id": "6ac80f7cec900df2ee7b7acb",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Z9S8crqic9uiMJvvBZ5BRmq0xrHUCxdNVx5klfFQQP0/6ac80f7cec900df2ee7b7acb.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Z9S8crqic9uiMJvvBZ5BRmq0xrHUCxdNVx5klfFQQP0/6ac80f7cec900df2ee7b7acb.md",
+  "created_at": "2026-10-08 21:47:40 UTC",
+  "processed_at": "2026-10-08 21:47:40 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fbwalk-1.jpg",
+  "raw_html_file": "https://serpapi.com/searches/Z9S8crqic9uiMJvvBZ5BRmq0xrHUCxdNVx5klfFQQP0/6ac80f7cec900df2ee7b7acb.html",
+  "total_time_taken": 10.35
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/bwalk-1.jpg",
+  "country": "IN",
+  "type": "exact_matches"
+ },
+ "search_information": {
+  "images_results_state": "Fully empty"
+ },
+ "error": "Google Lens hasn't returned any results for this query."
+}

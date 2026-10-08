@@ -1,0 +1,321 @@
+[
+ {
+  "RecallID": 10901,
+  "RecallNumber": "26665",
+  "RecallDate": "2026-08-06T00:00:00",
+  "Description": "This recall involves Wnttmt-branded infant walkers. The walkers are sold in gray with a white tray and round base. The walkers have eight-wheel assemblies and three adjustable levels. \"Production Batch: 202509\" is printed on a tracking label located under the seat.",
+  "URL": "https://www.cpsc.gov/Recalls/2026/Wnttmt-Baby-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Amazon-by-WURUI-BABY",
+  "Title": "Wnttmt Baby Walkers Recalled Due to Risk of Serious Injury or Death from Fall and Entrapment Hazards; Violate Mandatory Standard for Infant Walkers; Sold on Amazon by WURUI.BABY",
+  "ConsumerContact": "WURUI.BABY by email at wbabywalker-recall@outlook.com.",
+  "LastPublishDate": "2026-08-07T00:00:00",
+  "Products": [
+   {
+    "Name": "Wnttmt Baby Walkers",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 1,310"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/bwalk-1.jpg",
+    "Caption": "Recalled Wnttmt Baby Walker – gray"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/bwalk-2.jpg",
+    "Caption": "\"Production Batch: 202509\" is printed on a tracking label located under the seat"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Online at Amazon.com from February 2026 through March 2026 for between $65 and $75.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Changsha Yuelu District Ruiwu E-Commerce Co., Ltd., dba WURUI.BABY, of China",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled infant walkers violate the mandatory standard for infant walkers because they can fit through a standard doorway and fail to stop at the edge of a step, posing a deadly fall hazard. In addition, the infant walkers have leg openings that allow the child to slip down until the child's head can become entrapped, posing a risk of serious injury or death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled infant walkers immediately and contact WURUI.BABY for a full refund. Consumers will be asked to disassemble the walker, cut the fabric seat, write \"Recalled\" on the top of the tray in permanent marker and send a photo of the recalled infant walker to wbabywalker-recall@outlook.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 10893,
+  "RecallNumber": "26657",
+  "RecallDate": "2026-07-30T00:00:00",
+  "Description": "This recall involves an additional 195 Cpzzkq baby loungers sold in green and purple with \"Model No: UMCDB01\" printed on a stacked label located on the side of the lounger. Baby loungers in white, grayish blue, pink, zuma blue and brown were previously recalled in April 2026. All the recalled baby loungers are rectangular in shape, are made of a foam pad with a cloth cover and have \"CPZZKQ\" printed on a side label.",
+  "URL": "https://www.cpsc.gov/Recalls/2026/Recall-of-Cpzzkq-Baby-Loungers-Expanded-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Hazard-Violate-Mandatory-Standard-for-Infant-Support-Cushions-Sold-on-Amazon-by-CetoPMax",
+  "Title": "Recall of Cpzzkq Baby Loungers Expanded Due to Risk Serious Injury or Death from Suffocation Hazard; Violate Mandatory Standard for Infant Support Cushions; Sold on Amazon by CetoPMax",
+  "ConsumerContact": "CetoPMax via email at CetoPMaxRecall@outlook.com.",
+  "LastPublishDate": "2026-07-31T00:00:00",
+  "Products": [
+   {
+    "Name": "Cpzzkq Baby Loungers",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 2,195 (CetoPMax previously recalled 2,100 baby loungers in April 2026)"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/cpzzkq-1.jpg",
+    "Caption": "Recalled Cpzzkq Baby Lounger - green"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/cpzzkq-2.jpg",
+    "Caption": "Recalled Cpzzkq Baby Lounger - purple"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/cpzzkq-3.jpg",
+    "Caption": "\"CPZZKQ\" and \"Model No: UMCDB01\" are printed on stacked labels sewn on the side of the baby lounger"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Online at Amazon.com from May 2026 through June 2026 for between $30 to $50.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Guangzhou Dida Electronic Commerce Co., Ltd. dba CetoPMax, of China",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled baby loungers violate the mandatory safety standard for infant support cushions because the padding can obstruct an infant's breathing, posing a serious risk of injury or deadly suffocation hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the baby loungers immediately and contact CetoPMax for a refund. Consumers will be asked to remove the foam and pad from the baby lounger's cover and cut the cover, foam and pad in half. Consumers should then email photos of the destroyed pieces to CetoPMaxRecall@outlook.com to receive a refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 10857,
+  "RecallNumber": "26609",
+  "RecallDate": "2026-07-09T00:00:00",
+  "Description": "This recall involves WonderStone-branded Infant Walkers sold in green and pink. The walkers have a gray fabric seat, a white tray with a detachable music box, six wheels, a foot pad and a white hand lever. \"Model No: 616\" or \"Model No: 616-1\" is printed on a white label located under the tray.",
+  "URL": "https://www.cpsc.gov/Recalls/2026/WonderStone-Infant-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Walmart-com-by-Wonder-Stone-Toys",
+  "Title": "WonderStone Infant Walkers Recalled Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers; Sold on Walmart.com by Wonder Stone Toys",
+  "ConsumerContact": "Wonder Stone Toys by email at wonderstonerecall@outlook.com.",
+  "LastPublishDate": "2026-07-10T00:00:00",
+  "Products": [
+   {
+    "Name": "WonderStone Infant Walkers",
+    "Description": "",
+    "Model": "",
+    "Type": "",
+    "CategoryID": "",
+    "NumberOfUnits": "About 70"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/wonderstone-1.png",
+    "Caption": "Recalled WonderStone Infant Walker – green"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/wonderstone-2.jpg",
+    "Caption": "Recalled WonderStone Infant Walker – pink"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/wonderstone-3.jpg",
+    "Caption": "\"Model No: 616\" printed on a white label located under the tray"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/wonderstone-4.jpg",
+    "Caption": "\"Model No: 616-1\" printed on a white label located under the tray"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Online at Walmart.com in April 2026 for about $80.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Zhangzhoushi Jingqu Trading Co., Ltd., dba Wonder Stone Toys, of China",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled infant walkers violate the mandatory standard for infant walkers because they can fit through a standard doorway and fail to stop at the edge of a step, posing a risk of serious injury or death due to a fall hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled infant walkers immediately and contact Wonder Stone Toys for a full refund. Consumers will be asked to disassemble the walker, remove and cut the fabric seat, write \"Recalled\" on the top of the tray in permanent marker and send a photo of the disassembled infant walker showing the cut seat and marked tray to wonderstonerecall@outlook.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ {
+  "RecallID": 10976,
+  "RecallNumber": "26780",
+  "RecallDate": "2026-09-17T00:00:00",
+  "Description": "The \"Lights and Sound Fire Truck\" is a compact fire engine toy with wheels that spin, that also features busy board activities that activate lights and sounds. The toy is made of red plastic, has four black wheels and has a white plastic rotating ladder. The toy has a black plastic connector that looks like a fire hose. The toy measures 10.5 inches high by 14.31 inches wide by 3.06 inches deep and weighs about 1.6 pounds. On the bottom of the toy, \"Melissa & Doug\" is embossed on the battery compartment box as are two date wheels showing the dates of manufacturer by year and month. Affected units will have one arrow pointing to the number 25 and the second arrow pointing to the number 4 or 5 or they will have one arrow pointing to the number 26 and the second arrow pointing to the number 3. Date codes OET 25100, OET 25150 or OET 26064 are printed on the product packaging of the recalled units.",
+  "URL": "https://cpsc.gov/Recalls/2026/Melissa-and-Doug-Recalls-Fire-Truck-Activity-Board-Toys-Due-to-Risk-of-Serious-Injury-from-Choking-Hazard-Sold-Exclusively-at-Target",
+  "Title": "Melissa & Doug Recalls Fire Truck Activity Board Toys Due to Risk of Serious Injury from Choking Hazard; Sold Exclusively at Target",
+  "ConsumerContact": "Melissa & Doug toll-free at 800-718-5365 from 9 a.m. to 5 p.m. ET Monday through Friday or online at www.melissaanddoug.com/recall or at www.melissaanddoug.com and click on \"Recall\" at the bottom of the page for more information.",
+  "LastPublishDate": "2026-09-17T00:00:00",
+  "Products": [
+   {
+    "Name": "Lights & Sounds Fire Truck Activity Board",
+    "Description": "",
+    "Model": "",
+    "Type": "Toys",
+    "CategoryID": "1386",
+    "NumberOfUnits": "About 84,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/melissa1.jpg",
+    "Caption": "Recalled Lights & Sounds Fire Truck Activity Board"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/melissa2.png",
+    "Caption": "Date code wheel location on the battery compartment cover"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/melissa3.png",
+    "Caption": "Date code wheels included in this recall"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/melissa4.png",
+    "Caption": "Location of date codes on product packing"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 26 reports of the small port coming loose on the product. The Firm has also received one report of a minor cut."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nTarget stores nationwide and online at Target.com from July 2025 through August 2026 for about $30.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Melissa & Doug, of Wilton, Connecticut",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The fire hose port can come loose and detach, posing a risk of serious injury from choking hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the fire truck activity board immediately and register at www.melissaanddoug.com/recall for instructions on how to receive a free replacement fire truck activity board, register for a full refund of $30 in the form of a check or receive a $40 melissaanddoug.com store credit. Consumers will be asked to remove the batteries, write in permanent marker the word “RECALL” on the front of the product along with a unique code provided during the online registration process, and to cut the black hose off from the toy. Consumers will then be directed to upload a photograph of the destroyed product to the registration page. Once their registration has been successfully confirmed, consumers should dispose of the product in their ordinary household trash."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   },
+   {
+    "Option": "Replace"
+   }
+  ]
+ }
+]

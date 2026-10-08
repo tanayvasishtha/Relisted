@@ -1,0 +1,1053 @@
+{
+ "search_metadata": {
+  "id": "6ac80fc60257bb091e0e412a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/mkxnaFncxiVdd6IVf2MpZEQuHJYXVldOYiQG7Mu7yU8/6ac80fc60257bb091e0e412a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/mkxnaFncxiVdd6IVf2MpZEQuHJYXVldOYiQG7Mu7yU8/6ac80fc60257bb091e0e412a.md",
+  "created_at": "2026-10-08 21:48:54 UTC",
+  "processed_at": "2026-10-08 21:48:54 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fcpzzkq-1.jpg",
+  "raw_html_file": "https://serpapi.com/searches/mkxnaFncxiVdd6IVf2MpZEQuHJYXVldOYiQG7Mu7yU8/6ac80fc60257bb091e0e412a.html",
+  "total_time_taken": 4.35
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/cpzzkq-1.jpg",
+  "country": "IN",
+  "type": "all"
+ },
+ "ai_overview": {
+  "page_token": "4fPK4XiczVfbkqo4FP2B-Y3xqUsF21tXWadCQKURNKKt-EJx63DHFhD1bf5lvmo-ZmoCXhq7tU_PeZiaWOSySfZeSfZilX_86Tuh99dvf9tJso6farUsy6o4irBvVY0oqGnxPjRqr5Efbwz7hx_GahCZVi8NK3k_TjevmmH16FYljtIN6RFrNbP0auqFldQM8jfb2AmTHgToDeIIQmDIAOMhD7gWn0ULFgEA2M4LqcFkVweAB-ozsWG2k4EpBJBxUkaeF3biauOYPSg42vY1TNqJ8HbIOARszPAO2omBmIksaihO_VE8SO5ohprKASXjBUdJkPIkduVJM44WXdMX2fkeY84BoeQJgwSaIEr1wcofLaaUvqCa4wBR0sygxAA1R7O-o7heIrG-T_w4Ej3PiM1fuSvip--sZvyjsnuG0ANbJWgeRg3JG9HPWyMwtgaNjjZ65-uhmKzC560eTn09QImyZNajBrPXaURiv6TGngqMoJuapL-ClG0MvK3oiocFRkKOc8yHcbTWDm9Ng63st71GxYh79Yrl9PZI5bX1MGVVK7K3xiRpyfMW8CrF7fVUXYstl1zuzo1rao1U3u8NlgyqcdUK1QFTBZPVWDbnMptFVbpON6rjmhaQOeA_LAiSKwYIYPLAL6aR1PiWOzKRy31dCs8VTXk1QwYM-RFrXoH-XXfcoMDEIXx2oe7cQ568g5ND_u5aWEQ4l_jY4Kxongun39hPGQu4xno_chH8nol_fyeW3n4BhmHKh0cAcBOcm7irpWcHz6C8b2I9pZOImc4QA9bm5l8BJwvmGbPjAeZ_euEvvBye-1ioE0w1E5P8rdf0DWmommPYRtHZxHlaw1m3HnHmoi3vddbThUQILBVsp0O338XJqgVqhk7m-ZFmWqZqq_UfxZiiqWa922h3HgpKGfGFU3GZUxonSbG_n4gMXx1VGerMJvh-Uh-TmAHRrU3CfAF_8xLzwvO3b8t-DxOdWg4IAEy567DMtJU32cUfGJIaceU55wgQgM9suowvAHM2YXiKMkWXHV_h5DmmtCNcZsfw827k93UnX8PTiCcXfQzFvk8oo4fAy_OQv6wvhyrSEwqEfUyRzHwK-XcMhV8YAT7i0UeCEfCI7IDjrrZ-iSxeHYuQIwYiTw6Mg47HEUk7rSnAKKez6sOP3zV0h4o5mgV389XPC_zGxxOBM20-sKDMnkF35o3rnvcov_VXDZpdh9kEBu3hfPuGb7MlCvR_J0HG_4tSZ4GKTgJ1n1L4O5RCxN8NgUJnfwXAs0ARSh0F6j6lhmWByiefBWr4WaA-UAqCaYlS8XG-e1ugfoVS_FeUguf6E6WIQN2iFLpPqaNAlSjlfRQoBG4J1IlSvyZQ8BcFqmCYdWyu1Sp18X3V8gTfDnX9xWfnG3lpuWqTGy9jmXndoZ-q1muQPAWa6T-ojvnE0M_J3nxQiSF6sszKWyXwN1GvrrVH0WY06JsZt_N5luvE-t6ZTxa-6YO1_RIqTL9ry-JQWx4c1DdVjcoAHQB66kFht2Rm4y1stpejw7gpDWJRCBVWni-huYibh7TenE86Km40lX3rZSkFrSEtbijLcdduf9bdKR3FXu36fXsZelMtEARUYIp7M3lqmGnjcaqIlWBjkH8T4BEDCYEFBgaACiEnoRLJLQQz8rQI4xiaXHslNjTVire9pt5-bdGPVLdutFsts1MJcLJf91p0JQ43PeoffqbCLw",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4fPK4XiczVfbkqo4FP2B-Y3xqUsF21tXWadCQKURNKKt-EJx63DHFhD1bf5lvmo-ZmoCXhq7tU_PeZiaWOSySfZeSfZilX_86Tuh99dvf9tJso6farUsy6o4irBvVY0oqGnxPjRqr5Efbwz7hx_GahCZVi8NK3k_TjevmmH16FYljtIN6RFrNbP0auqFldQM8jfb2AmTHgToDeIIQmDIAOMhD7gWn0ULFgEA2M4LqcFkVweAB-ozsWG2k4EpBJBxUkaeF3biauOYPSg42vY1TNqJ8HbIOARszPAO2omBmIksaihO_VE8SO5ohprKASXjBUdJkPIkduVJM44WXdMX2fkeY84BoeQJgwSaIEr1wcofLaaUvqCa4wBR0sygxAA1R7O-o7heIrG-T_w4Ej3PiM1fuSvip--sZvyjsnuG0ANbJWgeRg3JG9HPWyMwtgaNjjZ65-uhmKzC560eTn09QImyZNajBrPXaURiv6TGngqMoJuapL-ClG0MvK3oiocFRkKOc8yHcbTWDm9Ng63st71GxYh79Yrl9PZI5bX1MGVVK7K3xiRpyfMW8CrF7fVUXYstl1zuzo1rao1U3u8NlgyqcdUK1QFTBZPVWDbnMptFVbpON6rjmhaQOeA_LAiSKwYIYPLAL6aR1PiWOzKRy31dCs8VTXk1QwYM-RFrXoH-XXfcoMDEIXx2oe7cQ568g5ND_u5aWEQ4l_jY4Kxongun39hPGQu4xno_chH8nol_fyeW3n4BhmHKh0cAcBOcm7irpWcHz6C8b2I9pZOImc4QA9bm5l8BJwvmGbPjAeZ_euEvvBye-1ioE0w1E5P8rdf0DWmommPYRtHZxHlaw1m3HnHmoi3vddbThUQILBVsp0O338XJqgVqhk7m-ZFmWqZqq_UfxZiiqWa922h3HgpKGfGFU3GZUxonSbG_n4gMXx1VGerMJvh-Uh-TmAHRrU3CfAF_8xLzwvO3b8t-DxOdWg4IAEy567DMtJU32cUfGJIaceU55wgQgM9suowvAHM2YXiKMkWXHV_h5DmmtCNcZsfw827k93UnX8PTiCcXfQzFvk8oo4fAy_OQv6wvhyrSEwqEfUyRzHwK-XcMhV8YAT7i0UeCEfCI7IDjrrZ-iSxeHYuQIwYiTw6Mg47HEUk7rSnAKKez6sOP3zV0h4o5mgV389XPC_zGxxOBM20-sKDMnkF35o3rnvcov_VXDZpdh9kEBu3hfPuGb7MlCvR_J0HG_4tSZ4GKTgJ1n1L4O5RCxN8NgUJnfwXAs0ARSh0F6j6lhmWByiefBWr4WaA-UAqCaYlS8XG-e1ugfoVS_FeUguf6E6WIQN2iFLpPqaNAlSjlfRQoBG4J1IlSvyZQ8BcFqmCYdWyu1Sp18X3V8gTfDnX9xWfnG3lpuWqTGy9jmXndoZ-q1muQPAWa6T-ojvnE0M_J3nxQiSF6sszKWyXwN1GvrrVH0WY06JsZt_N5luvE-t6ZTxa-6YO1_RIqTL9ry-JQWx4c1DdVjcoAHQB66kFht2Rm4y1stpejw7gpDWJRCBVWni-huYibh7TenE86Km40lX3rZSkFrSEtbijLcdduf9bdKR3FXu36fXsZelMtEARUYIp7M3lqmGnjcaqIlWBjkH8T4BEDCYEFBgaACiEnoRLJLQQz8rQI4xiaXHslNjTVire9pt5-bdGPVLdutFsts1MJcLJf91p0JQ43PeoffqbCLw"
+ },
+ "visual_matches": [
+  {
+   "position": 1,
+   "title": "Recall of Cpzzkq Baby Loungers Expanded Due to Risk of ...",
+   "link": "https://www.cpsc.gov/Recalls/2026/Recall-of-Cpzzkq-Baby-Loungers-Expanded-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Hazard-Violate-Mandatory-Standard-for-Infant-Support-Cushions-Sold-on-Amazon-by-CetoPMax",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/searches/6ac80fc60257bb091e0e412a/images/z1dghYVRIdoEXtUwk2yQOitU-Lcgt0idQWTHdMBYy9o.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp6h3AmkHmEBjpJ-XBykaFgN7Q-cKBcGV1lHJjeh8uzZKj0fQV",
+   "thumbnail_width": 194,
+   "thumbnail_height": 259,
+   "image": "https://www.cpsc.gov/s3fs-public/cpzzkq-1.jpg?VersionId=EFkA68AZuxP.PAIOodwSHtpFBWOB6JPw",
+   "image_width": 740,
+   "image_height": 986
+  },
+  {
+   "position": 2,
+   "title": "Amazon.com: Baby Lounger Newborn 0-24 Months, Home and ...",
+   "link": "https://www.amazon.com/clp/B0DJ77JWDL",
+   "source": "Amazon.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKCR5302tunPPqGbGXUV8Tj5XhR2Qk9dZ8VBycKWLFnuz7GAfz",
+   "thumbnail_width": 224,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/71emjyQ73vL._AC_UL450_SY450_QL70_.jpg",
+   "image_width": 447,
+   "image_height": 450
+  },
+  {
+   "position": 3,
+   "title": "It's Recall Thursday! Here are a few of this week's recalls ...",
+   "link": "https://www.instagram.com/p/Dbbnc0eGZ5k/",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/searches/6ac80fc60257bb091e0e412a/images/jePpNF8Us_Jmtic6bGLLAOXBiSjVLr9sRCmk8Tpwwi8.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ24MUDhguy4dxrolphzYNNaMeNQPkxSaLu5EBuVJrv6S8n3iZ2",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3952926584739536292",
+   "image_width": 1600,
+   "image_height": 1600
+  },
+  {
+   "position": 4,
+   "title": "Expanded recall issued for baby loungers; movie theater ...",
+   "link": "https://nbcmontana.com/news/local/expanded-recall-issued-for-baby-loungers-movie-theater-collectibles-also-recalled",
+   "source": "NBC Montana",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEUeU53___9Abaz6-_2mu9iFosqWr9FkiLu3yN-astNzlMItXqQhVZ5hhrpFca5tkMA0ZKfc5PDI1efO2ur09vrl6_RNd7F_nccpW6KMp82judd7msWwwtzW3-1LdbG9zOJZgLfK3a2TAAABDklEQVQ4je2RV3bFIBBDR_RibIwN7mX_qwz2yxKSr2Q-KDoacQGi__qp6to6yC4oY-uK7flgVdCx1d-GhJMIfYYZMbcYxVWIbqQD7GNQQEf56geSvOXHI505IQ3jkOOzE9ihemPAYRjuR4oAV2IEfxN2UAfYo_elWsUj2SHj1rxPsnkZIhWkzIOE7GC00wBGz3idnjOW5IlaqVKfLZEbARaUnerNlLw_mKypvDN5anztYOzJpda_NE_CQqJlYi2NoBCkkKQm2haa5sb45oW00GuJRsMpF4cYh50WaEuBuxfZTnYS1SClRqGLxHoFN-3ZHzbXN6OtUHeyfS3ekT1p85NvO81mFdy8ud_74j9XXyWADh4WavQXAAAAAElFTkSuQmCC.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3mTmgklgSbsn-1tZBMoBbQ2sMFo8GkjkXU7islYWFCO65wU6Y",
+   "thumbnail_width": 168,
+   "thumbnail_height": 300,
+   "image": "https://nbcmontana.com/resources/media2/16x9/533/800/0x51/80/8456a91f-44a5-461f-98bc-2a91d36cf34d-cpzzkq1.jpg",
+   "image_width": 450,
+   "image_height": 800
+  },
+  {
+   "position": 5,
+   "title": "PaLulli® Réducteur de Lit Bébé 100x60 cm | Cocon Nouveau-né ...",
+   "link": "https://www.amazon.fr/PaLulli®-Réducteur-Nouveau-né-Mousseline-Oeko-TEX®/dp/B0F318X5LM",
+   "source": "Amazon",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "rating": 4.6,
+   "reviews": 74,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmYdwe24wpehyRnfNueGDik261_DV5EyBJ4luAacnznKkAr5eh",
+   "thumbnail_width": 226,
+   "thumbnail_height": 223,
+   "image": "https://m.media-amazon.com/images/I/71eH+aN014L._AC_UF1000,1000_QL80_.jpg",
+   "image_width": 1000,
+   "image_height": 991
+  },
+  {
+   "position": 6,
+   "title": "Baby Loungers Recalled Due to Risk of Serious Injury or ...",
+   "link": "https://people.com/baby-loungers-recalled-due-to-risk-of-serious-injury-or-death-by-suffocation-12033502",
+   "source": "People.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEUAru____8AcZs4v_IAib0xjK7p8vbK7vsAo-ANeKCQwdO01eEAp-VFl7YAhbYou_ELse_4_f6p5PkhuPHq-P3G7ful4vmHvM-_3OYQgasAeqja6vBbpL4AmtQ6kbIAf66X3vgAk8oxqdaqW27rAAAArklEQVQ4jc3S2RaCIBCAYRm1BCPAFi0Ls_d_yGI7p2LGbv0v5ILvuAwWxYpSZUxpHGxZynSHZcDYEROnD8A6BOizv30_-OXS5KJ0Oxvgxq32SgIY3XqD-z9QUcD6t7Qw4YCZcOUkCAmA_RJoOcCMg1EI0Ut4lw_CgxZi-Ud8gSl_QAQDwA7Zc-mHn0NNgnSakgLpf5D5IfwAZAI-pZ61iyMzjM1xBCRoqhDxiDX3AmKPBwhKGwRLAAAAAElFTkSuQmCC.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA862iCbVlQ1mViQaUVoO0MgV8Rw163KM_J6CobwCaJIk_b5pr",
+   "thumbnail_width": 183,
+   "thumbnail_height": 275,
+   "image": "https://people.com/thmb/ah2rELDeKdtEMGkr1x5vyfRhY8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/baby-lounger-recall-080426-1-ed86f3836a254e91a44713b1abf43427.jpg",
+   "image_width": 1000,
+   "image_height": 1500
+  },
+  {
+   "position": 7,
+   "title": "Buy Little Story Portable Lounger Sleeping Pod - Soft Plush ...",
+   "link": "https://www.firstcry.ae/little-story/little-story-portable-lounger-sleeping-pod-soft-plush-cotton-breathable-washable-white/28cc5aea37892/product-detail",
+   "source": "FirstCry",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABY0lEQVRYhdWXTW7CMBCFp5aVRhFl0Qv0Dl0hRA9Bs2IRsaAn6EF6gmaBItQVcIhGqKsehgVCKGq7imWHsTMTbIW-VSYZ53v-m8QAPetGDz6f338pjSbrhRGXac6CPm1eFFddUOBNsA8Togu8THPYzZZsqK6aKbkNa-jPqTLirhKUpLr3l8I6GwipVgMhe08yEFq9G2DvgjZxi5QXAzKJYFRkTkM2I16mwAbHjDQlsaSuK343W6oC5YJaDbgayiSC6nBy5upwAFpHyFMwKjIQsfc1a45A0_Hj2xSSh3sVj1dzdf2VFeiIcOUcge_XrfWZvLu9GA7A3IZX-THSTYmIv0a8luLxx7w9iWuAMux6DraFRSxhsl7gz1rfTsiWw9iImyB995y15fDlIIZqfzy7X-2PUKa5AaZUQbYBDK6rngoMbptK_6XNAcPU-w_J_zJAXVhsA_pZDVOIEmwczSgmQsCvQn-RYHpAGmaqIwAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDZCRyJ72Y2UZNBU57aV4hNKglfbT6AB--xvvudUwHCPYfNGcC",
+   "thumbnail_width": 250,
+   "thumbnail_height": 202,
+   "image": "https://cdn.ae1stcry.com/brainbees/images/products/583x720/28cc5aea37892b.webp",
+   "image_width": 720,
+   "image_height": 583
+  },
+  {
+   "position": 8,
+   "title": "Recall of Baby Loungers Expanded Due to Risk of Serious ...",
+   "link": "https://www.aol.com/articles/recall-baby-loungers-expanded-due-160624000.html",
+   "source": "AOL.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAS1BMVEVHcEwAAAD_1Sf_2Cj_1Cf_0if_0yf_1Cf_1yD_0yfDoh7_3Cj0ySUbFgQyKgd2YhJcTA7kvSP_1iewkhtBNwqPdhXUryCcgRhHcEyH2qrcAAAAGXRSTlMA____d3f_2wSB__________________8APoKfHgAAAPdJREFUOI3Nk-3OgyAMhSl9ZchH-RDw_u_0LWxGzab7OxJic86TtoAVQs8PdbEef1oIfWkPRIvpzldqFrcJOIW495X6JUBugpSfAFTJ4QgwcSR7gHkHsEVPhgU0kTyFlDHE2PKewQMvJ3GB52qWAAxuwEtfbXr54PEE5ABQACJWtpo1TJhyBFRXeCcGg1U9_XIEkM2SIqsdwA8A60DcZ1zPJWw_KQOOttbM1iTkpxaRgV7B11o5xbIfsx6ASlQR7UoU7FI8-NhQuVBKoYCjhHPjtvqX77ylXlqic8N4e02Zz6_1S3_UNfB1cOZ7YPo-vEJP1-M_a_EPffEaod6CUgQAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_lK2YGd8uww0D1aQhX1WxwdgWJxXXm2MD2xp-uy8ZL4PvSFJ3",
+   "thumbnail_width": 183,
+   "thumbnail_height": 275,
+   "image": "https://hermes.media.static.aol.com/media/2026/08/04/c5ad0ccc-3130-3e41-96ea-898622670351/5a7c4b68-a3bb-4b89-9fa0-a13dc6585f84.jpg",
+   "image_width": 853,
+   "image_height": 1280
+  },
+  {
+   "position": 9,
+   "title": "Amazon.com : Infant Support Cushion - Baby Support Cushion ...",
+   "link": "https://www.amazon.com/Infant-Support-Cushion-Newborn-Months/dp/B0GVSL633D",
+   "source": "Amazon.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdt2tWvS0YuhJ7mAUSCiCIhCHUGIYSj-_Bxzx9FtDzRsNYoCi_",
+   "thumbnail_width": 182,
+   "thumbnail_height": 166,
+   "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a721e58-ad9e-4ee2-a536-1c7b466ce34d.__AC_SR166,182___.jpg",
+   "image_width": 182,
+   "image_height": 166
+  },
+  {
+   "position": 10,
+   "title": "Recall of Baby Loungers Expanded Due to Risk of Serious ...",
+   "link": "https://ca.news.yahoo.com/recall-baby-loungers-expanded-due-160624831.html",
+   "source": "Yahoo News Canada",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEVgAdL____o2_jk1Pf8-_5mC9Pu5fqUVOCWWOHWvvPAmu23jOq7kut8LtqufujGpO6DOdxwG9bgzva0iOqZXOL07vzbxvSjbOWqeOf49f1pENTr3_mRUOClcOXYwvR2JNiIQd3Kq_DSuPIjm6rYAAAAwklEQVQ4jd1RSxaCMBCbQosIRREF5CfC_Q9ppn08EUv3mg1DEtIwJfpjZCFw8hjOAsj39YuEXngCrhxw29dVCT1SK6YCkfBwwlBRzQH39ScHEE2LIcIQU7C8vtGBGqwxop4D9OepA6iQ6GiiH2wYHbWeo4lWAZBsi6fQJm27KrVVya5GNjBk7SykdjgmYTDbLcffhtwaegr54bon0z0g0nv3xDsQNSomXeE4gcx6Slf_Bbyk1KNn0OXoMfDfTR79t_ECLLwGYaPXkpQAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVh9P-PyEj363dFml9y6h8N-05-MBe1KfDZFGkKdaAUdzyG816",
+   "thumbnail_width": 183,
+   "thumbnail_height": 275,
+   "image": "https://s.yimg.com/lo/mysterio/api/a319b468a2e30efd8bcbdd6191b8f8de37c3c720642ad47e1e35526dce8529bd/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/people_218/94ef2667819db73450cc394c548cae03",
+   "image_width": 800,
+   "image_height": 1200
+  },
+  {
+   "position": 11,
+   "title": "Lucakuins Baby Lounger 0-18 Months, Baby Lounger for Newborn ...",
+   "link": "https://www.ubuy.co.in/product/PLDD9Y5OG-baby-lounger-0-24-months-baby-lounger-for-newborn-soft-organic-cotton-breathable-lounger-for-infants-greyblue-baby-lounger",
+   "source": "Ubuy India",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "rating": 4.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsqWU60yRaJrVMwo5QgKRStYpIfSChQ6xAZayDVEXSptOCtFWW",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/61H6o-zXubL._SL1500_.jpg",
+   "image_width": 1500,
+   "image_height": 1500
+  },
+  {
+   "position": 12,
+   "title": "Puff Nina em Boucle Cloud Touch Green – Inflow Sofá",
+   "link": "https://inflowsofa.com.br/products/puff-nina-em-boucle-cloud-touch-green",
+   "source": "Inflow Sofá",
+   "source_icon": "https://serpapi.com/searches/6ac80fc60257bb091e0e412a/images/qHinn7yaYG3znHx1gvgiE3QN0xcB9CGsmCMWIf3SkIU.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtXzVBCHVVSkmeFSJicEUSvzeAqQ6eQ-ALoVccEfqjjlmwO5EE",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://inflowsofa.com.br/cdn/shop/files/73745_1.jpg?v=1776749102&width=1024",
+   "image_width": 1024,
+   "image_height": 1024
+  },
+  {
+   "position": 13,
+   "title": "Köp Vanilla Copenhagen Babynest, Fern Green",
+   "link": "https://www.jollyroom.se/barnrummet/barnsangar-tillbehor/babynest-myspolar/vanilla-copenhagen-babynest-fern-green",
+   "source": "Jollyroom",
+   "source_icon": "https://serpapi.com/searches/6ac80fc60257bb091e0e412a/images/qHinn7yaYG3znHx1gvgiE2olE4apJAyq_R2I2D8L7Oc.png",
+   "rating": 3.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_9V8sr2To2akK6Ok4F5-0rqUlPiNBg8_LfH1FzSS02TV149Eu",
+   "thumbnail_width": 259,
+   "thumbnail_height": 194,
+   "image": "https://www.jollyroom.se/storage/22DD2C0A6C45020C32BB32BC45177CB5ACCD3250FB75C0E3937131524DBF6DCD/0633bb773794402ea4f0750ef2e8b166/487-650-0-jpg.Jpeg/media/6c5686accd7b4e8db9494fee1025424d/NEST3026-4618_1.jpeg",
+   "image_width": 650,
+   "image_height": 487
+  },
+  {
+   "position": 14,
+   "title": "Ninho Redutor de Berço Recém Nascido Casulinho Menino Menina ...",
+   "link": "https://shopee.com.br/Ninho-Redutor-de-Berço-Recém-Nascido-Casulinho-Menino-Menina-Sensorial-100-Algodão-Extra-Macio-i.1572793942.22998680115",
+   "source": "Shopee",
+   "source_icon": "https://serpapi.com/searches/6ac80fc60257bb091e0e412a/images/qHinn7yaYG3znHx1gvgiEwbbJq297yq9P4AxxSoFfy8.png",
+   "rating": 4.9,
+   "reviews": 879,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRSsSGmEH2ns5TglO1LXK4ZnWL9yzLAaR8bLAyDyR6QwxVNqW",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mg67lfbfhcec11",
+   "image_width": 1024,
+   "image_height": 1024
+  },
+  {
+   "position": 15,
+   "title": "Recall of Cpzzkq Baby Loungers Expanded - YouTube",
+   "link": "https://www.youtube.com/watch?v=CH_h6pOF_Qw",
+   "source": "YouTube",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABr0lEQVRYhe3Xv48MYQDG8c87uTjubkmEjd-hkEs0crfRiUahYVfhDxCUCpVoVBKiENGKnEKiccUFEY2C2uxFIuQo_CgUGw171p5iRzEzCiGxs5sdxT3J5H0zmed9vsX7zjwTkiRRpqJS01cB_geAkE8StXEcxSx2o4oKJrNxQ_Z8wPq_rPcVCXrZvI1v2djCezTxMIhXfgEkavuxkAWPQh_QCOIXIVFbhzfYMaLwXB8xHeF4CeGwC_UIB0oIz3Uwwr4SAfZG2N6XpbqR0w2ioZzgrRE29WWZWMutizy_w6HZQQGqEaYKWWemeXqTe1fZs60owFRxgFwnDvN6nitnqUz0664M51U8voYLJ3m7wKl6X_uj9G_B2FBWWfnB9btcnqPd6Rtg2SD7YP4J52_w7lMRd7s4wOIS567xrFkkONfyGD5jyz9bOl3OXOL2A3q9QcKhFRK1xzgy6EoF9SjCq5LC4WWEuESAZl5IlrBzxOFpIQni7zgm7WujDK8Hcff3UtrAjLQbbpaWz8nsyktpJC2pf1JeShN8kR7xTna_Je2Ci7gfxF0Iq79mqwBlA_wEihVj07SFCdQAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzz8pH06--HR2q_ludWsYcExAutBc3o28ucOV_9aoMc-R8KDOP",
+   "thumbnail_width": 194,
+   "thumbnail_height": 259,
+   "image": "https://i.ytimg.com/vi/CH_h6pOF_Qw/sddefault.jpg",
+   "image_width": 480,
+   "image_height": 640
+  },
+  {
+   "position": 16,
+   "title": "Nido Contenedor",
+   "link": "https://www.castillitoaccesoriosbebes.com.ar/productos/nido-contenedor-hlbcy/",
+   "source": "Castillito",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwH0KUJ0acH0aYL1KkZzKYN0KcJ1KgN0accwqA_uqQL06cR0KYM0aYJ06kCz6QE0aXCgcqJAAAAD3RSTlMA38fufBtDarMOBZkyjla64W1cAAAA5ElEQVQ4jYWTCRaDIAxE2QVBM_c_bTFCqVbivIcL-YQxQaWuWouS5ZG9CCQgr2KGqMS48u7FQ4kvgIHssRDJKSIBSYivAGETgKUmIBIAjcBjJg8otQk2HTGAWTxbYMsGFJ83SWCLVK_PmyR0YuYi1CgDZlIrfy6fVzu1Df4Ab6EivOsJiGwtV53qZyMATtNmaGixx5QZQHN3UwdqMnoi9Ldea31Z9CXoch3DPtUOhrasJ7d3oLQPDO2ufwFgT0eAT6zmWqZbBnCRGDBnw64emgbARkct8QvoB6AsTUcb9_a880_6AQb3EqsOMMfvAAAAAElFTkSuQmCC.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKKzeCQFPz6HfXI_dXXRbkog8haJM_zC0phQA2tpMT59pScJj",
+   "thumbnail_width": 275,
+   "thumbnail_height": 183,
+   "image": "https://acdn-us.mitiendanube.com/stores/689/963/products/malva-nuevo-20f68217ba10f2207b17900262510447-1024-1024.webp",
+   "image_width": 1536,
+   "image_height": 1024
+  },
+  {
+   "position": 17,
+   "title": "Cpzzkq Baby Loungers Recalled Due to Risk of Serious Injury ...",
+   "link": "https://schiffmanfirm.com/product-recalls/cpzzkq-baby-loungers/",
+   "source": "Schiffman Firm",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACPElEQVRYhe2Xv2sUQRTHP3dYbBHd0iQWkoCIhYdgwEYQIbIkJxfSmDRpREEt5MAUpgqiiKBByb9gI6SRbWSxCklzGtAcRPwDNNoGLaa0mLfc-HbmfsToovhtbubN7LzPfvfN3G4laV6mTFVLzf4f4CABstREWWqOlQYAXAOGSwHIUhMDD4ChUgCAZSDez4W_DJCl5iRwU7qlOHAPiKQ98kcBstRcAOac0PEDB5DtVXi-WWqqwKoKH-22zr4AgCb-Z3sFqKnYqUDyqqwzGIAcLHc1gNzNiueS05JM6ypwZmAAOttLO9AERj3zY-CEgo2xhXpkIADZXtelO-zEc1dCuqT6iwLrPaa7OfDUaY857V6HznTeENhF6Xp3iBcgS00dmHJCNYmfpeNKSBedXbNM54yIfX9WBQApoocqfE5-7_dIjiScCsAWCjFUsXp7tTyuhGSADeCZZ2ymK4BTsa72JKZdCekJ9k7Pe8bqeptqB_KKdfUImKXoik-7AhCCHcUeYEUAVbHugs-BpT6Sgy26hR6wS64LrgMrdCo21x3gBv5DR6sNrGFfTLqpBtz6CUAqdk5NbGOLSbsS0m36fzF5LDmpMD5ZBdaBCWALeAt8AF5hXdFguXaBbeCTwL4G3mNdzMc-ylpfgK_Ad-yxPoR9d3hZYXwyxlZtK2lEJl9dCLek2wZawBvgHbDjzpX5deAwsJE0os99uABAJfRplqVmHvgGbCaNaK_fBQfVodBA0ohe_K6krv6dL6O_FuAHiQGfjMSCqccAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTo6GnV2EL5b0M0zU_sO4oenK4KxAB4ZJQAoIhWabHJ8DsuYa7",
+   "thumbnail_width": 188,
+   "thumbnail_height": 268,
+   "image": "https://schiffmanfirm.com/wp-content/uploads/Cpzzkq-Baby-Loungers.jpg",
+   "image_width": 689,
+   "image_height": 979
+  },
+  {
+   "position": 18,
+   "title": "Amazon.com New Releases: The best-selling new & future ...",
+   "link": "https://www.amazon.com/gp/new-releases/baby-products/723032011",
+   "source": "Amazon.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4uNZltPJV3pvqHx2uV5zSuHxge47kSeY6ygfMQLJK5kyNtIS9",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://images-na.ssl-images-amazon.com/images/I/511+oO+QVWL._AC_UL375_SR375,375_.jpg",
+   "image_width": 375,
+   "image_height": 375
+  },
+  {
+   "position": 19,
+   "title": "Ninho Portátil Para Bebê Redutor Berço Verde -batistela Baby ...",
+   "link": "https://www.mercadolivre.com.br/ninho-portatil-para-bebe-redutor-berco-verde-batistela-baby/p/MLB49271218",
+   "source": "Mercado Livre",
+   "source_icon": "https://serpapi.com/searches/6ac80fc60257bb091e0e412a/images/qHinn7yaYG3znHx1gvgiE6msmpsebAi7UbwixKpqq2M.png",
+   "rating": 4.6,
+   "reviews": 5,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmxjuv2tG3MLLt55takvIqkqdAGOIqB_F9YdEDcB7AM3GV7lZV",
+   "thumbnail_width": 200,
+   "thumbnail_height": 251,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_800903-MLA84236710052_052025-O.webp",
+   "image_width": 399,
+   "image_height": 500
+  },
+  {
+   "position": 20,
+   "title": "Camita portátil para bebés hasta 12 meses de segunda mano ...",
+   "link": "https://es.wallapop.com/item/camita-portatil-para-bebes-hasta-12-meses-1292191965",
+   "source": "Wallapop",
+   "source_icon": "https://serpapi.com/searches/6ac80fc60257bb091e0e412a/images/qHinn7yaYG3znHx1gvgiE2tuKcV-hfqJZmTH_ozaEUY.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLK0shwJwLsn8-fBKUx3QV_SfUf5i6s9hOz0WB8K7bQPDT8hMg",
+   "thumbnail_width": 300,
+   "thumbnail_height": 168,
+   "image": "https://cdn.wallapop.com/images/10420/ld/c5/__/c10420p1292191965/i6682077249.jpg?pictureSize=W640",
+   "image_width": 1138,
+   "image_height": 640
+  },
+  {
+   "position": 21,
+   "title": "⚠️ Stop using these products now to prevent ingestion ...",
+   "link": "https://www.instagram.com/p/DcubtYKFVBa/",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/searches/6ac80fc60257bb091e0e412a/images/jePpNF8Us_Jmtic6bGLLABtsQD7wYk_8yRMHLodwp9A.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPJUxnAPRanCDMOR9FCoHlsdj0Cc_RDzvsrh4AY5wet9QO5Ipv",
+   "thumbnail_width": 251,
+   "thumbnail_height": 201,
+   "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3976237250455013843",
+   "image_width": 1350,
+   "image_height": 1080
+  },
+  {
+   "position": 22,
+   "title": "Snuggle Me Organic Online Waffle Cover | Seller Nest Diy Beige",
+   "link": "https://admin.xaydungthienlong.com/?gad=03.2060269.2.42",
+   "source": "admin.xaydungthienlong.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAJ1BMVEVHcExfY2dfY2heYmhfY2hfY2hfY2hfYmhfY2hfY2hfY2heYmhfY2hLdvrHAAAADHRSTlMAK6UPy06GQ-ly81yP6INFAAAA4ElEQVQ4ja1TWw7DIAyD8AiP3P-8I7QBQttNmuqPChGXOMYY8yqcxRDQuqdy9Ikako_2pmyBFsCFYgsppI2RVRV9-2T1v_7bOO63nGGTquNxZJmMqc-3Oa3swU2DsWdc0yGGxDuCqURxcgWr9ELeicQi_VeXQcxAopr18eIN9kUgCqxjJ_T9ubgqHQQ8tC2MrUUTCXraTWQbs2g_tjG5UPtCEaZRxtHJHSoBu33jtuRiFkujmpvjlDfTdaj4PsEdIw-o0LHVviqCitwZqgIjOuUa6x-xZ8p8OI9v6_vT-xMffsYRIhWPnuoAAAAASUVORK5CYII.png",
+   "rating": 4.7,
+   "reviews": 274,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGikSMqfmG0Nx2Idk6O1A4zqqL9DGXXPqx8kWtDKPxpYztoI2",
+   "thumbnail_width": 279,
+   "thumbnail_height": 181,
+   "image": "https://m.media-amazon.com/images/I/51Hf34W6R7L._AC_UF894,1000_QL80_.jpg",
+   "image_width": 1000,
+   "image_height": 648
+  },
+  {
+   "position": 23,
+   "title": "Recall: Recall of Cpzzkq Baby Loungers Expanded; Sold on ...",
+   "link": "https://www.threads.com/@uscpsc/post/DbbA7ihji0B/recall-recall-of-cpzzkq-baby-loungers-expanded-sold-on-amazon-by-ceto-pmax-the/",
+   "source": "Threads",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEVHcExBQUGdnZ2IiIhOTk4ODg43NzdiYmJFRUVra2sLCwssLCxxcXEPDw9OTk4ODg4WFhaFhYVJSUn19fX___8AAAAyMjIjIyMbGxv-_v4TExMrKysNDQ0HBwfq6urz8_Ourq59fX3X19fh4eHMzMy-vr6enp6SkpJYWFhHcEzINfujAAAAKnRSTlMAs3GpcXHc_v796e_cpJXHExMTExT__________________________wB5sHZyAAAB5ElEQVQ4jX1T15LbMAyk21G0z9cSiEXsoij9_xcGECU7eXB2xuMVsFiAjTHEr-PpXQjBOV9WdIi3w_mHbTiKru_7YehX7P-Ic8ufumfoX3Qfa333Io1m5PGby6HfLQbjjHT4e3j-sCM23aBkijmEkGOysoXQ4rTRQcrZ6x0jVy16YO9yR6FETSnVjAxNCG-MK4nFcoBR68wBrAUAjl6LIcENBUohgUnrCk5hFqwE5_UEUmIxWwwprNA6goFUvC8ClBXVrAnZBMpmPTqrYhtxBoXrpbiSrCNiF5wKTO915bzo0Fm1gQRGGZh1AIMDJJohoIVpaAJjcMSCMQe8xlg9jbMBBZYEGZdgocuhDeETLpdAAqK4CTOAyjpMc5p9CKTfBP1TsOjAaRtwpUFzsM45K9kAzgGUUAEEToqYQobJTxjfBICCikHoQigpleAFpJAtVaJg3VzcfI_K2Xvs72dihc4E3C5Q2UfSxVLigqSsn38JQASf4AG04o0N7LrHxrHKRvvoNwOAG_vcq2rOeNeESHEc856HN3bfqRNTySMhT49u7sAuz86Wz3GapsrNM3RmXxb-g-GbsYt7nVfr47u_VMiP9jgvzy64_esZYI2zw3l_3l-X-_WKh2fpbqxXdbjh8_-m3B-Nf1v4mqnPNAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcx3MLSbytBs372eJFDucvNiXlYNC6fF-FDeXupw5-kGeXGjzT",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://lookaside.fbsbx.com/lookaside/crawler/threads/DbbA7ihji0B/0/image.jpg",
+   "image_width": 1600,
+   "image_height": 1600
+  },
+  {
+   "position": 24,
+   "title": "The Good Mother Organic Infant Lounger in Natural - Walmart.ca",
+   "link": "https://www.walmart.ca/en/ip/The-Good-Mother-Organic-Infant-Lounger-in-Natural/6000205455263",
+   "source": "Walmart",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABG0lEQVQ4jY2SwXGDMBBFH4gCUgLpgK0g8kVXkw7iChJX4qQCJxVArrqYDkQHpAQ3oHEOrD2YQR7-jGb2f3ZXy9dmJBC9VEBQKsaFfikvTzUAnhLx6gZ_ifgOmY56AH6NC5_Tj9HLBcC4kM30D2AL7AugBixgo5ctsDMuLN4YvZTAUfMB6hzogKtBFgjRy5vyVz2oFibFPdDdRoteLPCuE3XGhc3s9pMWt8CXcaFbmpLopdRRV-mPXmEVbg2iFxu9NMDAaNQcR2CIXhr9XQAKJQegUu0M_GjTGsC40KpWMXpURy89sM8ZjbkWd4xr-6280YNqojlojS0YXX1hYZHm0P3YTBapzVLJ6vig9Dm1XI9eoUzEqxucE_Ed_gF9gmpUdVvZZgAAAABJRU5ErkJggg.png",
+   "rating": 4.0,
+   "reviews": 22,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EgEFuGkbAi5jPanMISCXPgq7RYfit7gHzank9FweVnmP6VYr",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://i5.walmartimages.ca/asr/0f991c43-7a6e-474b-b7f7-6015bf347c59.4e7c611c24c65215020b98bd0ee20f19.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+   "image_width": 612,
+   "image_height": 612
+  },
+  {
+   "position": 25,
+   "title": "This is your sign to get your baby a RestNest 😉 | Keesley",
+   "link": "https://www.facebook.com/61567676456865/videos/this-is-your-sign-to-get-your-baby-a-restnest-/1316177259635044/",
+   "source": "Facebook",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-AR85zan9YJCmOGQEQlIks8k9OawsGTiCTuQVQFiksdRgVj_T",
+   "thumbnail_width": 300,
+   "thumbnail_height": 168,
+   "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1156611387438184&get_thumbnail=1",
+   "image_width": 1280,
+   "image_height": 720
+  },
+  {
+   "position": 26,
+   "title": "Sage Green Woven Bolster Washable Dog Bed | Ruggable US",
+   "link": "https://ruggable.com/products/sage-green-woven-bolster-pet-bed",
+   "source": "Ruggable",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTg5GY-SYVsFYMeoT8xRKDCUI1qA8TMPUHAOWphK6kKXIi2z-QoBDhqrgZ7hRUNnH4aAmW8XIOvEOMYb85jrtbqb74oEpJM26Hnyt9iKFP0NEA",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjUQl4fykf-ANW2x4RPcywSYUPDDTgv9ne3oIflZoG57tB3CgR",
+   "thumbnail_width": 251,
+   "thumbnail_height": 201,
+   "image": "https://cdn.shopify.com/s/files/1/1033/0751/files/sage-green-solid-A-RC-PB004-MED_c1664b56-64c0-4178-a0f4-757c81a00f01.jpg?v=1789197187&width=3840&quality=75",
+   "image_width": 3000,
+   "image_height": 2400
+  },
+  {
+   "position": 27,
+   "title": "Ninho Casulinho Para Bebê Sensorial Premium + Capa Algodão M ...",
+   "link": "https://www.mercadolivre.com.br/ninho-casulinho-para-bebe-sensorial-premium-capa-algodao-m-cor-verde-militar/p/MLB50873069",
+   "source": "Mercado Livre",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRCdwFyT-cwuhpn0sVcNdQhpT6Q6UJ38p5-twh03fr7oXvIkN_9qA6lYRMu8b-wmAaV39072EiRtP3y_Pcla9K--NU5tbp_3yEnj_4vDk4oKrlzG8wm0Y2WolDmXQ",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvik5D7398SL9unVHAGziAvnPfo33Vg6MbH-T0ILWeLGhSqnij",
+   "thumbnail_width": 275,
+   "thumbnail_height": 183,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_918405-MLA95501038395_102025-O.webp",
+   "image_width": 500,
+   "image_height": 333
+  },
+  {
+   "position": 28,
+   "title": "Louann Original Human Dog Lazy Sofa Bed",
+   "link": "https://www.louanntatami.com/human-dog-lazy-sofa/",
+   "source": "LouannTatami",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQwsK81EjrBXjDW4DPH-V1hH26xzz91ySqIefFpIOgATScI0Cg4UxzijBj8hl9t6BnE28Amfsu4f43PNafhXGfAXVlf3oJSmMLR2juNXY4lcXrTe_JYj_PV-A",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0vqGMI3lH3hjkFCLalXXo6NluMGgVPHzbjNb0_-V9zhb4OR20",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://www.louanntatami.com/wp-content/uploads/2023/11/Green-Foldable-Lazy-Sofa.jpg",
+   "image_width": 800,
+   "image_height": 800
+  },
+  {
+   "position": 29,
+   "title": "Chicco Mommy Pod 4-in-1 0-8m, Olive – Chicco UAE Official ...",
+   "link": "https://chicco.ae/product/chicco-mommy-pod-4-in-1-0-8m-olive/",
+   "source": "Chicco UAE Official Website",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQMxuvdnZqXU-14fokvm8VNDJ8RPolAAZIzUqV-xCqtgboSicQEAyxuRLkhUZcwFlzE2PiS7KopWPJ6otcPa3GJUe4k5fjw2CwblYDtMAY",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNwAZeePM9XoSCI_Wa1KgXWE9E2cdD-v5sDqSdVNRr1rQPWfdx",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://chicco.ae/wp-content/uploads/2025/10/CH87176-16-Chicco-Mommy-Pod-4-in-1-0-8m-Olive-09.jpg",
+   "image_width": 1280,
+   "image_height": 1280
+  },
+  {
+   "position": 30,
+   "title": "Retiran cojines para bebés vendidos en Amazon por riesgo de ...",
+   "link": "https://www.eluniversal.com.co/mundo/2026/08/05/retiran-cojines-para-bebes-vendidos-en-amazon-por-riesgo-de-asfixia-esto-deben-hacer-los-padres/",
+   "source": "El Universal",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTB_gtR4jtVS-xMhVhF-uWlQoHk_4-KtBWYH3A4nERbbwvHZkubJ0AMZfMvvFpjFVeWaGrdHFe8is4BOo1NdDpByfSsEMm9ajyGSZjulScewvvC195Z8SFd3m-a",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QVjFFmiSToflhB_af2JfTdt_TKADyZehJT4-BbDMigGiz9qS",
+   "thumbnail_width": 183,
+   "thumbnail_height": 275,
+   "image": "https://www.eluniversal.com.co/resizer/v2/cogines-de-bebe-5JYUQDQFM5FCHFR2J3O64H7JNA.jpg?auth=849481b49f0a05223e4d55a8862e40872d53c8043af78f0edef84b1ec8f275db&smart=true&width=1200&height=800&quality=70",
+   "image_width": 800,
+   "image_height": 1200
+  },
+  {
+   "position": 31,
+   "title": "New Snuggle Me Infant Organic Slate. It's a lounger | eBay",
+   "link": "https://www.ebay.com/itm/800411222188",
+   "source": "eBay",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT5NXsW5qpQoNKtvnEC0sNL88H54opWmBBYIh2gQ3U_SGUU-yc8xV_BfeECVq4HYfwroQsx3k4lpMvjDByZM4KvONyK63j7aI6RPQrDFwRa9lo",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYp-au3SvcJe6Lj1lTl9RI-f9c1CqIwMonT6MTycXxCq73b6Dk",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/rr4AAeSwI-5p175C/$_12.JPG?set_id=880000500F",
+   "image_width": 500,
+   "image_height": 500
+  },
+  {
+   "position": 32,
+   "title": "Ninho Casulinho 100% Algodão Extra Macio Recém Nascido Bebê ...",
+   "link": "https://shopee.com.br/Ninho-Casulinho-100-Algodão-Extra-Macio-Recém-Nascido-Bebê-i.284123836.21499310037",
+   "source": "Shopee",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSp5qhC95I6r7e8gDrEJwW4w3v04821MQuCKeFsPPMm5fvEp5mL920-kH-PNRW-s3enzxk__-OYWOz4FAWEyqj-WyOQtAaP-D-HwuNIVCB0mcSx",
+   "rating": 4.8,
+   "reviews": 65,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSE6NmmiRlXS2lcVEfIZwn4oome7oOSwUxFz5kD7uwUiRYbc63X",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-meyo6igbikna95",
+   "image_width": 1024,
+   "image_height": 1024
+  },
+  {
+   "position": 33,
+   "title": "Little Story Portable Sleeping Pod Online | Baby Bedding ...",
+   "link": "https://www.centrepointstores.com/kw/en/Baby/Nursery/Baby-Bedding/SAMBOX-Little-Story-Portable-Lounger-Sleeping-Pod/p/166571865",
+   "source": "Centrepoint",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcR0zmGT-YbF_ZTgkUkFIL6VwjRJGsxE2pkB6ouynM4j5XNTB-jenq2nU2-V60mzZ6mcrR1E8tx52VUePq9b6ATlxzFC2Ahnz-Uzb5mzv2kf0L2kfLbRHiw6o1mgROTm",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOAqZgIhrZ4c_6u3JADpA6AlyQWHDBKyPl3rKb3rtLz2Ic5Zc8",
+   "thumbnail_width": 261,
+   "thumbnail_height": 193,
+   "image": "https://cdn.media.amplience.net/i/lmg/166571865-LS-SPOD-BSRG07022024_02-2100.jpg?$prodimg-d-prt-pdp$&$quality-standard$&fmt=auto&sm=c",
+   "image_width": 1918,
+   "image_height": 1420
+  },
+  {
+   "position": 34,
+   "title": "Babyhug Premium 3 Piece Nest Gadda Set With Diaper Changing ...",
+   "link": "https://babyhug.in/products/babyhug-premium-3-piece-nest-gadda-set-with-diaper-changing-mat-in-polka-dots-print-green-1?id=2951266",
+   "source": "Babyhug",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRz4NBM3c22GftFsmbL3-weilTdglRyBDK06zXp5tgKd9rYx29JwB9zp_gPzPVGPdSW3gVwAfYjOzmjfZeWqsf1gcgXxo3Wxbf6mRc0bazw",
+   "rating": 4.4,
+   "reviews": 73,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXFUkIuA6D7An03smoDp3RUmGaNzXyiIADErVWiRK6L63ptE0x",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://babyhug.in/cdn/shop/files/2951266b_43d3ef32-7013-4ba5-8381-05193da9c313.jpg?v=1759123619&width=416",
+   "image_width": 250,
+   "image_height": 250
+  },
+  {
+   "position": 35,
+   "title": "Babyhood Breathe Eze Cosy Crib Original - Grey - Kmart",
+   "link": "https://www.kmart.com.au/product/babyhood-breathe-eze-cosy-crib-original-grey-110154628/",
+   "source": "Kmart",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSu7svCBdUvZWGcdyHlubusiX0rzrxhhW3_HXCIsertytxgOTJJuFRDUAA45Y3h95nGLTpmis1yIXmghEi0fbfsOhoor7xlFh0qUXUTBQcXDw2yTnj4",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg8qU1Tb04lG2ATWW2_0gZ3WviIos8AZCkdCz68ylZGAReUZRX",
+   "thumbnail_width": 251,
+   "thumbnail_height": 201,
+   "image": "https://assets.kmart.com.au/transform/c5ab756d-2384-483a-b761-ac7d5ce101f8/110154628-5?io=transform:fit,width:3840,height:4800&quality=90",
+   "image_width": 2500,
+   "image_height": 2000
+  },
+  {
+   "position": 36,
+   "title": "Breathable & Soft Cotton Baby Nest : Amazon.in: Baby Products",
+   "link": "https://www.amazon.in/Breathable-Soft-Cotton-Baby-Nest/dp/B0F5GWG57K",
+   "source": "Amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR2emfet7RmzmPRsHjYm_UPCTAgzmbvxRasG6I2u0I4LbQ54ZknecWGFOlBWs77JqzWT4yV05Z70DroaUwrYGlJKA1RUCO8YFzPxNBQf8kSXLfu",
+   "price": {
+    "value": "₹14,653*",
+    "extracted_value": 14653.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtO15Xwk4n4CQx2diK_k4uYzK6DNxDFAXNNIFfJTJmkg4FmSWv",
+   "thumbnail_width": 221,
+   "thumbnail_height": 228,
+   "image": "https://m.media-amazon.com/images/I/710e4ahT4hL._AC_UF350,350_QL50_.jpg",
+   "image_width": 339,
+   "image_height": 350
+  },
+  {
+   "position": 37,
+   "title": "Nanna babynest lux, mossgreen | Barnashus.no",
+   "link": "https://www.barnashus.no/yngri/nanna-babynest-lux-mossgreen",
+   "source": "Barnas Hus",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRpX-RSQNQisCpgYDiyjwxQXfWDhwdFJnC8rQ1Fym4U3t9syaL4oYDjjpOM8w1Gy6MJoIysublDozgvDCxvx2QPcXq6UNgljoa0Hw570-xfIR1abOpL",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKu6TzfrAwzBdnJ_RHFwm8uFKEX2MDHchG1b3pMQthbC3xIk-L",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://www.barnashus.no/globalassets/productimages/yngri_nanna_babynest_lux_green_263983_1.jpg?ref=8AEE48351F&w=460&scale=both&format=jpg&preset=greybg",
+   "image_width": 460,
+   "image_height": 460
+  },
+  {
+   "position": 38,
+   "title": "191次事故、20个婴儿送医！CPSC紧急召回6款母婴产品，跨境卖家们 ...",
+   "link": "https://www.wearesellers.com/m/article/31621",
+   "source": "知无不言",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTCGE0MB-8gs8fYnZF8k46vN8QTyw7dc7_aCD4uCQ56XAUzJvrIbRdi3o3V7pSR7i91FD4y_cGmRRNU4H_rxZfukRPnePadx5I1oiJP6kft2spji1SwTLcbpQ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkL0Wrl6WxEgSGMpld_-w7tMmIMdLzIZCbnbhbdx66M31gm8q1",
+   "thumbnail_width": 189,
+   "thumbnail_height": 266,
+   "image": "https://assert.wearesellers.com/article/20260918/a894240871d1409254cd882946acdc3a.png",
+   "image_width": 691,
+   "image_height": 971
+  },
+  {
+   "position": 39,
+   "title": "New Arrival – Atelier Yvette",
+   "link": "https://atelieryvette.com/collections/new-arrival",
+   "source": "Atelier Yvette",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRF34axOhZn7veQPy4KdFQNNpH1RsLT50nxDhPCO_j1tayzRY79vk9Ep8TRK278ZoH0RqiA-8eWdE7b2ijxt1F5YZa34t_nJEuGWjqsy4QLOmZOd5LflA",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9WpRlJDDhHmhgeYxR8tYtvVXpsSMFwgU0uEMmZ_EoqHijySS6",
+   "thumbnail_width": 224,
+   "thumbnail_height": 224,
+   "image": "https://atelieryvette.com/cdn/shop/files/marine-chambray-p-2_2f040e32-696f-4b86-b091-71883f614615.webp?v=1785833492&width=533",
+   "image_width": 533,
+   "image_height": 533
+  },
+  {
+   "position": 40,
+   "title": "CPSC Warns Consumers to Stop Using Joyful Journeys Baby ...",
+   "link": "https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Joyful-Journeys-Baby-Loungers-Immediately-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Infant-Sleep-Products",
+   "source": "CPSC.gov",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQdJCtPKjo8JkjtyxzxOn0NdTPk85C886CDMl1SjlBMpWjxQRPFUtDwiuRo-g2GeX7VB6IP2qdPrTlBQdkNUnmABFhx4aZBhIHcsWTKBOhZ5vI",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukNwvT-5IAPodjfTmLGFAVCuVBG-J0c6x9j78yg8Y4ioBy6fn",
+   "thumbnail_width": 162,
+   "thumbnail_height": 311,
+   "image": "https://www.cpsc.gov/s3fs-public/styles/recall_product/public/Picture3_36.jpg?VersionId=4ZPc.BD.gmCXsCsy85nl9_iemQmg3BVi&itok=u8EVW8Nz",
+   "image_width": 208,
+   "image_height": 399
+  },
+  {
+   "position": 41,
+   "title": "Βρεφική φωλιά Mordesign khaki - For My Baby",
+   "link": "https://formybaby.gr/shop/eidi-proikos/vrefikes-folies/brefikh-fwlia-khaki/",
+   "source": "For My Baby",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQZ5wVGKg4gQf0U64tgKy7iJniul3iF9_-zh6cWEyFFgPfvywfA58av2MhWxJrntHo5kEufaqrBOZXXlet4buH7q1d6ZZf5Qvz4VR8zqXz219c",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7dZv5oOagiFgiTi8tPoFUux-PBV_IAwuX_Ko4u0VjAXUg75p",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://formybaby.gr/wp-content/uploads/2025/02/babynest-03.jpg",
+   "image_width": 1080,
+   "image_height": 1080
+  },
+  {
+   "position": 42,
+   "title": "What Every Parent Needs to Know About: Container Toys ...",
+   "link": "https://www.bloomtherapytucson.com/blog/what-every-parent-needs-to-know-about-container-toys",
+   "source": "Bloom Pediatric Therapy",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRP9TKeEWsA6W6sJVkWnk7IWC9j8rHOpvoeWGCbxTgj-24y_JY1GJal1DU-THhTaixkXGy6jNv5N2XWa1xcZBNwu7Gs53ve1wThDn2VwI3vjEx6Yyb3WnVCmd5eX-VbTQ",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYd0s0nY576rcA0Ja6bbdX6Qo4SLtUJ-XhJgyqU_fSOV6ys_mZ",
+   "thumbnail_width": 264,
+   "thumbnail_height": 191,
+   "image": "https://images.squarespace-cdn.com/content/v1/66a28fe0ff63a237651ccd07/1730922190989-MIL7LVS52TU4LVV605LB/lounger.jpg",
+   "image_width": 1000,
+   "image_height": 726
+  },
+  {
+   "position": 43,
+   "title": "Coussin de sol pour chien ovale orange vert XL - Accessoires ...",
+   "link": "https://www.leboncoin.fr/ad/accessoires_animaux/3276651064",
+   "source": "Leboncoin",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRM1zTRY1REwFH0XjgmsCbncZfmhhGc5pdwwFziTRETO-kxLl79BEY0JVhBusrldlHjbgimn2CMlqlKqbxzWgr_9Sf-CJl01pg5SyxfLbsWuGnT7KV6",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE5jmhN4qC8TPomoCYswXr96lJV443krpJ3BC2MF17ZhrYYNDO",
+   "thumbnail_width": 194,
+   "thumbnail_height": 259,
+   "image": "https://img.leboncoin.fr/api/v1/lbcpb1/images/15/ef/f1/15eff1bb9c73e1c8baf6e3b788a0ac0de0d892a3.jpg?rule=ad-large",
+   "image_width": 600,
+   "image_height": 800
+  },
+  {
+   "position": 44,
+   "title": "I love holding my baby but sometimes I need somewhere to lay ...",
+   "link": "https://www.instagram.com/p/DchSRxqj-c4/",
+   "source": "Instagram",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw4hBrhiYw6N1O7BN9rVjoYepnOEPCug-uE1iRlkaMPs09A9Bw",
+   "thumbnail_width": 259,
+   "thumbnail_height": 194,
+   "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3972535105583251783",
+   "image_width": 960,
+   "image_height": 720
+  },
+  {
+   "position": 45,
+   "title": "Modular 2-in-1 Baby Nest with Detachable Sides - Sleepee",
+   "link": "https://lovesleepee.com/modular-baby-nest-cocoon/modular-2-in-1-baby-nest-with-detachable-sides/",
+   "source": "Sleepee",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcS0UdeNXQYn70mG1ZNjPrIxuGHC80katn4li3mYcbHYXIIcbUorhKTLJXG-5tHHjkqnMLmVfmiFZ3IAvZH612OKZwXsevGgl7Tp6WHXhj0vxF_JNBQ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQ0lzcNtgSvp-iRx0iIVAHk7Hh7YfYn2Txg-QodIxUYlcVJDU",
+   "thumbnail_width": 183,
+   "thumbnail_height": 275,
+   "image": "https://lovesleepee.com/wp-content/uploads/2025/06/85da973ea18f4114c609d897a20cf58e-1.jpg",
+   "image_width": 853,
+   "image_height": 1280
+  },
+  {
+   "position": 46,
+   "title": "Harley and Cho Lounger Khaki Waterproof Двухсторонний лежак ...",
+   "link": "https://petslike.ua/ru/lounger-khaki-waterproof-dvukhstoronnii-lezhak-ponton-dlia-sobak",
+   "source": "Зоомагазин Petslike",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTZDDRtUUyVBBI0tsQi2FpmpWbS71wCxZGdp_ALyQOsHjwLCxFvM8PnGZwKPvyMBwfsccsjlylzZuxNuJUQ4CqcfwLtDpsgGCWYmQSlC6q8UQ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlyqBH4gTRwaPb8dVwK8W2kSDZs50_AuBnItP7QWkh9_MUA09",
+   "thumbnail_width": 183,
+   "thumbnail_height": 275,
+   "image": "https://petslike.ua/images/product/large/392079817b1b07509814231acf0f134a.jpeg",
+   "image_width": 427,
+   "image_height": 640
+  },
+  {
+   "position": 47,
+   "title": "Ninho Casulinho Para Bebê Sensorial Premium + Capa Algodão M ...",
+   "link": "https://www.mercadolivre.com.br/ninho-casulinho-para-bebe-sensorial-premium-capa-algodao-m-cor-azul-bebe/p/MLB50940162",
+   "source": "Mercado Livre",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRCdwFyT-cwuhpn0sVcNdQhpT6Q6UJ38p5-twh03fr7oXvIkN_9qA6lYRMu8b-wmAaV39072EiRtP3y_Pcla9K--NU5tbp_3yEnj_4vDk4oKrlzG8wm0Y2WolDmXQ",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlopOhqux8g2r-k6XS-x1lvGpJE_DxuiplwIdrMGN9ovO62En9",
+   "thumbnail_width": 221,
+   "thumbnail_height": 228,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_800768-MLA115641605898_092026-F.jpg",
+   "image_width": 1168,
+   "image_height": 1200
+  },
+  {
+   "position": 48,
+   "title": "Health alerts: Children's sandals, zipline kits, toddler ...",
+   "link": "https://publications.aap.org/aapnews/news/35766/Health-alerts-Children-s-sandals-zipline-kits",
+   "source": "AAP Publications",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ427dZ4lzTP9MpdFrBP1pKfogF5gYNFIWKdh5edR9ds99Z2O6p3NNhfryAvHljWrOigfTChGyWrUdiB-bQw6Ls7qBDbN8YRe8C_olm25BKA8qCfBtCp3gZQg",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjMyLkW-beNH9HQiFB3292aTHAGRyEluKF9T5z3LyhJ2bTKJl",
+   "thumbnail_width": 150,
+   "thumbnail_height": 200,
+   "image": "http://composer.publications.aap.org/media/002otpfh/cetopmax-recall.jpg?rmode=max&width=200&height=150",
+   "image_width": 150,
+   "image_height": 200
+  },
+  {
+   "position": 49,
+   "title": "Wodoodporne legowisko dla psa rozmiar 85x60 cm – trwałe,",
+   "link": "https://www.kaufland.pl/product/547273986/",
+   "source": "Kaufland",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcR4B6Pv5PSAJ_zyN8BpOAXfPLEFfPoSxtmf700Z2p99RWU7n3qtyWqsxj_bYfAEN4Sz9bkoMbodtoLeQBtJ2llJf1F5a4QRsIyjiQ0B3lMVEMa2qmE",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShQLGIK5V_396q6MORLrjTfzPvLrqPcT-7NZ1ehFekdXTskq1V",
+   "thumbnail_width": 164,
+   "thumbnail_height": 306,
+   "image": "https://media.cdn.kaufland.de/product-images/400x400/88ccd7cac8f0a4de11797455ea551810.webp",
+   "image_width": 215,
+   "image_height": 400
+  },
+  {
+   "position": 50,
+   "title": "Portable Baby Bassinet Cradle Foldable Soft... From Cong05 ...",
+   "link": "https://www.dhgate.com/product/bassinets-cradles-travel-foldable-soft-portable/864416944.html",
+   "source": "DHgate",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTRk_908BbD9c9fi9c_9pP_-fj6oLferlbITHSb41latljvczBCfGq9uDORKS-89HUgLGcxXngycdw2tZlHLiiuUSPcx9t630aVm1YjIyg1TNurCA",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl1BYYFW1-1QvuYfz3AU9sdgb3SOBNojR3UANwM-mo3dMAxgjM",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://image.dhgate.com/webp/m//f3/albu/km/m/10/0f05911f-d7c7-47cf-8f20-332ce9fc9441.jpg",
+   "image_width": 800,
+   "image_height": 800
+  },
+  {
+   "position": 51,
+   "title": "Multifunctional Mother Side Baby Bed - Sevi Bebe",
+   "link": "https://sevibebe.com.tr/en/mattress/390-multifunctional-mother-side-baby-bed-8692241102760.html",
+   "source": "Sevi Bebe",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSB0-k2UtptB4-0LSWcri1z4TMOtKtiqXVvUsC76hvH0iDB2oeFbWRSq2ycgjHajJ2I__EayQFZvl_o6CAkpw7j-b9MPbsESZZauVGYERu0lqWVa9o",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNagPChqf2p-dNDa3r03QJ8_RYdGsJqIP8pAVEh7UlKLRxOnyV",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://sevibebe.com.tr/7685-big_default_2x/multifunctional-mother-side-baby-bed.jpg",
+   "image_width": 3000,
+   "image_height": 3000
+  },
+  {
+   "position": 52,
+   "title": "Little Story Portable Lounger Sleeping Pod - Green | Best ...",
+   "link": "https://www.noon.com/bahrain-en/portable-lounger-sleeping-pod-green/ZA588086FFBDF44D5AC0BZ/p/",
+   "source": "www.noon.com",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv6ecWqsHPUJ8fUHRF16yx1Lzhe08LzjrFWYNyjnOD2renHShENc2JC1e6G_D1J57FVObo0iGFOIUKjYLidOhA4RrfD8qBBfcoSvMNgTp2Ngk",
+   "rating": 5.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVjLDb_wW0EUW-qZROvG8hRnk6vxoCz4HEcHkWf6BAmCYyyJkB",
+   "thumbnail_width": 262,
+   "thumbnail_height": 192,
+   "image": "https://f.nooncdn.com/p/pzsku/ZA588086FFBDF44D5AC0BZ/45/_/1706515929/aead33e7-547e-46ec-b816-9c0c6827a9ec.jpg?width=320",
+   "image_width": 436,
+   "image_height": 320
+  },
+  {
+   "position": 53,
+   "title": "Baby Lounger Safety Tips",
+   "link": "https://www.thebump.com/a/are-baby-loungers-safe",
+   "source": "TheBump.com",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRiHhnIE6WyzAQSh0N8P4YAHWvVLn7MsYJZlEHp9M-_ZeikBuJMX52FlVZjGbKDXk77bMSl3z4gOOmR3l-p4HC75mFwzA_WhG4MrwBnZ_lnORyv_TI",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoUccUXN1E5FFjILNP3zpExd-ya5pFIAjf-7DPkBX_5rbIEpRH",
+   "thumbnail_width": 167,
+   "thumbnail_height": 301,
+   "image": "https://images.ctfassets.net/6m9bd13t776q/3TIhrqrKqVukGx6KQC2nXb/3d869b3d01f3c0c7b2fc37a2f6c1a7c5/are_baby_loungers_safe-hero-shutterstock_2199369969.webp?q=75&w=475",
+   "image_width": 264,
+   "image_height": 475
+  },
+  {
+   "position": 54,
+   "title": "Snuggle Me Organic Infant Lounger, Slate",
+   "link": "https://goodbuygear.com/products/snuggle-me-organic-sensory-infant-lounger-26",
+   "source": "GoodBuy Gear",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRpwzfzUiFmGc1uuOP9rFI3IOHnUocSnACgzqp_RKP2ZicTUYC1r8UnVDecCkGYj3OJggZgNpbelmsLsw2CDMozFYO9IEZJSsPq2x7GR6hPOLCITnI",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTT-L9o_xDmBp4PnCnQLfls6Wu8iGIVv5_sIGbmWOcPmR8y1yK",
+   "thumbnail_width": 259,
+   "thumbnail_height": 194,
+   "image": "https://cdn.shopify.com/s/files/1/1540/2631/products/27b10c1dc98c459a8f7059ebf26d686c.jpg?v=1666758569",
+   "image_width": 2400,
+   "image_height": 1800
+  },
+  {
+   "position": 55,
+   "title": "Baby Bed with Mat & Cover: A New Mom's Life Saver! 🙏🏻 | TikTok",
+   "link": "https://www.tiktok.com/@styledbyled/video/7691889583696465183",
+   "source": "TikTok",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTiWsZg_7Q-8bAQYHlD9VtdBO8GLzYtDmFFmMRclrXQhRI17hRJ77T_Rc7VFiml61ZZKCAxlqLWhaBMeobWN_zExBK3t3LPjYWjTlpJS_fXur2RjQ",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTEZ2P9SLIA8HinVTj1OAl-PLdIxr7rvJIWtuO1l4KMW8-_0lD",
+   "thumbnail_width": 269,
+   "thumbnail_height": 188,
+   "image": "https://www.tiktok.com/api/img/?itemId=7691889583696465183&location=0&aid=1988",
+   "image_width": 1764,
+   "image_height": 1233
+  },
+  {
+   "position": 56,
+   "title": "Snuggle Me Organic Infant Lounger - Sage | Winstanleys Pramworld",
+   "link": "https://www.pramworld.co.uk/snuggle-me-organic-infant-lounger-sage/",
+   "source": "Winstanleys Pramworld",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRE9m4_JHgSJxCpRzLwouxSnKAhvO6oW58QDMCm-GHNtVH0Gc1riBxQFop9YCy4nUS1--ezLKob6M5puuy1OOJ4WVs063kTOLSfkT2_JLEPuyK4A0tC9oFP",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyLoH1-yegEFSH8O_Rw01JyPiOG-LhrcrxZk9HbCypZsXCN9Gg",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://cdn11.bigcommerce.com/s-yrl65u5deh/images/stencil/1280x1280/products/124675/469236/snuggle-me-organic-infant-lounger-sage-lifestyle_6__41407.1743421753.jpg?c=1",
+   "image_width": 1280,
+   "image_height": 1280
+  },
+  {
+   "position": 57,
+   "title": "Snuggle Me Vs Other Baby Loungers",
+   "link": "https://www.facebook.com/fb-answers/snuggle-me-vs-other-baby-loungers/",
+   "source": "Facebook",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9rKgqNBKVMy7eySvpZP9CFEM0_cSf_S9NFi8n9Iuxs0HDhPQR",
+   "thumbnail_width": 273,
+   "thumbnail_height": 184,
+   "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10245350601679909",
+   "image_width": 2048,
+   "image_height": 1383
+  },
+  {
+   "position": 58,
+   "title": "Consumer Reports investigation: Unsafe cantilever baby ...",
+   "link": "https://www.youtube.com/watch?v=xMKY69xWhuk",
+   "source": "YouTube",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeynGTdFbgpsU1Y0OMj5NGpr7dfwGBAGIGoOidgOxanOoDtHoc",
+   "thumbnail_width": 194,
+   "thumbnail_height": 259,
+   "image": "https://i.ytimg.com/vi/xMKY69xWhuk/hqdefault.jpg",
+   "image_width": 360,
+   "image_height": 480
+  },
+  {
+   "position": 59,
+   "title": "Ninho Casulinho Extra Macio Recém Nascido Bebê Micropercal ...",
+   "link": "https://shopee.com.br/Ninho-Casulinho-Extra-Macio-Recém-Nascido-Bebê-Micropercal-400-fios-Cores-i.336307779.20998292692",
+   "source": "Shopee",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSp5qhC95I6r7e8gDrEJwW4w3v04821MQuCKeFsPPMm5fvEp5mL920-kH-PNRW-s3enzxk__-OYWOz4FAWEyqj-WyOQtAaP-D-HwuNIVCB0mcSx",
+   "rating": 5.0,
+   "reviews": 70,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wycaZ_wZqpe612gcWpoVlSlw445-JPpepNuYKkWCWpPe2JeF",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mk9kuptinyf77a",
+   "image_width": 719,
+   "image_height": 719
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Recall of Cpzzkq Baby Loungers Expanded Due to Risk ...",
+   "link": "https://www.cpsc.gov/Recalls/2026/Recall-of-Cpzzkq-Baby-Loungers-Expanded-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Hazard-Violate-Mandatory-Standard-for-Infant-Support-Cushions-Sold-on-Amazon-by-CetoPMax",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgIB6zswFezCB64cBKIm1122hg7AoQLBlP350eLiZMIA3c4silIkyDgwyPcLoV73b-2OpN_R0oPPlTm0W9eApgyWqj1MD7BuLf6JXBY-TjkU_rB7yYOnCdFGQK2SBmAnBNO0V7wttRGKcZPL3U7-Os-FVLwCAw6MsWTXT4LwtXikEJcVpJErpRu_42QNm0HEeZjNIqxFNUL5eDNHOu0sbgOoMdSCH1uEXsELZjTb5xlzpPhef75kk6glWgTTPb5iMmFodUzv853dXs80Ew95KqwoZvyqS8MNu-9zw_DpcmhzUvqLWiv4QjlwhrVlRRMgqXR5LP8_9qCaDM6Kov5gCGPKjuPo92015yuKOQftcJLN0yBgr5RVoQ&ved=2ahUKEwjR9oKXs6uXAxV3lOEIHTcSBZ0QFnoFCM0DEAE&uoh=1",
+   "displayed_link": "https://www.cpsc.gov › Recalls › Recall-of-Cpzzkq-Baby...",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "snippet": "The recalled baby loungers violate the mandatory safety standard for infant support cushions because the padding can obstruct an infant's breathing,",
+   "about_this_result": {
+    "source": {
+     "description": "The recalled baby loungers violate the mandatory safety standard for infant support cushions because the padding can obstruct an infant's breathing,",
+     "source_info_link": "https://www.cpsc.gov/Recalls/2026/Recall-of-Cpzzkq-Baby-Loungers-Expanded-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Hazard-Violate-Mandatory-Standard-for-Infant-Support-Cushions-Sold-on-Amazon-by-CetoPMax",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CoQDL2dvdG8_dXJsPUNBRVNsZ0lCNnpzd0ZlekNCNjRjQktJbTExMjJoZzdBb1FMQmxQMzUwZUxpWk1JQTNjNHNpbElreURnd3lQY0xvVjczYi0yT3BOX1Iwb1BQbFRtMFc5ZUFwZ3lXcWoxTUQ3QnVMZjZKWEJZLVRqa1VfckI3eVlPbkNkRkdRSzJTQm1BbkJOTzBWN3d0dFJHS2NaUEwzVTctT3MtRlZMd0NBdzZNc1dUWFQ0THd0WGlrRUpjVnBKRXJwUnVfNDJRTm0wSEVlWmpOSXF4Rk5VTDVlRE5IT3Uwc2JnT29NZFNDSDF1RVhzRUxaalRiNXhsenBQaGVmNzVrazZnbFdnVFRQYjVpTW1Gb2RVenY4NTNkWHM4MEV3OTVLcXdvWnZ5cVM4TU51LTl6d19EcGNtaHpVdnFMV2l2NFFqbHdoclZsUlJNZ3FYUjVMUDhfOXFDYURNNktvdjVnQ0dQS2p1UG85MjAxNXl1S09RZnRjSkxOMHlCZ3I1UlZvURIEGgIIABoiEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQDL2dvdG8_dXJsPUNBRVNsZ0lCNnpzd0ZlekNCNjRjQktJbTExMjJoZzdBb1FMQmxQMzUwZUxpWk1JQTNjNHNpbElreURnd3lQY0xvVjczYi0yT3BOX1Iwb1BQbFRtMFc5ZUFwZ3lXcWoxTUQ3QnVMZjZKWEJZLVRqa1VfckI3eVlPbkNkRkdRSzJTQm1BbkJOTzBWN3d0dFJHS2NaUEwzVTctT3MtRlZMd0NBdzZNc1dUWFQ0THd0WGlrRUpjVnBKRXJwUnVfNDJRTm0wSEVlWmpOSXF4Rk5VTDVlRE5IT3Uwc2JnT29NZFNDSDF1RVhzRUxaalRiNXhsenBQaGVmNzVrazZnbFdnVFRQYjVpTW1Gb2RVenY4NTNkWHM4MEV3OTVLcXdvWnZ5cVM4TU51LTl6d19EcGNtaHpVdnFMV2l2NFFqbHdoclZsUlJNZ3FYUjVMUDhfOXFDYURNNktvdjVnQ0dQS2p1UG85MjAxNXl1S09RZnRjSkxOMHlCZ3I1UlZvURIEGgIIABoiEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "CPSC.gov"
+  },
+  {
+   "position": 2,
+   "title": "Recall of Cpzzkq Baby Loungers Expanded",
+   "link": "https://www.youtube.com/watch?v=CH_h6pOF_Qw",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVQxKDvLA-OatHxpYQt6bS_enaULNtSaFhCIAKde98CoUMmxG6hcFkE8Q6lmzE4g9dHowxSvLQDj9Ew5qcXlT93tP0cXl-DfZ9AX8bZM8sIMunibneeREavM11p-r3q4SVkg&ved=2ahUKEwjR9oKXs6uXAxV3lOEIHTcSBZ0QFnoFCNEDEAE&uoh=1",
+   "displayed_link": "6 views · 2 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "View more recalls at https://schiffmanfirm.com/recalls This recall involves an additional 195 Cpzzkq baby loungers sold in green and purple ...",
+   "about_this_result": {
+    "source": {
+     "description": "View more recalls at https://schiffmanfirm.com/recalls This recall involves an additional 195 Cpzzkq baby loungers sold in green and purple ...",
+     "source_info_link": "https://www.youtube.com/watch?v=CH_h6pOF_Qw",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlF4S0R2TEEtT2F0SHhwWVF0NmJTX2VuYVVMTnRTYUZoQ0lBS2RlOThDb1VNbXhHNmhjRmtFOFE2bG16RTRnOWRIb3d4U3ZMUURqOUV3NXFjWGxUOTN0UDBjWGwtRGZaOUFYOGJaTThzSU11bmlibmVlUkVhdk0xMXAtcjNxNFNWa2cSBBoCCAAaIBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlF4S0R2TEEtT2F0SHhwWVF0NmJTX2VuYVVMTnRTYUZoQ0lBS2RlOThDb1VNbXhHNmhjRmtFOFE2bG16RTRnOWRIb3d4U3ZMUURqOUV3NXFjWGxUOTN0UDBjWGwtRGZaOUFYOGJaTThzSU11bmlibmVlUkVhdk0xMXAtcjNxNFNWa2cSBBoCCAAaIBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "YouTube · Schiffman Firm"
+  },
+  {
+   "position": 3,
+   "title": "VAHAN 4~139~5",
+   "link": "https://vahan.parivahan.gov.in/vahan/",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVgEEh-whKth-ywkYwanXDwAf_ScIvfEKvjce15cvWmPQJk4DlAUnKcYcRh2Vf5ho9w836F6tOULcbB6nZoGZvvg28Clwne4IsD696sXCQFAN7-TvsFcZs4XKV1w&ved=2ahUKEwjR9oKXs6uXAxV3lOEIHTcSBZ0QFnoFCMwDEAE&uoh=1",
+   "displayed_link": "https://vahan.parivahan.gov.in › vahan",
+   "favicon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAABQBgCdASogACAAPr0ur1enIacnG_DgF4lsAJ0y3r4iwL9mujW_-NtmOVTbmngR_UXBf5MCbxhxVAa2AAD-9-Sod6jgRZpUkK82lbtUYDJUxpAEfj_42GZFjtgmScidX51SpiIzLbzqDPx4cpq0oWFTg5stRY--LnPn-IADKv_mQHzan73OrLW8srL3P_3eR1MhetFmdsiMv1bghxK7jDcYd1d_MrMDisU_Huqhcx8fX8ESPgCNOP1_Qdhw0SdGlhy8tenYOQq1PE51EPoJm7lZhNto22IRCkf-jLAA.webp",
+   "snippet": "Home; Skip Main Content; Skip Navigation. English; Assamese (অসমীয়া); Bengali (বাংলা); Bodo (बड़ो); Dogri (डोगरी) ...",
+   "about_this_result": {
+    "source": {
+     "description": "Home; Skip Main Content; Skip Navigation. English; Assamese (অসমীয়া); Bengali (বাংলা); Bodo (बड़ो); Dogri (डोगरी) ...",
+     "source_info_link": "https://vahan.parivahan.gov.in/vahan/",
+     "icon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAABQBgCdASogACAAPr0ur1enIacnG_DgF4lsAJ0y3r4iwL9mujW_-NtmOVTbmngR_UXBf5MCbxhxVAa2AAD-9-Sod6jgRZpUkK82lbtUYDJUxpAEfj_42GZFjtgmScidX51SpiIzLbzqDPx4cpq0oWFTg5stRY--LnPn-IADKv_mQHzan73OrLW8srL3P_3eR1MhetFmdsiMv1bghxK7jDcYd1d_MrMDisU_Huqhcx8fX8ESPgCNOP1_Qdhw0SdGlhy8tenYOQq1PE51EPoJm7lZhNto22IRCkf-jLAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmdFRWgtd2hLdGgteXdrWXdhblhEd0FmX1NjSXZmRUt2amNlMTVjdldtUFFKazREbEFVbktjWWNSaDJWZjVobzl3ODM2RjZ0T1VMY2JCNm5ab0dadnZnMjhDbHduZTRJc0Q2OTZzWENRRkFONy1UdnNGY1pzNFhLVjF3EgQaAggAGiISAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmdFRWgtd2hLdGgteXdrWXdhblhEd0FmX1NjSXZmRUt2amNlMTVjdldtUFFKazREbEFVbktjWWNSaDJWZjVobzl3ODM2RjZ0T1VMY2JCNm5ab0dadnZnMjhDbHduZTRJc0Q2OTZzWENRRkFONy1UdnNGY1pzNFhLVjF3EgQaAggAGiISAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Parivahan",
+   "read_more_link": "https://vahan.parivahan.gov.in/vahan/#:~:text=A%2D"
+  },
+  {
+   "position": 4,
+   "title": "Sold on Amazon by OCTROT Golden Link ...",
+   "link": "https://www.instagram.com/p/Dbbnc0eGZ5k/",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV_FemHM6lDc0YV-EA4rr_65iEmMnZUamWHGHGOwm6Wv1Qg8_nPAVHTLy6quAQxTXx8pJcfmHeLMA3OQtKHJ21JYv5iAULN3JpLLSaUxf-DfjwQTdDue2C6YnnsUHnnQ&ved=2ahUKEwjR9oKXs6uXAxV3lOEIHTcSBZ0QFnoFCNMDEAE&uoh=1",
+   "displayed_link": "80+ likes · 2 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "snippet": "OCOOPA Direct Recalls 1.5 Million Rechargeable Hand Warmers Due to Risk of Serious Injury or Death from Fire and Burn Hazards; One Death ...",
+   "about_this_result": {
+    "source": {
+     "description": "OCOOPA Direct Recalls 1.5 Million Rechargeable Hand Warmers Due to Risk of Serious Injury or Death from Fire and Burn Hazards; One Death ...",
+     "source_info_link": "https://www.instagram.com/p/Dbbnc0eGZ5k/",
+     "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVl9GZW1ITTZsRGMwWVYtRUE0cnJfNjVpRW1NblpVYW1XSEdIR093bTZXdjFRZzhfblBBVkhUTHk2cXVBUXhUWHg4cEpjZm1IZUxNQTNPUXRLSEoyMUpZdjVpQVVMTjNKcExMU2FVeGYtRGZqd1FUZER1ZTJDNllubnNVSG5uURIEGgIIABogEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVl9GZW1ITTZsRGMwWVYtRUE0cnJfNjVpRW1NblpVYW1XSEdIR093bTZXdjFRZzhfblBBVkhUTHk2cXVBUXhUWHg4cEpjZm1IZUxNQTNPUXRLSEoyMUpZdjVpQVVMTjNKcExMU2FVeGYtRGZqd1FUZER1ZTJDNllubnNVSG5uURIEGgIIABogEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Instagram · uscpsc",
+   "read_more_link": "https://www.instagram.com/p/Dbbnc0eGZ5k/#:~:text=OCOOPA%20Direct%20Recalls%201.5%20Million,by%20Shenzhen%20Street%20Cat%20Technology"
+  },
+  {
+   "position": 5,
+   "title": "CooCooBaby Baby Loungers Recalled Due to Risk of ...",
+   "link": "https://www.cpsc.gov/Recalls/2026/CooCooBaby-Baby-Loungers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-and-Fall-Hazards-Violates-Mandatory-Standard-for-Infant-Sleep-Products",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES_gEB6zswFcxzqvNuaAEOciF81Q-nYCxZstNBV8zrK-m65bdQ3x_Mz60EOFhZ11gMRvYrSf0udiO5HMJtGSJpS5GU3MaCTBHx1sk0PYRaMKcYQU-OdrPHp4CctzFxCZ15vk0VgFEPscMmEwr6GtDPdKqlub0ZhO-KDHCu84p6b1t_i3EpUUJNLzOS0M0pkLnKFUElsM5FmMzS6Nf_xNMpVqgdhLox2OMSD9nm_nOOG7y_cci8Jmt6O-SlLeGtsGvzHwATiAg53K2LP3wmHM75Qu1y4jBYPTFy0flsYmjvY2gkvf3EDhx0MSb8VlA5CLjawxzEra80zx1-UfPqZLSSqg&ved=2ahUKEwjR9oKXs6uXAxV3lOEIHTcSBZ0QFnoFCMsDEAE&uoh=1",
+   "displayed_link": "https://www.cpsc.gov › Recalls › CooCooBaby-Baby-Lo...",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "snippet": "Recalled Due to Risk of Serious Injury or Death from Suffocation and Fall Hazards; Consumers should stop using the baby loungers immediately and contact ...",
+   "about_this_result": {
+    "source": {
+     "description": "Recalled Due to Risk of Serious Injury or Death from Suffocation and Fall Hazards; Consumers should stop using the baby loungers immediately and contact ...",
+     "source_info_link": "https://www.cpsc.gov/Recalls/2026/CooCooBaby-Baby-Loungers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-and-Fall-Hazards-Violates-Mandatory-Standard-for-Infant-Sleep-Products",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CuQCL2dvdG8_dXJsPUNBRVNfZ0VCNnpzd0ZjeHpxdk51YUFFT2NpRjgxUS1uWUN4WnN0TkJWOHpySy1tNjViZFEzeF9NejYwRU9GaFoxMWdNUnZZclNmMHVkaU81SE1KdEdTSnBTNUdVM01hQ1RCSHgxc2swUFlSYU1LY1lRVS1PZHJQSHA0Q2N0ekZ4Q1oxNXZrMFZnRkVQc2NNbUV3cjZHdERQZEtxbHViMFpoTy1LREhDdTg0cDZiMXRfaTNFcFVVSk5Mek9TME0wcGtMbktGVUVsc001Rm1NelM2TmZfeE5NcFZxZ2RoTG94Mk9NU0Q5bm1fbk9PRzd5X2NjaThKbXQ2Ty1TbExlR3RzR3Z6SHdBVGlBZzUzSzJMUDN3bUhNNzVRdTF5NGpCWVBURnkwZmxzWW1qdlkyZ2t2ZjNFRGh4ME1TYjhWbEE1Q0xqYXd4ekVyYTgwengxLVVmUHFaTFNTcWcSBBoCCAAaIhICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQCL2dvdG8_dXJsPUNBRVNfZ0VCNnpzd0ZjeHpxdk51YUFFT2NpRjgxUS1uWUN4WnN0TkJWOHpySy1tNjViZFEzeF9NejYwRU9GaFoxMWdNUnZZclNmMHVkaU81SE1KdEdTSnBTNUdVM01hQ1RCSHgxc2swUFlSYU1LY1lRVS1PZHJQSHA0Q2N0ekZ4Q1oxNXZrMFZnRkVQc2NNbUV3cjZHdERQZEtxbHViMFpoTy1LREhDdTg0cDZiMXRfaTNFcFVVSk5Mek9TME0wcGtMbktGVUVsc001Rm1NelM2TmZfeE5NcFZxZ2RoTG94Mk9NU0Q5bm1fbk9PRzd5X2NjaThKbXQ2Ty1TbExlR3RzR3Z6SHdBVGlBZzUzSzJMUDN3bUhNNzVRdTF5NGpCWVBURnkwZmxzWW1qdlkyZ2t2ZjNFRGh4ME1TYjhWbEE1Q0xqYXd4ekVyYTgwengxLVVmUHFaTFNTcWcSBBoCCAAaIhICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "CPSC.gov"
+  },
+  {
+   "position": 6,
+   "title": "Baby Loungers Recalled Due to Risk of Serious Injury or ...",
+   "link": "https://people.com/baby-loungers-recalled-due-to-risk-of-serious-injury-or-death-by-suffocation-12033502",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFbHlmIV7ZNUYErfMTzj2AaM9c_EV3AgpF9Ffc5p-GqBwNTRl_3LXxIuHcG15pm8Pkc-kXYWFg2ou6EV3UvzMAIW_lq8ao9IDKsYlIdNZHQZGrzQzOAx2FsPhwnmMaAbmI4vOaJh03tazzuIsYvCuB2GujvQUUCdB2MeMRBRp68Qhc2R9WEfN9AIpGHKnQR5bXKrZWKPX_16v8_GXqmST&ved=2ahUKEwjR9oKXs6uXAxV3lOEIHTcSBZ0QFnoFCM8DEAE&uoh=1",
+   "displayed_link": "https://people.com › ... › Real People Parenting",
+   "favicon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAADwBACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHA3oHDhhI5ohkv3SYfu2ezj0AAAS0kG5BugAd88aBOfi2BQzYiqeP-0eK7OpKn4pIZu_0PWglCScnz_5rx--J1RUbWpUhe619LZAm0HqhX3OJaO9n6Hpv6SFqa8VFYkU0_92U1q1qPxOuRsxsUC1eIpdaLnbWJzzcEeQCisW9lVYuqzaKgjHtFEPo9Y8KqH02yAu3eJTr3cO5HgKg8WbSAA.webp",
+   "date": "4 Aug 2026",
+   "snippet": "CetoPMax's Cpzzkq baby loungers were initially recalled in April for violating safety standards and posing a suffocation risk to infants",
+   "about_this_result": {
+    "source": {
+     "description": "CetoPMax's Cpzzkq baby loungers were initially recalled in April for violating safety standards and posing a suffocation risk to infants",
+     "source_info_link": "https://people.com/baby-loungers-recalled-due-to-risk-of-serious-injury-or-death-by-suffocation-12033502",
+     "icon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAADwBACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHA3oHDhhI5ohkv3SYfu2ezj0AAAS0kG5BugAd88aBOfi2BQzYiqeP-0eK7OpKn4pIZu_0PWglCScnz_5rx--J1RUbWpUhe619LZAm0HqhX3OJaO9n6Hpv6SFqa8VFYkU0_92U1q1qPxOuRsxsUC1eIpdaLnbWJzzcEeQCisW9lVYuqzaKgjHtFEPo9Y8KqH02yAu3eJTr3cO5HgKg8WbSAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZiSGxtSVY3Wk5VWUVyZk1UemoyQWFNOWNfRVYzQWdwRjlGZmM1cC1HcUJ3TlRSbF8zTFh4SXVIY0cxNXBtOFBrYy1rWFlXRmcyb3U2RVYzVXZ6TUFJV19scThhbzlJREtzWWxJZE5aSFFaR3J6UXpPQXgyRnNQaHdubU1hQWJtSTR2T2FKaDAzdGF6enVJc1l2Q3VCMkd1anZRVVVDZEIyTWVNUkJScDY4UWhjMlI5V0VmTjlBSXBHSEtuUVI1YlhLclpXS1BYXzE2djhfR1hxbVNUEgQaAggAGiISAggAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCNnpzd0ZiSGxtSVY3Wk5VWUVyZk1UemoyQWFNOWNfRVYzQWdwRjlGZmM1cC1HcUJ3TlRSbF8zTFh4SXVIY0cxNXBtOFBrYy1rWFlXRmcyb3U2RVYzVXZ6TUFJV19scThhbzlJREtzWWxJZE5aSFFaR3J6UXpPQXgyRnNQaHdubU1hQWJtSTR2T2FKaDAzdGF6enVJc1l2Q3VCMkd1anZRVVVDZEIyTWVNUkJScDY4UWhjMlI5V0VmTjlBSXBHSEtuUVI1YlhLclpXS1BYXzE2djhfR1hxbVNUEgQaAggAGiISAggAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "People.com"
+  },
+  {
+   "position": 7,
+   "title": "Expanded recall issued for baby loungers; movie theater ...",
+   "link": "https://nbcmontana.com/news/local/expanded-recall-issued-for-baby-loungers-movie-theater-collectibles-also-recalled",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFRMLNED-pJvDSJ4WPPCqmms6gipMj2lMNZ434e1lOmvxwfJIaCaX01SA6OFdJHV5tlXI3vrK3a_MYKMvEHx-wPW6TdsdK8Vh-8yBK28acebDm-dPSKQtZ0YbEfJNtrdztrDAN3hBJzu1kKpAiDYQd4nIwjF9_RWZ3TQg2UrLNKlb2FoPlIZmMlGKYijN1gzXJDMPOhjCfY1kR4oUTHJPoBToj7q9MeH-VPk&ved=2ahUKEwjR9oKXs6uXAxV3lOEIHTcSBZ0QFnoFCNADEAE&uoh=1",
+   "displayed_link": "https://nbcmontana.com › news › local › expanded-reca...",
+   "favicon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglmAJ0yy8Unqa7ds2z5X6AAdmtFzjzjQrePvjPCeszIDwAA_srXcZiZLWLWHRXZudHUNg8CcljwbUO7iCp96zYc-tpdXIJa3Tjlxwq_3XfHOjiEyCdX_x_v1Ebowvpk5g4LrwQGqHgBUVx3efLNkem1wr680ZhVEFF5tPCAQpHc1Pfo6tQEeZSlnm5yMfRiySl9fjURb9DcbcahcsJfWmu1CyHmojyJBgU8E47RRPYXNzf-e6gffVAUxD9XCQcSQZ_6ORkF58aUcefpt-22Y3lOy_OqfPDASy32Tkn1RNjKexRa-3s8KJf5wjc1UVR0AAA.webp",
+   "date": "4 Aug 2026",
+   "snippet": "An expanded recall is underway for baby loungers sold on Amazon over suffocation concerns.",
+   "about_this_result": {
+    "source": {
+     "description": "An expanded recall is underway for baby loungers sold on Amazon over suffocation concerns.",
+     "source_info_link": "https://nbcmontana.com/news/local/expanded-recall-issued-for-baby-loungers-movie-theater-collectibles-also-recalled",
+     "icon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglmAJ0yy8Unqa7ds2z5X6AAdmtFzjzjQrePvjPCeszIDwAA_srXcZiZLWLWHRXZudHUNg8CcljwbUO7iCp96zYc-tpdXIJa3Tjlxwq_3XfHOjiEyCdX_x_v1Ebowvpk5g4LrwQGqHgBUVx3efLNkem1wr680ZhVEFF5tPCAQpHc1Pfo6tQEeZSlnm5yMfRiySl9fjURb9DcbcahcsJfWmu1CyHmojyJBgU8E47RRPYXNzf-e6gffVAUxD9XCQcSQZ_6ORkF58aUcefpt-22Y3lOy_OqfPDASy32Tkn1RNjKexRa-3s8KJf5wjc1UVR0AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZSTUxORUQtcEp2RFNKNFdQUENxbW1zNmdpcE1qMmxNTlo0MzRlMWxPbXZ4d2ZKSWFDYVgwMVNBNk9GZEpIVjV0bFhJM3ZySzNhX01ZS012RUh4LXdQVzZUZHNkSzhWaC04eUJLMjhhY2ViRG0tZFBTS1F0WjBZYkVmSk50cmR6dHJEQU4zaEJKenUxa0twQWlEWVFkNG5Jd2pGOV9SV1ozVFFnMlVyTE5LbGIyRm9QbElabU1sR0tZaWpOMWd6WEpETVBPaGpDZlkxa1I0b1VUSEpQb0JUb2o3cTlNZUgtVlBrEgQaAggAGiASABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZSTUxORUQtcEp2RFNKNFdQUENxbW1zNmdpcE1qMmxNTlo0MzRlMWxPbXZ4d2ZKSWFDYVgwMVNBNk9GZEpIVjV0bFhJM3ZySzNhX01ZS012RUh4LXdQVzZUZHNkSzhWaC04eUJLMjhhY2ViRG0tZFBTS1F0WjBZYkVmSk50cmR6dHJEQU4zaEJKenUxa0twQWlEWVFkNG5Jd2pGOV9SV1ozVFFnMlVyTE5LbGIyRm9QbElabU1sR0tZaWpOMWd6WEpETVBPaGpDZlkxa1I0b1VUSEpQb0JUb2o3cTlNZUgtVlBrEgQaAggAGiASABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "NBC Montana"
+  },
+  {
+   "position": 8,
+   "title": "Recalled baby lounger.",
+   "link": "https://www.threads.com/@uscpsc/post/DbbA7ihji0B/recall-recall-of-cpzzkq-baby-loungers-expanded-sold-on-amazon-by-ceto-pmax-the/",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFf_gXvIL-y3IlQ-44MPl-tdtTCRRrbVQNNS-cUCrxg-5JBQjF6Tm3udiV0m62Eg0m0abh6UIsUGdWY2jFVNUquuaiz1ij26divT2WpMTiKlR2ialdWRU_E7AVe3mTlEZWYI0n2A49deNReFCStPbz5ouHQF4ogcSbbYZEZWCAYOGlmNknZjBvtoC27yu0Cs448x_onpSCQESoZp-yEX8xlD89csIABOWjA_FCMJGEf9bDGNln1a4aw&ved=2ahUKEwjR9oKXs6uXAxV3lOEIHTcSBZ0QFnoFCNIDEAE&uoh=1",
+   "displayed_link": "6 likes · 2 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglpABPOGbNhX2ffUA6QAeMNIAp5Rw7KJAv6gU4xijOAGFYYcbgKJvXnCAD-yrP351qyyj1gtMVU2yY_rk1LIs-FBw2t9NJyVqIJqdKBRR8VxF8feLAyeC_YVV8LfVi5vFin7IgYLW6Ms8Bsz-hAGAPV4eZwa2C71V1GZKzbcKH4_7uhLPdpX1nnAW9KSIhkxTZbJ1llgV_suUS1mmCJuSfKok5XvvG88tcbfcr5Utq5RezNTXnm9q6jePGigbzZb9rO9XSLsd7p-09XUH5opsN1xar_zW58On4EUY3_Dn7GgRmec7hZ3HEta51xSxUI1r8HBeS7aWGwEJM3n7QLmaQFAwW6KhifR1kyfx_gv1wu3RWYnK_8ZzYewxK2_7j77wOXl7d6H49hNy2C16VViF_kTbn6QZoC5dLmerxx0SlkPiRbyDr9f06QD7IAAA.webp",
+   "snippet": "U.S. Consumer Product Safety Commission (@uscpsc). 308 Views. #Recall: Recall of Cpzzkq Baby Loungers Expanded; Sold on Amazon by CetoPMax.",
+   "about_this_result": {
+    "source": {
+     "description": "U.S. Consumer Product Safety Commission (@uscpsc). 308 Views. #Recall: Recall of Cpzzkq Baby Loungers Expanded; Sold on Amazon by CetoPMax.",
+     "source_info_link": "https://www.threads.com/@uscpsc/post/DbbA7ihji0B/recall-recall-of-cpzzkq-baby-loungers-expanded-sold-on-amazon-by-ceto-pmax-the/",
+     "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglpABPOGbNhX2ffUA6QAeMNIAp5Rw7KJAv6gU4xijOAGFYYcbgKJvXnCAD-yrP351qyyj1gtMVU2yY_rk1LIs-FBw2t9NJyVqIJqdKBRR8VxF8feLAyeC_YVV8LfVi5vFin7IgYLW6Ms8Bsz-hAGAPV4eZwa2C71V1GZKzbcKH4_7uhLPdpX1nnAW9KSIhkxTZbJ1llgV_suUS1mmCJuSfKok5XvvG88tcbfcr5Utq5RezNTXnm9q6jePGigbzZb9rO9XSLsd7p-09XUH5opsN1xar_zW58On4EUY3_Dn7GgRmec7hZ3HEta51xSxUI1r8HBeS7aWGwEJM3n7QLmaQFAwW6KhifR1kyfx_gv1wu3RWYnK_8ZzYewxK2_7j77wOXl7d6H49hNy2C16VViF_kTbn6QZoC5dLmerxx0SlkPiRbyDr9f06QD7IAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CowCL2dvdG8_dXJsPUNBRVN2QUVCNnpzd0ZmX2dYdklMLXkzSWxRLTQ0TVBsLXRkdFRDUlJyYlZRTk5TLWNVQ3J4Zy01SkJRakY2VG0zdWRpVjBtNjJFZzBtMGFiaDZVSXNVR2RXWTJqRlZOVXF1dWFpejFpajI2ZGl2VDJXcE1UaUtsUjJpYWxkV1JVX0U3QVZlM21UbEVaV1lJMG4yQTQ5ZGVOUmVGQ1N0UGJ6NW91SFFGNG9nY1NiYllaRVpXQ0FZT0dsbU5rblpqQnZ0b0MyN3l1MENzNDQ4eF9vbnBTQ1FFU29acC15RVg4eGxEODljc0lBQk9XakFfRkNNSkdFZjliREdObG4xYTRhdxIEGgIIABogEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowCL2dvdG8_dXJsPUNBRVN2QUVCNnpzd0ZmX2dYdklMLXkzSWxRLTQ0TVBsLXRkdFRDUlJyYlZRTk5TLWNVQ3J4Zy01SkJRakY2VG0zdWRpVjBtNjJFZzBtMGFiaDZVSXNVR2RXWTJqRlZOVXF1dWFpejFpajI2ZGl2VDJXcE1UaUtsUjJpYWxkV1JVX0U3QVZlM21UbEVaV1lJMG4yQTQ5ZGVOUmVGQ1N0UGJ6NW91SFFGNG9nY1NiYllaRVpXQ0FZT0dsbU5rblpqQnZ0b0MyN3l1MENzNDQ4eF9vbnBTQ1FFU29acC15RVg4eGxEODljc0lBQk9XakFfRkNNSkdFZjliREdObG4xYTRhdxIEGgIIABogEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Threads · uscpsc"
+  },
+  {
+   "position": 9,
+   "title": "The Consumer Product Safety Commission issues warning ...",
+   "link": "https://abc7ny.com/post/consumer-reports-product-safety-commission-podster-bummzie-infant-loungers/11492734/",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFWyHlf7JZegzyAC6KNleaGCeU3HJ969cx6pybvzAGvcD9H4SLwEtet5TW2ejCSwsAwy7lqhNNxlYDmMLTspp0tfb_faX5EgWYDHXJm6uCAaLU76CKD3rGTpefZQivv-1hrrs18ukqS8u1DEwj8fjBg2sfLpm0yH-95fsx_1_n4sjv803Qg2f-ROp00BMM2UTisqHLq5ujfSwU4An-vTJEZGAEw&ved=2ahUKEwjR9oKXs6uXAxV3lOEIHTcSBZ0QFnoFCM4DEAE&uoh=1",
+   "displayed_link": "https://abc7ny.com › post › consumer-reports-product-s...",
+   "favicon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAACwBgCdASocABwAPtEutFooIagoGAEAGglsAMtbUWoB0jf2gFs-ZW3cHoADq1xcSAlKdyX7vOb0nb_nWI6-AAD-9gFndAOrn-lH2lOZOPGKElDTAtsL65C6d4YHymOTrxOFx4QH_wlu6-Qz_qVzJqv6_846vaIny5xdHxYl1snoB7MiXFgrjR9r64y-oHsnUq06jl8wSuH-Yz7e_wmEdPyZ6cQ3_H_eCBfyBTTOb9t_kRY42g2llq2ZR6IWKVpaXXVx41r7-ZCNwS7bj_D3Awg-dBU7LeP7yJo2dfXFmMfVP88lA7_522gflf1EuP9BttZINSMqfv_79bK6D2TI6dckb-qIO7MAAAA.webp",
+   "date": "23 Jan 2022",
+   "snippet": "PHILADELPHIA -- The Consumer Product Safety Commission has issued an urgent warning for parents Thursday.",
+   "about_this_result": {
+    "source": {
+     "description": "PHILADELPHIA -- The Consumer Product Safety Commission has issued an urgent warning for parents Thursday.",
+     "source_info_link": "https://abc7ny.com/post/consumer-reports-product-safety-commission-podster-bummzie-infant-loungers/11492734/",
+     "icon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAACwBgCdASocABwAPtEutFooIagoGAEAGglsAMtbUWoB0jf2gFs-ZW3cHoADq1xcSAlKdyX7vOb0nb_nWI6-AAD-9gFndAOrn-lH2lOZOPGKElDTAtsL65C6d4YHymOTrxOFx4QH_wlu6-Qz_qVzJqv6_846vaIny5xdHxYl1snoB7MiXFgrjR9r64y-oHsnUq06jl8wSuH-Yz7e_wmEdPyZ6cQ3_H_eCBfyBTTOb9t_kRY42g2llq2ZR6IWKVpaXXVx41r7-ZCNwS7bj_D3Awg-dBU7LeP7yJo2dfXFmMfVP88lA7_522gflf1EuP9BttZINSMqfv_79bK6D2TI6dckb-qIO7MAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZXeUhsZjdKWmVnenlBQzZLTmxlYUdDZVUzSEo5NjljeDZweWJ2ekFHdmNEOUg0U0x3RXRldDVUVzJlakNTd3NBd3k3bHFoTk54bFlEbU1MVHNwcDB0ZmJfZmFYNUVnV1lESFhKbTZ1Q0FhTFU3NkNLRDNyR1RwZWZaUWl2di0xaHJyczE4dWtxUzh1MURFd2o4ZmpCZzJzZkxwbTB5SC05NWZzeF8xX240c2p2ODAzUWcyZi1ST3AwMEJNTTJVVGlzcUhMcTV1amZTd1U0QW4tdlRKRVpHQUV3EgQaAggAGiASABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZXeUhsZjdKWmVnenlBQzZLTmxlYUdDZVUzSEo5NjljeDZweWJ2ekFHdmNEOUg0U0x3RXRldDVUVzJlakNTd3NBd3k3bHFoTk54bFlEbU1MVHNwcDB0ZmJfZmFYNUVnV1lESFhKbTZ1Q0FhTFU3NkNLRDNyR1RwZWZaUWl2di0xaHJyczE4dWtxUzh1MURFd2o4ZmpCZzJzZkxwbTB5SC05NWZzeF8xX240c2p2ODAzUWcyZi1ST3AwMEJNTTJVVGlzcUhMcTV1amZTd1U0QW4tdlRKRVpHQUV3EgQaAggAGiASABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "WABC-TV New York",
+   "read_more_link": "https://abc7ny.com/post/consumer-reports-product-safety-commission-podster-bummzie-infant-loungers/11492734/#:~:text=PHILADELPHIA%20%2D%2D%20The%20Consumer%20Product,urgent%20warning%20for%20parents%20Thursday."
+  }
+ ]
+}

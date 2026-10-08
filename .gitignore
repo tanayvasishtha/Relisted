@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/photos/
+data/candidates.txt
+BUILD-PLAN.md
+HANDOFF.md
+submission/
+.claude/
+*.tmp
+.pytest_cache/
+.ruff_cache/
+*.db

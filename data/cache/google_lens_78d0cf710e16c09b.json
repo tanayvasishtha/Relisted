@@ -1,0 +1,1107 @@
+{
+ "search_metadata": {
+  "id": "6ac80fbdee23181ae47365f8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/lCiqsvFD11Z5-6HD3MmuYJ6d4MZQMEBUZZCLXOIwb3w/6ac80fbdee23181ae47365f8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/lCiqsvFD11Z5-6HD3MmuYJ6d4MZQMEBUZZCLXOIwb3w/6ac80fbdee23181ae47365f8.md",
+  "created_at": "2026-10-08 21:48:45 UTC",
+  "processed_at": "2026-10-08 21:48:45 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fbwalk-1.jpg",
+  "raw_html_file": "https://serpapi.com/searches/lCiqsvFD11Z5-6HD3MmuYJ6d4MZQMEBUZZCLXOIwb3w/6ac80fbdee23181ae47365f8.html",
+  "total_time_taken": 8.45
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/bwalk-1.jpg",
+  "country": "IN",
+  "type": "all"
+ },
+ "ai_overview": {
+  "page_token": "zNRMpHiczVfbkqo4FP2B-Y3x6RxFVNSusk6FgBovaETb1heKmxHlooAi_Tb_Ml81PzMTaLHR1j4952FqYpnLJtl7JdmLpX_8aVvu9q_f_l6H4S54KpWiKCoSzyO2WdQ9p6QGsauXVp4d-Pr6h-0GiuMZZuvgFpJ-cPBXqm62WK4QeAef9qi1GJla8bB1CwfDSZ4cA8sNWxDgPSQehECXASFdBEQORd5cwAAAofFMazA-MQAgoPSojQiNCEwggLx14OVZaqeufMtowTHH7zVfryvWy46IGKwJjywcLTeStZz3NlLM0D6KB9PJZsHicDEV40VctpfT581ijiLpdVYbTlFMiGgBdxL1JZ3H7rA_cE7OUi5vjXk5NKc7R3KGzMJZVIYyU5UEzA6muJb4G00RO7SY6kiYVYZTclp2FrE0n8kYe8qA7R30uMnosGlplZ47qEyisy1Yzmuvg_ky1tgaQ_vbwbwdqXIz0p3mlsa2NXcYLt3eUXMntuZQ3C_8bvCKynOC-wnOkaSFh13_dV_ThUJ8bFUKetBiCqbVirCCVG8MO96erI_62FqxkQVQIb29lqKpgbmhl3vaBCWlRKvt7xWBDopB0XSVDl8E4-VINmayEHlFlmErxVFJdegc8B8WDOkVAwwI_cJPptHU-JI7OlFMfF0KEtMmv5qnA55-qDWpQPuhO7GTYhIxyVwop81rkryds0P0cC1MI2QleGtIlDa91OkX9pPHAq6xPo6cBn9kQu_Phrmnn4Dh-fzhUQDimCQm8Wpp5qAH8vum1nM6DQnf6BIgrMXZZ8DpglnEnxAg6KcX_oxkN-uTPkMxlQxC85cpaT5tyiVLX-tpxw-StIbTJuOJxrwux5qw1fph3zEVcJx0N-0mCZccKOkanWd7qmEaylphfqTjMluuNzmGq35LKaUHF04FeU6poiQFdjwe8qg4KPLljE3w_aRuk5gH3r1NwmQBunuJSUHo_m2t38N451YEfQAm4nVYfsIlTXTxB7q0xmJ-ThYBAvCRTZfxBWDKJniOMsGXHV_hRCKf2xHJs6P7cTfyrQF3z2gRvei3UEK2gfwRJ7C2SR5mBEFXREzTE_Yp-_g0mdEBoncMqV_oAeQhfEswCh7THYjieXD2mkUeXh1LP0EMhogemAitrUgl7Xxc6bLF-aza8Pa9hh9QMUEzF-8--nmBX3h5YpDR5oYFefZ0pJNpjPRNb-JzcrXr9CZSbWfKXPy9Gt1ni-do_06C9P8XpTKB8s4C9ZhS5CuUwtTfHYHCmb8U4EWg4FmgHlOqmxeoZHImUN2PAnVDKQgmOUoFb_M39wXqVyiFPqMUzOoPlKICdY9S-DGl3gQqR6ntrUBhcE-gzpT6NYGCvyhQKcPMt-ZarQ4b8lC12qGslo2jtptv9kCaTYduze204wGIZz9XrZUTPjmqYX9TLOOJZ3thbHxTqMF7Mo3CvuDYvtdi1HrbF_TOCcn12MDy8hnXyn55vSdqozI-LDR1v7Fng3H_udJ3m70Y7fFo2tAEsBIEFGNuKa2P1RW3qdZZJLD11Sj8LhzgS29rHxvbedjrEHf2im1hUrH2p7pvzLguswbjwEGjLVPGnBmo39HICOyu2tNqQQoqaKkjZ9II9ObLc1RwfJ3-nQBVAiQM5gToAC4oOymXaHJhGNEvRynHs_TeC4GuKmZwbNW0-opjq2X607zOcUaj4JAw3rU4thC4fqv8D1iBwI8",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zNRMpHiczVfbkqo4FP2B-Y3x6RxFVNSusk6FgBovaETb1heKmxHlooAi_Tb_Ml81PzMTaLHR1j4952FqYpnLJtl7JdmLpX_8aVvu9q_f_l6H4S54KpWiKCoSzyO2WdQ9p6QGsauXVp4d-Pr6h-0GiuMZZuvgFpJ-cPBXqm62WK4QeAef9qi1GJla8bB1CwfDSZ4cA8sNWxDgPSQehECXASFdBEQORd5cwAAAofFMazA-MQAgoPSojQiNCEwggLx14OVZaqeufMtowTHH7zVfryvWy46IGKwJjywcLTeStZz3NlLM0D6KB9PJZsHicDEV40VctpfT581ijiLpdVYbTlFMiGgBdxL1JZ3H7rA_cE7OUi5vjXk5NKc7R3KGzMJZVIYyU5UEzA6muJb4G00RO7SY6kiYVYZTclp2FrE0n8kYe8qA7R30uMnosGlplZ47qEyisy1Yzmuvg_ky1tgaQ_vbwbwdqXIz0p3mlsa2NXcYLt3eUXMntuZQ3C_8bvCKynOC-wnOkaSFh13_dV_ThUJ8bFUKetBiCqbVirCCVG8MO96erI_62FqxkQVQIb29lqKpgbmhl3vaBCWlRKvt7xWBDopB0XSVDl8E4-VINmayEHlFlmErxVFJdegc8B8WDOkVAwwI_cJPptHU-JI7OlFMfF0KEtMmv5qnA55-qDWpQPuhO7GTYhIxyVwop81rkryds0P0cC1MI2QleGtIlDa91OkX9pPHAq6xPo6cBn9kQu_Phrmnn4Dh-fzhUQDimCQm8Wpp5qAH8vum1nM6DQnf6BIgrMXZZ8DpglnEnxAg6KcX_oxkN-uTPkMxlQxC85cpaT5tyiVLX-tpxw-StIbTJuOJxrwux5qw1fph3zEVcJx0N-0mCZccKOkanWd7qmEaylphfqTjMluuNzmGq35LKaUHF04FeU6poiQFdjwe8qg4KPLljE3w_aRuk5gH3r1NwmQBunuJSUHo_m2t38N451YEfQAm4nVYfsIlTXTxB7q0xmJ-ThYBAvCRTZfxBWDKJniOMsGXHV_hRCKf2xHJs6P7cTfyrQF3z2gRvei3UEK2gfwRJ7C2SR5mBEFXREzTE_Yp-_g0mdEBoncMqV_oAeQhfEswCh7THYjieXD2mkUeXh1LP0EMhogemAitrUgl7Xxc6bLF-aza8Pa9hh9QMUEzF-8--nmBX3h5YpDR5oYFefZ0pJNpjPRNb-JzcrXr9CZSbWfKXPy9Gt1ni-do_06C9P8XpTKB8s4C9ZhS5CuUwtTfHYHCmb8U4EWg4FmgHlOqmxeoZHImUN2PAnVDKQgmOUoFb_M39wXqVyiFPqMUzOoPlKICdY9S-DGl3gQqR6ntrUBhcE-gzpT6NYGCvyhQKcPMt-ZarQ4b8lC12qGslo2jtptv9kCaTYduze204wGIZz9XrZUTPjmqYX9TLOOJZ3thbHxTqMF7Mo3CvuDYvtdi1HrbF_TOCcn12MDy8hnXyn55vSdqozI-LDR1v7Fng3H_udJ3m70Y7fFo2tAEsBIEFGNuKa2P1RW3qdZZJLD11Sj8LhzgS29rHxvbedjrEHf2im1hUrH2p7pvzLguswbjwEGjLVPGnBmo39HICOyu2tNqQQoqaKkjZ9II9ObLc1RwfJ3-nQBVAiQM5gToAC4oOymXaHJhGNEvRynHs_TeC4GuKmZwbNW0-opjq2X607zOcUaj4JAw3rU4thC4fqv8D1iBwI8"
+ },
+ "visual_matches": [
+  {
+   "position": 1,
+   "title": "pioncrey Baby Walker, Foldable Multi-Function Anti-Rollover ...",
+   "link": "https://www.amazon.co.za/pioncrey-Foldable-Multi-Function-Anti-Rollover-Adjustable/dp/B0F246CGVM",
+   "source": "Amazon.co.za",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK207Tsoaum5ur8PcZmtXWQlsOX9iLpbVKNvkmmIFtLBLHEIvn",
+   "thumbnail_width": 222,
+   "thumbnail_height": 227,
+   "image": "https://m.media-amazon.com/images/I/61tnqV92yNL._AC_UF350,350_QL50_.jpg",
+   "image_width": 342,
+   "image_height": 350
+  },
+  {
+   "position": 2,
+   "title": "Amazon.com New Releases: The best-selling new & future ...",
+   "link": "https://www.amazon.com/gp/new-releases/baby-products/322268011",
+   "source": "Amazon.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOzrALYDVqzwq-pBdBI-iwvIZl40AjsRIj8WLKnH2OrAFu8uG",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://images-na.ssl-images-amazon.com/images/I/61ZKw4O1-UL._AC_UL375_SR375,375_.jpg",
+   "image_width": 375,
+   "image_height": 375
+  },
+  {
+   "position": 3,
+   "title": "Baby Walkers Sold on Amazon Recalled Due to Risk of Falling ...",
+   "link": "https://ca.news.yahoo.com/baby-walkers-sold-amazon-recalled-152911432.html",
+   "source": "Yahoo News Canada",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEVgAdL____o2_jk1Pf8-_5mC9Pu5fqUVOCWWOHWvvPAmu23jOq7kut8LtqufujGpO6DOdxwG9bgzva0iOqZXOL07vzbxvSjbOWqeOf49f1pENTr3_mRUOClcOXYwvR2JNiIQd3Kq_DSuPIjm6rYAAAAwklEQVQ4jd1RSxaCMBCbQosIRREF5CfC_Q9ppn08EUv3mg1DEtIwJfpjZCFw8hjOAsj39YuEXngCrhxw29dVCT1SK6YCkfBwwlBRzQH39ScHEE2LIcIQU7C8vtGBGqwxop4D9OepA6iQ6GiiH2wYHbWeo4lWAZBsi6fQJm27KrVVya5GNjBk7SykdjgmYTDbLcffhtwaegr54bon0z0g0nv3xDsQNSomXeE4gcx6Slf_Bbyk1KNn0OXoMfDfTR79t_ECLLwGYaPXkpQAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWXShXMhQP8J46b0dul67y2LgEs1RQRksjG8fMI4QFy3iEmM6t",
+   "thumbnail_width": 251,
+   "thumbnail_height": 201,
+   "image": "https://s.yimg.com/lo/mysterio/api/d413d1c001f60a9781b9a3c907944c0e0731a3dfdd9d98b8cb94f635d0a15e1a/lightyear_networkapi/resizefill_w384_h480;quality_80;format_webp/https://media.zenfs.com/en/people_218/725561ec756345017c916fe6e36a5137.jpg",
+   "image_width": 480,
+   "image_height": 384
+  },
+  {
+   "position": 4,
+   "title": "Buy StarAndDaisy Baby Walkers 6-24 Month Boy & Girl / 360 ...",
+   "link": "https://www.amazon.in/StarAndDaisy-Adjustable-Multi-Function-Anti-Rollover-Folding/dp/B0BD59CJZG",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "rating": 4.1,
+   "reviews": 3279,
+   "price": {
+    "value": "₹949*",
+    "extracted_value": 949.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQVcZC3HzAS5A0g3t_yTGIBXgH4rCIyIpEeNZaAh0boFlPtBgt",
+   "thumbnail_width": 227,
+   "thumbnail_height": 222,
+   "image": "https://m.media-amazon.com/images/I/61YHEjNqmPL._AC_UF894,1000_QL80_.jpg",
+   "image_width": 915,
+   "image_height": 894
+  },
+  {
+   "position": 5,
+   "title": "Wnttmt Baby Walkers Recalled Due to Risk of Serious Injury ...",
+   "link": "https://www.cpsc.gov/Recalls/2026/Wnttmt-Baby-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Amazon-by-WURUI-BABY",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/searches/6ac80fbdee23181ae47365f8/images/QraFT5_KkhrdLohw9Z-T3qj_I8Y1sJd44hKG4xuv-rM.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt-rCUvg11fuGxhrkGJSCcj5bH9D_wH15VPPu4enfHB8cGCawF",
+   "thumbnail_width": 213,
+   "thumbnail_height": 236,
+   "image": "https://www.cpsc.gov/s3fs-public/styles/recall_product/public/bwalk-1.jpg?VersionId=MCEru0rHFKycC9b8xCXF5kD5GE4QKKz5&itok=38kMo_hE",
+   "image_width": 268,
+   "image_height": 297
+  },
+  {
+   "position": 6,
+   "title": "Gray Baby Walkers for sale | eBay",
+   "link": "https://www.ebay.com/b/Gray-Baby-Walkers/134282/bn_110783962",
+   "source": "eBay",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAd0lEQVQ4jWNgwA7UGRgYtjMwMHyG4u1QMaKACgMDwysGBoZMBgYGHijOhIqpEGPAOgYGhhws4vlQOYLgM9RWdCABlUMBjAwMDP-JMRUXYKJEMwMDAwPLUyMLFAFpo1ko_K_eBij8iZyi1HXBqAFUMGDgExLFBgAA-5IRVVj3iMsAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYEO5WI0sQ7diGzDTWJofFEdPlgtU78vucQZcJQg6SbwSr7aZ",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://i.ebayimg.com/images/g/Bv8AAeSwcW9qPeDx/s-l1200.webp",
+   "image_width": 1200,
+   "image_height": 1200
+  },
+  {
+   "position": 7,
+   "title": "Baby walkers sold at ToyTexx (Richmond Hill location ...",
+   "link": "https://recalls-rappels.canada.ca/en/alert-recall/baby-walkers-sold-toytexx-richmond-hill-location-recalled-due-physical-hazard",
+   "source": "Recalls and Safety Alerts - Canada.ca",
+   "source_icon": "https://serpapi.com/searches/6ac80fbdee23181ae47365f8/images/GK6lZ1m-dEtYqpmX4eXZQLaw-EY52C8ODoVfugNuXvA.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI9VE4O3l7YFos8Jmu0Pc6hnXg5I2GpBE-0V2AHjeLPolMfjKk",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://recalls-rappels.canada.ca/sites/default/files/styles/x_large/public/alert/recall/82474/ToyTexx Image 1.jpg?itok=gmjWFENC",
+   "image_width": 375,
+   "image_height": 375
+  },
+  {
+   "position": 8,
+   "title": "Multifunctional Baby Walker with Height Adjustment",
+   "link": "https://snd.in/product/baby-walker-with-adjustable-height-infant-walker-black/",
+   "source": "StarAndDaisy",
+   "source_icon": "https://serpapi.com/searches/6ac80fbdee23181ae47365f8/images/-z2AdySauim5Hw7peD-l2oJ0ClOCOJrvzczCcGD-sAM.png",
+   "rating": 5.0,
+   "reviews": 48,
+   "price": {
+    "value": "₹1,498*",
+    "extracted_value": 1498.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1OLJpMlTdQ84zX7tj7pUj_2FFQ41LLOftT7TrKe3-ZU1SmQ-7",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://snd.in/uploads/2025/05/first-step-baby-walker-Black.webp",
+   "image_width": 1000,
+   "image_height": 1000
+  },
+  {
+   "position": 9,
+   "title": "Baby Walker, Foldable 9-Gear Height Adjustable Baby Walker ...",
+   "link": "https://saudi.whizzcart.com/product/19802951/baby-walker-foldable-9-gear-height-adjustable-baby-walker-with-wheels-infant-toddler-walker-with-foot-pads-anti-fall-baby-walkers-and-activity-center-bouncer-combo-for-boys-and-girls-6-24-months/",
+   "source": "Whizzcart",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcExtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnz6ZCisAAAADnRSTlMAI-tJML4GVRF8ZdSUq0lw7BMAAAC-SURBVDiNtZPtDsIgDEVhtKWUj_d_XOmcyiYWY-L5QbL05G69ZM59AbGfwsecBfM2Qw4htA-klVAOAfJCoKJPGN4AN0Y89ClJI7whMHahWhFxa20LllE1ggwBNCKuvrOyZSwjtPBqreq0T7EE31-SzQjRG4YRf16cU94yjqTLWgwhnghWdX-F-XU-IWLWvwNIb0X2M41z3xeQVAoyN-2L9IRzQHe6AjpCT5Na7yneCWIkJxk_XQz5veFrz79zA7lQC7nha1gjAAAAAElFTkSuQmCC.png",
+   "rating": 5.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Qertj6kFIBEUDGVMzEqM9JMI4gGxfaIzmG-9-XmYDFSg6rl1",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://images-na.ssl-images-amazon.com/images/I/615ukziE1oL._UL500_.jpg",
+   "image_width": 500,
+   "image_height": 500
+  },
+  {
+   "position": 10,
+   "title": "R for Rabbit Little Feet Hopper Baby Walker with Activity ...",
+   "link": "https://www.firstcry.com/r-for-rabbit/r-for-rabbit-little-feet-hopper-baby-walker-with-activity-table-2-in-1-convertible-design-for-kids-6-36-months-height-adjustment-push-walker-toy-bar-with-music-and-light-360-rotating-seat-grey-white/21938992/product-detail",
+   "source": "FirstCry",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABY0lEQVRYhdWXTW7CMBCFp5aVRhFl0Qv0Dl0hRA9Bs2IRsaAn6EF6gmaBItQVcIhGqKsehgVCKGq7imWHsTMTbIW-VSYZ53v-m8QAPetGDz6f338pjSbrhRGXac6CPm1eFFddUOBNsA8Togu8THPYzZZsqK6aKbkNa-jPqTLirhKUpLr3l8I6GwipVgMhe08yEFq9G2DvgjZxi5QXAzKJYFRkTkM2I16mwAbHjDQlsaSuK343W6oC5YJaDbgayiSC6nBy5upwAFpHyFMwKjIQsfc1a45A0_Hj2xSSh3sVj1dzdf2VFeiIcOUcge_XrfWZvLu9GA7A3IZX-THSTYmIv0a8luLxx7w9iWuAMux6DraFRSxhsl7gz1rfTsiWw9iImyB995y15fDlIIZqfzy7X-2PUKa5AaZUQbYBDK6rngoMbptK_6XNAcPU-w_J_zJAXVhsA_pZDVOIEmwczSgmQsCvQn-RYHpAGmaqIwAAAABJRU5ErkJggg.png",
+   "rating": 2.5,
+   "reviews": 1,
+   "price": {
+    "value": "₹5,760*",
+    "extracted_value": 5760.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxU2fPAaM4xKjx6zAVBRCNdgfp0ZjUdtpKyz-iXXHJ0A5HzkVp",
+   "thumbnail_width": 247,
+   "thumbnail_height": 204,
+   "image": "https://cdn.fcglcdn.com/brainbees/images/products/zoom/21938992g.webp",
+   "image_width": 1939,
+   "image_height": 1600
+  },
+  {
+   "position": 11,
+   "title": "Foldable Baby Walker Activity Center With Wheels, Height ...",
+   "link": "https://us.shein.com/Foldable-Baby-Walker-Activity-Center-W--Wheels,Height-Adjustable-W--Music-Toy-&-Foot-Pad-For-6-18-Months-Babies-Infant-Boys-Girls,-Grey-p-450367191.html",
+   "source": "Shein",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEUAAAD____ExMSYmJiSkpJpaWnk5OT19fW6urpTU1OMjIyHh4cODg5fX1_q6upAQEDe3t7Nzc1ISEiqqqq0tLQdHR2enp55eXmAgICkpKQ6OjrW1tYlJSVNTU0vLy_5-fkXFxd-jcshAAAAoElEQVQ4jd2SyxKDIAxFibylqKil7-L_f2UDdbqCdN3eDczcM-EmgbH_k3VcOHlo2X6At7qx6gu0kpo0HqHmz2gs5dKZaoEFS5MBA4AggbXx9EcWM5gjRUQk9GoJ4lSGMEQCOU-FuRDINeZx3si07ksNxjiAIoERu6lt9P6gKzwVGJ8veau8ApjcYNI6tdbNfNj_S-pb6TbpOO8l2cFv6gXpoQSAUgp_jQAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuLu3mYx91bu1WxKJLK5OEAS83O2j4jSwWAKatTn3a7Wn7UntZ",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://img.ltwebstatic.com/v4/p/spmp/2026/04/20/b1/177664930913510fd637ff1336a146105502267623_square_thumbnail_750x999.webp",
+   "image_width": 750,
+   "image_height": 750
+  },
+  {
+   "position": 12,
+   "title": "Buy StarAndDaisy Anti Roll Design Baby Walker With ...",
+   "link": "https://www.myntra.com/walkers/staranddaisy/staranddaisy-anti-roll-design-baby-walker-with-adjustable-height-/34094526/buy",
+   "source": "Myntra",
+   "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyM3Nzc3Nzc3NzU3Nzc3Nzc3NzcyNzA3Nzc0Nzc3Nzc3Nzc1NzU3Nzc3Nzc1MSw4Nzc4Mf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAADAAMAAAAAAAAAAAAAAAAAAwYCBAf_xAAnEAABAwIFBAIDAAAAAAAAAAABAgMRAAQGEiExQRNRYZEFFGJxof_EABoBAQACAwEAAAAAAAAAAAAAAAADBQECBgT_xAAsEQABAgMFBQkAAAAAAAAAAAAAAQIDBBEFITEy8BNBYXGBEiJCUZGhwdHh_9oADAMBAAIRAxEAPwDthVFAGvJ9UASeD7oACpoBYOp9VkEq1ipT2Irhhsj6FusMqMbkyCufBBH6BPIjzzkR0q6Ersr69MKF0tlKko2Iudb6cPLXI17HGLj2KPrOZR8Y-rosHLqFjZU85p24lPmZZV6TMJ72-FadKJfrcSRbH7EntEzpeqcPz7LInUeq3KEU4VdNYbMLIOU-aGW0qlcCT-Owq7aYZetFOIN86ouFQnKDEAd4j-k1HajEnW0bdTAvY9rtiTiRETuJd811uF32EHV4etre2cbTfsuF3qGQCpUSJieE6_iK3s1qSjOw6-uOvY2g2y1Jtz3ouzclKctL6llJMTvuayc-YE0AZj2oAzHtQADFAf_Z.jpeg",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeIYmKOsHjcKilMvUwa1b08zvz4o1WV-8hAa7khDQRFpXn5qd1",
+   "thumbnail_width": 259,
+   "thumbnail_height": 194,
+   "image": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/2025/MAY/10/gM3s1bxX_62362b6f218c49888ddce77a9ed78300.jpg",
+   "image_width": 1440,
+   "image_height": 1080
+  },
+  {
+   "position": 13,
+   "title": "CPSC Warns Consumers to Immediately Stop Using Uuoeebb ...",
+   "link": "https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Uuoeebb-Infant-Walkers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Violates-Mandatory-Standard-for-Infant-Walkers",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/searches/6ac80fbdee23181ae47365f8/images/bbFrj7mm9U-eoiPs_4-E2hhK4PPa6DrGhmsejePdkYw.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl1h1s5jtSo4nOpSyAjOUGY0zaBopv-anb7r0sCILn_oU7hYBF",
+   "thumbnail_width": 211,
+   "thumbnail_height": 239,
+   "image": "https://www.cpsc.gov/s3fs-public/styles/recall_product/public/Picture25_0.png?VersionId=JSoDFCr3DmWF._Tn.2Z5N5tdUqPzFoql&itok=Kb0pgYIT",
+   "image_width": 220,
+   "image_height": 249
+  },
+  {
+   "position": 14,
+   "title": "Baby Walkers: Buy Walkers for Babies Online at Best Prices ...",
+   "link": "https://babyhug.in/collections/baby-walkers",
+   "source": "Babyhug",
+   "source_icon": "https://serpapi.com/searches/6ac80fbdee23181ae47365f8/images/bbFrj7mm9U-eoiPs_4-E2oxx52IyAsr8DIYjSlThMR4.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv8pn0rOX8oYU-JHzOzuUS5il4-DOOTGJFW6EaC0WLkMjOoexj",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://babyhug.in/cdn/shop/files/19449354a.jpg?v=1769940126&width=300",
+   "image_width": 250,
+   "image_height": 250
+  },
+  {
+   "position": 15,
+   "title": "Wnttmt Baby Walkers Recalled Due to Risk of Serious Injury ...",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10901/",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABkUlEQVRYhe2Xr27CUBSHvy3TqAqCmyGVaAwkiNoKBLJmyd6AJ5iYm1wyU4lA1CKWgMEtQTY8AEOgeIFN9PTmrn9uCW3vxPZLGkruyfm-tLnNufDXc6Pu3r6qajvAGBgCA6APdGXtCOyBHbAF1sDZ2O0hQd9dIOkAM2AKjEpq7uXy5P8GWAIL4GRqXiXgAY-Af4GonpFcE-AVWJUV3hqaBMDLFXA9vvQIygrKnkAAPAG9GvA0rvQCCLOLRU_AA-YNwdP0pKeXXcgKOCTv3G0QnsaV3o5JYEa9d14VXxiFAh2SrdZ2psLKCYwp3-dNZiSsnMDQAjzH0gUGFgUUSxfoWxRQLF2gW1DYVhTL9Cm2El3gaJGrWLrA3qKAYukCO4sCiqULbC0KKJYusCaZZNrORlg5gTPJGNV2lmjzYnYbLoCoRXgkDJWswIlkhotbgMfS-8eQWvQhWgHPwKFB-EF65obTspkwlN859aejWOBh0aJpLA-BT64by9NEVIzlVeeCFfABvGM-mGRz8cHk149m__kGNrZKAN3vxYQAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsPxbj0DnU8s6wmcy5sTQxCQ6caeLz4QN97TBLHfFiyODCK8kP",
+   "thumbnail_width": 213,
+   "thumbnail_height": 236,
+   "image": "https://www.gannett-cdn.com/recall/CPSC-10901_0.jpeg",
+   "image_width": 268,
+   "image_height": 297
+  },
+  {
+   "position": 16,
+   "title": "Baby Educational Toys – Childhood Trove",
+   "link": "https://childhoodtrove.com.au/collections/baby-educational-toys",
+   "source": "Childhood Trove",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX____-_v79_f36-vrt7e16enrx8fGioqJCQkJhYWGXl5ctLS3CwsKIiIgiIiK3t7fo6OjLy8tra2tcXFxTU1Pd3d2pqaknJyc0NDQ8PDxwcHBKSkq6uro4ODjS0tJ5eXkAAAANDQ2bm5sXFxeQkJDNc7jpAAABTElEQVQ4jeVSi2KDIAw8BAHfIoLa-mid__-NC9J27T5hi5EEOEjuFPgfxsAYS-ghB0sAyhHyJATapoQFYBhZDAiwJIbTwVvRAoJDSqCVDuSgJSHDGVM0pttT1dgV2z1HP1-drr0rBrPdd0COCmrRPjt6iT6fyqXPqovR3a4yuy8Orl7FMX6VVtW9t5kuxzpNK8p8mvbdJICqzrP9Yq6mOlxXuNmqox0KV9aTtMsaqRon-cpDt4Az1KkIzfIwPbkmEcY5pRzvNMNIOgUpOOcs4aQWwcJG1I0Fmq_3x6J0b2tUJrdb4jzjnV4llZmX6gF7App7JfRtVtc06xqv0tG9A8JtE9bbwDJv7G51mWn-7B2xTzGgGSbfFIXnN41xyX_dwEuotN3gG5KuQalMOPZRA1JEBVj8xB_E2PmLnHpEkRKK7JP7QxbGXvr8JfsGlqMPrqSopHQAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6tjSG9p22ylQWiQ7MqRbh4N2915qnvNIhL2ylFnWUYSDE--rd",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://childhoodtrove.com.au/cdn/shop/files/bw_childhood_trove_GREY1.png?v=1785363668&width=600",
+   "image_width": 600,
+   "image_height": 600
+  },
+  {
+   "position": 17,
+   "title": "Baby Walkers: Buy Walker Online | Flipkart.com",
+   "link": "https://www.flipkart.com/baby-care/baby-gear/pr?sid=kyh,5mt,763",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac80fbdee23181ae47365f8/images/bbFrj7mm9U-eoiPs_4-E2vFKQ2Zgjr3YkDAeI6i6XIM.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqm9GyOYpgvCduuiCNn8TZu-iaBTENoiXZAaC73s3JWtfGTGiQ",
+   "thumbnail_width": 224,
+   "thumbnail_height": 224,
+   "image": "https://rukminim3.flixcart.com/image/260/260/xif0q/walker/y/z/o/62-baby-walker-for-6-18-months-boys-girls-360-swivel-wheels-7-original-imahz922rzjkrcqh.jpeg?q=80&crop=false",
+   "image_width": 260,
+   "image_height": 260
+  },
+  {
+   "position": 18,
+   "title": "Amazon.com: Baby Walker Cushion. Green",
+   "link": "https://www.amazon.com/clp/B0DQ4P6S96",
+   "source": "Amazon.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgokrK4SsInU4UVuP_TfrJ2rTN9J88d_SVDZPUYg7NPZDkubfL",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/71HCnYzvxYL._AC_UL450_SY450_QL70_.jpg",
+   "image_width": 450,
+   "image_height": 450
+  },
+  {
+   "position": 19,
+   "title": "3D model BABY WALKER WITH WHEELS VR / AR / low-poly | CGTrader",
+   "link": "https://www.cgtrader.com/3d-models/various/various-models/baby-walker-with-wheels",
+   "source": "CGTrader",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEVnxLB5y7n___9pxbGJ0cJvx7RewKtOuqNLuaFTvKZYvqiw4NY_tJtiwq5zybe95dzT7ujM6-Sj28_x-vja8OsapojA5t4vrpPk9fGb2MuLUw7AAAAAi0lEQVQYlWWPyxLDIAhFeRiNqDGotfb_f7Rm2sw06V2wOAxwAIOXGFjgkgXwCvAHsHXAB2BxPjm3xi1LmoA97ipFc9kpywYoSLUEapSJsp1gbRQfvWqIlJ_LHFk7KYbZZKosE1jW8Wp9kA3N-GOp9RFJhx7H-OORkgnGJUinGIN3MuvN9Kv-99z9_Te98gUUc5wqdgAAAABJRU5ErkJggg.png",
+   "rating": 5.0,
+   "reviews": 9,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFcBciApVfxY9s_C6QHJhJ3uabPgKay8y6-zuuyNaVCryJ6aaL",
+   "thumbnail_width": 224,
+   "thumbnail_height": 224,
+   "image": "https://img-new.cgtrader.com/items/6221200/ccd67b8916/baby-walker-with-wheels-3d-model-ccd67b8916.webp",
+   "image_width": 1100,
+   "image_height": 1100
+  },
+  {
+   "position": 20,
+   "title": "✨ Safe. Sturdy. Parent-approved. 💛 Hear it from a mom who ...",
+   "link": "https://www.instagram.com/reel/DcFt7jatcEo/",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/searches/6ac80fbdee23181ae47365f8/images/bbFrj7mm9U-eoiPs_4-E2rk3kWEw_AD00YPmK3-5odU.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqM7SgBSJbz8SWplhLQ0_no6t5GhzrJnTKgpYDNqboUHrc4YdB",
+   "thumbnail_width": 300,
+   "thumbnail_height": 168,
+   "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3986900044774381906",
+   "image_width": 2144,
+   "image_height": 1206
+  },
+  {
+   "position": 21,
+   "title": "Baby Multifunctional Robotic Shape Adjustable Height Musical ...",
+   "link": "https://www.firstcry.com/fab-n-funky/baby-multifunctional-robotic-shape-adjustable-height-musical-baby-walker-grey/14364551/product-detail",
+   "source": "FirstCry",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABY0lEQVRYhdWXTW7CMBCFp5aVRhFl0Qv0Dl0hRA9Bs2IRsaAn6EF6gmaBItQVcIhGqKsehgVCKGq7imWHsTMTbIW-VSYZ53v-m8QAPetGDz6f338pjSbrhRGXac6CPm1eFFddUOBNsA8Togu8THPYzZZsqK6aKbkNa-jPqTLirhKUpLr3l8I6GwipVgMhe08yEFq9G2DvgjZxi5QXAzKJYFRkTkM2I16mwAbHjDQlsaSuK343W6oC5YJaDbgayiSC6nBy5upwAFpHyFMwKjIQsfc1a45A0_Hj2xSSh3sVj1dzdf2VFeiIcOUcge_XrfWZvLu9GA7A3IZX-THSTYmIv0a8luLxx7w9iWuAMux6DraFRSxhsl7gz1rfTsiWw9iImyB995y15fDlIIZqfzy7X-2PUKa5AaZUQbYBDK6rngoMbptK_6XNAcPU-w_J_zJAXVhsA_pZDVOIEmwczSgmQsCvQn-RYHpAGmaqIwAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE0ggukJ5QhWPNrIWNnL7keKDEignZbRV98HS_pLBIF_IjIRda",
+   "thumbnail_width": 249,
+   "thumbnail_height": 202,
+   "image": "https://cdn.fcglcdn.com/brainbees/images/products/412x508.816/14364551n.webp",
+   "image_width": 508,
+   "image_height": 412
+  },
+  {
+   "position": 22,
+   "title": "Double Push Handle Baby Walker, Foldable 9-Gear Height ...",
+   "link": "https://saudi.whizzcart.com/product/20811400/double-push-handle-baby-walker-foldable-9-gear-height-adjustable-baby-walker-with-wheels-infant-toddler-walker-with-foot-pads-baby-walkers-and-activity-center-for-boys-and-girls-6-24-months/",
+   "source": "Whizzcart",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcExtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnxtwnz6ZCisAAAADnRSTlMAI-tJML4GVRF8ZdSUq0lw7BMAAAC-SURBVDiNtZPtDsIgDEVhtKWUj_d_XOmcyiYWY-L5QbL05G69ZM59AbGfwsecBfM2Qw4htA-klVAOAfJCoKJPGN4AN0Y89ClJI7whMHahWhFxa20LllE1ggwBNCKuvrOyZSwjtPBqreq0T7EE31-SzQjRG4YRf16cU94yjqTLWgwhnghWdX-F-XU-IWLWvwNIb0X2M41z3xeQVAoyN-2L9IRzQHe6AjpCT5Na7yneCWIkJxk_XQz5veFrz79zA7lQC7nha1gjAAAAAElFTkSuQmCC.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPhmfCDJLk7fsB3FUTwoPr8FMnXJAUrtm1na5miATCvwpOGlOU",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://images-na.ssl-images-amazon.com/images/I/61Z-hH8PO1L._UL500_.jpg",
+   "image_width": 500,
+   "image_height": 500
+  },
+  {
+   "position": 23,
+   "title": "Recall: Wnttmt Baby Walkers Recalled; The recalled infant ...",
+   "link": "https://www.facebook.com/USCPSC/posts/recall-wnttmt-baby-walkers-recalled-the-recalled-infant-walkers-violate-the-mand/1764012665769839/",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwFZ_8IZ_8IZ_8IaP8IaP8HZP8Iav8HaP_19_8Iav8AT______6-_8L____Uf8HZv____8AUf8HZ_8AWf_6-v8AZP8AYP9Cd__X3_-xwv-csP8VZP9_nP8AQv8AP_9HcEy4-nG4AAAAIXRSTlMAAcrs5qVPEpP7JMrJlZP______________________wAgfganAAABHUlEQVQ4jX2T4XaDIAyFEdFCt52DGkGstu__lkMhENAtP8lHSC65jKVoeslbrVsu-4Zd49FNOsXUPeq8JOkTkeV1oS8hSJFned2YUOSZ7pO8sSNsG4z2ILAGqQ_LqgYf834QIvaX8-M6xHgdgJbVA5DyETgf6VLeLkMF6M7rlwvYV8w65_YATA3rSYcupDcAsPGsL1o8BxgWm498m5wA8wmMVDTO2v-BliUJAd4BePsWwOA5AoaMeDaCBD5RAQrSE_wWcAhwHLMCVhxVolBmmZWK5ZWa9ywUSu2n-IQpPkRILzX5rBsduuK7r0DYKfk3IMuVuwCiWtoaSEuLa18Bee3ROCUgSvcd1qNAZb1g3gzcmJcd9v_59mqrr8L-v-aBNTxivYyHAAAAAElFTkSuQmCC.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYx9ik0hnwG4k3ijSFajyOr2EDKFsGl4DpQoOXHjdg1W5SzAoh",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1764012649103174",
+   "image_width": 1600,
+   "image_height": 1600
+  },
+  {
+   "position": 24,
+   "title": "Baby Walkers With Wheel Baby Walk Learning Foldable ...",
+   "link": "https://www.livefreeltd.co/products/baby-walkers-with-wheel-baby-walk-learning-foldable-multifunction-anti-roll-anti-o-leg-walker-height-adjustable-seat-chair",
+   "source": "Livefree",
+   "source_icon": "https://serpapi.com/searches/6ac80fbdee23181ae47365f8/images/piSpoKV-AOI-2AdQYjtU2lhjJA4pZEit4UWcnUof4a0.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQH8AGfwzz7CXrXMA1S9lB8fEZupZquH-KRzGhFSFhy5N980uf9",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://www.livefreeltd.co/cdn/shop/products/product-image-1795862989_1024x1024.jpg?v=1640803238",
+   "image_width": 640,
+   "image_height": 640
+  },
+  {
+   "position": 25,
+   "title": "Baby Walkers for Infant Activity and Development | Gray ...",
+   "link": "https://www.walmart.com/browse/baby/baby-walkers/gray/5427_86323_1231322/Y29sb3I6R3JheQieie",
+   "source": "Walmart",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTty0_uq5QGsSpEA1agUnwTMPZTu_YvS9mg_tzOR2qy22fR-FGLLoSmA4z4XotJkADD4W1gHczZdZT5PEPvM9Sv6mBjhn-lRnHs4p0G3COAlV8EwJE",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPg8HafacE1M-4mvO-5JmlG_qgKSfr3WbEPKWpFGb4C3E2Ux6O",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://i5.walmartimages.com/seo/PRVAETU-Foldable-Baby-Walker-with-Wheels-Height-Adjustable-Large-Dining-Tray-Dust-Resistant-Foot-Pad-for-6-18-Months-Infant-Grey_bff0df1f-daa1-42a4-9204-676ff43fd111.71b356f6d2ed17b86c9d7f246a5fb7d8.jpeg?odnHeight=328&odnWidth=328&odnBg=FFFFFF",
+   "image_width": 328,
+   "image_height": 328
+  },
+  {
+   "position": 26,
+   "title": "One-Touch Folding Baby Walker, Anti-Roll 8-Wheel Round ...",
+   "link": "https://www.bedbathandbeyond.com/Baby/One-Touch-Folding-Baby-Walker-Anti-Roll-8-Wheel-Round-Chassis-5-Speed-Height-Adjustment-with-Large-Dinner-Plate-and-Brake/40356061/product.html",
+   "source": "Bed Bath & Beyond",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQVcbnwHxXza5i84I8RJdf8mRiXxtQdHLWAtjJG71s9N348BqYQQk65pgeScEMkKA-bCBDX2Fia00jz9vUck-p99jOF2tKGuPCIVVliKf9Lnb3tj45bGe4shuBtEoM",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbjO72vUISMjH__uoUFNvbMiIS1mF64fiyMi4-PUzcb4bCjDwY",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://ak1.ostkcdn.com/images/products/is/images/direct/371613c451b3fa19d843518fed56b4f0bf3986de/One-Touch-Folding-Baby-Walker,-Anti-Roll-8-Wheel-Round-Chassis,-5-Speed-Height-Adjustment,-with-Large-Dinner-Plate-and-Brake.jpg",
+   "image_width": 1600,
+   "image_height": 1600
+  },
+  {
+   "position": 27,
+   "title": "🙅‍♂️ 3 Reasons Why A Baby Walker Shouldn't Be On Your ...",
+   "link": "https://www.instagram.com/p/DR_d04KjR5J/",
+   "source": "Instagram",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxe_UrRWSqoRSwltbAMKJXc2JPTcj8pMEaE973MMHnfudMTlf",
+   "thumbnail_width": 251,
+   "thumbnail_height": 201,
+   "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3983330928290541075",
+   "image_width": 1431,
+   "image_height": 1144
+  },
+  {
+   "position": 28,
+   "title": "Foldable Baby Walker Review: Is This Adjustable, Anti ...",
+   "link": "https://www.youtube.com/watch?v=PsjJ5YzDXPo",
+   "source": "YouTube",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLRCEQDE1n-WqOpVzMZ7o_Et12ZcnyjVkcFpJF-lGyrU2JLGLR",
+   "thumbnail_width": 194,
+   "thumbnail_height": 259,
+   "image": "https://i.ytimg.com/vi/PsjJ5YzDXPo/hqdefault.jpg",
+   "image_width": 360,
+   "image_height": 480
+  },
+  {
+   "position": 29,
+   "title": "Wnttmt One-Touch Folding Baby Walker, Anti-Roll 8-Wheel ...",
+   "link": "https://dk.pinterest.com/pin/338262622034678168/",
+   "source": "Pinterest",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRCqe1MorPoPUFdSIXY0Hk6ORkN1wgnWFW6SS5yDeYhMYV33osyYebZ6AYSbj6FJfE0hPOExQ7dnw2TzLI9NaezXiE8Q5D8ehJSCatSlHJsB6kXVlBl",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzneMuXwwhCnErSFsQI5xUcxuKbZXWhaKIc2Dhsr4KnBcX1x-c",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://i.pinimg.com/474x/a0/f4/01/a0f401d5ff76962385fe981296171a6b.jpg",
+   "image_width": 300,
+   "image_height": 300
+  },
+  {
+   "position": 30,
+   "title": "Best Rated Foldable Baby Push Walker Adjustable Activity ...",
+   "link": "https://baybee.co.in/products/baybee-best-rated-foldable-baby-push-walker-adjustable-activity-walker-for-kids",
+   "source": "Baybee India",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcS14mNHh_uOv6O5SiQC5ohyRlqlax_67k2p13ehlt0DwiR-5gxzDKxNvwn9uCIt85Fa3yOxrUo8QfO-oGi14Byjg7czU4K7pDmRECEmsrvCndA",
+   "price": {
+    "value": "₹2,699*",
+    "extracted_value": 2699.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTM3u1TXN_RbSddErd6JjPzJaTCo8yIGUYC3uygvlegiMnLESun",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://baybee.co.in/cdn/shop/files/02_1bacd317-0e2b-4272-99f6-93a5318b0532.jpg?v=1779725218&width=2000",
+   "image_width": 2000,
+   "image_height": 2000
+  },
+  {
+   "position": 31,
+   "title": "Buy StarAndDaisy 360° Baby Walker with Adjustable Height ...",
+   "link": "https://www.amazon.in/StarAndDaisy-Adjustable-Multi-Functional-Anti-Rollover-Foldable/dp/B0F946Z3HZ",
+   "source": "Amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR2emfet7RmzmPRsHjYm_UPCTAgzmbvxRasG6I2u0I4LbQ54ZknecWGFOlBWs77JqzWT4yV05Z70DroaUwrYGlJKA1RUCO8YFzPxNBQf8kSXLfu",
+   "rating": 4.1,
+   "reviews": 3286,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmARo2higr0FwSstYylG2uBZZ1HEQOngXkXPxXUCpkYWiWjB6Q",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/61MttUF0n6L._AC_UF350,350_QL80_.jpg",
+   "image_width": 350,
+   "image_height": 350
+  },
+  {
+   "position": 32,
+   "title": "Harppa Foldable Baby Walker, White",
+   "link": "https://goodbuygear.com/products/harppa-foldable-baby-walker-white",
+   "source": "GoodBuy Gear",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRpwzfzUiFmGc1uuOP9rFI3IOHnUocSnACgzqp_RKP2ZicTUYC1r8UnVDecCkGYj3OJggZgNpbelmsLsw2CDMozFYO9IEZJSsPq2x7GR6hPOLCITnI",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX0IGeZHbalMDPfkKrfLfuMxW8pqzvHEgzLjOCEDB2JD8FYAHN",
+   "thumbnail_width": 299,
+   "thumbnail_height": 168,
+   "image": "https://goodbuygear.com/cdn/shop/files/29d73b31-7670-468d-9405-79d4a3e66b4b_grande.png?v=1733845710",
+   "image_width": 600,
+   "image_height": 338
+  },
+  {
+   "position": 33,
+   "title": "Baby Walkers - Infant Walkers Latest Price, Manufacturers ...",
+   "link": "https://dir.indiamart.com/impcat/baby-walkers.html",
+   "source": "IndiaMART",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSZUpKjyu_dUewZRD0rn3K_YS2ZQK4ouvdbqpDC8ZUlG4sCSbVNxuwZN16yFVXht8R995lrH1SN5GiHZs-0EZ3nJGCEQ7HrI-JWXsULVXDtk7j-WJO0lw",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHKp21mNkI1R-kAihZADG340r1-keYFjnqzz1KyYuD1CC--hnx",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://3.imimg.com/data3/OF/FL/GLADMIN-22735/baby-walkers-250x250.jpg",
+   "image_width": 250,
+   "image_height": 250
+  },
+  {
+   "position": 34,
+   "title": "12-18 Months Age Baby Walkers for sale | eBay",
+   "link": "https://www.ebay.com/b/12-18-Months-Age-Baby-Walkers/134282/bn_18305297",
+   "source": "eBay",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT5NXsW5qpQoNKtvnEC0sNL88H54opWmBBYIh2gQ3U_SGUU-yc8xV_BfeECVq4HYfwroQsx3k4lpMvjDByZM4KvONyK63j7aI6RPQrDFwRa9lo",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh3pRwAz1YYZ1T_MuTA8ItcZ7hOcrE1NbOpAqbz2bhapAwaMD",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://i.ebayimg.com/images/g/ThcAAOSwr9lmxZYz/s-l1200.webp",
+   "image_width": 1200,
+   "image_height": 1200
+  },
+  {
+   "position": 35,
+   "title": "Baby Walkers for Infant Activity and Development | White ...",
+   "link": "https://www.walmart.com/browse/baby/baby-walkers/white/5427_86323_1231322/Y29sb3I6V2hpdGUie",
+   "source": "Walmart",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTty0_uq5QGsSpEA1agUnwTMPZTu_YvS9mg_tzOR2qy22fR-FGLLoSmA4z4XotJkADD4W1gHczZdZT5PEPvM9Sv6mBjhn-lRnHs4p0G3COAlV8EwJE",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTinhjMWNlpPdnOmhzfU42EBfCb3fSmd0yEqDSFUoG8XEI1PMrA",
+   "thumbnail_width": 180,
+   "thumbnail_height": 180,
+   "image": "https://i5.walmartimages.com/seo/Baby-Walker-Portable-Foldable-9-Adjustable-Heights-with-Wheels-Non-Slip-Placement-for-6-12-Months-White_a639995a-7b2e-468a-8212-b7304c05cc27.e7c31548180391aa8319909faf0e4d8e.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+   "image_width": 180,
+   "image_height": 180
+  },
+  {
+   "position": 36,
+   "title": "Wnttmt Baby Walkers recalled due to risk of serious injury ...",
+   "link": "https://myparistexas.com/wnttmt-baby-walkers-recalled-due-to-risk-of-serious-injury-or-death-from-fall-and-entrapment-hazards-sold-on-amazon/",
+   "source": "MyParisTexas",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSvNwD4ApTsLTYS6nHHLN98U_5XTUtRucmF1a-EPO23ayTbqGNgawnXTs0T0yhZRjAml5-cLrJ1KoURZj-xsOW_4jRxQIc05Hv8u0ApI8aRuua_qtK6",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaMqIVMwSn4cpw2D3h7v65vws5wwF82Bovy17znFKQ5w7KDYOU",
+   "thumbnail_width": 174,
+   "thumbnail_height": 290,
+   "image": "https://myparistexas.com/wp-content/uploads/2026/08/WEBSITEFACEBOOK-GRAPHICS-7-5.png",
+   "image_width": 600,
+   "image_height": 1000
+  },
+  {
+   "position": 37,
+   "title": "Kmaier Foldable Adjustable Height Baby Walker with Activity ...",
+   "link": "https://www.lowes.com/pd/Kmaier-Foldable-Adjustable-Height-Baby-Walker-with-Activity-Tray-and-Wheels-for-Toddlers-Pink/9705475",
+   "source": "Lowe's",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcS_fDMK3AQpPNw50WewGv_aXgVdrMJ2mJAMXeY5CeCgeTyHYIa1DdQvXpvRnjYXxoyl6T8aZ0lgHrD_2mzf9XpV5FdCRiIvwJPEAfi5d3Kf3QTc",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReaGMKFsXwza2R_0in10wvEZn_w3-juMepe7lJ-pttCkHx4uAQ",
+   "thumbnail_width": 224,
+   "thumbnail_height": 224,
+   "image": "https://mobileimages.lowes.com/productimages/c3edd718-45af-4032-a024-cfc975529a4f/85085753.jpeg?size=pdhism",
+   "image_width": 646,
+   "image_height": 646
+  },
+  {
+   "position": 38,
+   "title": "Baby Walker - Buy & Sell Used Kids Furniture in India | OLX",
+   "link": "https://www.olx.in/kids-furniture_c231/q-baby-walker",
+   "source": "OLX India",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQoATfCQ7MU74fseKFisKqESqz9zOeIR6cTDUW2T533-oBsHsvVJJDqiHeqRMyGPeFawaeunSsElQwtXKsqPvwUZww4mu6fsldrZNzNw1EF",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhQ-g_lIn3qIDBvOfxVcqrw2VPKA9rJ7FOry-V3joF7A_jwVdU",
+   "thumbnail_width": 259,
+   "thumbnail_height": 194,
+   "image": "https://apollo.olx.in/v1/files/jxdxqviwxq5q3-IN/image",
+   "image_width": 1000,
+   "image_height": 750
+  },
+  {
+   "position": 39,
+   "title": "Foldable Baby Walker Activity Center W/ Wheels,Height ...",
+   "link": "https://us.shein.com/Foldable-Baby-Walker-Activity-Center-W-Wheels-Height-Adjustable-W-Dinner-Plate-Foot-Pad-For-6-18-Months-Babies-Infant-Boys-Girls-Grey-p-261250346.html",
+   "source": "SHEIN",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcT0kK2_PXDSFf1pITZnPBy_gSLnjoBhzeDAyNco5a3oaaNjMmDO7QTmC7vbp5akOpuRFzQDVALPBjWhs9P_jkxzkmvPrEtnyUqFhVHl_PwoopA",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4iPWtoNq55aM8XlEmhcp_nYnnqafpH8isCCp73Vs7kmp8cv_a",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://img.ltwebstatic.com/v4/j/spmp/2026/08/11/53/1786448415838b35d60ec7ba0b179b91cea37d8010_square_thumbnail_405x552.jpg",
+   "image_width": 405,
+   "image_height": 405
+  },
+  {
+   "position": 40,
+   "title": "Kidle Baby Walkers KSA | 30-75% OFF | Riyadh, Jeddah",
+   "link": "https://www.noon.com/saudi-en/baby-products/infant-activity/baby-walkers/kidle/",
+   "source": "noon",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv6ecWqsHPUJ8fUHRF16yx1Lzhe08LzjrFWYNyjnOD2renHShENc2JC1e6G_D1J57FVObo0iGFOIUKjYLidOhA4RrfD8qBBfcoSvMNgTp2Ngk",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRBgWLUNDRVE5RzC-zYmIqnU740MkNqyj6x-ZRHhQr3226yu9F",
+   "thumbnail_width": 262,
+   "thumbnail_height": 192,
+   "image": "https://f.nooncdn.com/p/pzsku/ZCE6D5AB487C693FDC44CZ/45/1767520511/308c6504-9ab2-4493-8226-6c993e3b26ab.jpg?width=320",
+   "image_width": 436,
+   "image_height": 320
+  },
+  {
+   "position": 41,
+   "title": "Are Baby Walkers Safe? Safety Guide for Indian Parents ...",
+   "link": "https://www.luvlap.com/blogs/baby-walker/are-baby-walkers-safe",
+   "source": "Luvlap Store",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSjWxVbaTRRM5dl2mYXOhbv8zZ0H4Mx5HsUXjXD3GNsoiiJfct4AOk1Jbgt1gXZCYpPJFX-AXmybCgJo_r-Pzixt8TGvTSZeff6KigQZF_HK_VCbQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1TKqPEUCRAuL9K5l2hQ2Srciq6KMWlp7JSjFIG8wlgGuKJiDL",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://www.luvlap.com/cdn/shop/articles/19914_ElegantWalker_Purple_E-Comm_2_a2ae602d-6e5f-4385-970a-f5fc72e381cb.jpg?v=1772886391&width=3000",
+   "image_width": 3000,
+   "image_height": 3000
+  },
+  {
+   "position": 42,
+   "title": "Baby Walkers: Buy Walker for Kids Online in India at Babyshop",
+   "link": "https://www.babyshop.in/in/en/c/travelandbedroom-furniture-walkers",
+   "source": "Babyshop",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSt_vGjIGb0rpionLYyRXjzjxFF9BQz6pfwaodq8qNnOaeJ-z62E1NEByAgCDO1xeUPvT1h1fv_GuH4xryZRHYzaF4paEL44d9LqY51niVbzfF4C2I",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3CTX8QoDNSXHEgnvT_bGP-hmFoWuEsFZotsrq-HAlc9P20bq9",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://media.landmarkshops.in/babyshopstores/1000014792960-SeaGreen-Green-1000014792960_08-2100.jpeg",
+   "image_width": 2100,
+   "image_height": 2100
+  },
+  {
+   "position": 43,
+   "title": "The Pros and Cons of Letting Your Baby Use a Walker",
+   "link": "https://www.menmoms.in/blogs/baby-care/the-pros-and-cons-of-letting-your-baby-use-a-walker",
+   "source": "Me n Moms",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRPtPcWkqGPr9GnvexrfZFH-bnZByFKfO2SIrA5t6FWNb-bnHXfwYpzblgJcWiX5Ab6t7N2mKzd4vsBvX2gRPg-UmBnPm0ENZvq0keYaSvZDG3llw",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlpMjsPNsz6B47whihu6eRHVgmYv6xXUY76e9n5gplxlvuVtu",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://www.menmoms.in/cdn/shop/files/MM-W_240A_PNK_1_47acfae5-5788-458b-833d-a85c491dc7c4.jpg?v=1727439974&width=1200",
+   "image_width": 1200,
+   "image_height": 1200
+  },
+  {
+   "position": 44,
+   "title": "Baby walkers Sold At ToyTexx In Richmond Hill, ON, Recalled ...",
+   "link": "https://www.todaysparent.com/family/recalls/baby-walkers-sold-at-toytexx-in-richmond-hill-on-recalled/",
+   "source": "Today's Parent",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcS8rN8p-M7cGs-NfDgPgaepWxGL6Tux4VzijTd31FDwTMPddxXGl5x_2igtxHHzd0N8QwS4kLRb0u6hN45NRR-fFgTSmOY3-4e3WHFj-O20DTei_6Np134psA",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4sje_zjzqqEA6bq-XQs6fzK3Cmt7TmmwhaWVizmHrodBCggMe",
+   "thumbnail_width": 159,
+   "thumbnail_height": 318,
+   "image": "https://todaysparent.mblycdn.com/tp/resized/2026/08/1200x600/toytexx-recall.jpg",
+   "image_width": 600,
+   "image_height": 1200
+  },
+  {
+   "position": 45,
+   "title": "Are Baby Walkers Safe? Safety Tips for Indian Parents ...",
+   "link": "https://meemee.in/blogs/news/are-baby-walkers-safe",
+   "source": "Mee Mee",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRfzbdTJRwsdmtop0XAoQ0ypLhxAuHvI18YeQ7t9wVDVdVROAntvOmlE-P9GR7K5pDJ4in5uC8Myjalv9nKbF7n0gsfzKcLjxRjaZID4lo",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcuvr7JUtxAzN1rcgK_35Ve50ahXUl7f7Cgu3BIo4DISYy0WWu",
+   "thumbnail_width": 141,
+   "thumbnail_height": 356,
+   "image": "https://meemee.in/cdn/shop/articles/Blog-7-banner-image-1_cbafee04-b4bd-4824-8048-d3223d6c3dd8_720x.webp?v=1786021646",
+   "image_width": 286,
+   "image_height": 720
+  },
+  {
+   "position": 46,
+   "title": "Baby walker recall: Keep your baby safe and throw this one out",
+   "link": "https://fox8.com/news/baby-walker-recall-keep-your-baby-safe-and-throw-this-one-out/",
+   "source": "FOX 8 News",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQFNyxNwM4SMUWgvhC8mFsLvGf7-Uf5XWz-dIEhsCoaw3RWisCy4XZUJ0FGrq6wA0wPRq39Xsib1Jx71-CebxlA1xSMovergywaKtT4zw",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnJNVuI4hHHcR2XdZpisGY6evW0QjDH3VmsAvloD0hbfJZSZQs",
+   "thumbnail_width": 163,
+   "thumbnail_height": 310,
+   "image": "https://fox8.com/wp-content/uploads/sites/12/2026/10/Pvauert-US-cover.png?w=1280",
+   "image_width": 630,
+   "image_height": 1200
+  },
+  {
+   "position": 47,
+   "title": "Infant Walker Activity Walkers For Toddlers Wheeled Infant ...",
+   "link": "https://www.kiswok.com/?p=18821569071470",
+   "source": "kiswok",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSLS87dHnzZRAFv_87MlYMEWHlKeAFzv5_1C-krPaCEwqSVwRW8vzAyWm511XQcxx0dhY2XbXvHPVhErsUSPqAdbWLknaH4bSakP2RvtW_-YTbJKQ",
+   "rating": 5.0,
+   "reviews": 5,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdXk8isKJs_OeLHklMg9ut-MdG5pNmmTLSac7IjDjOKLztpno_",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "http://baybee.co.in/cdn/shop/files/71XqxHS8w1L.jpg?v=1777134270",
+   "image_width": 1500,
+   "image_height": 1500
+  },
+  {
+   "position": 48,
+   "title": "Baby walkers will help them walk sooner| Medanta Cares",
+   "link": "https://www.medanta.org/patient-education-blog/baby-walkers-will-help-them-walk-sooner",
+   "source": "Medanta",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcThdKBxlkQIdRcpNRvWz72_ShwZMztGjjUXpPkX7inVczDzKuJwDYEB3ZDNHes76y-gzFdH59MdobElcI7wOzGRrDTZOV-gXqYw8kaEgI-5cD_UVXg",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoE9_s4eHegsrRZnOKbhdqU3_mPGoRD4_cjSoYgfAtpjFXY1Zc",
+   "thumbnail_width": 183,
+   "thumbnail_height": 275,
+   "image": "https://medanta.s3.ap-south-1.amazonaws.com/blogs/July2024/F3oPzREnwltLKziMxrgovlqaAgwq7m-metaQmFieSB3YWxrZXJzIHdpbGwgaGVscCB0aGVtIHdhbGsgc29vbmVyLmpwZw==-.jpg",
+   "image_width": 2656,
+   "image_height": 3984
+  },
+  {
+   "position": 49,
+   "title": "Baby Walkers Wholesalers & Distributors in India",
+   "link": "https://dir.indiamart.com/impcat/baby-walkers.html?biz=30",
+   "source": "IndiaMART",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSZUpKjyu_dUewZRD0rn3K_YS2ZQK4ouvdbqpDC8ZUlG4sCSbVNxuwZN16yFVXht8R995lrH1SN5GiHZs-0EZ3nJGCEQ7HrI-JWXsULVXDtk7j-WJO0lw",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeWEtrsAZe2EEmWurK4oeuTOn_u6bis8oVmlKOmmmzKA4qQwwL",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://5.imimg.com/data5/SELLER/Default/2025/5/511962788/HO/JB/OQ/5575740/round-walker-foldable-baby-walker-rotatable-wheel-500x500.jpg",
+   "image_width": 500,
+   "image_height": 500
+  },
+  {
+   "position": 50,
+   "title": "Amazon Baby Walkers Recalled Due to Fall Risk",
+   "link": "https://people.com/baby-walkers-sold-on-amazon-recalled-due-to-risk-of-falling-death-serious-injury-12058052",
+   "source": "People.com",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTA1Tocc1zmQyEhwt7q6elH0PUaYzGIIoBAF4C6l07TtLzxEXq9OVRkvQvko66rLieMywxXtYsmxKGvQI4MBkHXWQSuGJNrJKCaguFYhyDe",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-NwzDdS9LgtBVenAt0eJKX2T7fPUJqIrZlVmWKIwBnxJ678GQ",
+   "thumbnail_width": 251,
+   "thumbnail_height": 201,
+   "image": "https://people.com/thmb/BAdKzx692gTrL7ieTUpSf5eGbBU=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(602x667:604x669)/Wnttmt-Baby-Walkers-Recall-081226-a131bcfa623b493696dc059b0df8e0f1.jpg",
+   "image_width": 1500,
+   "image_height": 1200
+  },
+  {
+   "position": 51,
+   "title": "Baby Walkers In Pune Maharashtra At Best Price | Baby ...",
+   "link": "https://www.tradeindia.com/pune/baby-walkers-city-213577.html",
+   "source": "Tradeindia",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQu8cWvOCRdrLxvj84tu9vc6V26qPLa6f7J_vRpepXLHIqYSjCbODy3gscQ7piEDWTlaAMsFxBiu_SMmFOpqvRUrDxhrwzY24H_8zLuZLh3KMo_2NB347s",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTohcaFpwIYuLg89yOh-3FCBfKI44n-GOK1Tpb0BhHJh32Y5-L7",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://cpimg.tistatic.com/11948178/b/4/Namo-baby-walker-008..jpg",
+   "image_width": 500,
+   "image_height": 500
+  },
+  {
+   "position": 52,
+   "title": "AIRLYA-Life infant walkers recalled - YouTube",
+   "link": "https://www.youtube.com/watch?v=20yfPda5C-Y",
+   "source": "YouTube",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHQslzHLLyLc_qne5jxn7JocidlmUPyegZ8ojX3WVlorFk8BxW9a3vJWjDzN99UHVTqSaNBj_-6XykhxuVQfF3Ye7xScSWSuc2QHXi0a12CkVwBmo",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlN7Gl1Ji1P0hMB39jZYMSDvCGmd4ltaHJqxImgtWv1weQVkBs",
+   "thumbnail_width": 194,
+   "thumbnail_height": 259,
+   "image": "https://i.ytimg.com/vi/20yfPda5C-Y/hqdefault.jpg",
+   "image_width": 360,
+   "image_height": 480
+  },
+  {
+   "position": 53,
+   "title": "Baby walker, battery charger recalls",
+   "link": "https://nbcmontana.com/news/local/baby-walker-battery-charger-recalls",
+   "source": "NBC Montana",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQPrNQM9GAk1lIcBlZoyuuE6T8gwvYhRrupbW99bN0Eo4_oI_YnrZM6ZthVV5kMJ138jJ9ZnBuL862soeF2K0eEEeFmzMGd606qTrE0kPQubI_eBg",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZx8v5zYDyAgyEYG7QtSJi98wR-SWb6VtRaq70nLtJyTOcV-6",
+   "thumbnail_width": 168,
+   "thumbnail_height": 300,
+   "image": "https://nbcmontana.com/resources/media2/16x9/297/800/0x1/80/0b5e2ad0-7992-4009-a26e-98e28a24b08b-bwalk1.jpg",
+   "image_width": 450,
+   "image_height": 800
+  },
+  {
+   "position": 54,
+   "title": "R for Rabbit Baby Walker With 3 Level Height Adjustment 4 ...",
+   "link": "https://www.firstcry.com/r-for-rabbit/r-for-rabbit-baby-walker-with-3-level-height-adjustment-4-level-seat-adjustment-and-recreational-toy-bar-blue-and-white/20211753/product-detail",
+   "source": "FirstCry",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRz4b3mqXy1UvJXOTMLfy53kejreayRDH-xyNa3Cno9qv6IKJtlPXzS2SizUJVwmejItA9oLzjsxvs3I3zlnr7LBmPmxmSVlyzWJwvNHmD3P7vKU45O",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBl077N94JZfKpen1VH0G1H6Pi6PuJ2ktcHLPsulCVqDVDb5ii",
+   "thumbnail_width": 247,
+   "thumbnail_height": 204,
+   "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/21938992a.webp",
+   "image_width": 265,
+   "image_height": 219
+  },
+  {
+   "position": 55,
+   "title": "Chulovs Baby Walker Foldable with 9 Adjustable Heights, Baby ...",
+   "link": "https://www.amazon.sa/-/en/Chulovs-Foldable-Adjustable-Activity-Anti-Rollover/dp/B0F5HBHZLX",
+   "source": "www.amazon.sa",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQjcJANmn7v-kAZYK7egZ3TDAqy4p8AzL8xs9Ik7NVBAYXgvA_xTTgbLGEsMF2tB55nlCCTYfwlevGpRj9TJWIFKDcetGAY1vDMraR093XddN-M",
+   "rating": 5.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0q2nAYgRLoTpdiqoJ7G96QXALp8T_Mcp3iD1Qihcf-YaZqHKr",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/61ptRI7fZUL._AC_UF350,350_QL80_.jpg",
+   "image_width": 350,
+   "image_height": 350
+  },
+  {
+   "position": 56,
+   "title": "Baby Walkers: Are They Safe for Your Child? | Nathani Clinic",
+   "link": "https://www.nathaniclinic.com/baby-walkers-are-they-safe/",
+   "source": "Nathani Clinic",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTEuZSyj3xeneWpYIhqLXSc-zWRNRpq_2X4NFVUhtT7FxlQuwW9L9w1HPUOAv5RoG4hHE_EfeflglhDWVLFy5aWcZloBbYn0ZZeASSME79L5sWtz5zicYSzzhE",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LJ1QnAQeS6C1bsSk6CkpYP2nHYHIHgHWj5e4UW0RCJy-rI4W",
+   "thumbnail_width": 183,
+   "thumbnail_height": 275,
+   "image": "https://www.nathaniclinic.com/wp-content/uploads/2020/06/SeatedWalkers-300x200.jpg",
+   "image_width": 200,
+   "image_height": 300
+  },
+  {
+   "position": 57,
+   "title": "Baby Walkers - Buy & Sell Used Furniture in India | OLX",
+   "link": "https://www.olx.in/furniture_c628/q-baby-walkers",
+   "source": "OLX India",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQoATfCQ7MU74fseKFisKqESqz9zOeIR6cTDUW2T533-oBsHsvVJJDqiHeqRMyGPeFawaeunSsElQwtXKsqPvwUZww4mu6fsldrZNzNw1EF",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBYixUYCxDVPgdV6yw-8QABwIepHmJ1pyJpmFzU8QVWs-woKGk",
+   "thumbnail_width": 299,
+   "thumbnail_height": 168,
+   "image": "https://apollo.olx.in/v1/files/7kjyset722fy2-IN/image;s=272x0",
+   "image_width": 483,
+   "image_height": 272
+  },
+  {
+   "position": 58,
+   "title": "Boyro Baby Walker, 5-in-1 Baby Walker. Product Details. • 5 ...",
+   "link": "https://www.instagram.com/p/DYX9ZF6Av7r/",
+   "source": "Instagram",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1rAz87aFDNsiZSSmB140qV_i3sczdqGGLq51BliqftMFUJRqi",
+   "thumbnail_width": 224,
+   "thumbnail_height": 224,
+   "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3897853857917195584",
+   "image_width": 894,
+   "image_height": 894
+  },
+  {
+   "position": 59,
+   "title": "19 Must-Follow Safety Guidelines for Baby Walkers in India",
+   "link": "https://rforrabbit.com/blogs/articles/baby-walker-safety-guidelines",
+   "source": "R for Rabbit",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTNyYTcBeMKA8v22g6RDi7GrsN_ojJFj_B8rfbOY8f9oz7dTvy6xvSfxldcsRx0aWd4uw9MncWm4N_MMYKpe8Mt0XVQfoVxLa1FotRbKGtDeP8sSA",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR03oehfnL9bej_iyIaiE8YhtfkTC8shi_P1CZfJEeXlPonIm7N",
+   "thumbnail_width": 162,
+   "thumbnail_height": 310,
+   "image": "https://rforrabbit.com/cdn/shop/articles/4dc4e4d49f06b64af3a0fb15d02a4710_9b56d494-2e5c-4677-b90d-4829d2562cb6.webp?v=1747133697",
+   "image_width": 393,
+   "image_height": 749
+  },
+  {
+   "position": 60,
+   "title": "Are Baby Walkers Safe India? 2026 IAP Safety Data & Safer ...",
+   "link": "https://babyjunctions.in/are-baby-walkers-safe-india-iap-accident-data",
+   "source": "Baby Junctions",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQBwB5C-t9W7Kg5N6yeyOMxcMwoRcbn9dB9gbPlkC3iqQeA1MFFNExpmdUJopZLiF55Unvgca79j3geYO43B84H0NP0idKJHdtGwIrQsWSiSiOylGiz",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHbFZ_p5JnBeBI-kM9aq_XtR_HWJxxrPNabHeyS9fYYnvfEePL",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://ik.imagekit.io/gr1w62hgiu/babyjunctions/products/prod_2077?tr=f-auto,q-80,w-400",
+   "image_width": 400,
+   "image_height": 400
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "The bestselling new and future releases in Walkers",
+   "link": "https://www.amazon.in/gp/new-releases/baby/1953110031",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVnrSIo96Slel-8eZNKR4WBdhX-0ksOQM6KLuVQjFiKW5fAmxWCtHqIhXyQWRTvHYMedFbIbNQWs0KOpc3UpupnhKThtjrZfD-B2TlZ_XZDg4wacQT9k9xPb1bIZvJfx6qS5rIP9PDzKHQO9o&ved=2ahUKEwjDpqWTs6uXAxUKkOEIHYk-DCEQFnoFCNIDEAE&uoh=1",
+   "displayed_link": "https://www.amazon.in › new-releases › baby",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi309P9wzGVAvwj5MpEf-9Sudgpx87abviZcyiK39EdmapEZAGuAA1&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "StarandDaisy Baby Walker for Babies, 6-18 Month Baby Boy & Girl, Adjustable Height Infant Learning Walker with 360° Wheels, Anti-Slip, Comfortable Padded ...",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.1
+     },
+     "extensions": [
+      "4.1",
+      "store rating (1.5K)",
+      "Free delivery"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "StarandDaisy Baby Walker for Babies, 6-18 Month Baby Boy & Girl, Adjustable Height Infant Learning Walker with 360° Wheels, Anti-Slip, Comfortable Padded ...",
+     "source_info_link": "https://www.amazon.in/gp/new-releases/baby/1953110031",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVm5yU0lvOTZTbGVsLThlWk5LUjRXQmRoWC0wa3NPUU02S0x1VlFqRmlLVzVmQW14V0N0SHFJaFh5UVdSVHZIWU1lZEZiSWJOUVdzMEtPcGMzVXB1cG5oS1RodGpyWmZELUIyVGxaX1haRGc0d2FjUVQ5azl4UGIxYkladkpmeDZxUzVySVA5UER6S0hRTzlvEgQaAggAGiISABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVm5yU0lvOTZTbGVsLThlWk5LUjRXQmRoWC0wa3NPUU02S0x1VlFqRmlLVzVmQW14V0N0SHFJaFh5UVdSVHZIWU1lZEZiSWJOUVdzMEtPcGMzVXB1cG5oS1RodGpyWmZELUIyVGxaX1haRGc0d2FjUVQ5azl4UGIxYkladkpmeDZxUzVySVA5UER6S0hRTzlvEgQaAggAGiISABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Amazon.in",
+   "read_more_link": "https://www.amazon.in/gp/new-releases/baby/1953110031#:~:text=StarandDaisy%20Baby%20Walker%20for%20Babies%2C,Tray%2C%20Foldable%20Toddler%20Walker%20(Orange%2DBlack)"
+  },
+  {
+   "position": 2,
+   "title": "Baby Walkers: Buy Walker Online",
+   "link": "https://www.flipkart.com/baby-care/baby-gear/pr?sid=kyh,5mt,763",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAV-j7teBlagq4VOpUgGO62gmU58-1PjIYUBzkiy4or_Y-zr1xlbU5evSTgNcT1Gv15AeliCLsG5ieprefx3yl-eBdk-xZggDui4YTZfJFr9mbDaSvG2Lm3A9n5efUegYEtRZZXRiV1KX3MH8ZR9H21yOAKV0jG&ved=2ahUKEwjDpqWTs6uXAxUKkOEIHYk-DCEQFnoFCNMDEAE&uoh=1",
+   "displayed_link": "https://www.flipkart.com › baby-care › baby-gear",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8mFLkNuRKeHr6BmEwDxuRofW8Uxh7Y9GRrG3q_e6JJsFaW3m-WVL&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
+   "snippet": "Baby Walkers: Buy Walker from top brands like Graco, Fisher Price, Chicco, Hauck and more at India's favorite online shopping store.",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.1
+     },
+     "extensions": [
+      "4.1",
+      "store rating (1.9K)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Baby Walkers: Buy Walker from top brands like Graco, Fisher Price, Chicco, Hauck and more at India's favorite online shopping store.",
+     "source_info_link": "https://www.flipkart.com/baby-care/baby-gear/pr?sid=kyh,5mt,763",
+     "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVi1qN3RlQmxhZ3E0Vk9wVWdHTzYyZ21VNTgtMVBqSVlVQnpraXk0b3JfWS16cjF4bGJVNWV2U1RnTmNUMUd2MTVBZWxpQ0xzRzVpZXByZWZ4M3lsLWVCZGsteFpnZ0R1aTRZVFpmSkZyOW1iRGFTdkcyTG0zQTluNWVmVWVnWUV0UlpaWFJpVjFLWDNNSDhaUjlIMjF5T0FLVjBqRxIEGgIIABokEgIIABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVi1qN3RlQmxhZ3E0Vk9wVWdHTzYyZ21VNTgtMVBqSVlVQnpraXk0b3JfWS16cjF4bGJVNWV2U1RnTmNUMUd2MTVBZWxpQ0xzRzVpZXByZWZ4M3lsLWVCZGsteFpnZ0R1aTRZVFpmSkZyOW1iRGFTdkcyTG0zQTluNWVmVWVnWUV0UlpaWFJpVjFLWDNNSDhaUjlIMjF5T0FLVjBqRxIEGgIIABokEgIIABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Flipkart"
+  },
+  {
+   "position": 3,
+   "title": "3000 - ₹9999 - Walkers / Activity & Play Time: Baby",
+   "link": "https://www.amazon.in/Walkers-%E2%82%B93-000-%E2%82%B99-999/s?rh=n%3A1953110031%2Cp_36%3A300000-999900",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFfQVAg2Tk1sU-MBA9dhxWeVTJhtBv8qGa8afGazEfHSwYZrY_GUwENwQz_bcCKAf0EdQ80wOJdP56GpKQQpbuRI235ruQnjdNy1r0jIfBxE28V1RXdkC-VoB5Sa3QfJgMNT3E3hejHSB_gxPypmf1qeId8ZMe-EDvtXF3XZMd_IEemSbGLbv86FxGT2qbq67UsheSJwoaIAtzXKe2w&ved=2ahUKEwjDpqWTs6uXAxUKkOEIHYk-DCEQFnoFCM4DEAE&uoh=1",
+   "displayed_link": "https://www.amazon.in › ...",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "STAR WORK 5 in 1 Baby Push Walker, Steam Train Toy, with 40+ Music and Lights, 10 Educational Play Modes and Pull Learning Activity (Blue).",
+   "about_this_result": {
+    "source": {
+     "description": "STAR WORK 5 in 1 Baby Push Walker, Steam Train Toy, with 40+ Music and Lights, 10 Educational Play Modes and Pull Learning Activity (Blue).",
+     "source_info_link": "https://www.amazon.in/Walkers-%E2%82%B93-000-%E2%82%B99-999/s?rh=n%3A1953110031%2Cp_36%3A300000-999900",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZmUVZBZzJUazFzVS1NQkE5ZGh4V2VWVEpodEJ2OHFHYThhZkdhekVmSFN3WVpyWV9HVXdFTndRel9iY0NLQWYwRWRRODB3T0pkUDU2R3BLUVFwYnVSSTIzNXJ1UW5qZE55MXIwaklmQnhFMjhWMVJYZGtDLVZvQjVTYTNRZkpnTU5UM0UzaGVqSFNCX2d4UHlwbWYxcWVJZDhaTWUtRUR2dFhGM1haTWRfSUVlbVNiR0xidjg2RnhHVDJxYnE2N1VzaGVTSndvYUlBdHpYS2UydxIEGgIIABogEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZmUVZBZzJUazFzVS1NQkE5ZGh4V2VWVEpodEJ2OHFHYThhZkdhekVmSFN3WVpyWV9HVXdFTndRel9iY0NLQWYwRWRRODB3T0pkUDU2R3BLUVFwYnVSSTIzNXJ1UW5qZE55MXIwaklmQnhFMjhWMVJYZGtDLVZvQjVTYTNRZkpnTU5UM0UzaGVqSFNCX2d4UHlwbWYxcWVJZDhaTWUtRUR2dFhGM1haTWRfSUVlbVNiR0xidjg2RnhHVDJxYnE2N1VzaGVTSndvYUlBdHpYS2UydxIEGgIIABogEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Amazon.in",
+   "read_more_link": "https://www.amazon.in/Walkers-%E2%82%B93-000-%E2%82%B99-999/s?rh=n:1953110031,p_36:300000-999900#:~:text=STAR%20WORK%205%20in%201,and%20Pull%20Learning%20Activity%20(Blue)"
+  },
+  {
+   "position": 4,
+   "title": "Baby Walkers: Buy Walker for Kids Online in India at Babyshop",
+   "link": "https://www.babyshop.in/in/en/c/travelandbedroom-furniture-walkers?srsltid=AU7gw4XLmDXvkaKv_opfmb_p_PVlOICx7c-zJeUx_JFNn0FGeJ7AwrRa",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvwEB6zswFcRg2ivaQNBGUZMsnmO1ZtUObEwtZOviAtNmu-tpLORAXtHp41Kxc85CiA1lBdKXHw1ZJ5_lXgN59wszGqP40qp2tlyQW-zDDsB2R4THlZO554NGlU78HHqzXN5EYBOlR76_nQwVH0GWzg0n6YHztZ15ZCEpTKvUJVYt9-O1J0-THLal1lBfmTc2lFTcZA6j1obvl5OVOYaTQzCMiVOYXefkDscfKjLls2jHyU2PQeQUJt8d3KOTcAj2Cw&ved=2ahUKEwjDpqWTs6uXAxUKkOEIHYk-DCEQFnoFCMwDEAE&uoh=1",
+   "displayed_link": "https://www.babyshop.in › travelandbedroom-furniture...",
+   "favicon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAAAQBQCdASocABwAPtE-tFooIigoFAEAGglqAMzRiy34OQlqJ_LJ7kB3sdWJq6vQvHAAAP79Ljv-_E_-DIf2G7cVzn967J_bKuFVq_zKRcE5fG38oLKzIBG3a4Z358fwV--1gAkdmTPeWyz-302V3-OQGjd-Hhih2tD24keQIDsMTOhsX88HCAjhsTWPQHYauh2RedC7lfncWPE9IzI_6X8XxcPn16N7cHr1LdNMbikm24UU6fZ5YclBGK9hpLlw8fPXIOBrTb0rFTZUokb9e-VkRQAAAA.webp",
+   "snippet": "Our child walker and baby walking chair models are high-quality and practical. Starting with small folding designs that fit a smaller house all the way to large ...",
+   "about_this_result": {
+    "source": {
+     "description": "Our child walker and baby walking chair models are high-quality and practical. Starting with small folding designs that fit a smaller house all the way to large ...",
+     "source_info_link": "https://www.babyshop.in/in/en/c/travelandbedroom-furniture-walkers?srsltid=AU7gw4XLmDXvkaKv_opfmb_p_PVlOICx7c-zJeUx_JFNn0FGeJ7AwrRa",
+     "icon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAAAQBQCdASocABwAPtE-tFooIigoFAEAGglqAMzRiy34OQlqJ_LJ7kB3sdWJq6vQvHAAAP79Ljv-_E_-DIf2G7cVzn967J_bKuFVq_zKRcE5fG38oLKzIBG3a4Z358fwV--1gAkdmTPeWyz-302V3-OQGjd-Hhih2tD24keQIDsMTOhsX88HCAjhsTWPQHYauh2RedC7lfncWPE9IzI_6X8XxcPn16N7cHr1LdNMbikm24UU6fZ5YclBGK9hpLlw8fPXIOBrTb0rFTZUokb9e-VkRQAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZjUmcyaXZhUU5CR1VaTXNubU8xWnRVT2JFd3RaT3ZpQXRObXUtdHBMT1JBWHRIcDQxS3hjODVDaUExbEJkS1hIdzFaSjVfbFhnTjU5d3N6R3FQNDBxcDJ0bHlRVy16RERzQjJSNFRIbFpPNTU0TkdsVTc4SEhxelhONUVZQk9sUjc2X25Rd1ZIMEdXemcwbjZZSHp0WjE1WkNFcFRLdlVKVll0OS1PMUowLVRITGFsMWxCZm1UYzJsRlRjWkE2ajFvYnZsNU9WT1lhVFF6Q01pVk9ZWGVma0RzY2ZLakxsczJqSHlVMlBRZVFVSnQ4ZDNLT1RjQWoyQ3cSBBoCCAAaIhIAGgIIASIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpACL2dvdG8_dXJsPUNBRVN2d0VCNnpzd0ZjUmcyaXZhUU5CR1VaTXNubU8xWnRVT2JFd3RaT3ZpQXRObXUtdHBMT1JBWHRIcDQxS3hjODVDaUExbEJkS1hIdzFaSjVfbFhnTjU5d3N6R3FQNDBxcDJ0bHlRVy16RERzQjJSNFRIbFpPNTU0TkdsVTc4SEhxelhONUVZQk9sUjc2X25Rd1ZIMEdXemcwbjZZSHp0WjE1WkNFcFRLdlVKVll0OS1PMUowLVRITGFsMWxCZm1UYzJsRlRjWkE2ajFvYnZsNU9WT1lhVFF6Q01pVk9ZWGVma0RzY2ZLakxsczJqSHlVMlBRZVFVSnQ4ZDNLT1RjQWoyQ3cSBBoCCAAaIhIAGgIIASIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "https://www.babyshop.in/",
+   "read_more_link": "https://www.babyshop.in/in/en/c/travelandbedroom-furniture-walkers?srsltid=AU7gw4XLmDXvkaKv_opfmb_p_PVlOICx7c-zJeUx_JFNn0FGeJ7AwrRa#:~:text=Subscribe%20to%20our%20awesome%20emails."
+  },
+  {
+   "position": 5,
+   "title": "Are Infant Walkers Safe?",
+   "link": "https://kidshealth.org/en/parents/products-walkers.html",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVvqAuvFiVwOBOZv_YeKMZRee9ojSfG1rMK58n9klTD4zrlnwWI228d-FKDmQxmd_ZXTax9_4e-qqfxgRfSr7c8-PrCdK71Ms4k1jPTTBXog4HpQWC-0UDrdLLNsdoyY4WaRgCL-lBiB5lhb3FSw&ved=2ahUKEwjDpqWTs6uXAxUKkOEIHYk-DCEQFnoFCNADEAE&uoh=1",
+   "displayed_link": "https://kidshealth.org › parents › products-walkers",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEUAAAAAemQAemQAemQAemQAemQAemQAemQAemQAemQAemQAemRgrJ4gi3eAvbIwk4FAm4sQgm5wtKj____v9_W_3thQpJSfzcWv1c_P5uLXDBa9AAAADHRSTlMAEEBQn-__YN8gvzDAz1ttAAAA30lEQVR4AYSSBQKDMBTFsAaHUmy7_0X3cStrcF7q9S74geB7L4SRYkZFoSWOE04k8S1OM25k6TnPFQ9Ubs9tRqqworZWMl7I1v7zyjKWhFeSeX4QigKhrGrQVYNQGIRQhAjQbauh7toe2rYC6rYdgEgEtQmSt9Um6OWhZH1YhSk33AR8L1gFI3nBLIxaa7MKwSZMfJhoVyxCW_wTukKu2tLE1smByWgenTwNk7Ft--cwTxPVfNvOMlEhgikQmkqDNuepdi-We7ndG8a95dyb1r3tf8OdcQhnPcKZl2D2BwAblhq9mOu-7QAAAABJRU5ErkJggg.png",
+   "snippet": "Infant walkers are devices with wheeled frames and suspended seats that let babies move around using their feet. But walkers aren't safe to use, even with ...",
+   "about_this_result": {
+    "source": {
+     "description": "Infant walkers are devices with wheeled frames and suspended seats that let babies move around using their feet. But walkers aren't safe to use, even with ...",
+     "source_info_link": "https://kidshealth.org/en/parents/products-walkers.html",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEUAAAAAemQAemQAemQAemQAemQAemQAemQAemQAemQAemQAemRgrJ4gi3eAvbIwk4FAm4sQgm5wtKj____v9_W_3thQpJSfzcWv1c_P5uLXDBa9AAAADHRSTlMAEEBQn-__YN8gvzDAz1ttAAAA30lEQVR4AYSSBQKDMBTFsAaHUmy7_0X3cStrcF7q9S74geB7L4SRYkZFoSWOE04k8S1OM25k6TnPFQ9Ubs9tRqqworZWMl7I1v7zyjKWhFeSeX4QigKhrGrQVYNQGIRQhAjQbauh7toe2rYC6rYdgEgEtQmSt9Um6OWhZH1YhSk33AR8L1gFI3nBLIxaa7MKwSZMfJhoVyxCW_wTukKu2tLE1smByWgenTwNk7Ft--cwTxPVfNvOMlEhgikQmkqDNuepdi-We7ndG8a95dyb1r3tf8OdcQhnPcKZl2D2BwAblhq9mOu-7QAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnZxQXV2RmlWd09CT1p2X1llS01aUmVlOW9qU2ZHMXJNSzU4bjlrbFRENHpybG53V0kyMjhkLUZLRG1ReG1kX1pYVGF4OV80ZS1xcWZ4Z1JmU3I3YzgtUHJDZEs3MU1zNGsxalBUVEJYb2c0SHBRV0MtMFVEcmRMTE5zZG95WTRXYVJnQ0wtbEJpQjVsaGIzRlN3EgQaAggAGiISAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnZxQXV2RmlWd09CT1p2X1llS01aUmVlOW9qU2ZHMXJNSzU4bjlrbFRENHpybG53V0kyMjhkLUZLRG1ReG1kX1pYVGF4OV80ZS1xcWZ4Z1JmU3I3YzgtUHJDZEs3MU1zNGsxalBUVEJYb2c0SHBRV0MtMFVEcmRMTE5zZG95WTRXYVJnQ0wtbEJpQjVsaGIzRlN3EgQaAggAGiISAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Nemours KidsHealth",
+   "read_more_link": "https://kidshealth.org/en/parents/products-walkers.html#:~:text=Infant%20walkers%20are%20devices%20with,even%20with%20adults%20watching%20closely."
+  },
+  {
+   "position": 6,
+   "title": "👶 Baby Walker क्यों इस्तेमाल नहीं करना चाहिए? ...",
+   "link": "https://www.instagram.com/p/DeM-nATTpia/",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVrUqyPaWS1JBF1g8oUl0-9iiYsDyLBU32cIbTtmENIiBbFjFVpVBM7PHu2kMUi2unQG5yg1X_qe0qeGswrw_9HbG2DeDZ2H9QmuqUuQxAQjm1Sk4g15GRwVC0_oOlUQ&ved=2ahUKEwjDpqWTs6uXAxUKkOEIHYk-DCEQFnoFCNEDEAE&uoh=1",
+   "displayed_link": "10+ likes · 1 day ago",
+   "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "snippet": "इस वीडियो में जानिए baby walker के नुकसान, बच्चे की walking development पर इसका क्या असर पड़ ...",
+   "about_this_result": {
+    "source": {
+     "description": "इस वीडियो में जानिए baby walker के नुकसान, बच्चे की walking development पर इसका क्या असर पड़ ...",
+     "source_info_link": "https://www.instagram.com/p/DeM-nATTpia/",
+     "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnJVcXlQYVdTMUpCRjFnOG9VbDAtOWlpWXNEeUxCVTMyY0liVHRtRU5JaUJiRmpGVnBWQk03UEh1MmtNVWkydW5RRzV5ZzFYX3FlMHFlR3N3cndfOUhiRzJEZURaMkg5UW11cVV1UXhBUWptMVNrNGcxNUdSd1ZDMF9vT2xVURIEGgIIABoiEgAaACICCAEqADIGCAESAmluOgBCBAgCEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnJVcXlQYVdTMUpCRjFnOG9VbDAtOWlpWXNEeUxCVTMyY0liVHRtRU5JaUJiRmpGVnBWQk03UEh1MmtNVWkydW5RRzV5ZzFYX3FlMHFlR3N3cndfOUhiRzJEZURaMkg5UW11cVV1UXhBUWptMVNrNGcxNUdSd1ZDMF9vT2xVURIEGgIIABoiEgAaACICCAEqADIGCAESAmluOgBCBAgCEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Instagram · cutie_ridanshi",
+   "read_more_link": "https://www.instagram.com/p/DeM-nATTpia/#:~:text=more"
+  },
+  {
+   "position": 7,
+   "title": "The Pros and Cons of Letting Your Baby Use a Walker",
+   "link": "https://www.menmoms.in/blogs/baby-care/the-pros-and-cons-of-letting-your-baby-use-a-walker?srsltid=AU7gw4WPXWM60zAFjoHs9DiRRQ4xNvThpQwBW6nmmEVjPs2Fp0ro2okv",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1wEB6zswFWyvWlALeOWSsmqpEhf0kN3vJ-4oumeAq64nYQS0ba8rxMa2017ArLg6RngX37NHsdpIJUbgsnG8ghQr2kvRS2Gew5mazpHT15ow2rAP8DxZsqDDj7vyVtl_lCy3Yz5FMAqxRgcpMyjBblTExWPROTWI66nO-o1GQzvmfi5rap8q896OAnUpAIuW_9eSZHX8TFlSldJt2jONNu3RUoCxpvoDeN1LNUdggjFboaninb3K1spVJwYfwBgBme9DEH4ZeB4vLmt1aXlhlYaYWOswFFhK5A&ved=2ahUKEwjDpqWTs6uXAxUKkOEIHYk-DCEQFnoFCM8DEAE&uoh=1",
+   "displayed_link": "https://www.menmoms.in › blogs › baby-care › the-pro...",
+   "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAACwBQCdASocABwAPrUurVanIacnG_DgFolsAMgTAQwAqgUAHvDYSDpawe2XhOzSbfm0XujPVMAA_vitSsgPcDdSVc7pyVfaQ3K8NwSQ58ddrcbH-fd3pjw6ZPw5pqKxOT_ctHN4qh9rZBUCl--wqSWjCxXqLN-uS9g0fr43813f6ofKXp_9lJkoloEQ7ZLnee42cbcEZmR5Hd0887LDaG0uyUlU2x1SDbRu-9OT8b-yfZOpZq3n7kxXcgC9TbxyXj-OtOKq4kwgGVCGPAAAAA.webp",
+   "date": "28 Oct 2025",
+   "snippet": "Wondering if a baby walker is right for your little one? Learn the pros and cons of using Baby Walkers, Baby Walking Cycles, and Car Baby ...",
+   "about_this_result": {
+    "source": {
+     "description": "Wondering if a baby walker is right for your little one? Learn the pros and cons of using Baby Walkers, Baby Walking Cycles, and Car Baby ...",
+     "source_info_link": "https://www.menmoms.in/blogs/baby-care/the-pros-and-cons-of-letting-your-baby-use-a-walker?srsltid=AU7gw4WPXWM60zAFjoHs9DiRRQ4xNvThpQwBW6nmmEVjPs2Fp0ro2okv",
+     "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAACwBQCdASocABwAPrUurVanIacnG_DgFolsAMgTAQwAqgUAHvDYSDpawe2XhOzSbfm0XujPVMAA_vitSsgPcDdSVc7pyVfaQ3K8NwSQ58ddrcbH-fd3pjw6ZPw5pqKxOT_ctHN4qh9rZBUCl--wqSWjCxXqLN-uS9g0fr43813f6ofKXp_9lJkoloEQ7ZLnee42cbcEZmR5Hd0887LDaG0uyUlU2x1SDbRu-9OT8b-yfZOpZq3n7kxXcgC9TbxyXj-OtOKq4kwgGVCGPAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CrACL2dvdG8_dXJsPUNBRVMxd0VCNnpzd0ZXeXZXbEFMZU9XU3NtcXBFaGYwa04zdkotNG91bWVBcTY0bllRUzBiYThyeE1hMjAxN0FyTGc2Um5nWDM3TkhzZHBJSlViZ3NuRzhnaFFyMmt2UlMyR2V3NW1henBIVDE1b3cyckFQOER4WnNxRERqN3Z5VnRsX2xDeTNZejVGTUFxeFJnY3BNeWpCYmxURXhXUFJPVFdJNjZuTy1vMUdRenZtZmk1cmFwOHE4OTZPQW5VcEFJdVdfOWVTWkhYOFRGbFNsZEp0MmpPTk51M1JVb0N4cHZvRGVOMUxOVWRnZ2pGYm9hbmluYjNLMXNwVkp3WWZ3QmdCbWU5REVINFplQjR2TG10MWFYbGhsWWFZV09zd0ZGaEs1QRIEGgIIABokEgIIABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrACL2dvdG8_dXJsPUNBRVMxd0VCNnpzd0ZXeXZXbEFMZU9XU3NtcXBFaGYwa04zdkotNG91bWVBcTY0bllRUzBiYThyeE1hMjAxN0FyTGc2Um5nWDM3TkhzZHBJSlViZ3NuRzhnaFFyMmt2UlMyR2V3NW1henBIVDE1b3cyckFQOER4WnNxRERqN3Z5VnRsX2xDeTNZejVGTUFxeFJnY3BNeWpCYmxURXhXUFJPVFdJNjZuTy1vMUdRenZtZmk1cmFwOHE4OTZPQW5VcEFJdVdfOWVTWkhYOFRGbFNsZEp0MmpPTk51M1JVb0N4cHZvRGVOMUxOVWRnZ2pGYm9hbmluYjNLMXNwVkp3WWZ3QmdCbWU5REVINFplQjR2TG10MWFYbGhsWWFZV09zd0ZGaEs1QRIEGgIIABokEgIIABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Me n Moms"
+  },
+  {
+   "position": 8,
+   "title": "Baby Walker Safety",
+   "link": "https://www.chop.edu/centers-programs/injury-prevention-program/baby-walker-safety",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFSv2HsDDWSTWVncMMKWWZJZ6IZkn6hzA3QNf_XKhWcQpGsLv5RmtKFnp4sSibRTKYjl4eJ2nQfBBxfzOXD8px3nlsJn_O6WJ9voYZHlB0MTRjv75SHJ8WohTpQI2XFTt-Mt4VdppTaCj62wKQLxzsFA3EixSMQAigBpXAUAmjF6NX0378-Ryb98&ved=2ahUKEwjDpqWTs6uXAxUKkOEIHYk-DCEQFnoFCM0DEAE&uoh=1",
+   "displayed_link": "https://www.chop.edu › injury-prevention-program › b...",
+   "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3oESA2wF2q7yKV4AQfOWH23zASIlr6C7LEGYV3mAmgAD8U7SHEI70xhSYLa9xwMVInT7cYPVw9ANNvRILt4boWEFI0lGjOrsOEXFvI4l6BI--T3s97dHGn_F5omyeIS4KQfbRN62AnNk8yrwVdbs1qbI5nwt7wXi1qDF-RpJjgBo_1v_-Gb1dj_aH3TsqSePD9-k4iZqsnOEko6-wH9I5ldPQ7Hmq-lnRI3iYFGjQu3n9kU8T8rvZG_4Vt9ljED2bKTP9VuFtXMTQtQAtcgGRIAcD1eYZ9e1YjZ89HZLE5b14Ub6N60EnsCLxAAAA.webp",
+   "snippet": "Each day, approximately 21 children are hospitalized with baby walker-related injuries. Find baby walker-safety tips to help keep your child safe from ...",
+   "about_this_result": {
+    "source": {
+     "description": "Each day, approximately 21 children are hospitalized with baby walker-related injuries. Find baby walker-safety tips to help keep your child safe from ...",
+     "source_info_link": "https://www.chop.edu/centers-programs/injury-prevention-program/baby-walker-safety",
+     "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3oESA2wF2q7yKV4AQfOWH23zASIlr6C7LEGYV3mAmgAD8U7SHEI70xhSYLa9xwMVInT7cYPVw9ANNvRILt4boWEFI0lGjOrsOEXFvI4l6BI--T3s97dHGn_F5omyeIS4KQfbRN62AnNk8yrwVdbs1qbI5nwt7wXi1qDF-RpJjgBo_1v_-Gb1dj_aH3TsqSePD9-k4iZqsnOEko6-wH9I5ldPQ7Hmq-lnRI3iYFGjQu3n9kU8T8rvZG_4Vt9ljED2bKTP9VuFtXMTQtQAtcgGRIAcD1eYZ9e1YjZ89HZLE5b14Ub6N60EnsCLxAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZTdjJIc0REV1NUV1ZuY01NS1dXWkpaNklaa242aHpBM1FOZl9YS2hXY1FwR3NMdjVSbXRLRm5wNHNTaWJSVEtZamw0ZUoyblFmQkJ4ZnpPWEQ4cHgzbmxzSm5fTzZXSjl2b1laSGxCME1UUmp2NzVTSEo4V29oVHBRSTJYRlR0LU10NFZkcHBUYUNqNjJ3S1FMeHpzRkEzRWl4U01RQWlnQnBYQVVBbWpGNk5YMDM3OC1SeWI5OBIEGgIIABoiEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZTdjJIc0REV1NUV1ZuY01NS1dXWkpaNklaa242aHpBM1FOZl9YS2hXY1FwR3NMdjVSbXRLRm5wNHNTaWJSVEtZamw0ZUoyblFmQkJ4ZnpPWEQ4cHgzbmxzSm5fTzZXSjl2b1laSGxCME1UUmp2NzVTSEo4V29oVHBRSTJYRlR0LU10NFZkcHBUYUNqNjJ3S1FMeHpzRkEzRWl4U01RQWlnQnBYQVVBbWpGNk5YMDM3OC1SeWI5OBIEGgIIABoiEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Children's Hospital of Philadelphia"
+  },
+  {
+   "position": 9,
+   "title": "Baby Walkers In Pune Maharashtra At Best Price",
+   "link": "https://www.tradeindia.com/pune/baby-walkers-city-213577.html",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVpa8Bs76_YI28lc1Kf3mwTNT0nWsZJn5w6U4oNnHkvnLa_n3gmtXL_KZDnIpNdcMstdolLxYS9KCPt9wQ0P61d03ruMV-o1xME1ByN8bWaQ47M-kuL6fdA01uX1Vw2NJ9FuJiWoMoMEzaX7WDgsk5_TYXEw&ved=2ahUKEwjDpqWTs6uXAxUKkOEIHYk-DCEQFnoFCOQDEAE&uoh=1",
+   "displayed_link": "https://www.tradeindia.com › ... › Baby walkers",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkpYRzmGM4Y4RaoWS9obrbU5oI-8ejqbcIhidm8v9xda8fWDxdOl4TzrVbY-iLTlPntatxKg&s",
+   "favicon": "https://serpapi.com/images/i/UklGRnoBAABXRUJQVlA4IG4BAACwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmOgznsSI_YDWcvRA6V7_ikWF-vu-ADjb7Jm2HoF1L_whU6_0BHqCrpY45nEJHbw4AA_tgf0XCnul5fjalEeJkt85JdPeDEIcQ6RA81kWNDykxwsei5H56-TqBKbi4qW7IxMSqPupB3xYSwYHSY4w_kBW-HvROtcnJs9hQce8_oUzFcgA64nHgCdfKz19M-kTJUnD5QT2KjgMJAWRs3VxMtmxI6m2NlT2SosRzkFtzieBPw7zHJq35iPY319NxJPGCIKz3E3hxhKjv_gr0A_ejQjuVq8x1SbH6M8OlDT2jdb0P3nBxe6JbZMw2i9Z_N7w1nNhd9YgblgMXub0oPl5B4VR82egrUtVQ0Ud677Z_i9cYx7yTQRqB9x8HZdFfAUEeyYINY9051pcxn4VqO2O6krZtPBtvDUGLKv2-GdJAGMK0K--7q0BvxyC8RCizPAAA.webp",
+   "snippet": "Get baby walkers in Pune Maharashtra at best price. Find list of baby walkers manufacturers suppliers located in Poona & near by cities.",
+   "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkpYRzmGM4Y4RaoWS9obrbU5oI-8ejqbcIhidm8v9xda8fWDxdOl4TzrVbY-iLTlPntatxKg&s"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Get baby walkers in Pune Maharashtra at best price. Find list of baby walkers manufacturers suppliers located in Poona & near by cities.",
+     "source_info_link": "https://www.tradeindia.com/pune/baby-walkers-city-213577.html",
+     "icon": "https://serpapi.com/images/i/UklGRnoBAABXRUJQVlA4IG4BAACwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmOgznsSI_YDWcvRA6V7_ikWF-vu-ADjb7Jm2HoF1L_whU6_0BHqCrpY45nEJHbw4AA_tgf0XCnul5fjalEeJkt85JdPeDEIcQ6RA81kWNDykxwsei5H56-TqBKbi4qW7IxMSqPupB3xYSwYHSY4w_kBW-HvROtcnJs9hQce8_oUzFcgA64nHgCdfKz19M-kTJUnD5QT2KjgMJAWRs3VxMtmxI6m2NlT2SosRzkFtzieBPw7zHJq35iPY319NxJPGCIKz3E3hxhKjv_gr0A_ejQjuVq8x1SbH6M8OlDT2jdb0P3nBxe6JbZMw2i9Z_N7w1nNhd9YgblgMXub0oPl5B4VR82egrUtVQ0Ud677Z_i9cYx7yTQRqB9x8HZdFfAUEeyYINY9051pcxn4VqO2O6krZtPBtvDUGLKv2-GdJAGMK0K--7q0BvxyC8RCizPAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVnBhOEJzNzZfWUkyOGxjMUtmM213VE5UMG5Xc1pKbjV3NlU0b05uSGt2bkxhX24zZ210WExfS1pEbklwTmRjTXN0ZG9sTHhZUzlLQ1B0OXdRMFA2MWQwM3J1TVYtbzF4TUUxQnlOOGJXYVE0N00ta3VMNmZkQTAxdVgxVncyTko5RnVKaVdvTW9NRXphWDdXRGdzazVfVFlYRXcSBBoCCAAaIhIAGgIIASIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVnBhOEJzNzZfWUkyOGxjMUtmM213VE5UMG5Xc1pKbjV3NlU0b05uSGt2bkxhX24zZ210WExfS1pEbklwTmRjTXN0ZG9sTHhZUzlLQ1B0OXdRMFA2MWQwM3J1TVYtbzF4TUUxQnlOOGJXYVE0N00ta3VMNmZkQTAxdVgxVncyTko5RnVKaVdvTW9NRXphWDdXRGdzazVfVFlYRXcSBBoCCAAaIhIAGgIIASIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Tradeindia"
+  }
+ ]
+}

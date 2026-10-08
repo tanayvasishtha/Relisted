@@ -1,0 +1,23 @@
+{
+ "search_metadata": {
+  "id": "6ac80f86f9bee93646d973b6",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/wtbKhZUJS4s5O7GxAqe6TaSe7OhM_406i-rRRpUuEEA/6ac80f86f9bee93646d973b6.json",
+  "markdown_endpoint": "https://serpapi.com/searches/wtbKhZUJS4s5O7GxAqe6TaSe7OhM_406i-rRRpUuEEA/6ac80f86f9bee93646d973b6.md",
+  "created_at": "2026-10-08 21:47:50 UTC",
+  "processed_at": "2026-10-08 21:47:50 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fcpzzkq-1.jpg",
+  "raw_html_file": "https://serpapi.com/searches/wtbKhZUJS4s5O7GxAqe6TaSe7OhM_406i-rRRpUuEEA/6ac80f86f9bee93646d973b6.html",
+  "total_time_taken": 10.87
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/cpzzkq-1.jpg",
+  "country": "IN",
+  "type": "products"
+ },
+ "search_information": {
+  "images_results_state": "Fully empty"
+ },
+ "error": "Google Lens hasn't returned any results for this query."
+}

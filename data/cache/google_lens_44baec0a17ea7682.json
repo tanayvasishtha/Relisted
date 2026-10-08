@@ -1,0 +1,1175 @@
+{
+ "search_metadata": {
+  "id": "6ac80f9294c42ba16ea8b909",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/EjDgVEynf9G1OwfwAj4z3eg1VgT11jaudFAMR5YJxR0/6ac80f9294c42ba16ea8b909.json",
+  "markdown_endpoint": "https://serpapi.com/searches/EjDgVEynf9G1OwfwAj4z3eg1VgT11jaudFAMR5YJxR0/6ac80f9294c42ba16ea8b909.md",
+  "created_at": "2026-10-08 21:48:02 UTC",
+  "processed_at": "2026-10-08 21:48:02 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fsyera-1.jpg",
+  "raw_html_file": "https://serpapi.com/searches/EjDgVEynf9G1OwfwAj4z3eg1VgT11jaudFAMR5YJxR0/6ac80f9294c42ba16ea8b909.html",
+  "total_time_taken": 4.85
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/syera-1.jpg",
+  "country": "IN",
+  "type": "all"
+ },
+ "ai_overview": {
+  "page_token": "_UdR53iczVfbcqpIFP2B-Y3x6UQBlWiqrFNNgwoqiJd49IWCBhu5RhHQvM2_zFfNv0zVNEQSNJpk8jA1bdGXTffeq7v3YpV__OltAvev3_629_un6KFWS9O0isMQe1YVhX5Nj44Bqq1DL9oh-6cXRJofmlYnDipZP4p3ax1ZHYatRGG8Iz1iraaWUY3doBKbfvYmiTbBvgOBuoU4hBCgKcC4LwKBFdNwwasAAL71SGowPlAAiECTiA3zrRRMIIDcJuam89xOXO02ZgdKyso3BxRe6-2FDWAPCBupt_Lk3qi-4kE6nAm0zIz2Mi978pG2ZX7UHM663nIm-fLMba5my3TlDCCYihAxabhXuxClYWwQH8PFhDYWdFPx58-yP6orvUefrPWVhUr82c5yQzVknnOHM1BfOphWSDyFH1ErW-Kg00qWfvN5WJejISMlyEcJ8f9iYw6eEYz2q0BKjGDiGb66X_7inoZ17mgwKon9GKMj7SO_HZukv4K0jXpuIj8_6hwIM5yNPZuMNGOw89JR5Zh06hUUdaiKtel4qibq4a-W2OwhO0Fj5sl3t6BRyS-voxl6ZDnkbg9OVNNqpHJ_r_NkUI2qVqD1uCoYr5SpOZ_yaVhlKKZeVWq6T-aA_7CokNwwUAEmD_xgGsmML7kjE4XM12sRhbwpr-bIgCM_Ys0q0L3pTujlmAQVFy60g_Oc5W7v5FC8uRbmEYoSvTQ4zRspd_qF_ZSxgHOstyPnwW-ZxLd3o9LbD8BwXPnwCABhjDOTcLa0cCCB8r6J9ZROI8y1-hjwtjD_CDhZME-5gwiw-OmFP4rToOjjAUUw1UxM8peqGTvS0LUNslHe2UVZWsNZmwoFc3E_PRq8awz2A9_SQDLpO9023q9YUEMGmeeFummZmq1RP_MxzdBNql2_b_3IKYWiV05FZU7pgixH3nE84sTqsMrRBZvg20ldJjFh-LVNwmyBePUSsyLeuC37LUx4agUwAGAinIflJmzWpG_--qRWhfKcIgIE4D2bXsevAHM2wVOUifq64zOcosCVdoTL7Oi_38300qD2T2hFctEvofhiA-UjzmC5WR4WBBHPiJinJxwQ9nF5MosxFN8wFAclhqJ6STACXiU7EITT4OS1iDw6O5ZBhhiMRHJgAty4AlG003Hly5anQF14-V1Tb1AxQ7MQrr76vMAvfDxVUNDmggVl9nSnLN6Kx5ndMrvd9fiuZRsrTD8_xXEbX2dL6Bv_ToLQ_4tShUCFJ4G6TSn8FUqpxN8VgVILfznAV4GCJ4G6Tal-WaCyyYVA9d8L1AWlIJiUKBW9zHeuC9R3KCV-RClY1O8oRQTqGqXU25R6EagSpdxLgVLBNYE6Uep7AgW_KVA5w6yX5lytYgffVK3u0PX1u2Z43xzc7YIV1UikrTNnF07KpZ-q1trfP_i66f3QNuYDx0j7o_lDI4bwwTIr24rv7cIOpbPjNbYnbrhq0-1kKrg8lCCL1vO1dEd73dl21li0jmFD7yPGAOFhM24wfvMgxhFuOoqqzXf4l4GHz_4aWoP5NhHDhmsx9L2L6lHQ25D0UHxdQchS-stmIJic1x9Edg_7TleKZUtxo9DYrO-U5aOnpDmmqINjQZdR6rDTVsXfIfJnAjQwkFWwwAABuCTkJFSChJowJQ9LGMcx5NorEdI1K0o6TeN-zTINuk2he5Y1iRe8Pz51WKYSBbsO_Q_MJ78x",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_UdR53iczVfbcqpIFP2B-Y3x6UQBlWiqrFNNgwoqiJd49IWCBhu5RhHQvM2_zFfNv0zVNEQSNJpk8jA1bdGXTffeq7v3YpV__OltAvev3_629_un6KFWS9O0isMQe1YVhX5Nj44Bqq1DL9oh-6cXRJofmlYnDipZP4p3ax1ZHYatRGG8Iz1iraaWUY3doBKbfvYmiTbBvgOBuoU4hBCgKcC4LwKBFdNwwasAAL71SGowPlAAiECTiA3zrRRMIIDcJuam89xOXO02ZgdKyso3BxRe6-2FDWAPCBupt_Lk3qi-4kE6nAm0zIz2Mi978pG2ZX7UHM663nIm-fLMba5my3TlDCCYihAxabhXuxClYWwQH8PFhDYWdFPx58-yP6orvUefrPWVhUr82c5yQzVknnOHM1BfOphWSDyFH1ErW-Kg00qWfvN5WJejISMlyEcJ8f9iYw6eEYz2q0BKjGDiGb66X_7inoZ17mgwKon9GKMj7SO_HZukv4K0jXpuIj8_6hwIM5yNPZuMNGOw89JR5Zh06hUUdaiKtel4qibq4a-W2OwhO0Fj5sl3t6BRyS-voxl6ZDnkbg9OVNNqpHJ_r_NkUI2qVqD1uCoYr5SpOZ_yaVhlKKZeVWq6T-aA_7CokNwwUAEmD_xgGsmML7kjE4XM12sRhbwpr-bIgCM_Ys0q0L3pTujlmAQVFy60g_Oc5W7v5FC8uRbmEYoSvTQ4zRspd_qF_ZSxgHOstyPnwW-ZxLd3o9LbD8BwXPnwCABhjDOTcLa0cCCB8r6J9ZROI8y1-hjwtjD_CDhZME-5gwiw-OmFP4rToOjjAUUw1UxM8peqGTvS0LUNslHe2UVZWsNZmwoFc3E_PRq8awz2A9_SQDLpO9023q9YUEMGmeeFummZmq1RP_MxzdBNql2_b_3IKYWiV05FZU7pgixH3nE84sTqsMrRBZvg20ldJjFh-LVNwmyBePUSsyLeuC37LUx4agUwAGAinIflJmzWpG_--qRWhfKcIgIE4D2bXsevAHM2wVOUifq64zOcosCVdoTL7Oi_38300qD2T2hFctEvofhiA-UjzmC5WR4WBBHPiJinJxwQ9nF5MosxFN8wFAclhqJ6STACXiU7EITT4OS1iDw6O5ZBhhiMRHJgAty4AlG003Hly5anQF14-V1Tb1AxQ7MQrr76vMAvfDxVUNDmggVl9nSnLN6Kx5ndMrvd9fiuZRsrTD8_xXEbX2dL6Bv_ToLQ_4tShUCFJ4G6TSn8FUqpxN8VgVILfznAV4GCJ4G6Tal-WaCyyYVA9d8L1AWlIJiUKBW9zHeuC9R3KCV-RClY1O8oRQTqGqXU25R6EagSpdxLgVLBNYE6Uep7AgW_KVA5w6yX5lytYgffVK3u0PX1u2Z43xzc7YIV1UikrTNnF07KpZ-q1trfP_i66f3QNuYDx0j7o_lDI4bwwTIr24rv7cIOpbPjNbYnbrhq0-1kKrg8lCCL1vO1dEd73dl21li0jmFD7yPGAOFhM24wfvMgxhFuOoqqzXf4l4GHz_4aWoP5NhHDhmsx9L2L6lHQ25D0UHxdQchS-stmIJic1x9Edg_7TleKZUtxo9DYrO-U5aOnpDmmqINjQZdR6rDTVsXfIfJnAjQwkFWwwAABuCTkJFSChJowJQ9LGMcx5NorEdI1K0o6TeN-zTINuk2he5Y1iRe8Pz51WKYSBbsO_Q_MJ78x"
+ },
+ "visual_matches": [
+  {
+   "position": 1,
+   "title": "Syera Projecting Finger Light Toys Recalled Due to Risk of ...",
+   "link": "https://www.cpsc.gov/Recalls/2026/Syera-Projecting-Finger-Light-Toys-Recalled-Due-to-Risk-of-Serious-Injury-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys-Sold-on-TEMU-by-Senyu",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/5TN-49yfpoHIGYehHXSFiMoqsEW-Cl7eLI4sliQDcS8.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYDG8LUnDUwkDCbeaZQR7kX3ZssWd9cjnV2W8OhVii7bPcnftU",
+   "thumbnail_width": 198,
+   "thumbnail_height": 255,
+   "image": "https://www.cpsc.gov/s3fs-public/syera-1.jpg?VersionId=7K.t0bu66L3SIfpeAq5l_kyIv0LykREe",
+   "image_width": 585,
+   "image_height": 754
+  },
+  {
+   "position": 2,
+   "title": "HEVIR Baby Finger Projector LED Lights for Kids, Multicolor ...",
+   "link": "https://www.amazon.in/dp/B0HLWKH38W",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiiHLYSmwMiQeG8giBqKBSFxwlm8-pw9sJLbtyC3mcmqFVCQqZ",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/71CbES5VWEL._AC_UF1000,1000_QL80_.jpg",
+   "image_width": 1000,
+   "image_height": 1000
+  },
+  {
+   "position": 3,
+   "title": "Syera Projecting Finger Light Toys Recalled Due to Risk of ...",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10907/",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABkUlEQVRYhe2Xr27CUBSHvy3TqAqCmyGVaAwkiNoKBLJmyd6AJ5iYm1wyU4lA1CKWgMEtQTY8AEOgeIFN9PTmrn9uCW3vxPZLGkruyfm-tLnNufDXc6Pu3r6qajvAGBgCA6APdGXtCOyBHbAF1sDZ2O0hQd9dIOkAM2AKjEpq7uXy5P8GWAIL4GRqXiXgAY-Af4GonpFcE-AVWJUV3hqaBMDLFXA9vvQIygrKnkAAPAG9GvA0rvQCCLOLRU_AA-YNwdP0pKeXXcgKOCTv3G0QnsaV3o5JYEa9d14VXxiFAh2SrdZ2psLKCYwp3-dNZiSsnMDQAjzH0gUGFgUUSxfoWxRQLF2gW1DYVhTL9Cm2El3gaJGrWLrA3qKAYukCO4sCiqULbC0KKJYusCaZZNrORlg5gTPJGNV2lmjzYnYbLoCoRXgkDJWswIlkhotbgMfS-8eQWvQhWgHPwKFB-EF65obTspkwlN859aejWOBh0aJpLA-BT64by9NEVIzlVeeCFfABvGM-mGRz8cHk149m__kGNrZKAN3vxYQAAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgo4k2DRnZrHYhNtumQtIoTqyNULgmXThyIP5FiNR0KCZL51T",
+   "thumbnail_width": 198,
+   "thumbnail_height": 255,
+   "image": "https://www.gannett-cdn.com/recall/CPSC-10907_0.jpeg",
+   "image_width": 585,
+   "image_height": 754
+  },
+  {
+   "position": 4,
+   "title": "CHSLtmxq 24PCS Race Car Party Favors LED Finger Lights, 8 ...",
+   "link": "https://www.amazon.in/CHSLtmxq-Finger-Lights-Stuffers-Decorations/dp/B0GDDKZ2LH",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "rating": 4.2,
+   "reviews": 47,
+   "price": {
+    "value": "₹2,244*",
+    "extracted_value": 2244.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCHR7pLfzYf_z1CEmnikVsnB6_n4MLRWvHTPxARI8Ay15HL-pk",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/81zAL45l4GL._AC_UF350,350_QL80_.jpg",
+   "image_width": 350,
+   "image_height": 350
+  },
+  {
+   "position": 5,
+   "title": "Buy Finger Projector online at best price | Namma kutties kadai",
+   "link": "https://www.nammakuttieskadai.in/product/33060760/Finger-Projector",
+   "source": "Namma Kutties Kadai",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/8htOJa1HjiYa4PbVs3RPxvx8-JjKVxIayQEIB6hbHlA.jpeg",
+   "price": {
+    "value": "₹12*",
+    "extracted_value": 12.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBPUW5b6eL8oKkWNopqofI-ygcpzqVjB6hgCz_ESZUqLvuzWh",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://cdn.dotpe.in/longtail/store-items/7224647/EbVabOoF.webp",
+   "image_width": 1600,
+   "image_height": 1600
+  },
+  {
+   "position": 6,
+   "title": "Stysol Premium Plastic Cloth Pegs Pack of 60 | Strong Grip ...",
+   "link": "https://www.meesho.com/stysol-premium-plastic-cloth-pegs-pack-of-60-strong-grip-clips-for-drying-clothes-heavy-duty-and-durable/p/ax30xc",
+   "source": "Stysol Premium Plastic Cloth Pegs Pack of 60 | Strong Grip ...",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVgAUr_lwBfAEtfAEr_lgDthQjqggp0FEFvD0PnfwtxEUL_mQCfPC1oCEbbdRF8Gz20UCP3kASiPyvifA2ZNjBsDEScOS59HD21USPviAd2FkCTMDKVMzGyFfSEAAAAwklEQVQ4je2S4Q6DIAyEhQIqIiqIU_T9n3MUmLKY7PeW7BLN13pXK7GqfkuU3ql4Cr2UPdCSSsEwaiH0OAA96c2gOIkSyyIScVXm1UQYI3hNF6lzBh04YYRxHm5BmQh_vPaAFUvlvdkwuhnvFUbWPAJ6HfqKBhmcYJBUcOo-OagMe_Eav9BvhGweqQ5bC5neEYu2gWyNbWjaHPobTgM423XxWCNZB_H4M0XN1u6JD2uPlNqtna8fwrkbwdXDCj7R9-sJKucL5XSGs88AAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxUYtPh2c8KyFyTfaH5I899q6MEbWqOhmSRH-VG5OWRV0T67p",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://images.meesho.com/images/products/837736617/goza6_512.webp?width=256",
+   "image_width": 256,
+   "image_height": 256
+  },
+  {
+   "position": 7,
+   "title": "Snack Inside Gift toy at ₹ 0.35/piece | Promotional Toy in ...",
+   "link": "https://www.indiamart.com/proddetail/snack-inside-gift-toy-2856412443012.html",
+   "source": "IndiaMART",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/4Y4426XsQ7tRlk4_4ZeETtpmmVsg5ANiMpVRc5O7eZE.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvxGN2dy5P-TWodMpZ13g0iNkkyjxjALHD7WIv4JNSEHywEDlW",
+   "thumbnail_width": 194,
+   "thumbnail_height": 259,
+   "image": "https://5.imimg.com/data5/ANDROID/Default/2025/7/526031785/JT/TP/PS/23755004/product-jpeg.jpg",
+   "image_width": 960,
+   "image_height": 1280
+  },
+  {
+   "position": 8,
+   "title": "Namma Kutties Kadai | Finger Projector Just @ 12/- Website ...",
+   "link": "https://www.instagram.com/reel/DV59IJBkg1f/",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/KUyH8XqhiXzKwxYVzOMM-hK_RmqIf_nZClKEEN3J0DY.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6naFlawUKuM7EtChDyLLXQoRK6k7YscYf_kV_woa44F_ottcZ",
+   "thumbnail_width": 299,
+   "thumbnail_height": 168,
+   "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3981130193348791654",
+   "image_width": 1136,
+   "image_height": 640
+  },
+  {
+   "position": 9,
+   "title": "HEVIR Baby Finger Projector LED Lights for Kids, Multicolor ...",
+   "link": "https://www.amazon.in/dp/B0HLWKH38W",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSehev___Lx6VKKFovcTmsPX-4pKEKtgNfQckDqlXk4endC5xR",
+   "thumbnail_width": 195,
+   "thumbnail_height": 258,
+   "image": "https://m.media-amazon.com/images/I/711rxEbRGpL._AC_UF1000,1000_QL80_.jpg",
+   "image_width": 758,
+   "image_height": 1000
+  },
+  {
+   "position": 10,
+   "title": "LED Cartoon Projection Finger Toy",
+   "link": "https://rushrabbit.in/products/led-cartoon-projection-finger-toy",
+   "source": "Rush Rabbit",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcExXI2hyS45YI2iLbbBcK25WIWZySo1YJGiLbbCLbbCLbbCLbbBYJGj___9UHGOFZaqAXalHAVnz8PZPDmGvnMXRxty_sMv7-vx5VZbh2uhgL3Geh6tmO3WPdJlvSITAhy0oAAAADHRSTlMASxvk5sbnDZSUS8YCfdK9AAABc0lEQVQ4jW1TW4KDIAykVVuxGlCePqr3v-UmKKBu50MxGSaTgIxlPOqq6Lqiqh_sB951d0L9vucv6UC5bi_2qBZHWoiuOIk8j7B22xAWw7oi9Zn2R9lhgoUYwwIbaUWNoksKAIvuBgM-KBV3f0ICwFevAG7ITlMB0lYAlh4x8L41KL4ooQHG2A1JXLoXs4LVLUMK4Hyv89Fow0-jjt-PUEEQYggI31yjEmLeRsQ2B9IcCD4Wqdhrk23EOGucEcFGwovldNtKuThQZkNednlKtxb3KjsBrCITypQ3kOBSFy_2-ZFHgtg7myvGowIlVCSQH0n2OGsOAaxvjemnQMjOG3a47D143O_xDWAyAc-C7x1EcVSa-pTndNy0MPIgWPTqskC4U5wcWL8TTI8keRZA4Chij9M42lyijJf2aJIOCVSbTaaL_8Qizqgdk1XeLZRP1x41ShxMfwAXpFBe_7400Ju_k8iFwv_9vISGf7Ch8sObU_APFqEumZMgaw8AAAAASUVORK5CYII.png",
+   "price": {
+    "value": "₹599*",
+    "extracted_value": 599.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbYOsggmay3j-6UajO4HydFo6CPvF9KyjQnQZ_p6rb4Gtp4tct",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://cdn.shopify.com/s/files/1/0558/7242/1982/files/ChatGPT_Image_Mar_13_2026_04_21_40_PM.png?v=1773399152",
+   "image_width": 1024,
+   "image_height": 1024
+  },
+  {
+   "position": 11,
+   "title": "Cartoon Children LED Finger Ring Projection Lamp - LED ...",
+   "link": "https://m.made-in-china.com/product/Cartoon-Children-LED-Finger-Ring-Projection-Lamp-868410905.html",
+   "source": "Made-in-China.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEX____aKRzjcGvZHw7yw8HYDgDaJhjXAADcOC776efZGQDZIhLkbWbZIA_0zMv65OPfSkHbMif429n-9vbkaGDurqzojor21dTgYFrzvbr76OfeRDrngXvsmZP87-_gVk7leHHtoJvoh4LhXVbxtrPvqaXyxsXni4jGdoKfAAABKUlEQVQ4jc3R246DIBAGYA4F7EBBsIpWa8XW9f3fcKk2XWNJ9mqTHS_8M_MREgahf1iNeQWjk3NtL2so8kNq3rf2uKZOJEEN2QpKYClwZXwFTvAUOAi-gt5ynAAOg12BojgB-hvrFH2CCnAKDCyPR7MLaihPgcCsDxH0Zpl_AC2gISOhmckklvYDGCtCEKM6ZTXF0BG5A0XNhkaCVvE0pveCnHZgZNZZVqGzxJhbg9QOTIy7nCm0ABHXuAMe4NGxvF8Am9AeHLmoggAX410I8mzVgm22abQuvHbLa8f4-ut-_5J_VuSXQnRTABAXRbHc9BB-l9SDC6Uvpy_d8nd3AyAcmkflH7P2d5kCtNLEj9M5XEuVBLytrWrnuZ6Hnxu2AHMZP0olPW2a3-m2EeI-r0znAAAAAElFTkSuQmCC.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSihL1C_3lfZgg452JCQ5MfnoOli9H6eRA1HVyBIhR1rtysfNc0",
+   "thumbnail_width": 224,
+   "thumbnail_height": 225,
+   "image": "https://image.made-in-china.com/202f0j00IpgRGoWtTMqU/Cartoon-Children-LED-Finger-Ring-Projection-Lamp.webp",
+   "image_width": 546,
+   "image_height": 550
+  },
+  {
+   "position": 12,
+   "title": "Rubber Band Light Switch | TikTok",
+   "link": "https://www.tiktok.com/discover/rubber-band-light-switch",
+   "source": "TikTok",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/DHZPqLgTGSQ-I_RMQbmi8RXCQNuw5YrCU8HB53e1U4M.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjnMMsZZ_KEvYmAZ-YOMRapug2hQtoWtQwf3rgpvdN8WRKnLDq",
+   "thumbnail_width": 275,
+   "thumbnail_height": 184,
+   "image": "https://www.tiktok.com/api/img/?itemId=7589634950199119134&location=0&aid=1988",
+   "image_width": 750,
+   "image_height": 502
+  },
+  {
+   "position": 13,
+   "title": "Ziczli 28 Pack Dinosaur Led Finger Lights Easter Gifts ...",
+   "link": "https://www.mercadolibre.com.co/ziczli-28-pack-dinosaur-led-finger-lights-easter-gifts/p/MCO2082935110",
+   "source": "Mercado Libre",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/DHZPqLgTGSQ-I_RMQbmi8d06BNaFiX0rFvKnoSmQARs.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTJxE5flrZ_JA13x-gAiSMZ9eQgirPjYPNqEeXzKMlsWPqMYX6",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://http2.mlstatic.com/D_Q_NP_993558-CBT110884353303_042026-O.webp",
+   "image_width": 500,
+   "image_height": 500
+  },
+  {
+   "position": 14,
+   "title": "Everyday Hair Claw Clips Multicolor Pack of 12",
+   "link": "https://www.meesho.com/everyday-hair-claw-clips-multicolor-pack-of-12/p/gihqgn",
+   "source": "Meesho",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVgAUr_lwBfAEtfAEr_lgDthQjqggp0FEFvD0PnfwtxEUL_mQCfPC1oCEbbdRF8Gz20UCP3kASiPyvifA2ZNjBsDEScOS59HD21USPviAd2FkCTMDKVMzGyFfSEAAAAwklEQVQ4je2S4Q6DIAyEhQIqIiqIU_T9n3MUmLKY7PeW7BLN13pXK7GqfkuU3ql4Cr2UPdCSSsEwaiH0OAA96c2gOIkSyyIScVXm1UQYI3hNF6lzBh04YYRxHm5BmQh_vPaAFUvlvdkwuhnvFUbWPAJ6HfqKBhmcYJBUcOo-OagMe_Eav9BvhGweqQ5bC5neEYu2gWyNbWjaHPobTgM423XxWCNZB_H4M0XN1u6JD2uPlNqtna8fwrkbwdXDCj7R9-sJKucL5XSGs88AAAAASUVORK5CYII.png",
+   "price": {
+    "value": "₹105*",
+    "extracted_value": 105.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUKJA-L65krUCBFsrzRqvPD2w1Yf1DSxEWOeasrP3jRZc8D1Ve",
+   "thumbnail_width": 259,
+   "thumbnail_height": 194,
+   "image": "https://images.meesho.com/images/products/998519351/4ydl8_512.jpg",
+   "image_width": 683,
+   "image_height": 512
+  },
+  {
+   "position": 15,
+   "title": "Buy Finger Projector online at best price | Namma kutties kadai",
+   "link": "https://www.nammakuttieskadai.in/product/33060760/Finger-Projector",
+   "source": "Namma Kutties Kadai",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/DHZPqLgTGSQ-I_RMQbmi8efjfh7wAVor2xrbmRLcu6M.jpeg",
+   "price": {
+    "value": "₹12*",
+    "extracted_value": 12.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1vjmIlo7syMMZipi6GwFRqH09gMyA6P_zmLM6LSRK1SWwBKsU",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://cdn.dotpe.in/longtail/store-items/7224647/0p6qW6br.webp",
+   "image_width": 1600,
+   "image_height": 1600
+  },
+  {
+   "position": 16,
+   "title": "Hammer Whistle Miniature Toys, Child Age Group: 0-3 Yrs at ...",
+   "link": "https://www.indiamart.com/proddetail/hammer-whistle-miniature-toys-2853782979073.html",
+   "source": "IndiaMART",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/DHZPqLgTGSQ-I_RMQbmi8Z9rM8ZF65G3CZDnSe1Yeng.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXBuOLiM-fRHwKk3m0NiuD7nSG2C3sca10udNmyG3NGBKSMLjy",
+   "thumbnail_width": 168,
+   "thumbnail_height": 300,
+   "image": "https://5.imimg.com/data5/SELLER/Default/2024/8/446889074/JF/OQ/FM/212145197/hammer-whistle-miniature-toys.jpeg",
+   "image_width": 648,
+   "image_height": 1152
+  },
+  {
+   "position": 17,
+   "title": "Cartoon Pattern Finger Projection Light Glow Toy LED Stall ...",
+   "link": "https://thecraze.in/products/cartoon-pattern-finger-projection-light-glow-toy-led-stall",
+   "source": "Craze",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAQlBMVEUAAAD____l5eXQ0NDNzc2Tk5NWVlbU1NRnZ2dkZGTi4uK2traDg4MKCgoODg6cnJxzc3NsbGynp6ceHh5PT09FRUWcAfLrAAAAXUlEQVQYlY2PSw6AIAxEO_xFEQW9_1VFC7IioZvpvKSdlmiunADE0r3HV7L5FdjCHoGDfQD0qwpgcLaGAov-AQ2Aq8BYXwkQOVxUkArJuYRfbcjyYamvMRJQ9-SfD9p7AbSPjBY4AAAAAElFTkSuQmCC.png",
+   "price": {
+    "value": "₹999*",
+    "extracted_value": 999.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQse5qIOeY0LMcI-C8X3O87lzJLKI_-iIZ7rGakiIn2Sf_NNs7F",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://thecraze.in/cdn/shop/files/CZ_F_CNTG23120928126_453951_medium.jpg?v=1754197576",
+   "image_width": 240,
+   "image_height": 240
+  },
+  {
+   "position": 18,
+   "title": "Buy LED Laser Finger Lights Glow-In-The-Dark Finger ...",
+   "link": "https://www.zop.in/products/led-laser-finger-lights-glow-in-the-dark-finger-flashlights-4pcs-set",
+   "source": "Zop",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEwcHBUcHBUcHBUcHBUcHBUcHBUcHBUcHBUcHBUcHBUcHBUcHBUcHBUcHBUcHBVHWNTLAAAAD3RSTlMAdGbRgpQPo0uKGLMw5b9bEW-3AAAAsElEQVQoke2RWxLCIAxFkxBehZb971YaKCAqHcdf7xc3hzwIAH8tFbGJtxLxBBsxFUepaYcrosSHiRuYMvYnh9k5os31DHt2Y2abzwrAd6JQetQhlVRXA65BJxiluu04cY3SiY0kmDTxln8emEIqXroc2PsPLwy12jD_i4dpYcPUsqL-SNlftLqojG_L9QOv_XeNhfjNT5obDmZf8_w9-giIn3n731-5X_CovXcL_pUe94MRmklWYF8AAAAASUVORK5CYII.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoUjc3pbQB_KhQDPdWk1e7Oj8ydtpveuc7YHfg2MdFsv3FWrAU",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "http://www.zop.in/cdn/shop/files/LED-Laser-Finger-Lights-4.jpg?v=1758541375",
+   "image_width": 720,
+   "image_height": 720
+  },
+  {
+   "position": 19,
+   "title": "🎃👻36 pcs Halloween LED rings! Perfect for Halloween goodie ...",
+   "link": "https://www.tiktok.com/@ycc12160hoy/video/7690535885078547726",
+   "source": "TikTok",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/DHZPqLgTGSQ-I_RMQbmi8QX5ASUoULV5pb3Xl3AwxC4.png",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPCztwFZss23OwrXY5PhDt6ipRIcL2Jz1Y4N8E6Ho8fP_uFQAJ",
+   "thumbnail_width": 275,
+   "thumbnail_height": 184,
+   "image": "https://www.tiktok.com/api/img/?itemId=7690535885078547726&location=0&aid=1988",
+   "image_width": 750,
+   "image_height": 502
+  },
+  {
+   "position": 20,
+   "title": "LED Cartoon Projection Finger Toy",
+   "link": "https://rushrabbit.in/products/led-cartoon-projection-finger-toy",
+   "source": "Rush Rabbit",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEVHcExXI2hyS45YI2iLbbBcK25WIWZySo1YJGiLbbCLbbCLbbCLbbBYJGj___9UHGOFZaqAXalHAVnz8PZPDmGvnMXRxty_sMv7-vx5VZbh2uhgL3Geh6tmO3WPdJlvSITAhy0oAAAADHRSTlMASxvk5sbnDZSUS8YCfdK9AAABc0lEQVQ4jW1TW4KDIAykVVuxGlCePqr3v-UmKKBu50MxGSaTgIxlPOqq6Lqiqh_sB951d0L9vucv6UC5bi_2qBZHWoiuOIk8j7B22xAWw7oi9Zn2R9lhgoUYwwIbaUWNoksKAIvuBgM-KBV3f0ICwFevAG7ITlMB0lYAlh4x8L41KL4ooQHG2A1JXLoXs4LVLUMK4Hyv89Fow0-jjt-PUEEQYggI31yjEmLeRsQ2B9IcCD4Wqdhrk23EOGucEcFGwovldNtKuThQZkNednlKtxb3KjsBrCITypQ3kOBSFy_2-ZFHgtg7myvGowIlVCSQH0n2OGsOAaxvjemnQMjOG3a47D143O_xDWAyAc-C7x1EcVSa-pTndNy0MPIgWPTqskC4U5wcWL8TTI8keRZA4Chij9M42lyijJf2aJIOCVSbTaaL_8Qizqgdk1XeLZRP1x41ShxMfwAXpFBe_7400Ju_k8iFwv_9vISGf7Ch8sObU_APFqEumZMgaw8AAAAASUVORK5CYII.png",
+   "price": {
+    "value": "₹599*",
+    "extracted_value": 599.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBdO-vBeXeyEgiY-o06kZznSgcwUvHx8jJmM4XvHzei8ig5fk2",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://cdn.shopify.com/s/files/1/0558/7242/1982/files/imgi_12_O1CN01kSublT2Ae1WcfyO1G__2220351868227-0-cib_jpg.jpg?v=1773398928",
+   "image_width": 800,
+   "image_height": 800
+  },
+  {
+   "position": 21,
+   "title": "New Child Recall Alert — August 13, 2026 • Buttondown",
+   "link": "https://buttondown.com/einrad7/archive/new-child-recall-alert-august-13-2026/",
+   "source": "New Child Recall Alert — August 13, 2026 • Buttondown",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEUAaf____8AZf9glP8AZ_8mdv8AXv8AYP8AXP8AYv9dkv87gf_o8P8AZP8we__W5P_I2v8jdf8AWf9zof_Y5f-Os_8AUf-2zv_R4f9qnP9hl_-PtP-pxf_C1v_h7P95pP8Hbf_y9_-Hrf9gK2iGAAAAq0lEQVQ4jdWS2RKCMAxFUwjdaBUKaFWU5f8_Up1xoaTaVz2v90zaLAB_BWZLaMw3On-hS7FSELcswBShwSu2woiwwDpnrFyWwJoKOhAKKuRE8O-wjQndbv_MvTtQoXPoHoaXyI9EaBWCPN3zniPKM33iojIQYzPUHFBWsU-aUQFai2CVj3bBWCO5UkLmU7zNG1M_z735NIevg0qOOrWs5LrTB5M8OUge7U9zBbE7B63rfX-HAAAAAElFTkSuQmCC.png",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevHkE1n0UuZIU3jSwr2NK3E5z0JpLrlcUwXojtYfxgrDOoBK7",
+   "thumbnail_width": 198,
+   "thumbnail_height": 255,
+   "image": "https://www.more4kids.info/wp-content/uploads/syera-1.jpg",
+   "image_width": 585,
+   "image_height": 754
+  },
+  {
+   "position": 22,
+   "title": "Cartoon Children LED Finger Ring Projection Lamp - LED ...",
+   "link": "https://m.made-in-china.com/product/Cartoon-Children-LED-Finger-Ring-Projection-Lamp-868410905.html",
+   "source": "Made-in-China.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEX____aKRzjcGvZHw7yw8HYDgDaJhjXAADcOC776efZGQDZIhLkbWbZIA_0zMv65OPfSkHbMif429n-9vbkaGDurqzojor21dTgYFrzvbr76OfeRDrngXvsmZP87-_gVk7leHHtoJvoh4LhXVbxtrPvqaXyxsXni4jGdoKfAAABKUlEQVQ4jc3R246DIBAGYA4F7EBBsIpWa8XW9f3fcKk2XWNJ9mqTHS_8M_MREgahf1iNeQWjk3NtL2so8kNq3rf2uKZOJEEN2QpKYClwZXwFTvAUOAi-gt5ynAAOg12BojgB-hvrFH2CCnAKDCyPR7MLaihPgcCsDxH0Zpl_AC2gISOhmckklvYDGCtCEKM6ZTXF0BG5A0XNhkaCVvE0pveCnHZgZNZZVqGzxJhbg9QOTIy7nCm0ABHXuAMe4NGxvF8Am9AeHLmoggAX410I8mzVgm22abQuvHbLa8f4-ut-_5J_VuSXQnRTABAXRbHc9BB-l9SDC6Uvpy_d8nd3AyAcmkflH7P2d5kCtNLEj9M5XEuVBLytrWrnuZ6Hnxu2AHMZP0olPW2a3-m2EeI-r0znAAAAAElFTkSuQmCC.png",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCHEmDQNEa1L6chxoaweCWbpTYQPZuMcST44q-RFxtRxZB15mp",
+   "thumbnail_width": 224,
+   "thumbnail_height": 225,
+   "image": "https://image.made-in-china.com/202f0j00DguYGlisvvoU/Cartoon-Children-LED-Finger-Ring-Projection-Lamp.webp",
+   "image_width": 547,
+   "image_height": 550
+  },
+  {
+   "position": 23,
+   "title": "Namma Kutties Kadai | Finger Projector Just @ 12/- Website ...",
+   "link": "https://www.instagram.com/reel/DV59IJBkg1f/",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/CHOJlaQSNcP2G__iW2X9q1nigIm6Pm15q7oGYkoPpsQ.png",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTomota3GzgVTgpAnZLXa-u7sYleTAaw9W4geqEiGiofcPPQPNd",
+   "thumbnail_width": 251,
+   "thumbnail_height": 201,
+   "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3994614422454145858",
+   "image_width": 1402,
+   "image_height": 1122
+  },
+  {
+   "position": 24,
+   "title": "LittleTods™ Cartoon Finger Projection Lamp – Little Tods",
+   "link": "https://littletods.in/products/cartoon-finger-projection-lamp",
+   "source": "Little Tods",
+   "source_icon": "https://serpapi.com/searches/6ac80f9294c42ba16ea8b909/images/CHOJlaQSNcP2G__iW2X9q1wuQ6Tr5kjZIsEBCPyq_ns.png",
+   "price": {
+    "value": "₹899*",
+    "extracted_value": 899.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUA-J1CYPi74NJQkkMmCq_DLZJXd1yOtgL5qBOigHYAwa7rEAH",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://littletods.in/cdn/shop/files/8eb1993bac076598fef96ea7c351495f07f8b4b9-600.webp?v=1718394006&width=1920",
+   "image_width": 600,
+   "image_height": 600
+  },
+  {
+   "position": 25,
+   "title": "Butha Cartoon Finger Projection Lamp - Fun Glowing ...",
+   "link": "https://www.ebuy7.com/cartoon-pattern-finger-projector-lamp-for-children-fun-glowing-colorful-ring-flashlight-boys-and-girls.html",
+   "source": "Ebuy7",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSI2QjMTwQh3DBS5FWjBjAF2_QF1Xy6VWlGzAB7XOuKMC2VivpNldmJ8pHXzPcGNfZod7D2zJ-XF0Isuk5gBhYLaVR3XXWUO_PAqHGWEynXgmQA",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQch0KRdXL_jHRfeu4JEYKuP04CRhtVx0uCQl1spBA9xyK7RlFA",
+   "thumbnail_width": 211,
+   "thumbnail_height": 239,
+   "image": "https://gw.alicdn.com/imgextra/i4/1094974931/O1CN01cfHlD51mIRwSM9gFh_!!1094974931-0-scmitem176000.jpg",
+   "image_width": 695,
+   "image_height": 790
+  },
+  {
+   "position": 26,
+   "title": "Led Finger Lights | Desertcart INDIA",
+   "link": "https://www.desertcart.in/products/22053757-novelty-place160pcs-led-party-finger-lights-for-kids-with-screw",
+   "source": "Desertcart INDIA",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQFJC4jmIMd6gpcGhqZarf5IAlcfHVcTaBBmmuhGIP3lgXJsgyZkeK0A5T6c42bP2F4MNf8i4BibzuO0qSWtkoGFkzohnS5HfhQ8DVIu2_7slhHlVUJkg",
+   "rating": 4.7,
+   "reviews": 13,
+   "price": {
+    "value": "₹6,621*",
+    "extracted_value": 6621.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLZxc849TL-95mMZXYhptPOH7PecmxJhznQ5PKaC-fhTGyr_h1",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/91oB5OWDbtL.jpg",
+   "image_width": 2000,
+   "image_height": 2000
+  },
+  {
+   "position": 27,
+   "title": "Halloween Finger Projector Lights, Mini Pattern Projector ...",
+   "link": "https://www.walmart.com/ip/Halloween-Finger-Projector-Lights-Mini-Pattern-Projector-36pcsD/20839023104?classType=undefined&variantFieldId=actual_color",
+   "source": "Walmart",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTty0_uq5QGsSpEA1agUnwTMPZTu_YvS9mg_tzOR2qy22fR-FGLLoSmA4z4XotJkADD4W1gHczZdZT5PEPvM9Sv6mBjhn-lRnHs4p0G3COAlV8EwJE",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1TlD74KqTa8KYtuRQEx7SQAfKf4tO1EdyncX6824N0R8WZGry",
+   "thumbnail_width": 193,
+   "thumbnail_height": 261,
+   "image": "https://i5.walmartimages.com/seo/Halloween-Finger-Projector-Lights-Mini-Pattern-Projector-36pcsD_7532a55f-32ee-4941-b3f8-ed20a138ceae.2e81a2da7f455d49d609acaaa3b4e65f.jpeg",
+   "image_width": 1108,
+   "image_height": 1500
+  },
+  {
+   "position": 28,
+   "title": "CHSLtmxq 24PCS Race Car Party Favors LED Finger Lights, 8 ...",
+   "link": "https://www.amazon.in/CHSLtmxq-Finger-Lights-Stuffers-Decorations/dp/B0GDDKZ2LH",
+   "source": "Amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR2emfet7RmzmPRsHjYm_UPCTAgzmbvxRasG6I2u0I4LbQ54ZknecWGFOlBWs77JqzWT4yV05Z70DroaUwrYGlJKA1RUCO8YFzPxNBQf8kSXLfu",
+   "rating": 4.2,
+   "reviews": 47,
+   "price": {
+    "value": "₹2,244*",
+    "extracted_value": 2244.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFVo-7pYNF6CpoMYkHrf0faxhUE_IW3pL2MCzR-MaMIbrevezE",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/81WAgHVhyML._AC_UF350,350_QL80_.jpg",
+   "image_width": 350,
+   "image_height": 350
+  },
+  {
+   "position": 29,
+   "title": "Health alerts: Baby jumpers, teething toys, baby walkers and ...",
+   "link": "https://publications.aap.org/aapnews/news/pdfDownload/35956",
+   "source": "AAP Publications",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ427dZ4lzTP9MpdFrBP1pKfogF5gYNFIWKdh5edR9ds99Z2O6p3NNhfryAvHljWrOigfTChGyWrUdiB-bQw6Ls7qBDbN8YRe8C_olm25BKA8qCfBtCp3gZQg",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTmNfxN-jNeg3nb-sS3GEcR_1HSFPgZKuEf8AUd9a0PNZcYY7M",
+   "thumbnail_width": 150,
+   "thumbnail_height": 200,
+   "image": "x-raw-image:///3e796f5ce35d1936933a07cb9516dbd94e6fa0d7f33959d6f56c723eed33b3cf",
+   "image_width": 150,
+   "image_height": 200
+  },
+  {
+   "position": 30,
+   "title": "Buy Finger Projector online at best price | Namma kutties kadai",
+   "link": "https://www.nammakuttieskadai.in/product/33060760/Finger-Projector",
+   "source": "Namma Kutties Kadai",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTJWu6bAhKedGdVUBmJMIlRNefMYhSV-RjrBKqyaXA8bOD9t2y4euFaEQTYiLx_jb9AxNzJ1OA_md4PnORSTn6aJcE6SpPpIQfQcq2syLYHp4rfKg33ZKofRZVWuCU",
+   "price": {
+    "value": "₹12*",
+    "extracted_value": 12.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppY9sPirI7RBL6KJGM74Fag6MrDeQT1ip-c6l4SmBTFp5mF-n",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://cdn.dotpe.in/longtail/item_thumbnails/7224647/9vfwEfIx-800-800.webp",
+   "image_width": 800,
+   "image_height": 800
+  },
+  {
+   "position": 31,
+   "title": "Buy LED Laser Finger Lights Glow-In-The-Dark Finger ...",
+   "link": "https://www.zop.in/products/led-laser-finger-lights-glow-in-the-dark-finger-flashlights-4pcs-set",
+   "source": "Zop",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRpESK7VHYZ6FvGOfDJ5B062ab0HyS1tJLgocTORcnfSsuVlMuKEsXwdKoMzyodfWgTjQqZ0-TDivqD673aR99PpvL9X6WzxQU59au8SWjS",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtisvKKX0COdpSpNmAsyih7EYrCQ-UjE0E9-zgvcyfhkC8nGym",
+   "thumbnail_width": 224,
+   "thumbnail_height": 225,
+   "image": "https://www.zop.in/cdn/shop/files/LED-Laser-Finger-Lights-3.jpg?v=1758541375",
+   "image_width": 714,
+   "image_height": 720
+  },
+  {
+   "position": 32,
+   "title": "3PCS Cartoon finger projection light ring light night market ...",
+   "link": "https://www.indiamart.com/proddetail/3pcs-cartoon-finger-projection-light-ring-light-night-market-laser-light-2857867621133.html",
+   "source": "IndiaMART",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQmoNF1Lqa24b0ZDcmMgXOy73ms1Wy67gbYl_x-etLFCUGDcr9N20fKmwRMTlGYXiBx4szmmRtRmfQZ6bSt3krVntXmKQYFMZ2cETgMfAqiRiwwp6vEHQ",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDTSgjO4PyCT3KSw5HRz_xFsM9B3Gri88E1JALbjlPPwBnQPVl",
+   "thumbnail_width": 222,
+   "thumbnail_height": 227,
+   "image": "https://5.imimg.com/data5/ANDROID/Default/2025/11/559191499/TV/XJ/HY/255249267/product-jpeg.jpg",
+   "image_width": 1056,
+   "image_height": 1080
+  },
+  {
+   "position": 33,
+   "title": "Crax Toys - Jet whistle Promotional Toys Trader - Wholesaler ...",
+   "link": "https://www.riyaplastics.com/crax-toys.html",
+   "source": "Riya Plastics",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ0ok68_9r3XCSUMzEiH6MHrlaiI1dGccHPlf2rs0pMyN1K1gdCcVLxG3UCJEmvNh70hLG2F2BuA42SxvTNyFkZ2gEL8EAhFOB0Hs4InQTRtZcymjf2-zesNA",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT688fCDo3pTsjhppkWa67Nj_P1TW5uzpYtCfn_7CMp_HhCNrVx",
+   "thumbnail_width": 233,
+   "thumbnail_height": 216,
+   "image": "https://5.imimg.com/data5/ANDROID/Default/2024/6/424441256/IL/LT/UQ/9972442/product-jpeg-500x500.jpg",
+   "image_width": 500,
+   "image_height": 463
+  },
+  {
+   "position": 34,
+   "title": "KCNVLCK Party Bag Fillers for Kids - 40PCS Action Hero India ...",
+   "link": "https://www.ubuy.co.in/productuk/T26HNDSLI-40-pcs-action-hero-party",
+   "source": "Ubuy",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHHoqe57uvdqgC4yjRdTWpJj8JajOgnwUFJBDrBJ0IaC_Xm_OqhySqdAlEvmWIlOlDUXywmWx0rYoy1TECHFwv5OjZRMXLHuFtXuYYMrre4zIs3g",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlguk1Xi1QZlsWZjY4wy92-ldU4WH8PJU2tR038VExrwCyVoO",
+   "thumbnail_width": 176,
+   "thumbnail_height": 286,
+   "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d29268bf-b5c9-4aac-b4f2-69140410f73d.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+   "image_width": 600,
+   "image_height": 970
+  },
+  {
+   "position": 35,
+   "title": "Premium Plastic Cloth Pegs Pack of 36 | Strong Grip color ...",
+   "link": "https://www.meesho.com/premium-plastic-cloth-pegs-pack-of-36-strong-grip-color-clips-for-drying-clothes-heavy-duty-and-durable/p/h77az7",
+   "source": "Meesho",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRILfQUakeHOSu5dggkcAVZJbGTnrIo5JZHHOEXQWwdf5i0EKvvQYH6cEKDmx9wLxk96e8RIaCcliCvNvGwIHrWTvDu0O2iEYc0AyVVYil21gFn_A",
+   "price": {
+    "value": "₹180*",
+    "extracted_value": 180.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn9hdjiS8kZks4QVXB9R8yUU96b3mTNwpoQP5FfEC9wfpdAjkD",
+   "thumbnail_width": 239,
+   "thumbnail_height": 211,
+   "image": "https://images.meesho.com/images/products/1040023123/e6rv5_512.jpg",
+   "image_width": 582,
+   "image_height": 512
+  },
+  {
+   "position": 36,
+   "title": "Projecting LED Finger Light Toys Recalled Due to Risk of ...",
+   "link": "https://www.cpsc.gov/Recalls/2026/Projecting-LED-Finger-Light-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-POPOOO",
+   "source": "CPSC.gov",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQdJCtPKjo8JkjtyxzxOn0NdTPk85C886CDMl1SjlBMpWjxQRPFUtDwiuRo-g2GeX7VB6IP2qdPrTlBQdkNUnmABFhx4aZBhIHcsWTKBOhZ5vI",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqmH1Jmr6kld6gQXWZF6f2QF-OPC1Cfcr3C7wz-yj94m2Vufsv",
+   "thumbnail_width": 222,
+   "thumbnail_height": 227,
+   "image": "https://www.cpsc.gov/s3fs-public/styles/recall_product/public/popoo-2.png?VersionId=GmC7eG7_36rxsL_nOq60GC0YNtk9WkER&itok=7IsvwSxk",
+   "image_width": 400,
+   "image_height": 408
+  },
+  {
+   "position": 37,
+   "title": "Cartoon Children LED Finger Ring Projection Lamp - LED ...",
+   "link": "https://m.made-in-china.com/product/Cartoon-Children-LED-Finger-Ring-Projection-Lamp-868410905.html",
+   "source": "Made-in-China.com",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRUqnc3WGV8RKN3jF44MJwoF9SRf8z8vqGTu62jOK7FrCrEr-7xs_c6Qz9smJVQddNtj7ml6GJvIAHsxcQeNDdEWHx9CDNWl8Dd3HzfZdgGGdtmTKDDwPlm",
+   "rating": 5.0,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTOUB1Jxn5Xlfpo88gml_QWbHF6W0UGpmmbQkAS3t8lTladAXA",
+   "thumbnail_width": 223,
+   "thumbnail_height": 226,
+   "image": "https://image.made-in-china.com/2f0j00IguRUBVmavcG/Cartoon-Children-LED-Finger-Ring-Projection-Lamp.webp",
+   "image_width": 712,
+   "image_height": 720
+  },
+  {
+   "position": 38,
+   "title": "Price History of Premium Cloth Clips for Drying Clothes ...",
+   "link": "https://buyhatke.com/lookalike/amazon-vernocraft-premium-cloth-clips-for-drying-clothes-multipurpose-clothes-pins-with-storage-box-strong-amp-durable-mini-clips-for-indoor-outdoor-us-price-in-india-63-97838891",
+   "source": "Buyhatke",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTv3fdXpe9I09hCEa6M57NSvRLCFYVhJJQNtylN8qm5HWz27GbXrrVMLoSJ9KBigTFbw0nDpY41AOdZLmOIjiP6te2Flp6rgbUKNA-Ra_LJ5w0",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuO2BwAeIe7oOwvLsI0YnzLroEZA40BJOy4oYwYhyDEIoePmCY",
+   "thumbnail_width": 238,
+   "thumbnail_height": 211,
+   "image": "https://m.media-amazon.com/images/I/71Mnr5Ol6dL._AC_UL320_.jpg",
+   "image_width": 320,
+   "image_height": 284
+  },
+  {
+   "position": 39,
+   "title": "Finger Light Products LED Party Toys",
+   "link": "https://www.walmart.com/c/kp/finger-light-products",
+   "source": "Walmart",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTty0_uq5QGsSpEA1agUnwTMPZTu_YvS9mg_tzOR2qy22fR-FGLLoSmA4z4XotJkADD4W1gHczZdZT5PEPvM9Sv6mBjhn-lRnHs4p0G3COAlV8EwJE",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKI6qfRuY2YdhWw8HUhevDPNicEWkbYcRWiU3DPQRW6BiKKUrN",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://i5.walmartimages.com/seo/50-Piece-Finger-Lights-8-Colors-Glow-in-the-Dark-Party-Favors_8fdaf0c0-12aa-48a0-b0d7-bd269dad424d.cc90e784ed8f978d2f8a20e1ce65961f.jpeg?odnHeight=328&odnWidth=328&odnBg=FFFFFF",
+   "image_width": 328,
+   "image_height": 328
+  },
+  {
+   "position": 40,
+   "title": "LED Cartoon Projection Finger Toy",
+   "link": "https://rushrabbit.in/products/led-cartoon-projection-finger-toy",
+   "source": "Rush Rabbit",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcRRN84jdgPl0186gTFSNVLJK75XO860qikTh2-RQ7_VQTD9Cnw88XiMfIconhbLDhDgoqe9JwrSVCE0CY6F5G29Y3q1geNUDtemtfDYU3CeEr2V",
+   "price": {
+    "value": "₹599*",
+    "extracted_value": 599.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy8cXiDaffaXvYWHwijV-vrRpJjnKSUuJDPskqEhGOGodRvAJX",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://cdn.shopify.com/s/files/1/0558/7242/1982/files/WhatsApp_Image_2026-03-13_at_16.27.19.jpg?v=1773399659",
+   "image_width": 800,
+   "image_height": 800
+  },
+  {
+   "position": 41,
+   "title": "Finger Laser Beam Flashlights - LED Finger Lights Available ...",
+   "link": "https://www.facebook.com/angelBunnySnowball/posts/finger-laser-beam-flashlights-led-finger-lightsavailable-onhand️loc-mauway-manda/1022155393259968/",
+   "source": "Facebook",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX1006pNq3MPDNNNwEh9JcIkkGplWycV1n-sVelmqtSfggQjur",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1022154833260024",
+   "image_width": 800,
+   "image_height": 800
+  },
+  {
+   "position": 42,
+   "title": "halloween #trickortreat #rings #children | TikTok",
+   "link": "https://www.tiktok.com/@violetcarter17/video/7679410925660556576",
+   "source": "TikTok",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTiWsZg_7Q-8bAQYHlD9VtdBO8GLzYtDmFFmMRclrXQhRI17hRJ77T_Rc7VFiml61ZZKCAxlqLWhaBMeobWN_zExBK3t3LPjYWjTlpJS_fXur2RjQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcNGuM0BNk3vU7aRjNN6zZBs4AMruqESD7N-98vvfM1HBjEhp7",
+   "thumbnail_width": 275,
+   "thumbnail_height": 184,
+   "image": "https://www.tiktok.com/api/img/?itemId=7679410925660556576&location=0&aid=1988",
+   "image_width": 750,
+   "image_height": 502
+  },
+  {
+   "position": 43,
+   "title": "🧛‍♀️ Turn your hands into a fun Halloween accessory with ...",
+   "link": "https://www.instagram.com/reel/DcbWkXgTXk1/",
+   "source": "Instagram",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6PKzdT2ovoWNMUaYh2FBX3kegJQZGYBWvgyYp-4ZRomotmawt",
+   "thumbnail_width": 299,
+   "thumbnail_height": 168,
+   "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3970866752619641141",
+   "image_width": 853,
+   "image_height": 480
+  },
+  {
+   "position": 44,
+   "title": "Novelty Place 40Pcs LED Party Finger Lights for Kids India ...",
+   "link": "https://www.ubuy.co.in/product/8CVHKLNA8-novelty-place-40pcs-led-party-finger-lights-for-kids-led-finger-flashlight-light-up-finger-ring-toys-for-party-favor-halloween-raves-concert-shows",
+   "source": "Ubuy",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHHoqe57uvdqgC4yjRdTWpJj8JajOgnwUFJBDrBJ0IaC_Xm_OqhySqdAlEvmWIlOlDUXywmWx0rYoy1TECHFwv5OjZRMXLHuFtXuYYMrre4zIs3g",
+   "rating": 4.0,
+   "reviews": 1,
+   "price": {
+    "value": "₹1,894*",
+    "extracted_value": 1894.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCQRjTxJgnvOfaK5mKAHkQbwAWh9qgeeYjpHOhdzTsmytWugxA",
+   "thumbnail_width": 243,
+   "thumbnail_height": 208,
+   "image": "https://m.media-amazon.com/images/I/81wmNgqVkOL._AC_SX569_.jpg",
+   "image_width": 665,
+   "image_height": 569
+  },
+  {
+   "position": 45,
+   "title": "Amazon.com: Haooryx Halloween Party Favor Mini Finger Lights ...",
+   "link": "https://www.amazon.com/Haooryx-Halloween-Party-Favor-Finger/dp/B0F8H8XGY2",
+   "source": "Amazon.com",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRm4oMDPHDSWBDQhB5-csYIdmVde_ZfnfUYnfzlJJ9w7zjXG34H4SL9TXI2H8XWInsqPagyhBQjtImrHgLv9Bwvw_d2JvfjMfz3ox9yR82MKQ7yrQ",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVvU07jsS_kBF23NcWQ0Kvzg7c2uXBanl4Nqta3O814oqUmjaA",
+   "thumbnail_width": 224,
+   "thumbnail_height": 224,
+   "image": "https://m.media-amazon.com/images/I/81ym5KEqz+L._AC_UF894,1000_QL80_.jpg",
+   "image_width": 894,
+   "image_height": 894
+  },
+  {
+   "position": 46,
+   "title": "4pcs Led Party Finger Lights Finger Ring For Men Women ...",
+   "link": "https://www.desertcart.in/products/528068157-4pcs-led-party-finger-lights-finger-ring-for-men-women",
+   "source": "Desertcart INDIA",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQFJC4jmIMd6gpcGhqZarf5IAlcfHVcTaBBmmuhGIP3lgXJsgyZkeK0A5T6c42bP2F4MNf8i4BibzuO0qSWtkoGFkzohnS5HfhQ8DVIu2_7slhHlVUJkg",
+   "rating": 1.9,
+   "reviews": 8,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1fo2saRrKiiItf0_zSMRhReLIb3yxAvZTib522ghkvmpEk2A8",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/61+xs0d0nsL.jpg",
+   "image_width": 1500,
+   "image_height": 1500
+  },
+  {
+   "position": 47,
+   "title": "CPSC Product Recall Notice",
+   "link": "https://content.govdelivery.com/accounts/MOGOVDESE/bulletins/42688ea",
+   "source": "GovDelivery - Granicus",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTm_ov1NxH3XuBJqfDna6yNjajw5s0RDNUqkXorovzfA1x1ZzDZq2fwjOnx1e-IqQ8tK3lHcUAnYJeLvkt6ZPHt_CuIFdx6MpyB9a9lNcbS-EB_NICE2H5RHIJfWQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzVfDupYQetO6fg5LhxNWeOrih7HCDogCaxDfIFZDSG0xG8Ve6",
+   "thumbnail_width": 139,
+   "thumbnail_height": 180,
+   "image": "https://content.govdelivery.com/attachments/fancy_images/MOGOVDESE/2026/08/14233896/7082424/syera-projecting-finger-light-toys_crop.jpg",
+   "image_width": 139,
+   "image_height": 180
+  },
+  {
+   "position": 48,
+   "title": "Plastic 1 Slide Kids Finger Projector(Set of 2) at ₹ 100 ...",
+   "link": "https://www.indiamart.com/proddetail/kids-finger-projector-set-of-2-2857266527873.html",
+   "source": "IndiaMART",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQmoNF1Lqa24b0ZDcmMgXOy73ms1Wy67gbYl_x-etLFCUGDcr9N20fKmwRMTlGYXiBx4szmmRtRmfQZ6bSt3krVntXmKQYFMZ2cETgMfAqiRiwwp6vEHQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSivpQzsF_6C1yFUFsiNbyX2SnrYSwgy6nykBKNW2nlEdzxBJOl",
+   "thumbnail_width": 259,
+   "thumbnail_height": 194,
+   "image": "https://5.imimg.com/data5/SELLER/Default/2025/8/536282357/DC/QN/NU/219643439/kids-finger-projector-set-of-2-500x500.jpg",
+   "image_width": 500,
+   "image_height": 375
+  },
+  {
+   "position": 49,
+   "title": "Aiitle LED Cartoon Finger Projection Light – Aiitle-UK",
+   "link": "https://aiitle.co.uk/products/cartoon-finger-projection-light",
+   "source": "Aiitle-UK",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQyNK7RSE_uYu7QKXHs_nEMmgM_26lPBNtiBBfl8FDZ5J0716vfTrLfG_9Ifbk0EGIdK_jzoPgrg-3rd3yAjV7aegJVJUzhARUgM__dNgSGbAg",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwF3A5ARGSMG82EbvFfYbUOX3T19N5l6sjeZrSE57Q_hNavJI",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://aiitle.co.uk/cdn/shop/files/AiitleLEDCartoonFingerProjectionLight_4.jpg?v=1711528862&width=1445",
+   "image_width": 800,
+   "image_height": 800
+  },
+  {
+   "position": 50,
+   "title": "Cartoon Pattern Finger Projection Light Glow Toy LED Stall ...",
+   "link": "https://thecraze.in/products/cartoon-pattern-finger-projection-light-glow-toy-led-stall",
+   "source": "Craze",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRSmg7k6C_pzPmH4-_aGM_jbGo8fyuyMi3yafxNi2Om4ENPhml4DQaLeLw698tUzni3DJHpWd-1s5m_2r8X70qy7fb9TBGPfWX_oJoTCNI8kg",
+   "price": {
+    "value": "₹999*",
+    "extracted_value": 999.0,
+    "currency": "₹"
+   },
+   "in_stock": true,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuKRRBQn8YALnAyIvYaqvx68yfTqND60WTkuSZ0tQcTPjWib55",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://thecraze.in/cdn/shop/files/CZ_F_CNTG23120928126_453950.jpg?v=1754197574",
+   "image_width": 800,
+   "image_height": 800
+  },
+  {
+   "position": 51,
+   "title": "LED Finger Beam Lights Recalled For Battery Ingestion Hazard",
+   "link": "https://foodpoisoningbulletin.com/2026/led-finger-beam-lights-recalled-for-battery-ingestion-hazard/",
+   "source": "Food Poisoning Bulletin",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTFrUCoJeE1OjcCqi5aCydYz4VjjIu1zsPRGswqyD3l-AO_dqX-GVFmqjaHYAONYfN6UwXTvMmI1Kb7PKdgDgiaGFvVv3T9gaWg0VTatlCpq9QaYfs0-mtYltWFDOUd",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQxeNt4z8JF7zNLWHNCbmvfT0bPg_LISQMYa6PS7kRwla3166W",
+   "thumbnail_width": 237,
+   "thumbnail_height": 213,
+   "image": "https://foodpoisoningbulletin.com/wp-content/uploads/LED-Finger-Beam-Lights-Recalled-For-Battery-Ingestion-Hazard.jpeg",
+   "image_width": 810,
+   "image_height": 730
+  },
+  {
+   "position": 52,
+   "title": "LED Light Finger Lamp Magic Projector Flashlight Toys for ...",
+   "link": "https://m.made-in-china.com/product/LED-Light-Finger-Lamp-Magic-Projector-Flashlight-Toys-for-Children-856603195.html",
+   "source": "Made-in-China.com",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRUqnc3WGV8RKN3jF44MJwoF9SRf8z8vqGTu62jOK7FrCrEr-7xs_c6Qz9smJVQddNtj7ml6GJvIAHsxcQeNDdEWHx9CDNWl8Dd3HzfZdgGGdtmTKDDwPlm",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4cG_A_QailVrxJrgcjo-08uRqWTeyqZT0A1Ao2Xj41K5eCLJA",
+   "thumbnail_width": 224,
+   "thumbnail_height": 224,
+   "image": "https://image.made-in-china.com/202f0j00TYuUaDeqOwkv/LED-Light-Finger-Lamp-Magic-Projector-Flashlight-Toys-for-Children.webp",
+   "image_width": 550,
+   "image_height": 550
+  },
+  {
+   "position": 53,
+   "title": "Buy LED Laser Finger Lights Glow-In-The-Dark Finger ...",
+   "link": "https://www.zop.in/products/led-laser-finger-lights-glow-in-the-dark-finger-flashlights-4pcs-set",
+   "source": "Zop",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRpESK7VHYZ6FvGOfDJ5B062ab0HyS1tJLgocTORcnfSsuVlMuKEsXwdKoMzyodfWgTjQqZ0-TDivqD673aR99PpvL9X6WzxQU59au8SWjS",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8uIu_VmdHW3o6Fn61QF7YKtKsYTspvXFj7vZ0nfV-4g0V1HXl",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://www.zop.in/cdn/shop/files/LED-Laser-Finger-Lights-8.jpg?v=1758541375&width=600",
+   "image_width": 600,
+   "image_height": 600
+  },
+  {
+   "position": 54,
+   "title": "Small Gun Plastic Toy - Age Group: Kids at 9.00 INR at Best ...",
+   "link": "https://www.tradeindia.com/products/small-gun-plastic-toy-9648222.html",
+   "source": "Tradeindia",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQu8cWvOCRdrLxvj84tu9vc6V26qPLa6f7J_vRpepXLHIqYSjCbODy3gscQ7piEDWTlaAMsFxBiu_SMmFOpqvRUrDxhrwzY24H_8zLuZLh3KMo_2NB347s",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa0ZYf19u9zw6EteXtjdAKl_oJlLsXwlZqKBbOL1t_P5q_owuk",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://tiimg.tistatic.com/fp/2/009/648/small-gun-plastic-toy-222.jpg",
+   "image_width": 500,
+   "image_height": 500
+  },
+  {
+   "position": 55,
+   "title": "Photos by 𝐂𝐡 𝐁𝐨𝐨𝐤 𝐂𝐞𝐧𝐭𝐞𝐫® 𝐖𝐡𝐨𝐥𝐞𝐬𝐚𝐥𝐞 ...",
+   "link": "https://www.instagram.com/p/DdyQUOGEZRA/",
+   "source": "Instagram",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRfeuqP5QxUSeCmsflV2Cnn0vXhLW6Eu37ppI8yX_ECy4e--DA",
+   "thumbnail_width": 194,
+   "thumbnail_height": 260,
+   "image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3995327437369431383",
+   "image_width": 1074,
+   "image_height": 1440
+  },
+  {
+   "position": 56,
+   "title": "Halloween LED rings! Perfect for Halloween goodie bags ...",
+   "link": "https://www.tiktok.com/@jealous9720/video/7679642347298245901",
+   "source": "TikTok",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTiWsZg_7Q-8bAQYHlD9VtdBO8GLzYtDmFFmMRclrXQhRI17hRJ77T_Rc7VFiml61ZZKCAxlqLWhaBMeobWN_zExBK3t3LPjYWjTlpJS_fXur2RjQ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdsLO7rqSaheJfUoHUDb6bfY4oam_1mjTSHIS3jP_GW3kO8ACH",
+   "thumbnail_width": 269,
+   "thumbnail_height": 187,
+   "image": "https://www.tiktok.com/api/img/?itemId=7679642347298245901&location=0&aid=1988",
+   "image_width": 1084,
+   "image_height": 753
+  },
+  {
+   "position": 57,
+   "title": "Amazon.com: SiliFine 36 Pcs Hero Theme Party Favor Hero LED ...",
+   "link": "https://www.amazon.com/SiliFine-Birthday-Goodies-Stuffers-Supplies/dp/B0FJYF22L7",
+   "source": "Amazon.com",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRm4oMDPHDSWBDQhB5-csYIdmVde_ZfnfUYnfzlJJ9w7zjXG34H4SL9TXI2H8XWInsqPagyhBQjtImrHgLv9Bwvw_d2JvfjMfz3ox9yR82MKQ7yrQ",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiiPzHYiDd7bXaNgTdH4YfKZLx7uzacFsRA9YZKuvnSGoSBjmg",
+   "thumbnail_width": 224,
+   "thumbnail_height": 224,
+   "image": "https://m.media-amazon.com/images/I/810wKGLtyrL._AC_UF894,1000_QL80_.jpg",
+   "image_width": 894,
+   "image_height": 894
+  },
+  {
+   "position": 58,
+   "title": "4pcs Led Party Finger Lights Finger Ring For Men Women ...",
+   "link": "https://www.desertcart.in/products/528068157-4pcs-led-party-finger-lights-finger-ring-for-men-women",
+   "source": "Desertcart INDIA",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQFJC4jmIMd6gpcGhqZarf5IAlcfHVcTaBBmmuhGIP3lgXJsgyZkeK0A5T6c42bP2F4MNf8i4BibzuO0qSWtkoGFkzohnS5HfhQ8DVIu2_7slhHlVUJkg",
+   "rating": 1.9,
+   "reviews": 8,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxZob4K0c8DQNusadqAk5Twjkn1kjkIN452tLsRIJGF14CRCs7",
+   "thumbnail_width": 225,
+   "thumbnail_height": 225,
+   "image": "https://m.media-amazon.com/images/I/61knJPI5KwL.jpg",
+   "image_width": 1500,
+   "image_height": 1500
+  },
+  {
+   "position": 59,
+   "title": "PartySticks Light Up Rings LED Finger Lights Flashing Glow ...",
+   "link": "https://www.flipkart.com/partysticks-light-up-rings-led-finger-lights-flashing-glow-party-ornament/p/itm414a073e04566",
+   "source": "Flipkart",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTZINa-Te7bv8MscB5b6FfK__Uu4XBkWQsis7wRqrWRsMISW0ldAmte6VNWHgquxAHZyLYCZZswiMTaqLML3WB19-_CfgDoKZ-dupPqPfoV6TgbXdaR",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvnR5BAIOs6-cTnpLYhkB59wiJL2BttZRRRqflR9POAiv4M1uc",
+   "thumbnail_width": 202,
+   "thumbnail_height": 249,
+   "image": "http://rukmini1.flixcart.com/image/300/300/k5msb680/party-glow-ornament/v/v/c/light-up-rings-led-finger-lights-flashing-glow-rings-partysticks-original-imafz9zhcmpdt3vr.jpeg",
+   "image_width": 244,
+   "image_height": 300
+  },
+  {
+   "position": 60,
+   "title": "Promotional Small Toys at | Mini Plastic Toy in Rajkot | ID ...",
+   "link": "https://www.indiamart.com/proddetail/promotional-small-toys-2857382489097.html",
+   "source": "IndiaMART",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQmoNF1Lqa24b0ZDcmMgXOy73ms1Wy67gbYl_x-etLFCUGDcr9N20fKmwRMTlGYXiBx4szmmRtRmfQZ6bSt3krVntXmKQYFMZ2cETgMfAqiRiwwp6vEHQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr54TdkuOqpZO_78jn42ak_GnwwYJiA_dIsikVUKSwBKGpJwNU",
+   "thumbnail_width": 177,
+   "thumbnail_height": 284,
+   "image": "https://5.imimg.com/data5/ANDROID/Default/2025/8/539690316/KI/NL/ZI/141448276/product-jpeg-500x500.jpg",
+   "image_width": 312,
+   "image_height": 500
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "CHSLtmxq 24PCS Race Car Party Favors LED Finger ...",
+   "link": "https://www.amazon.in/CHSLtmxq-Finger-Lights-Stuffers-Decorations/dp/B0GDDKZ2LH",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFZj52ecwTs5x7dd0yCD3Vd8As-pCiIHLxRi2TGWRow97T4AvDQTlUp-pxX6yWXsTXzFVZwYokJEn9b1Nud6l0nFAVvp-Wc2-CoiUdIc0qju-Xtx58p-JaBJYIMYoPMEDS1_U349IXZwtiMP969N7Zysj4SqmHvpnbPcHKWN_IW5G1Jv1GgU&ved=2ahUKEwjFmrH-squXAxURjuEIHdoMCeUQFnoFCM4DEAE&uoh=1",
+   "displayed_link": "https://www.amazon.in › CHSLtmxq-Finger-Lights-Stuff...",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8nIiARkLR1ZnTtPSzKxPCRUtMoBAq6-kM7qwv1pKm2MzwQ3pQao1J&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "CHSLtmxq 24PCS Race Car Party Favors LED Finger Lights, 8 Designs, Steady-On Light Up Finger Lights, Cars Party Favors Goodie Bag Stuffers, Race Car Party ...",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.2,
+      "reviews": 47
+     },
+     "extensions": [
+      "4.2(47)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "CHSLtmxq 24PCS Race Car Party Favors LED Finger Lights, 8 Designs, Steady-On Light Up Finger Lights, Cars Party Favors Goodie Bag Stuffers, Race Car Party ...",
+     "source_info_link": "https://www.amazon.in/CHSLtmxq-Finger-Lights-Stuffers-Decorations/dp/B0GDDKZ2LH",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZaajUyZWN3VHM1eDdkZDB5Q0QzVmQ4QXMtcENpSUhMeFJpMlRHV1Jvdzk3VDRBdkRRVGxVcC1weFg2eVdYc1RYekZWWndZb2tKRW45YjFOdWQ2bDBuRkFWdnAtV2MyLUNvaVVkSWMwcWp1LVh0eDU4cC1KYUJKWUlNWW9QTUVEUzFfVTM0OUlYWnd0aU1QOTY5TjdaeXNqNFNxbUh2cG5iUGNIS1dOX0lXNUcxSnYxR2dVEgQaAggAGiISABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZaajUyZWN3VHM1eDdkZDB5Q0QzVmQ4QXMtcENpSUhMeFJpMlRHV1Jvdzk3VDRBdkRRVGxVcC1weFg2eVdYc1RYekZWWndZb2tKRW45YjFOdWQ2bDBuRkFWdnAtV2MyLUNvaVVkSWMwcWp1LVh0eDU4cC1KYUJKWUlNWW9QTUVEUzFfVTM0OUlYWnd0aU1QOTY5TjdaeXNqNFNxbUh2cG5iUGNIS1dOX0lXNUcxSnYxR2dVEgQaAggAGiISABoCCAEiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Amazon.in"
+  },
+  {
+   "position": 2,
+   "title": "Syera Projecting Finger Light Toys Recalled Due to Risk of ...",
+   "link": "https://www.cpsc.gov/Recalls/2026/Syera-Projecting-Finger-Light-Toys-Recalled-Due-to-Risk-of-Serious-Injury-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys-Sold-on-TEMU-by-Senyu",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES-AEB6zswFVHcdGnJmLi1KXFN8XnlLJQnvG3xxPVXEtV_GUZPwAaTvk48oQ51Dy5bgsVFdR1SvOkjRs-BLo0W-XQALonLYzjNTKMfTuDH0soSiCXfehNgMjgSQU8wIOelqwYuU4ll805Oqbq3maAXz1WfvNnx4Q9Jhq6h2GGmQRNa-CvkLGx9VPFrlwdilNq1VRB_GTykjbV9YVNdrfOZHUTswwmWV-ldB30K90hzk0J1ulm7uE0_LkCtFW37oh9w1Lck4Ornr_fR8G36Auy_7CTpKm53TnSjUS_LrsUmeFGmu0Tp2bceG49JHhXq_tICs-VweW49yj6W0g&ved=2ahUKEwjFmrH-squXAxURjuEIHdoMCeUQFnoFCM0DEAE&uoh=1",
+   "displayed_link": "https://www.cpsc.gov › Recalls › Syera-Projecting-Finger...",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWJVUr_bfzCMWFY2DjWhTedJQ2icVkSaw4TMJ2ifSDL-GMnJoRrcaC&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "snippet": "Consumers should stop using the recalled toys immediately, take them away from children and contact Syera for a full refund. Consumers will be asked to ...",
+   "about_this_result": {
+    "source": {
+     "description": "Consumers should stop using the recalled toys immediately, take them away from children and contact Syera for a full refund. Consumers will be asked to ...",
+     "source_info_link": "https://www.cpsc.gov/Recalls/2026/Syera-Projecting-Finger-Light-Toys-Recalled-Due-to-Risk-of-Serious-Injury-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys-Sold-on-TEMU-by-Senyu",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CtwCL2dvdG8_dXJsPUNBRVMtQUVCNnpzd0ZWSGNkR25KbUxpMUtYRk44WG5sTEpRbnZHM3h4UFZYRXRWX0dVWlB3QWFUdms0OG9RNTFEeTViZ3NWRmRSMVN2T2tqUnMtQkxvMFctWFFBTG9uTFl6ak5US01mVHVESDBzb1NpQ1hmZWhOZ01qZ1NRVTh3SU9lbHF3WXVVNGxsODA1T3FicTNtYUFYejFXZnZObng0UTlKaHE2aDJHR21RUk5hLUN2a0xHeDlWUEZybHdkaWxOcTFWUkJfR1R5a2piVjlZVk5kcmZPWkhVVHN3d21XVi1sZEIzMEs5MGh6azBKMXVsbTd1RTBfTGtDdEZXMzdvaDl3MUxjazRPcm5yX2ZSOEczNkF1eV83Q1RwS201M1RuU2pVU19McnNVbWVGR211MFRwMmJjZUc0OUpIaFhxX3RJQ3MtVndlVzQ5eWo2VzBnEgQaAggAGiQSAggAGgIIASIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwCL2dvdG8_dXJsPUNBRVMtQUVCNnpzd0ZWSGNkR25KbUxpMUtYRk44WG5sTEpRbnZHM3h4UFZYRXRWX0dVWlB3QWFUdms0OG9RNTFEeTViZ3NWRmRSMVN2T2tqUnMtQkxvMFctWFFBTG9uTFl6ak5US01mVHVESDBzb1NpQ1hmZWhOZ01qZ1NRVTh3SU9lbHF3WXVVNGxsODA1T3FicTNtYUFYejFXZnZObng0UTlKaHE2aDJHR21RUk5hLUN2a0xHeDlWUEZybHdkaWxOcTFWUkJfR1R5a2piVjlZVk5kcmZPWkhVVHN3d21XVi1sZEIzMEs5MGh6azBKMXVsbTd1RTBfTGtDdEZXMzdvaDl3MUxjazRPcm5yX2ZSOEczNkF1eV83Q1RwS201M1RuU2pVU19McnNVbWVGR211MFRwMmJjZUc0OUpIaFhxX3RJQ3MtVndlVzQ5eWo2VzBnEgQaAggAGiQSAggAGgIIASIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "CPSC.gov"
+  },
+  {
+   "position": 3,
+   "title": "Magic Finger Trick Light - Chatpat toy tv",
+   "link": "https://www.youtube.com/watch?v=86axPGbK5Xk",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVZwxvz4Wdkeujz-eG0_nRriE-EBwOOcV3yKdpU2-9yLfi-Lwc8ByPNDewrCR7cAUvCTHl7RJkRbVpAw3AVULvd4NCyYU-c0mYnQUGV5Obs9jntUeT1STF1aMUrNgfd0asSg&ved=2ahUKEwjFmrH-squXAxURjuEIHdoMCeUQFnoFCNEDEAE&uoh=1",
+   "displayed_link": "2.1L+ views · 5 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Magic Finger Trick Light - जादुई उंगलिया – Chatpat toy tv Toy Park 1pair Amazing Funny LED Light Flashing Finger Magic Trick ...",
+   "about_this_result": {
+    "source": {
+     "description": "Magic Finger Trick Light - जादुई उंगलिया – Chatpat toy tv Toy Park 1pair Amazing Funny LED Light Flashing Finger Magic Trick ...",
+     "source_info_link": "https://www.youtube.com/watch?v=86axPGbK5Xk",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlp3eHZ6NFdka2V1anotZUcwX25ScmlFLUVCd09PY1YzeUtkcFUyLTl5TGZpLUx3YzhCeVBORGV3ckNSN2NBVXZDVEhsN1JKa1JiVnBBdzNBVlVMdmQ0TkN5WVUtYzBtWW5RVUdWNU9iczlqbnRVZVQxU1RGMWFNVXJOZ2ZkMGFzU2cSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlp3eHZ6NFdka2V1anotZUcwX25ScmlFLUVCd09PY1YzeUtkcFUyLTl5TGZpLUx3YzhCeVBORGV3ckNSN2NBVXZDVEhsN1JKa1JiVnBBdzNBVlVMdmQ0TkN5WVUtYzBtWW5RVUdWNU9iczlqbnRVZVQxU1RGMWFNVXJOZ2ZkMGFzU2cSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "YouTube · chatpat toy tv"
+  },
+  {
+   "position": 4,
+   "title": "Watch LED Finger Lights Mini Finger Flashlights on Amazon Live",
+   "link": "https://www.amazon.in/live/video/1b6afa1a47774aaba663f531474b6bd1",
+   "displayed_link": "https://www.amazon.in › live › video",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjDk3S_vnp8Pr24kLMvOCs28wE1Pcl-GMd4HYNAsNPIbCSlXoHC5H_Q&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Shop with expert advice from Amazon Seller Central in their latest video LED Finger Lights Mini Finger Flashlights.",
+   "duration": "0:23",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "date": "18 May 2025"
+     },
+     "extensions": [
+      "Amazon.in",
+      "Amazon Seller Central",
+      "18 May 2025"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Shop with expert advice from Amazon Seller Central in their latest video LED Finger Lights Mini Finger Flashlights.",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    }
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkhOQzEwcG51ZlV4X1ItUy10czRqMWdiRXAwTG4zbmhvdXFPRGZQYXVzUncxa2s5Y1hMcDdlTjdoOXBpeXJhdFBaNU9oelJPTTV4Q0lxaHlkV1B1MHpZM0ZzU2ZybnZhVTZVZTczX3VFLVlOQ0J2ZkYxdWYyOXVFbWVjb2lJeEFRVVd2NGJnX3BFblBkejR4eXlRanV4RXRWVWxRVUUwWRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkhOQzEwcG51ZlV4X1ItUy10czRqMWdiRXAwTG4zbmhvdXFPRGZQYXVzUncxa2s5Y1hMcDdlTjdoOXBpeXJhdFBaNU9oelJPTTV4Q0lxaHlkV1B1MHpZM0ZzU2ZybnZhVTZVZTczX3VFLVlOQ0J2ZkYxdWYyOXVFbWVjb2lJeEFRVVd2NGJnX3BFblBkejR4eXlRanV4RXRWVWxRVUUwWRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ_JRTLPmMUE9fTMoggIF3RQM805rlBhPG4-A",
+   "source": "Amazon.in"
+  },
+  {
+   "position": 5,
+   "title": "Finger light toys recalled for ingestion risk",
+   "link": "https://www.youtube.com/watch?v=8j6IOZ0QISY",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVB2kH6ueiiKb00TrABRiax0usVf9J4Wp6EcEvNtipazIyCBEtoK2-v-uwl9Oku34v7881daYhZGWoZyK6JoiqINeQtFIbJriO6rMBDB23FvyGzDofC7pwHKC0AO0OVPRZfA&ved=2ahUKEwjFmrH-squXAxURjuEIHdoMCeUQFnoFCM8DEAE&uoh=1",
+   "displayed_link": "570+ views · 4 weeks ago",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Finger light toys recalled for ingestion risk. @4NewsNow1 like571 views2 weeks ago more. Subscribe. Comments. 1. Comment.",
+   "about_this_result": {
+    "source": {
+     "description": "Finger light toys recalled for ingestion risk. @4NewsNow1 like571 views2 weeks ago more. Subscribe. Comments. 1. Comment.",
+     "source_info_link": "https://www.youtube.com/watch?v=8j6IOZ0QISY",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkIya0g2dWVpaUtiMDBUckFCUmlheDB1c1ZmOUo0V3A2RWNFdk50aXBhekl5Q0JFdG9LMi12LXV3bDlPa3UzNHY3ODgxZGFZaFpHV29aeUs2Sm9pcUlOZVF0RkliSnJpTzZyTUJEQjIzRnZ5R3pEb2ZDN3B3SEtDMEFPME9WUFJaZkESBBoCCAAaIBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkIya0g2dWVpaUtiMDBUckFCUmlheDB1c1ZmOUo0V3A2RWNFdk50aXBhekl5Q0JFdG9LMi12LXV3bDlPa3UzNHY3ODgxZGFZaFpHV29aeUs2Sm9pcUlOZVF0RkliSnJpTzZyTUJEQjIzRnZ5R3pEb2ZDN3B3SEtDMEFPME9WUFJaZkESBBoCCAAaIBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "YouTube · 4 News Now",
+   "read_more_link": "https://www.youtube.com/watch?v=8j6IOZ0QISY#:~:text=Finger%20light%20toys%20recalled%20for,Comment..."
+  },
+  {
+   "position": 6,
+   "title": "Fidget Spinner, जो न तो stress की दवा है, न यूं ही खेलने की चीज",
+   "link": "https://www.youtube.com/watch?v=Xhz2tfpPDbA",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVui6vpuWbVOCcapHLgKCrouZ4XmptXXJpzXrm8jbDSdprKDb9O2HtH9QtHfd3SFsGYVQ7iR8Ej-PhiJi2xcX2Tv7RalfKdv2KCz-VBF9NvTKCBij__htGmkTPGH70Z4q4Dw&ved=2ahUKEwjFmrH-squXAxURjuEIHdoMCeUQFnoFCNADEAE&uoh=1",
+   "displayed_link": "69.9L+ views · 9 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Read the full story: https://goo.gl/MYjDgw People, these days, are getting crazy for a device named Fidget Spinner.",
+   "about_this_result": {
+    "source": {
+     "description": "Read the full story: https://goo.gl/MYjDgw People, these days, are getting crazy for a device named Fidget Spinner.",
+     "source_info_link": "https://www.youtube.com/watch?v=Xhz2tfpPDbA",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnVpNnZwdVdiVk9DY2FwSExnS0Nyb3VaNFhtcHRYWEpwelhybThqYkRTZHByS0RiOU8ySHRIOVF0SGZkM1NGc0dZVlE3aVI4RWotUGhpSmkyeGNYMlR2N1JhbGZLZHYyS0N6LVZCRjlOdlRLQ0Jpal9faHRHbWtUUEdINzBaNHE0RHcSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnVpNnZwdVdiVk9DY2FwSExnS0Nyb3VaNFhtcHRYWEpwelhybThqYkRTZHByS0RiOU8ySHRIOVF0SGZkM1NGc0dZVlE3aVI4RWotUGhpSmkyeGNYMlR2N1JhbGZLZHYyS0N6LVZCRjlOdlRLQ0Jpal9faHRHbWtUUEdINzBaNHE0RHcSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "YouTube · The Lallantop"
+  },
+  {
+   "position": 7,
+   "title": "LED Finger Lights Mini Finger Flashlights",
+   "link": "https://www.amazon.com/live/video/0c44f507aa484e02a7653cad64831be0",
+   "displayed_link": "https://www.amazon.com › live › video",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjDk3S_vnp8Pr24kLMvOCs28wE1Pcl-GMd4HYNAsNPIbCSlXoHC5H_Q&s",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "LED Finger Lights Mini Finger Flashlights. Shop with expert advice from Dandelionwall in their latest video",
+   "duration": "0:23",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "date": "7 Jun 2024"
+     },
+     "extensions": [
+      "Amazon.com",
+      "Dandelionwall",
+      "7 Jun 2024"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "LED Finger Lights Mini Finger Flashlights. Shop with expert advice from Dandelionwall in their latest video",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    }
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVk1UUlN0OGhaVjlZQUFVNEFDVVZEQWFwUm5ONWpkVkVPTGd2UmtWWHNac2Q1MkgtWXhiYXRPM3ItUUNGVjQ0T3QxNVB5dnlnd2VrblV6TFprQU94X2RLcDdXakFQVVhhUnhISXRxdkhkc18xbnpHMGRuUGdUWVl0b0UzdU1xRV80RGh0djVqSlNKUll0aUVFbHZjQ1Fkcm1WTEZoZWNkZi0SFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVk1UUlN0OGhaVjlZQUFVNEFDVVZEQWFwUm5ONWpkVkVPTGd2UmtWWHNac2Q1MkgtWXhiYXRPM3ItUUNGVjQ0T3QxNVB5dnlnd2VrblV6TFprQU94X2RLcDdXakFQVVhhUnhISXRxdkhkc18xbnpHMGRuUGdUWVl0b0UzdU1xRV80RGh0djVqSlNKUll0aUVFbHZjQ1Fkcm1WTEZoZWNkZi0SFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ_JRTLPmMUE9fTMoggIF3RQM805rlBhPG4-A",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 8,
+   "title": "Warning ⚠️ बच्चे use न करें Powerfull green laser pointer ...",
+   "link": "https://www.youtube.com/watch?v=_0_3tHP1y20",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVWOUcYkxgxfvl3sDMiYyQl-muyI9yY7KanGduHpsJXONg6KfY6G1PxrYAjoPr3QjJ6g6FMNg5jA5eotTgleqA9j4gde2IdmPq7Z1od9-ptUITE1jHJ0TmGTsHuzNPFVn4Yg&ved=2ahUKEwjFmrH-squXAxURjuEIHdoMCeUQFnoFCNIDEAE&uoh=1",
+   "displayed_link": "8K+ views · 4 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "powerful green lezer pointer buy this sadar bazar teliwada toy market warning ⚠️ बच्चे use ना करे #powerfullezerpointer ...",
+   "about_this_result": {
+    "source": {
+     "description": "powerful green lezer pointer buy this sadar bazar teliwada toy market warning ⚠️ बच्चे use ना करे #powerfullezerpointer ...",
+     "source_info_link": "https://www.youtube.com/watch?v=_0_3tHP1y20",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVldPVWNZa3hneGZ2bDNzRE1pWXlRbC1tdXlJOXlZN0thbkdkdUhwc0pYT05nNktmWTZHMVB4cllBam9QcjNRako2ZzZGTU5nNWpBNWVvdFRnbGVxQTlqNGdkZTJJZG1QcTdaMW9kOS1wdFVJVEUxakhKMFRtR1RzSHV6TlBGVm40WWcSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVldPVWNZa3hneGZ2bDNzRE1pWXlRbC1tdXlJOXlZN0thbkdkdUhwc0pYT05nNktmWTZHMVB4cllBam9QcjNRako2ZzZGTU5nNWpBNWVvdFRnbGVxQTlqNGdkZTJJZG1QcTdaMW9kOS1wdFVJVEUxakhKMFRtR1RzSHV6TlBGVm40WWcSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "YouTube · mukesh rathore vlogs"
+  },
+  {
+   "position": 9,
+   "title": "Buy Toys Online at Best Prices In India",
+   "link": "https://www.flipkart.com/toys/pr?sid=mgl,ksc,99s,p3v",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVXA_3LRSTmSDTWcw38bQ5Jon88VeHJOkKHRekeAGZpZey2_rZC_MT-ojXVwE69hUlUzaDM_ufyf5nv-GerSapra-7-OwtgkhlMavzipdGs1JcBzJZJ83xkRbtGdIDfP724jbSGH0eKtpHpg&ved=2ahUKEwjFmrH-squXAxURjuEIHdoMCeUQFnoFCNMDEAE&uoh=1",
+   "displayed_link": "https://www.flipkart.com › toys",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTlivoQvLb1FXGabxsewgqYcyEHmfP2JFdSbf06XaHlIPkQlBTRV2B&usqp=CAE&s",
+   "favicon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp",
+   "snippet": "Toys - Shop Toys at India's Best Online Shopping Store. Check Price and Buy Online. ✓ Free Shipping ✓ Cash on Delivery ✓ Best Offers.",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.1
+     },
+     "extensions": [
+      "4.1",
+      "store rating (1.9K)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Toys - Shop Toys at India's Best Online Shopping Store. Check Price and Buy Online. ✓ Free Shipping ✓ Cash on Delivery ✓ Best Offers.",
+     "source_info_link": "https://www.flipkart.com/toys/pr?sid=mgl,ksc,99s,p3v",
+     "icon": "https://serpapi.com/images/i/UklGRjgBAABXRUJQVlA4ICwBAADwBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3i35Gfhnz7m5rpJ_WbLAOez9jbydiZcPHmtE6EOr1iwEdJaHVio9OusAA_vcBazwDa6quIRhrmRPDgGJzmI92T90OxDym5YGt17_-6dMX4VQYoerf-1_pKH9vf8aBK5Mv6_4oPxh_Ng9jhFQocQs2TMeRfsnGcOAxAQoMZ5AXtPm6oEjTUIIYCI4o-8GEj6pHugP4Qqz9W5ayKoV6eWfux4d7MywuT3x9Dmue0O6pHbpdnQX5EDRqw_9hzhyhB7P7C6XIef8ue7hnxAeY5dkoo2_a7vEdDR2zl0fVUefLO2vn7pv2oT_MlLG70jX_nvzI2n3sbdnDZtgiCJqrxslqilLTH5HmtMDT2xoAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVlhBXzNMUlNUbVNEVFdjdzM4YlE1Sm9uODhWZUhKT2tLSFJla2VBR1pwWmV5Ml9yWkNfTVQtb2pYVndFNjloVWxVemFETV91ZnlmNW52LUdlclNhcHJhLTctT3d0Z2tobE1hdnppcGRHczFKY0J6SlpKODN4a1JidEdkSURmUDcyNGpiU0dIMGVLdHBIcGcSBBoCCAAaIhIAGgIIASIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVlhBXzNMUlNUbVNEVFdjdzM4YlE1Sm9uODhWZUhKT2tLSFJla2VBR1pwWmV5Ml9yWkNfTVQtb2pYVndFNjloVWxVemFETV91ZnlmNW52LUdlclNhcHJhLTctT3d0Z2tobE1hdnppcGRHczFKY0J6SlpKODN4a1JidEdkSURmUDcyNGpiU0dIMGVLdHBIcGcSBBoCCAAaIhIAGgIIASIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Flipkart"
+  }
+ ]
+}
