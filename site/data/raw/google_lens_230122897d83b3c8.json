@@ -1,0 +1,769 @@
+{
+ "search_metadata": {
+  "id": "6ac81ab37223f4ab7e73a158",
+  "status": "Success",
+  "created_at": "2026-10-08 22:35:31 UTC",
+  "processed_at": "2026-10-08 22:35:31 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2FRecalledELENKERBedRailmodelHFK5116.png",
+  "total_time_taken": 4.01
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/RecalledELENKERBedRailmodelHFK5116.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Elenker HFK-5115-2 Foldable Bed Rail for Elderly with Easy Assembly",
+   "source": "ELENKER Walker",
+   "source_icon": "https://serpapi.com/images/i/UklGRroBAABXRUJQVlA4IK4BAACQCACdASogACAAPtEutFooIagoGAEAGglmALbo2gmrZMFmByaGYUQI58cRqghnnkDRM1of5z7h0IDFRacQAYQtNpq7bK2EHUxhuZgxAAD-_vccb3_nfTv4K0jXfPAGoupix9yixBqUXy7RhvGE53iNeqWN3lw6ghNUq-_KZCJ4exrOq-L3vyjihqml8Ldl0MfV6Nho5uJ6PFPMIyeRkkOyLzBWRrv-90jW_QWuW9rWwtqFIt1c0v_VjWYQ7miu81OmjSzqz5A5LKcnHev2QR8zSmVdQfv-NQcKTkW7bkwWEg5suSZ_K4Uh5EJYh5Gw8OCqFnrlgKEnqiHDwUBgSgW_eSsxrIraiLO1z_oo31_1jVlUJTFKCQ67p_tKP877edkg-Sq7ItJyxWhTE0yYLzeAMolXME7lOgKZep8qrh_aLmsGuDpDOvATJic5vn_QiWoftJrdqm6FyuPBteJE98TTzYaESo5_16N64aN14-lAh37bk7XWcTErGu41W56GnKZ3uTRaTx9uR228lTR28Xww94hGy7qPryNO0Kwdn1PdUcFNd_5mDUS47kJUAAAA.webp",
+   "link": "https://www.elenkerwalker.com/products/hfk-5115-2-foldable-bed-rail-for-elderly-hospital-home-care",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/-cw1aYUUvwmNtvGzTNJLCwav1_RQRX7JvCgqnX5mlHQ.jpeg",
+   "price": "$69.99",
+   "extracted_price": 69.99,
+   "out_of_stock": true,
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  },
+  {
+   "position": 2,
+   "title": "ELENKER Portable Bed Rails Recalled Due to Risk of Serious Injury ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10685/",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/pUcSC4nre0Kbus_xLgrkSJGmvPcSib2-9XaeV-JBSBI.jpeg",
+   "date": "Apr 1, 2026",
+   "actual_image_width": 687,
+   "actual_image_height": 462
+  },
+  {
+   "position": 3,
+   "title": "Foldable Bed Rail For Seniors ELENKER Bed Safety Rail, Folding ...",
+   "source": "cnbtechnology.net",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://cnbtechnology.net/shop/manufacturer-site?&transition=top36357586091300",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/Xrub_YFYJb5LPxcAOeQxzrsSgtTfxL6-_QtO58Gf4Oo.jpeg",
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 4,
+   "title": "VEVOR Foldable Bed Rail for Elderly, 28 in Bedside Assist Rail with ...",
+   "source": "VEVOR",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.com/bed-safety-handles-rails-c_12422/vevor-foldable-bed-rail-for-elderly-28-in-bedside-assist-rail-with-fixing-strap-adjustable-height-pipe-bedside-cane-high-strength-metal-senior-bed-bar-hand-guard-grab-fits-king-queen-full-twin-p_010113577422",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/EGIDdeT6x1hQScsJiGf8qN9UGUbZDlp0O1WP6kLcDoc.jpeg",
+   "price": "$42.90",
+   "extracted_price": 42.9,
+   "in_stock": true,
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 5,
+   "title": "ELENKER Bed Safety Rail, Folding Bed Assist Handle Serbia - Ubuy",
+   "source": "Ubuy Serbia",
+   "source_icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABQBgCdASogACAAPtE-tFooIigoFAEAGglsAIAISK8C7Z-KTkgG8mERMePNGhqSkE0CL3CDckiuytIeCAD-_Sq14-9WOcOI2zaFzVqu4fCF8sFnZw_Wjbue7HCevNkgt9gVe0rZ5UwSLEw-Xsgt_xoq8Pf04QlZ35UjeB27EALCXdR3G7D5PHpb1ol-qH_RSs8vVWOKqV9SkW9qvxrazzutYE1COClKDZ6m_bLPCenw6OPdMv8vH89_lDW3wqDNzoz8B9l3f03_WA4JWmx9EzG3xtudCSFQ38lHmroYkrwAARdGN06WZ5gPxO-P38LGdtHX-b-ufsv27H23hZn8yEcvuAmdEo-O8cOnbXg2LOSd5yZmIyGK6nIr64QSqqC6mjx1SMdH8wfAaiGEnMQVqAAA.webp",
+   "link": "https://www.ubuy.rs/en/product/LTGYQGKGI-elenker-bed-safety-rail-folding-bed-assist-handle-adjustable-medical-hospital-assistive-devices-bed-railing-for-elderly-seniors-adults-28-5w-x-16-3h",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/xj8hLZKJNZrySaxRzf5hWumlxAPuMM2HtlQ3f_ywyPo.jpeg",
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 6,
+   "title": "VEVOR Foldable Bed Rail for Elderly, 70cm Bedside Assist Bar with ...",
+   "source": "VEVORshop.lv",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0vx_gF2HbKjASxfvKLfs_bJpLNr_Iq9dBXgppl7eGafSEfqv4ToB2JBZbjMOoMuYiuIAD-9hMurXYWhSPGpYKkioD6Dyn9exNfGJ7DcicbvY4bSbVKA-0uFWo9VI5kkUpdG5QtIzSBtH9mKDu8n8Aq1nf3g1UR_wgIYaFgENmcVP1Nbytq_ZuUqmrrft-wv6WO1COOFfiCJf-A83TOlfqvr5SlXIAjwn0fP3aXgSnjR7Enut3uSyyBTxNQfr1H5_z3cbL3GedLGG7Zry-ePzjIQFYw4ofKf_2x76Zz3V-dUVO3Q0SbgpcgR2faDl9DVnCFWYisqk5OS-Qd7hB-26P_BF_E82ro0mua7WxPWa_1xCvSAgWb6ti07d-cihDppEzWkGWPMtL0_mQMpU3N7dhQ2-7bzBYkpnpZwJ-9E-G32D7Q7ZIrjXg-8nUzNWjB41K5Z_2mnHeXU0Zg5GA6OfDC65xvWkZ_U9Gx-_zqUp0JnUQDq1Olz7TcOxjDq4YLIopgOMWpdr1tp-umr965FTAAAA.webp",
+   "link": "https://vevorshop.lv/en_us/Prece/vevor-foldable-70-cm-bed-rail-for-elderly-adjustable-height-metal-bedside-assist-cane-with-strap-for-double-to-king-beds/",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/y8oE521Ehk_qBlLcWi_x3QjLbhFKCqzg-irii9liFBo.jpeg",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 7,
+   "title": "Foldable Senior Bed Rails ELENKER Bed Safety Rail, Folding Bed ...",
+   "source": "Aimwaytours",
+   "source_icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAABwBgCdASogABsAPtE-tFooIigoFAEAGglsALUBoDbZ3YAOTHSzx4QlSoX6NrYSafLU1Qb7zR5ykSN8scgA_v0vmuWZgbITKiavoKIieiDABk7LAIq38fxJLRG5q2uQurxCKSh9MloVvZGtDmNv-Js_bLtyxsP4Pw9lVOJkbuPpGHlXWiI1CJ6T2R5e6A5WIoPL-KCm7K2moWDO8z1hq3GX3ZuixXl0fkYPIaOgjrAQYh_MFL8Ik2duGyedR5LUi8iWxKGkw45ulJ9KFKqehSHp7_j4YRlKFO5-_dDf2Q5eA7VoqPu0sleAczof12G63-C56hAyH34YxtPeU0MhOq5qsI-0H2wu_MGaJ0AW_qXfBV6ekotXlU3mVHHnntJmA_hMK9Onj1yhLJogTrE5h_-bQ4AAAA.webp",
+   "link": "https://www.aimwaytours.com/?a=36357946061960",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/zjpNrWZFlz4Irorurzjf0XOjQLSHuczlmsA-mZvR2OE.jpeg",
+   "date": "Sep 21, 2026",
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 8,
+   "title": "VEVOR Foldable Bed Rail for Elderly, 38 in Bedside Assist Rail with ...",
+   "source": "VEVOR",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.com/bed-safety-handles-rails-c_12422/vevor-foldable-bed-rail-for-elderly-38-in-bedside-assist-rail-with-fixing-strap-adjustable-height-pipe-bedside-cane-high-strength-metal-senior-bed-bar-hand-guard-grab-fits-king-queen-full-twin-p_010778669523",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/n_xLc6E36LR-3540xpAMFnigFURDQ935-wHU8v1MbuU.jpeg",
+   "price": "$68.99",
+   "extracted_price": 68.99,
+   "in_stock": true,
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 9,
+   "title": "ELENKER Bed Safety Rail, Folding Bed Assist Handle Trinidad and ...",
+   "source": "Ubuy Trinidad and Tobago",
+   "source_icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABQBgCdASogACAAPtE-tFooIigoFAEAGglsAIAISK8C7Z-KTkgG8mERMePNGhqSkE0CL3CDckiuytIeCAD-_Sq14-9WOcOI2zaFzVqu4fCF8sFnZw_Wjbue7HCevNkgt9gVe0rZ5UwSLEw-Xsgt_xoq8Pf04QlZ35UjeB27EALCXdR3G7D5PHpb1ol-qH_RSs8vVWOKqV9SkW9qvxrazzutYE1COClKDZ6m_bLPCenw6OPdMv8vH89_lDW3wqDNzoz8B9l3f03_WA4JWmx9EzG3xtudCSFQ38lHmroYkrwAARdGN06WZ5gPxO-P38LGdtHX-b-ufsv27H23hZn8yEcvuAmdEo-O8cOnbXg2LOSd5yZmIyGK6nIr64QSqqC6mjx1SMdH8wfAaiGEnMQVqAAA.webp",
+   "link": "https://www.ubuy.tt/product/LTGYQGKGI-elenker-bed-safety-rail-folding-bed-assist-handle-adjustable-medical-hospital-assistive-devices-bed-railing-for-elderly-seniors-adults-28-5w-x-16-3h",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/qHEvKhxyIgDo4XqE8zdzhontL9RyVjrLV3OQwkILgc4.jpeg",
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 10,
+   "title": "ELENKER Portable Bed Rails Recalled Due to Risk of Serious Injury ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/ELENKER-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violates-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Fuzhou-Shiahaha-Cultural-Industry-Development",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/6oKmN2RTCw8j0Qx0ZFT-DLVO4Ug-j3qkeyQnfJcdC9Q.jpeg",
+   "actual_image_width": 540,
+   "actual_image_height": 363
+  },
+  {
+   "position": 11,
+   "title": "ELENKER Bed Safety Rail, Folding Bed Assist Handle Sierra Leone",
+   "source": "Ubuy Sierra Leone",
+   "source_icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABQBgCdASogACAAPtE-tFooIigoFAEAGglsAIAISK8C7Z-KTkgG8mERMePNGhqSkE0CL3CDckiuytIeCAD-_Sq14-9WOcOI2zaFzVqu4fCF8sFnZw_Wjbue7HCevNkgt9gVe0rZ5UwSLEw-Xsgt_xoq8Pf04QlZ35UjeB27EALCXdR3G7D5PHpb1ol-qH_RSs8vVWOKqV9SkW9qvxrazzutYE1COClKDZ6m_bLPCenw6OPdMv8vH89_lDW3wqDNzoz8B9l3f03_WA4JWmx9EzG3xtudCSFQ38lHmroYkrwAARdGN06WZ5gPxO-P38LGdtHX-b-ufsv27H23hZn8yEcvuAmdEo-O8cOnbXg2LOSd5yZmIyGK6nIr64QSqqC6mjx1SMdH8wfAaiGEnMQVqAAA.webp",
+   "link": "https://www.ubuy.sl/product/LTGYQGKGI-elenker-bed-safety-rail-folding-bed-assist-handle-adjustable-medical-hospital-assistive-devices-bed-railing-for-elderly-seniors-adults-28-5w-x-16-3h",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/_CevR0Focut75GFmKKiLWdlm347XnrJH654WQt-JyOk.jpeg",
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 12,
+   "title": "Real Relax Bed Rails for Elderly Adults Safety, Folding ... - Amazon.in",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.in/Real-Relax-Elderly-Folding-Railings/dp/B0DSPLVC34",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/4dnQBIV6EOmFK1E4DjKsrAez28aZ_ZPMP4yiH3h49I4.jpeg",
+   "actual_image_width": 894,
+   "actual_image_height": 792
+  },
+  {
+   "position": 13,
+   "title": "ELENKER Bed Safety Rail, Folding Bed Assist Handle Nigeria | Ubuy",
+   "source": "Ubuy Nigeria",
+   "source_icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABQBgCdASogACAAPtE-tFooIigoFAEAGglsAIAISK8C7Z-KTkgG8mERMePNGhqSkE0CL3CDckiuytIeCAD-_Sq14-9WOcOI2zaFzVqu4fCF8sFnZw_Wjbue7HCevNkgt9gVe0rZ5UwSLEw-Xsgt_xoq8Pf04QlZ35UjeB27EALCXdR3G7D5PHpb1ol-qH_RSs8vVWOKqV9SkW9qvxrazzutYE1COClKDZ6m_bLPCenw6OPdMv8vH89_lDW3wqDNzoz8B9l3f03_WA4JWmx9EzG3xtudCSFQ38lHmroYkrwAARdGN06WZ5gPxO-P38LGdtHX-b-ufsv27H23hZn8yEcvuAmdEo-O8cOnbXg2LOSd5yZmIyGK6nIr64QSqqC6mjx1SMdH8wfAaiGEnMQVqAAA.webp",
+   "link": "https://www.u-buy.com.ng/product/LTGYQGKGI-elenker-bed-safety-rail-folding-bed-assist-handle-adjustable-medical-hospital-assistive-devices-bed-railing-for-elderly-seniors-adults-28-5w-x-16-3h",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/h2d1EfzmyGrgtj3ekOiqOXCAAjYTqt8UbJnnlVK3J1Y.jpeg",
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 14,
+   "title": "ELENKER Bed Safety Rail, Folding Bed Assist Handle India | Ubuy",
+   "source": "Ubuy India",
+   "source_icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABQBgCdASogACAAPtE-tFooIigoFAEAGglsAIAISK8C7Z-KTkgG8mERMePNGhqSkE0CL3CDckiuytIeCAD-_Sq14-9WOcOI2zaFzVqu4fCF8sFnZw_Wjbue7HCevNkgt9gVe0rZ5UwSLEw-Xsgt_xoq8Pf04QlZ35UjeB27EALCXdR3G7D5PHpb1ol-qH_RSs8vVWOKqV9SkW9qvxrazzutYE1COClKDZ6m_bLPCenw6OPdMv8vH89_lDW3wqDNzoz8B9l3f03_WA4JWmx9EzG3xtudCSFQ38lHmroYkrwAARdGN06WZ5gPxO-P38LGdtHX-b-ufsv27H23hZn8yEcvuAmdEo-O8cOnbXg2LOSd5yZmIyGK6nIr64QSqqC6mjx1SMdH8wfAaiGEnMQVqAAA.webp",
+   "link": "https://www.ubuy.co.in/product/LTGYQGKGI-elenker-bed-safety-rail-folding-bed-assist-handle-adjustable-medical-hospital-assistive-devices-bed-railing-for-elderly-seniors-adults-28-5w-x-16-3h",
+   "thumbnail": "https://serpapi.com/searches/6ac81ab37223f4ab7e73a158/images/HcAonQYQpah2uG3-HVQVfmyIzFveyGvA_Ri4flgZzIQ.jpeg",
+   "price": "₹8,333.00",
+   "extracted_price": 8333.0,
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 15,
+   "title": "NEW Foldable Bed Rail for Elderly 28 in Bedside Assist Rail ...",
+   "source": "panyolafeszt.hu",
+   "link": "https://www.panyolafeszt.hu/?u=733640831100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_NDDeAx15VR2hUESjrjVAnaTgoRQAS1siZRf7upCvFhLK8I2AXk8KZnt&s",
+   "date": "Aug 30, 2026",
+   "actual_image_width": 450,
+   "actual_image_height": 450
+  },
+  {
+   "position": 16,
+   "title": "ELENKER Bed Safety Rail, Folding Bed Assist Handle Ghana | Ubuy",
+   "source": "Ubuy Ghana",
+   "source_icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABQBgCdASogACAAPtE-tFooIigoFAEAGglsAIAISK8C7Z-KTkgG8mERMePNGhqSkE0CL3CDckiuytIeCAD-_Sq14-9WOcOI2zaFzVqu4fCF8sFnZw_Wjbue7HCevNkgt9gVe0rZ5UwSLEw-Xsgt_xoq8Pf04QlZ35UjeB27EALCXdR3G7D5PHpb1ol-qH_RSs8vVWOKqV9SkW9qvxrazzutYE1COClKDZ6m_bLPCenw6OPdMv8vH89_lDW3wqDNzoz8B9l3f03_WA4JWmx9EzG3xtudCSFQ38lHmroYkrwAARdGN06WZ5gPxO-P38LGdtHX-b-ufsv27H23hZn8yEcvuAmdEo-O8cOnbXg2LOSd5yZmIyGK6nIr64QSqqC6mjx1SMdH8wfAaiGEnMQVqAAA.webp",
+   "link": "https://www.ubuy.com.gh/product/LTGYQGKGI-elenker-bed-safety-rail-folding-bed-assist-handle-adjustable-medical-hospital-assistive-devices-bed-railing-for-elderly-seniors-adults-28-5w-x-16-3h",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWPbbj_7vxEfwH_JX9QQpIEUm79snAXhNQrGHzwDMygApYzIWrCdhbfMZ&s",
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 17,
+   "title": "ELENKER Bed Safety Rail, Folding Bed Assist Handle Adjustable ...",
+   "source": "Brandclub",
+   "source_icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAwBQCdASogACAAPrkurlcnIacnG_DgFwliALsbX8PKGrSVhKPuPdODEvvB0sDrwzr8sAD-8Isn-xdX00fr2OmcGyfUpd8BfWPuTlzh7cLHb174vvwKfaLJf9eunu_SVOlEu_YQ8rD-Y3ZgaWLe_uMlFxmda1fN6QKBqoWgf6Sv9q3_6wWpxRU_ZybGXJVD9En-ZpoLs5QQBQ-Ujzh8-GdJxyogCKIjDPKB1GEHwLGNGIod6vUVUcGN7mxU5oOpgHWm6VfvgVZN1gxaUbAAAA.webp",
+   "link": "https://brandclub.com/ELENKER-Bed-Safety-Rail-Folding-Bed-Ass/p/D0EZVBVW6/product",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJTHk7e4joksez2ZKagdLXJXHshL9847JP0GogV4F4RTVcbL9Rc0NOLVE&s",
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 18,
+   "title": "VEVOR Foldable Bed Rail for Elderly, 70 cm Bedside Assist Rail ...",
+   "source": "Vevor FR",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.fr/bed-safety-handles-rails-c_12422/vevor-barriere-de-lit-pliable-pour-personnes-agees-700-mm-rail-de-securite-de-lit-d-hopital-avec-sangle-de-fixation-hauteur-reglable-en-metal-haute-resistance-poignee-de-protection-pour-patients-p_010113577422?lang=en",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYuXd0ZgTGeg5SQMWH2Om1KsStE1uPQdny2aixkTrlJ2_e3daImhBmGNW&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 19,
+   "title": "ELENKER Bed Safety Rail, Folding Bed Assist Handle Malta | Ubuy",
+   "source": "Ubuy Malta",
+   "source_icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABQBgCdASogACAAPtE-tFooIigoFAEAGglsAIAISK8C7Z-KTkgG8mERMePNGhqSkE0CL3CDckiuytIeCAD-_Sq14-9WOcOI2zaFzVqu4fCF8sFnZw_Wjbue7HCevNkgt9gVe0rZ5UwSLEw-Xsgt_xoq8Pf04QlZ35UjeB27EALCXdR3G7D5PHpb1ol-qH_RSs8vVWOKqV9SkW9qvxrazzutYE1COClKDZ6m_bLPCenw6OPdMv8vH89_lDW3wqDNzoz8B9l3f03_WA4JWmx9EzG3xtudCSFQ38lHmroYkrwAARdGN06WZ5gPxO-P38LGdtHX-b-ufsv27H23hZn8yEcvuAmdEo-O8cOnbXg2LOSd5yZmIyGK6nIr64QSqqC6mjx1SMdH8wfAaiGEnMQVqAAA.webp",
+   "link": "https://www.ubuy.mt/en/product/LTGYQGKGI-elenker-bed-safety-rail-folding-bed-assist-handle-adjustable-medical-hospital-assistive-devices-bed-railing-for-elderly-seniors-adults-28-5w-x-16-3h",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWPbbj_7vxEfwH_JX9QQpIEUm79snAXhNQrGHzwDMygApYzIWrCdhbfMZ&s",
+   "price": "€80.00",
+   "extracted_price": 80.0,
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 20,
+   "title": "VEVOR Foldable Bed Rail for Elderly, 97 cm Bedside Assist Rail ...",
+   "source": "Vevor FR",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.fr/bed-safety-handles-rails-c_12422/vevor-barriere-de-lit-pliable-pour-personnes-agees-975-mm-rail-de-securite-de-lit-d-hopital-avec-sangle-de-fixation-hauteur-reglable-en-metal-haute-resistance-poignee-de-protection-pour-patients-p_010778669523?lang=en",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36uZVA540JL1cJeW8iPE59xPN0iWdlxS05a7p52rK0sPDboiBmnvww1hY&s",
+   "date": "Sep 5, 2026",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 21,
+   "title": "VEVOR Foldable Bed Rail for Elderly, 70 cm Bedside Assist Rail ...",
+   "source": "VEVOR España",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.es/bed-safety-handles-rails-c_12422/vevor-barandilla-de-cama-plegable-a-personas-mayores-70-cm-con-correa-de-sujecion-proteccion-anticaidas-y-proteccion-de-bordes-compatible-con-camas-king-queen-matrimoniales-e-individuales-p_010113577422?lang=en",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYuXd0ZgTGeg5SQMWH2Om1KsStE1uPQdny2aixkTrlJ2_e3daImhBmGNW&s",
+   "date": "Mar 19, 2026",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 22,
+   "title": "SF bay area health and beauty for sale \"king bed\" - craigslist",
+   "source": "Craigslist",
+   "source_icon": "https://serpapi.com/images/i/UklGRuoBAABXRUJQVlA4IN4BAABQCQCdASogACAAAsBMJbACdMoR1B67bh2ggwG2A8wHQA8__qAPQA6UauAa4IACVBOs-hFzmfyJwn-jbjakfn0GBggAeT7odabMAp4Vj8yaM63oQAD--q0yET8jH_b2aCgHXRfTs5PUPErEXQZDw9_VhxEetLwfBBnGyc_PWBKplVXar-R09sD-QlsP7bykFv1gao2eMbjpHEB0ylUEkiDVLz_CNagfq8k9gphIbf_kQHfr4otOsWwKmVGInORcqmidFBIgXeIuKliq-Btk5etaPTKFhhKOEUFKPqCVvGgfy-JtNhrKnCGaeu_AeNwia1ZO_tpJp8g4eCsFQSMdFJBXlSnoUcVJPhJ7mNJUyqcibW6B9EbclscDPUahpgXWZiWJn37F3H9Jkh7FDLRcoPhsBBTdh54F8XbpJQW7UvZiwYbFriHowY1DhxdnT1Kaf9P9zMifEQN-ZVcfb_-YdLAKsMhzmbwZRUBof6OS9lfA5dWI9x0zsaZDPcgQTemc-zDprnTUrbO-GN7YwcQcjeQ8VXGd92S8nnM1uFf-TNAvnt-pBYZdrdsmXNaS4idvdlODkMG1cU2lyxzuaTxVsqL-4VjVP-v-4mQOxVw_D5CfwtC0juotPMj9Xw0pmYAA.webp",
+   "link": "https://www.craigslist.org/search/area/sfbay?cat=haa&query=king%20bed",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_NDDeAx15VR2hUESjrjVAnaTgoRQAS1siZRf7upCvFhLK8I2AXk8KZnt&s",
+   "actual_image_width": 450,
+   "actual_image_height": 450
+  },
+  {
+   "position": 23,
+   "title": "VEVOR Foldable Bed Rail for Elderly, 97 cm Bedside Assist Rail ...",
+   "source": "VEVOR España",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.es/bed-safety-handles-rails-c_12422/vevor-barandilla-de-cama-plegable-a-personas-mayores-97-cm-con-correa-de-sujecion-proteccion-anticaidas-y-proteccion-de-bordes-compatible-con-camas-king-queen-matrimoniales-e-individuales-p_010778669523?lang=en&currency=eur&adp=gmc&country=ES",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36uZVA540JL1cJeW8iPE59xPN0iWdlxS05a7p52rK0sPDboiBmnvww1hY&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 24,
+   "title": "Real Relax Bed Rails for Elderly Adults Safety, Folding ... - Amazon.ca",
+   "source": "Amazon.ca",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.ca/Real-Relax-Elderly-Folding-Railings/dp/B0DSPLVC34",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuyT_cy8sgJVQrc3Ogid9ybkWyP8DFdJY7tEtGYrLceVIQ8jHHmIgtM0U&s",
+   "actual_image_width": 1000,
+   "actual_image_height": 886
+  },
+  {
+   "position": 25,
+   "title": "Barandilla de cama plegable VEVOR para personas mayores, 96 ...",
+   "source": "VEVOR",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.com/bed-safety-handles-rails-c_12422/vevor-foldable-bed-rail-for-elderly-38-in-bedside-assist-rail-with-fixing-strap-adjustable-height-pipe-bedside-cane-high-strength-metal-senior-bed-bar-hand-guard-grab-fits-king-queen-full-twin-p_010778669523?lang=es",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36uZVA540JL1cJeW8iPE59xPN0iWdlxS05a7p52rK0sPDboiBmnvww1hY&s",
+   "price": "$68.99",
+   "extracted_price": 68.99,
+   "in_stock": true,
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 26,
+   "title": "ELENKER Bed Safety Rail, Folding Bed Assist Handle Honduras",
+   "source": "Ubuy Honduras",
+   "source_icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAABQBgCdASogACAAPtE-tFooIigoFAEAGglsAIAISK8C7Z-KTkgG8mERMePNGhqSkE0CL3CDckiuytIeCAD-_Sq14-9WOcOI2zaFzVqu4fCF8sFnZw_Wjbue7HCevNkgt9gVe0rZ5UwSLEw-Xsgt_xoq8Pf04QlZ35UjeB27EALCXdR3G7D5PHpb1ol-qH_RSs8vVWOKqV9SkW9qvxrazzutYE1COClKDZ6m_bLPCenw6OPdMv8vH89_lDW3wqDNzoz8B9l3f03_WA4JWmx9EzG3xtudCSFQ38lHmroYkrwAARdGN06WZ5gPxO-P38LGdtHX-b-ufsv27H23hZn8yEcvuAmdEo-O8cOnbXg2LOSd5yZmIyGK6nIr64QSqqC6mjx1SMdH8wfAaiGEnMQVqAAA.webp",
+   "link": "https://www.ubuy.hn/es/product/LTGYQGKGI-elenker-bed-safety-rail-folding-bed-assist-handle-adjustable-medical-hospital-assistive-devices-bed-railing-for-elderly-seniors-adults-28-5w-x-16-3h",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWPbbj_7vxEfwH_JX9QQpIEUm79snAXhNQrGHzwDMygApYzIWrCdhbfMZ&s",
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 27,
+   "title": "Barandilla De Seguridad Para Cama Plegable Y Extraíble De 40x30 ...",
+   "source": "ipp-corp.jp",
+   "link": "https://ipp-corp.jp/itm/Extra-ble-De-40x30-Cm-Estructura-Met-lica-Color-Claro/1142063",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGS408_dwzK0z4GyVEai9CSFa7HlvGYDjBOdZXVQiDijCgDi6-fH59Hvk0&s",
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  },
+  {
+   "position": 28,
+   "title": "Real Relax Bed Rails for Elderly Adults Safety, Folding ... - Amazon.ca",
+   "source": "Amazon.ca",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.ca/Real-Relax-Elderly-Folding-Railings/dp/B0DSPKMQ32",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF_rGT3fYVMVKiGnSl63XW-iXu06vl5KWO-oQ7EuLqTlsttPm2oKq9qTyd&s",
+   "actual_image_width": 300,
+   "actual_image_height": 225
+  },
+  {
+   "position": 29,
+   "title": "中国出口的成人便携式床栏在美国市场被召回",
+   "source": "Tbtguide",
+   "source_icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAAAwBQCdASocABwAPtEutFooIagoGAEAGglkAAUQHtXxM9BDIMhIo0Idl9WppsRWhf26YADOP-4ew4xEm9Ib5j4tDEjQTgr83y6e6x_9fXW_-Af__-8nPuz5mwJpi40dBAH_2zO366U_zR83__asgec9BTrI8VT0Ul552YF5mJEgphFhLA5sebu0JyxBg20IcPdFEz7bhlicIEN9Di3bFvWIz-dawTJHVgT-_rt-iGje_QWP7Kv33-1MV-23-_dCn6jN-9slXgqJBUV8egjRFgf2APnwnq3L9pw730qx5A5XeFHntLG8H-vQW9QE1ebYAAA.webp",
+   "link": "https://www.tbtguide.com/c/mypt/2026CPSC/615778.jhtml",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYhnfeqgdN5C3dQXrTiq55o_4U6YJWKmOGM3-EBDxzsTjSMhU6CJUwcm0D&s",
+   "actual_image_width": 540,
+   "actual_image_height": 363
+  },
+  {
+   "position": 30,
+   "title": "Barandilla De Seguridad Ajustable Para Cama 72 X 16.3 Cm",
+   "source": "Mercado Libre Colombia",
+   "source_icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0y0HenlH5GRgDC29MA3ib9t_2A9p2JBM6X8beABxtKwBl2Ajed8Ef7Lv9QQVT8oAD-3ljRsSfgNaMKbmcTdp8n52t4g5jV4x1m--3vKP0ExZRQSjI5n3inE5efMGsNmB0jnY__52Fy3UUAecM_GkYRiZGhBOd_XgA-CVotESSzOcqiFyst4fyEcCtsUNfxJ65Lgee9hrfU6JqMaszS51xOFP8_IoR-B0TTONHBgjdfz3Xz9b_52LOCLaZXYveukdfNUt2nlbNdCFGdtNh2wF57XxvGUj454XfrLx9sO-PDN5mzUnxmWZWqdxP-FQVeeWRG6Atlkc87Hn1G8NT02HyJRBHnGkUweNI-XAKD5nEBDd-Pw6DMp-NI99Kl7e7oBfUgSKdVK_sEc9n0YQ7M_KbTuyWXn_B5JoTpJsp9rW79f7nvBvPj5ry5qXWf8E02413rORkQAAAA.webp",
+   "link": "https://www.mercadolibre.com.co/barandilla-de-seguridad-ajustable-para-cama-285-x-163-cm/p/MCO62973092",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq577P7bSjJSFs-mKycJHh_UafUkhiumkGGfe9sMH53clWb-qI8UvX7F2&s",
+   "actual_image_width": 484,
+   "actual_image_height": 500
+  },
+  {
+   "position": 31,
+   "title": "Real Relax Bed Rails for Elderly Adults Safety, Folding Bed Railings ...",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.in/-/hi/Real-Relax-A-N-K90001C1-Legna/dp/B0DSPLVC34",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp74r7NbP2Ueee0xa4aAoYcETIHGfyL6GwodDG7DmGoSijo4gwHEPBZ-XR&s",
+   "actual_image_width": 894,
+   "actual_image_height": 792
+  },
+  {
+   "position": 32,
+   "title": "VEVOR Складаний Bed Rail для літніх людей, 70 см Bedside ...",
+   "source": "VEVORshop.lv",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0vx_gF2HbKjASxfvKLfs_bJpLNr_Iq9dBXgppl7eGafSEfqv4ToB2JBZbjMOoMuYiuIAD-9hMurXYWhSPGpYKkioD6Dyn9exNfGJ7DcicbvY4bSbVKA-0uFWo9VI5kkUpdG5QtIzSBtH9mKDu8n8Aq1nf3g1UR_wgIYaFgENmcVP1Nbytq_ZuUqmrrft-wv6WO1COOFfiCJf-A83TOlfqvr5SlXIAjwn0fP3aXgSnjR7Enut3uSyyBTxNQfr1H5_z3cbL3GedLGG7Zry-ePzjIQFYw4ofKf_2x76Zz3V-dUVO3Q0SbgpcgR2faDl9DVnCFWYisqk5OS-Qd7hB-26P_BF_E82ro0mua7WxPWa_1xCvSAgWb6ti07d-cihDppEzWkGWPMtL0_mQMpU3N7dhQ2-7bzBYkpnpZwJ-9E-G32D7Q7ZIrjXg-8nUzNWjB41K5Z_2mnHeXU0Zg5GA6OfDC65xvWkZ_U9Gx-_zqUp0JnUQDq1Olz7TcOxjDq4YLIopgOMWpdr1tp-umr965FTAAAA.webp",
+   "link": "https://vevorshop.lv/uk/%D0%BF%D1%80%D1%96%D1%81/vevor-%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9-70-%D1%81%D0%BC-%D1%80%D0%B5%D0%B9%D0%BA%D0%B0-%D0%BB%D1%96%D0%B6%D0%BA%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BB%D1%96%D1%82%D0%BD%D1%96%D1%85/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSzQU5a0hfA2QixhZNpCqY00xoG6Ahi04sNP-6ngxzs63Fz2Yo_owSbuU&s",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 33,
+   "title": "Складной планка кровати VEVOR для пожилых людей, 70 см ...",
+   "source": "VEVORshop.lv",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0vx_gF2HbKjASxfvKLfs_bJpLNr_Iq9dBXgppl7eGafSEfqv4ToB2JBZbjMOoMuYiuIAD-9hMurXYWhSPGpYKkioD6Dyn9exNfGJ7DcicbvY4bSbVKA-0uFWo9VI5kkUpdG5QtIzSBtH9mKDu8n8Aq1nf3g1UR_wgIYaFgENmcVP1Nbytq_ZuUqmrrft-wv6WO1COOFfiCJf-A83TOlfqvr5SlXIAjwn0fP3aXgSnjR7Enut3uSyyBTxNQfr1H5_z3cbL3GedLGG7Zry-ePzjIQFYw4ofKf_2x76Zz3V-dUVO3Q0SbgpcgR2faDl9DVnCFWYisqk5OS-Qd7hB-26P_BF_E82ro0mua7WxPWa_1xCvSAgWb6ti07d-cihDppEzWkGWPMtL0_mQMpU3N7dhQ2-7bzBYkpnpZwJ-9E-G32D7Q7ZIrjXg-8nUzNWjB41K5Z_2mnHeXU0Zg5GA6OfDC65xvWkZ_U9Gx-_zqUp0JnUQDq1Olz7TcOxjDq4YLIopgOMWpdr1tp-umr965FTAAAA.webp",
+   "link": "https://vevorshop.lv/ru/prece/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B9-%D1%80%D0%B5%D0%BB%D1%8C%D1%81-%D0%BA%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D0%B8-vevor-%D0%B4%D0%BB%D0%B8%D0%BD%D0%BE%D0%B9-70-%D1%81%D0%BC-%D0%B4%D0%BB%D1%8F/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSzQU5a0hfA2QixhZNpCqY00xoG6Ahi04sNP-6ngxzs63Fz2Yo_owSbuU&s",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 34,
+   "title": "Sklopiva zaštitna ograda za krevet za starije osobe, 70 cm bočna ...",
+   "source": "megato.hr",
+   "source_icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAACwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0vPnmaTAOlZJUAcL6SFQZeLMZzRyTsdzsv3QAA_u1JCln8B97_a4f5_hXtRV225JGWNVCn0XvaEen_uA6H9UeQ_-3Z_7IB_SDOReyb09LZ_8f9NkxT_qtMAlY8hm2E5lBbjVQ_-q6D1QtH4SHgix9SKel1qN52GMvx_5Oybof6yhtI2HduWvbZGl4U4jF5mnmGyvGJfUOQLb1S0bSP9Nfd9qqm_-jH0m2pDPYFU56owVcaxHtuwGTKw-ousoH5AMzDm6NuXAAA.webp",
+   "link": "https://megato.hr/proizvod/sklopiva-zastitna-ograda-za-krevet-za-starije-osobe-70-cm-bocna-zastita-s-ucvrsnim-remenom-zastita-od-ispadanja-i-udaraca-pogodna-za-king-queen-full-i-twin-krevete/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSzQU5a0hfA2QixhZNpCqY00xoG6Ahi04sNP-6ngxzs63Fz2Yo_owSbuU&s",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 35,
+   "title": "VEVOR Sulankstomas lovos bėgelis pagyvenusiems žmonėms, 70 ...",
+   "source": "VEVORshop.lv",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0vx_gF2HbKjASxfvKLfs_bJpLNr_Iq9dBXgppl7eGafSEfqv4ToB2JBZbjMOoMuYiuIAD-9hMurXYWhSPGpYKkioD6Dyn9exNfGJ7DcicbvY4bSbVKA-0uFWo9VI5kkUpdG5QtIzSBtH9mKDu8n8Aq1nf3g1UR_wgIYaFgENmcVP1Nbytq_ZuUqmrrft-wv6WO1COOFfiCJf-A83TOlfqvr5SlXIAjwn0fP3aXgSnjR7Enut3uSyyBTxNQfr1H5_z3cbL3GedLGG7Zry-ePzjIQFYw4ofKf_2x76Zz3V-dUVO3Q0SbgpcgR2faDl9DVnCFWYisqk5OS-Qd7hB-26P_BF_E82ro0mua7WxPWa_1xCvSAgWb6ti07d-cihDppEzWkGWPMtL0_mQMpU3N7dhQ2-7bzBYkpnpZwJ-9E-G32D7Q7ZIrjXg-8nUzNWjB41K5Z_2mnHeXU0Zg5GA6OfDC65xvWkZ_U9Gx-_zqUp0JnUQDq1Olz7TcOxjDq4YLIopgOMWpdr1tp-umr965FTAAAA.webp",
+   "link": "https://vevorshop.lv/lt/prece/vevor-sulankstomas-70-cm-lovos-begelis-pagyvenusiems-zmonems-reguliuojamo-aukscio-metaline-pagalbine-lazdele-su-dirzeliu-dvigulems-ir-labai-didelems-lovoms/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSzQU5a0hfA2QixhZNpCqY00xoG6Ahi04sNP-6ngxzs63Fz2Yo_owSbuU&s",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 36,
+   "title": "VEVOR Salokāma Gultas Sliede Veciem Cilvēkiem, 70cm ...",
+   "source": "VEVORshop.lv",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0vx_gF2HbKjASxfvKLfs_bJpLNr_Iq9dBXgppl7eGafSEfqv4ToB2JBZbjMOoMuYiuIAD-9hMurXYWhSPGpYKkioD6Dyn9exNfGJ7DcicbvY4bSbVKA-0uFWo9VI5kkUpdG5QtIzSBtH9mKDu8n8Aq1nf3g1UR_wgIYaFgENmcVP1Nbytq_ZuUqmrrft-wv6WO1COOFfiCJf-A83TOlfqvr5SlXIAjwn0fP3aXgSnjR7Enut3uSyyBTxNQfr1H5_z3cbL3GedLGG7Zry-ePzjIQFYw4ofKf_2x76Zz3V-dUVO3Q0SbgpcgR2faDl9DVnCFWYisqk5OS-Qd7hB-26P_BF_E82ro0mua7WxPWa_1xCvSAgWb6ti07d-cihDppEzWkGWPMtL0_mQMpU3N7dhQ2-7bzBYkpnpZwJ-9E-G32D7Q7ZIrjXg-8nUzNWjB41K5Z_2mnHeXU0Zg5GA6OfDC65xvWkZ_U9Gx-_zqUp0JnUQDq1Olz7TcOxjDq4YLIopgOMWpdr1tp-umr965FTAAAA.webp",
+   "link": "https://vevorshop.lv/lv/prece/vevor-salokams-70-cm-gultas-sliede-vecaka-gadagajuma-cilvekiem-regulejama-augstuma-metala-gultas-paligsistema-ar-siksnu-dubultam-un-karaliskam-gultam/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSzQU5a0hfA2QixhZNpCqY00xoG6Ahi04sNP-6ngxzs63Fz2Yo_owSbuU&s",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 37,
+   "title": "Sklopiva ograda za krevet za starije osobe, 70 cm zaštitna ... - turbo sb",
+   "source": "turbo sb",
+   "link": "https://turbosb.hr/proizvod/sklopiva-ograda-za-krevet-za-starije-osobe-70-cm-zastitna-ograda-za-krevet-s-remenom-za-pricvrscivanje-zastita-od-pada-zastita-rubova-pogodno-za-krevete-velicine-king-queen-full-i-twin/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0pIoHH6obmTaJwkY0xyGIkM0KFSQCx1mXJf1A3Z8iDbWyoQqrhF-cP_VW&s",
+   "actual_image_width": 600,
+   "actual_image_height": 500
+  },
+  {
+   "position": 38,
+   "title": "Vevor BCBSBCBSKZD7D6RFJ001V0 - Skroutz.de",
+   "source": "Skroutz.de",
+   "source_icon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAADQBQCdASocABwAPtE-tFooIigoFAEAGglnAAdRObIeLLUADLQ4z3IETuSGFP3O11HmskvAQOIAAP72Av-Yc5G0xVA7JhDTSuCM_ByPT8rfhHGffiw2xSxXSPP4PqMQ9aPZ66iveqnWB6ifY2vtpG__HCHw_O6MDlMBWTtiMJ26uzAAD9LRebmn5X2mhsr9-LhufNMmwEQ8L_xPKG9HqLeomYV__5wogZzoA25KagBz_vx61IZNjlcHN2o_XqE1qpMDRHswt4CIjGuW_eJyoyOQ-jgQr9mk6qlISeAA.webp",
+   "link": "https://www.skroutz.de/s/63781540/vevor-bcbsbcbskzd7d6rfj001v0.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6L_84jo78Oqkm2t-0oeRzgMJvyopKYLVDbAfbm_u3fJxlTMgvPf-G0QXT&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 39,
+   "title": "Tirador Muebles InfantLY Bright 2 Manijas Negras De Gabinete De ...",
+   "source": "Arthaveda",
+   "source_icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAACwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHpugrwG2vzzPgAOle_YhhgrQPcyd1-q9h9Cejgh5R5AuRHZ8NNzQ2NAAP72E8qvld6MHaCoDoBE4qQM2gJ1KARaAW3rbMgtnUUDUUoxwXfnp9fyvxxUw6ImOfBSzE-EN91NrCSa_pPTn6HF47Wn_5_DTmLvtoPSojvf31GQywfRTjhKjA4FzhSs1drDhTgowNjePbmxw_YM0RSW-2Q9fdpTS-9B0Wh6ktIcK18gyi_mI9UzO_tc7Gazb9jmf-cC-bKdS9jG_fFbZZf7bb_E6zfiB8iJNd1pQMcTJjhMNmm_v28S7p2NhFx5i17s3aA0-FkOEPYv6EnYlXdPDfZmrHQKE5o5n3-GTxa-pHl_fXXZU0fimeGpklmcskuXs0AOLiMdRP5Q1slDoO0Nw8WckjVAxvPu_fK5_O9sSr1UVIIpcD9wH7pKob4Y11t6nc_8oG3fh_J3-_C4VfuwAAA.webp",
+   "link": "https://arthaveda.rs/itm/Gabinete-De-Acero-Inoxidable-Para-Armario-De-Cocina-Para-El/676395",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJTHk7e4joksez2ZKagdLXJXHshL9847JP0GogV4F4RTVcbL9Rc0NOLVE&s",
+   "actual_image_width": 1451,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 40,
+   "title": "Sklopiva ograda za krevet za starije osobe, 97 cm zaštitna ... - turbo sb",
+   "source": "turbo sb",
+   "link": "https://turbosb.hr/proizvod/sklopiva-ograda-za-krevet-za-starije-osobe-97-cm-zastitna-ograda-za-krevet-s-remenom-za-pricvrscivanje-zastita-od-pada-zastita-rubova-ograda-za-krevet-za-starije-osobe-odgovara-za-krevete-velicin/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7iOP6OCGc8Yb11A4VxwQl0I61qQqPe0Be7HG8pLvzv30o7RXvJBgs4lq&s",
+   "actual_image_width": 600,
+   "actual_image_height": 500
+  },
+  {
+   "position": 41,
+   "title": "Bara de pat pentru varstnici, balustrada pliabila, Lungime 97 cm ...",
+   "source": "eMAG",
+   "source_icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsAHjQtAXYBvGdYlOfEzJBsfMdd8p68Byqqh-hBZfOfgAA_v0qWmwkGzWW3QdDyJv39_lotY-CHWnHn6fUOcxHvYC2O1p5iNn4e_3HfJyNISPbKVfECHpO8l2-_8aWAN_6O78F7ln_9q-xNu96f-VwPYCQ8cEKXN7ys9fMKlKLFvlvNcBLd9x-_tSlu-lGQklfLB9JuFkZrSf5lvwvqSpDohhuY24LZhvnjw78g3jVsaZ54qUrQaUPV-z70Uw0OWdwjfnLmG-Cu2ZPY7D9ZfZlJAnqrb4QyX_73NAyl5j7RlHrq6O4qRwAAAA.webp",
+   "link": "https://www.emag.ro/bara-de-pat-pentru-varstnici-balustrada-pliabila-lungime-97-cm-inaltime-reglabila-curea-de-fixare-sub-saltea-maner-antiderapant-compatibila-cu-majoritatea-paturilor-bcbsbcbskzd99xb73001v0/pd/D55BYG3BM/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCx5Vym7d8F2RIdPWeUG5H_fFXmvoZNRECMMBfjZhtuB6MlNaEdDvhrvJ&s",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 42,
+   "title": "VEVOR salokāms gultas drošības rokturis senioriem 97 cm ar ...",
+   "source": "ZEMLETES.LV",
+   "source_icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAABQBACdASocABwAPrkurlcnIacnG_DgFwlAGYsGSg47Vd79WzVho0H67JL4AP74R7IBdl87vaR3gk_thujw0P48wEYLr7Q6_C5V4kqaDmsR2vN0-ztrL-f3XmF_9huy4tEWL-erO1_XWWsF-ic8z4FwaI6scVH_yJpEbg-bqUx6cBKPtp30KkTDfdWO-I7oVFjP4lFzlPZHUuGtwAA.webp",
+   "link": "https://zemletes.lv/products/vevor-salokams-gultas-drosibas-rokturis-senioriem-97-cm-gultas-malas-atbalsta-margas-ar-stiprinajuma-siksnu-regulejama-augstuma-metala-piecelsanas-balsts-piemerots-king-queen-full-un-twin-izmera-gultam",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKps0kBgAFycnsWqiUI-R_WgIsnQP-WlPrvdPlkRhO8uemisg21bJbC_Y&s",
+   "actual_image_width": 1024,
+   "actual_image_height": 1024
+  },
+  {
+   "position": 43,
+   "title": "NEW Foldable Bed Rail for Elderly 28 in Bedside Assist Rail ...",
+   "source": "simpletraveldays.eu",
+   "link": "https://simpletraveldays.eu/?f=69508549531100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_NDDeAx15VR2hUESjrjVAnaTgoRQAS1siZRf7upCvFhLK8I2AXk8KZnt&s",
+   "actual_image_width": 450,
+   "actual_image_height": 450
+  },
+  {
+   "position": 44,
+   "title": "Barrière de lit pliable VEVOR pour personnes âgées, 71 cm (28 po ...",
+   "source": "VEVOR Canada",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.ca/barrieres-de-securite-pour-lits-c_12422/vevor-foldable-bed-rail-for-elderly-28-in-bedside-assist-rail-with-fixing-strap-adjustable-height-pipe-bedside-cane-high-strength-metal-senior-bed-bar-hand-guard-grab-fits-king-queen-full-twin-p_010113577422?lang=fr",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYuXd0ZgTGeg5SQMWH2Om1KsStE1uPQdny2aixkTrlJ2_e3daImhBmGNW&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 45,
+   "title": "Barrière de lit pliable VEVOR pour personnes âgées, 96,5 cm (38 po ...",
+   "source": "VEVOR Canada",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.ca/barrieres-de-securite-pour-lits-c_12422/vevor-foldable-bed-rail-for-elderly-38-in-bedside-assist-rail-with-fixing-strap-adjustable-height-pipe-bedside-cane-high-strength-metal-senior-bed-bar-hand-guard-grab-fits-king-queen-full-twin-p_010778669523?lang=fr",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36uZVA540JL1cJeW8iPE59xPN0iWdlxS05a7p52rK0sPDboiBmnvww1hY&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 46,
+   "title": "VEVOR Barandilla de Cama Plegable a Personas Mayores, 70 cm ...",
+   "source": "VEVOR España",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.es/manijas-rieles-de-seguridad-para-cama-c_12422/vevor-barandilla-de-cama-plegable-a-personas-mayores-70-cm-con-correa-de-sujecion-proteccion-anticaidas-y-proteccion-de-bordes-compatible-con-camas-king-queen-matrimoniales-e-individuales-p_010113577422?requestId=6abceb280295000ca53a7ea4",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYuXd0ZgTGeg5SQMWH2Om1KsStE1uPQdny2aixkTrlJ2_e3daImhBmGNW&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 47,
+   "title": "VEVOR Barrière de lit pliable pour personnes âgées, 700 mm, rail ...",
+   "source": "Vevor FR",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.fr/category-c_10000/product-p_010113577422",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYuXd0ZgTGeg5SQMWH2Om1KsStE1uPQdny2aixkTrlJ2_e3daImhBmGNW&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 48,
+   "title": "VEVOR Barandilla de Cama Plegable a Personas Mayores, 97 cm ...",
+   "source": "VEVOR España",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.es/category-c_10000/product-p_010778669523",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36uZVA540JL1cJeW8iPE59xPN0iWdlxS05a7p52rK0sPDboiBmnvww1hY&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 49,
+   "title": "Barrières de lit Real Relax pour la sécurité des adultes âgés, garde ...",
+   "source": "Amazon.ca",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.ca/-/fr/Barri%C3%A8res-Real-Relax-garde-corps-personnes/dp/B0DSPLVC34",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuyT_cy8sgJVQrc3Ogid9ybkWyP8DFdJY7tEtGYrLceVIQ8jHHmIgtM0U&s",
+   "actual_image_width": 1000,
+   "actual_image_height": 886
+  },
+  {
+   "position": 50,
+   "title": "VEVOR Barrière de lit pliable pour personnes âgées, 975 mm, rail ...",
+   "source": "Vevor FR",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_UST_UCP_USX_UCP_UST_UiX_UCP_UCP_UCT_UCP_Sxn_RAf_fmT_dFj_____-ff_29T_4tz_4dvX3shxAAAAC3RSTlMAN4PB6fuDXP8X28YJj_wAAACnSURBVHgBfdOLCgQhCAXQ62Tv5rn__68LCrOuUBco4JAUGt7QFjhGDongk7m84Qyb2oqkd91bNRWLZuz7KBqCt-M8D6fVmFGt3IwZbXJPa1YzALZmlQFyZpSQ5H3GROW9G4IcvP7xkqMBPEdGnGNc4rLs-kLbHBNojgTwDBlAnmGGtmzcz8fkubu2TJs9XKTZZky6Wf0QuZAbTZNWl0PtQkm_w_ar-AWbRBsmmVcrmQAAAABJRU5ErkJggg.png",
+   "link": "https://www.vevor.fr/barrieres-de-securite-pour-lits-c_12422/vevor-barriere-de-lit-pliable-pour-personnes-agees-975-mm-rail-de-securite-de-lit-d-hopital-avec-sangle-de-fixation-hauteur-reglable-en-metal-haute-resistance-poignee-de-protection-pour-patients-p_010778669523",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36uZVA540JL1cJeW8iPE59xPN0iWdlxS05a7p52rK0sPDboiBmnvww1hY&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 51,
+   "title": "Uimoso Sponda Letto Pieghevole 70 cm per Anziani con Cinghia di ...",
+   "source": "eBay",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+   "link": "https://www.ebay.it/itm/397159540633",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBf3HboZiZ9IcYU0Mp8XiIdWWg7cNVpDBU8st4SFg3kYaTij9nAozVgAXv&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 52,
+   "title": "Taitettava sängynlaita senioreille 97 cm HFK-5115-1, metallinen ...",
+   "source": "Kodintuotteet.fi",
+   "source_icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABQBgCdASogACAAPtE-tFooIigoFAEAGglpABOOfwlgQG8CcsPr_1Lmk6ajp_JFaQYQd20dJpqPXTLcAAD8P65mB4ibj3S9wb7SBfgnHz1JRYbJuZrnC67ncIKI0KP52ihNquF-81f1Afef7ufdgOHJqyWXlFfn2_icKQBQgLlVzIvrYf1xPW3z32pf3P2RjWmVFzyUwraPTe2_tQ3XrP7TsRLZnLr5otW-n7FBEN5oS58f_R8UoA_WeGMZdWGbDTC3a0Agq4404PGEKZeR169oA1-0Rkt-Rj9RbcqgREIAAA.webp",
+   "link": "https://kodintuotteet.fi/taitettava-sangynlaita-senioreille-97-cm-hfk-5115-1-metallinen-tukikaide-kiinnityshihnalla",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWcyso1J3atLQvo3hx7m0F75uv96ye6824IIbU92i7TOrPOIZyES3giM-R&s",
+   "price": "€99.90",
+   "extracted_price": 99.9,
+   "actual_image_width": 800,
+   "actual_image_height": 800
+  },
+  {
+   "position": 53,
+   "title": "Sänggrind för äldre - Hopfällbart sängräcke - 97 cm Längd - CDON",
+   "source": "CDON",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEUVx10Wxl0AxFUAw08AwEX___81y2uS36pV0X-t5r_D7dDd9eXp-e982Zkkbuo5AAAAAnRSTlP595A08HMAAAD7SURBVCiRfZJbEsMgCEUTARHR_W-3PLRNp2n4SBiPl8AlR_kf5xEvQERYR5HDByJ37ROTsVg0fMNBHt0PoEVOCgmxEwnboywo0uOqQahEDQGZYUH76PSrDi2JgriVlqAJIOEICHfQylYr29pN2YJKNJt8Gupdd0Mhje7vRilQZAzliwl8MaHgg33Pxj9B-CoL-xkQWx-jt3dDboII5Jyc3Ue7Ppevx4wJh2wynVPdsDU047GgbWxY7zhyoeFI20pzz5cFHP670orUH6hLabJxW9aVaXbdKxvMcXcpfWMJM7WYexQfk-iA3EoVVanbBO8g_qiLfeXGvv9xni99kwwfZYvg7AAAAABJRU5ErkJggg.png",
+   "link": "https://cdon.se/produkt/sanggrind-for-aldre-hopfallbart-sangracke-97-cm-langd-justerbar-hojd-med-fastrem-fallskydd-passar-de-flesta-sangar-1f4b5dc71dbc56f1/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDEXUD9qvI3O5HhRpsjZIYa9OrBEVuYeW_sfAaOIAxum9k3UNXGP-8Rvq&s",
+   "price": "kr 951.00",
+   "extracted_price": 951.0,
+   "actual_image_width": 600,
+   "actual_image_height": 600
+  },
+  {
+   "position": 54,
+   "title": "összecsukható ágyrács időseknek, 97 cm-es ágy melletti ...",
+   "source": "Jovotech.hu",
+   "source_icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAwBgCdASoXABwAPtEutFooIagoGAEAGgliAMz_ADMXuepzyGTDY2_FlZwU10NHfDNA_nSINVNXr2LAAP6bsxYqBBTLJBmY29xxQFbLJ0W1eP5giqze47_vRm--ALJgrpb9fXsgUQ3xD0Nl15a-jz-E6pJW29xm9PnPmcn0BdaGOHl2Jqgwn28sz6gqTlRcnV-sh-HRZOQ0VwzAHKJ7mGhrWie1h62-BZA3GiTEHorJAE0Nvnosnr13cjjzB8J9rEd-lPgdXwGXYm8lAenytOpY2u_kjj984UCFmghfKbOciXl1AouZsyMInS1WXW1bJGyfFb0xfhCSa2jfN5c1Qp94g-CaYQBAruv0njA6IplDypZfpbvoma3cdCUAAA.webp",
+   "link": "https://jovotech.hu/egeszseg-es-jollet/osszecsukhato-agyracs-idoseknek-97-cm-es-agy-melletti-tamasztoracs-rogzitopanttal-allithato-magassagu-csobol-keszult-agyracs-nagy-szilardsagu-fem-agyracs-idoseknek-kezvedo-kapaszkodo-king-queen-full-es-twin-meretekhez",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkq7vz_Yn7xD1dlDbOCVotrQYstRafq73ynwiaA1onVgXiTvmucfmYQpk&s",
+   "actual_image_width": 1000,
+   "actual_image_height": 1000
+  },
+  {
+   "position": 55,
+   "title": "30 inch Safety Bed Rail, Folding Guardrail for Adults, Seniors ...",
+   "source": "centrodentalunamuno.com",
+   "link": "https://centrodentalunamuno.com/?m=12550426071100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7U4EmCfk5YUue3vIjr759lft5VuFICOHZtD2NmqUIA8oRbgdhdilroGU&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 56,
+   "title": "Adult Folding Bed Rail",
+   "source": "rodrigobruna.cl",
+   "link": "https://rodrigobruna.cl/?e=4055258041100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIg4DOF_We_haftd_yrei1nRBdxe__-qDOoKI7_56fx1g4Y9Am1wwikXq&s",
+   "date": "Aug 24, 2026",
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  },
+  {
+   "position": 57,
+   "title": "Adult Folding Bed Rail - capracycling.com",
+   "source": "capracycling.com",
+   "link": "https://capracycling.com/?i=11726564181100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIg4DOF_We_haftd_yrei1nRBdxe__-qDOoKI7_56fx1g4Y9Am1wwikXq&s",
+   "date": "Aug 23, 2026",
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  },
+  {
+   "position": 58,
+   "title": "Retractable Bed Safety Rail Foldable Assist Bar for Elderly Dual ...",
+   "source": "www.edony.it",
+   "link": "https://www.edony.it/shop.php?q=23863913791100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7U4EmCfk5YUue3vIjr759lft5VuFICOHZtD2NmqUIA8oRbgdhdilroGU&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 59,
+   "title": "Collapsible Bed Guard HFK-5115-2 Foldable Bed Rail For Elderly ...",
+   "source": "sv-lg-westfalen",
+   "source_icon": "https://serpapi.com/images/i/UklGRhwCAABXRUJQVlA4IBACAACQCQCdASogACAAAsBMJbACdMoRwJoM4EGA2yO4A3gD0AOmAswQ7uL5WA191jpyBDLvGb9KejBvqH7RnFXctCkSo44m7T5HG_wmf30rFBwOvO3bezAAAP76rfCPkdRARvyAdnSGmiRfpwCqJRSTWIECjekUzn_hhVVAsl1xOilMCCVPNSq-fXntArIAojUFXjRSW6lRvNOPgHjov1KnvM908D_4iMfBmRL3Be7xoD1NRa0YpEoKGJ11kYqnzZmWwd0yMMw4YUr7Xtz1eBmfHWrfpuxC2Sqff5O8hup4659-dKicFkS48e8ASMt0vcr_xNTtu9uWdLBVKXQcqfs2MCciH8DWi0h8tRt9g0ugmzbUmNkXOFpEK3mIh5CBW2IEqqFWUU8EOAeYgXSAQxntKdAtl7bEjxB_v5Pnhv9hs7qPWn4qy1c2M2jLQ6QMCo9-o3-8JpQz81h8fWxFkVgPultg4TMgWibtZMUYE1pREnx0wESh1q9MvmmuC5GnhPiwUZIl_VLZZBoDQe6r_6W89r_Wuo9lBzOnkkqYdXzu12QD3gRTIpX--T_NFRhVtWpxrANdfms7FJNtbVeYxKOP2fgSsEIMiq94OI91jaIU-KkdV7IcKBY2Y_-A6JvELwMAffO16McaMuYehseeND-vsozF61y5nBfjWygBTKQ1JB-z205rgeIpZYsomXaQvVcAAAA.webp",
+   "link": "https://www.sv-lg-westfalen.de/?i=47612389001290",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIg4DOF_We_haftd_yrei1nRBdxe__-qDOoKI7_56fx1g4Y9Am1wwikXq&s",
+   "date": "Jul 28, 2026",
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  },
+  {
+   "position": 60,
+   "title": "Bed Rails for Elderly/ Adults Safety - Buytenhout",
+   "source": "Regiopark BuytenHout",
+   "source_icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAACQBQCdASocABwAPtEutFooIagoGAEAGgljAMq1p0GeQ4En55n6nt8Ar5rLAgua-jhF4gRqAAD-9gnQdhG9S-3itFAfLarNmqALwDUC9KjvgqyK9fL9F_ZSTt3JzKfl3qFNheG-I89DzzcNgvgeIeBbxYJr1ihr8rcJMn8MJd6KN-X6SBT-n0yrMgneOOmtgqVr2rtRtwG9JMUv2WDbYsixcF8rz6aBhpKbOpfqcJ_dKf7QnRyCbNz7UsfUJFIRpKA9VtaCerNA8n4N_y66MwpBxWB3EGX382B7BAuy57Lbfu7YHvrBeEBJ_KaSvl87zJwtBI9khs3ICFDx2P3o4dUXTRIAAA.webp",
+   "link": "https://buytenhout.nl/?y=31345824541100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIg4DOF_We_haftd_yrei1nRBdxe__-qDOoKI7_56fx1g4Y9Am1wwikXq&s",
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  },
+  {
+   "position": 61,
+   "title": "30 inch Safety Bed Rail, Folding Guardrail for Adults, Seniors ...",
+   "source": "jetsetartists.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALbdAC7K95RK8EMc8a7CQeZCS_biZ3IWRZx846aKl_XwAP74rbewJfLaRTzbLg_Fta_eQMz5ba3UUow8YYNlpbrCoUjgfX4bsne7Ap5Pf5dMuT-_-BN79xi0xQ1KaUcDL2opy06Nsj-_mff6n4Gzc_2AWfwp_co55gkgq2BdD_7GDmXFJ_s2r-9ERtTP6Ibsut82OZ_3h4ZWL2K7eaC3IlevrZ9h9luZ-bs9lWRjX2Mvr9zB2BrohpHtu6KQtVvwaSrEFdriTxsbXzQ5jdNS_uPTa0zHJf47D3yZvJzO1oFjhntk7ZuvKv1-DF5OCRF5kz5zVOt4c73SNnryHlf-354gP5r3Nbj__mWFoAAAAA.webp",
+   "link": "https://jetsetartists.com/?t=1604471911100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7U4EmCfk5YUue3vIjr759lft5VuFICOHZtD2NmqUIA8oRbgdhdilroGU&s",
+   "date": "Sep 17, 2026",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 62,
+   "title": "Canford Bed Folding Safety Rail for Elderly Adults ... - LR Engineering",
+   "source": "Lrengineering",
+   "link": "https://lrengineering.co.in/shop.php?productSearch/pictureSearch?id=1571778901100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7U4EmCfk5YUue3vIjr759lft5VuFICOHZtD2NmqUIA8oRbgdhdilroGU&s",
+   "date": "Aug 31, 2026",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 63,
+   "title": "Barra De Mango Para Almohadilla De Caminar – Soporte De PP De ...",
+   "source": "Aid Plans",
+   "source_icon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ05QVAeIA8pIvRoI_dg8ZQuwngoEYT6-s2hXyDO1pXieTk2rU_2J8LovqEAAAD-uEX2A1ON4l6AHSUlqslgXwM3-ODEeoS9Onyc0JAEcZTSI-dLk3jlC_SGzdOWdPEdohZ7TU8V21MUK28Y1Kv2fc_98kX_POu1OLqnb6jMlZuuz8EQiLWfxU5Ps2_LwwZJRQEfIFjVVWdGLitBVTm90NUZO22mJAtnOQaoM5HSBiKFBcKv9sshyEHjSaE2Irldpeg8rCAIwNI7Nm63A6rX5uENJgP9OM78zH_WsxuDcx-qZJ17SThmCZxuq5_YG2T0KQn-HsDZlv0S3_b-8QfcI5icf6f3TwsfDf2Q-1XGgfvb8HKfIxQtNNyZF38neRqw6nPo-ca6zTzrGwCReMs2WZf8TtZ2KSX4Gpa8uN1Hfhd0M-YZ5tcTwVCNVBLLTyv7jwctXAQAAA.webp",
+   "link": "https://theaidplans.us/Para-Almohadilla-De-Caminar-Soporte-De-PP-De-101-Cm-Agarre-285308/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGS408_dwzK0z4GyVEai9CSFa7HlvGYDjBOdZXVQiDijCgDi6-fH59Hvk0&s",
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  },
+  {
+   "position": 64,
+   "title": "30 inch Safety Bed Rail, Folding Guardrail for Adults, Seniors ...",
+   "source": "mikeserrano.club",
+   "link": "https://mikeserrano.club/?productSearch/pictureSearch?id=6901789111100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7U4EmCfk5YUue3vIjr759lft5VuFICOHZtD2NmqUIA8oRbgdhdilroGU&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 65,
+   "title": "NEW Foldable Bed Rail for Elderly 28 in Bedside Assist Rail ...",
+   "source": "sefaviation.com",
+   "link": "https://sefaviation.com/shop.php?q=7987343121100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_NDDeAx15VR2hUESjrjVAnaTgoRQAS1siZRf7upCvFhLK8I2AXk8KZnt&s",
+   "actual_image_width": 450,
+   "actual_image_height": 450
+  },
+  {
+   "position": 66,
+   "title": "Universal Para Camas King, Queen O Twin – Color Gris - Protector ...",
+   "source": "cem.org.br",
+   "source_icon": "https://serpapi.com/images/i/UklGRpoBAABXRUJQVlA4II4BAAAQCACdASogACAAPtEutFooIagoGAEAGglsALsogaIG8A56rIAP0A61esxmxW-lNQv_Y5aD4JYkKux48QorrMb5rCj8HPDJkbQAAP7-w5vLSMbf_RlvfeZP_CWx_KK6wa_NqDfNWAOlGU_zr3yaUkGUpQBVY3I61U1bXue1YcIGly97WzmfernO6X8WfF2Xj08QLK2F-P-Bb60e0uEQnFn2eu6DnZf3OpROytt9IZEhqpR_mJlusnK9gK59yIooDs7d9xHsjKR9fJeedsC8tyK6HEoaLWKxPNpVvpETQOhmgnUNMYilI_QfFS-7VXiYq-VEapd4PHQFL-HpRfMdvDXHolLR1hKd4T-OIEcEWDvCR1OHkOzZoyfBibOYhK-AMrb9Lx_EPyNwdZXNfSHUEWSJvv-ko5RV6BCE9CSkUIsvUkFUPgMtT8vY_zLubl7b61ED2yrbiC_iyn7_HNsPihV17wHOYf814xJcklqYT0D45S2Or72ADEYAKqWhlVpGCBIIItnMexTRSuwH7EAAAA.webp",
+   "link": "https://cem.org.br/469782/8-M-Riel-De-Seguridad-Ajustable-Para-Ni-os-Y-Beb-s",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY7Q7zNzV7sA_bM6lZIt_PbYGRA0E42d7WqM9gURL7xVWGdIGJPUPV-wmL&s",
+   "price": "€13.25",
+   "extracted_price": 13.25,
+   "actual_image_width": 800,
+   "actual_image_height": 800
+  },
+  {
+   "position": 67,
+   "title": "Folding Wooden Bed Rail For Elderly & Adults – Adjustable Hospital ...",
+   "source": "Fabrikaznakov",
+   "source_icon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAADQBwCdASocABwAPtEutFooIagoGAEAGglsACPAN49_6BLe_FT9IewH_HP630GfsV_rMNLnSOuZMmNtAwyCk_1_bzjaAX64AAD-bSgzZ-CVNvdl19wbcNV-RM7IgwzBVlCw8pc2HUurvvop4_hJeBpQfnWF8IdJDyA9g2A3k-L25uPXWUroRpMEIbYD6Vh5UX-o-e78nG3m5bNOp9vyCp56oYrq03Za_wVh55jN_euamZGJpO3Nl9Vx_SssxsCyYZyr0mTP8eYU_4jRUdz6HOXIFPG_vpauJtm0WtG9rzPsUVmw_ixMgcsR_S_0W_NBSVbN-E1_c2eRTb8HzZfTAcmgJJl3COxqjLC1jobxNYv0H1oS7LFDF_C8kJ8cyTfMz-xyOeh__DVfce5m2TNjSfm4alEqqX9NoVlYeLuQHy2_0I-nvGrDpK-RfyCaxmWXe0QnNOi7SveKbt9AwAA.webp",
+   "link": "https://fabrikaznakov.com.ua/Rail-For-Elderly-Adults-Adjustable-Hospital-Style-Safety/750095",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7U4EmCfk5YUue3vIjr759lft5VuFICOHZtD2NmqUIA8oRbgdhdilroGU&s",
+   "price": "$26.00",
+   "extracted_price": 26.0,
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 68,
+   "title": "ELENKER Bed Safety Rail, Folding Bed Assist Handle Adjustable ...",
+   "source": "Prosalonoff",
+   "source_icon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAACQBQCdASogACAAPtE-tFooIigoFAEAGglsALUXbfswD3REJyr1VLeuxk84jQ9qMdz-PMu_AAD-_SxUwV-1mLhpLSfnEC4Txkf_c_jgA7_pWP3gnT8U7Ivo6xbM3m8SBe5CwrDAITRW8lkqOB-FUqX39jjp7oPtjA4vhk6KtmnxfUf2T_iOfNUkdpNapmtgwFbff3_2ID8CtwGa_PgbU3JQ5gFj6YB_FDRMEf_C09OHUOppwXYVZLap6nWzskE0KSqO4xBC5rpH98wuTC8ztzWT5Sa1m8fBbNwgAA.webp",
+   "link": "https://www.prosalonoff.ru/products/elenker-bed-safety-rail-folding-bed-assist-handle-adjustable-medical-hospital-assistive-devices-bed-railing-for-elderly-seniors-adults285x163/200798121/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsXGBpGKNXYs_1pIwryDBjGOKDUTLlJMQHnKdxAtfxnIM7VYolqry7596d&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 69,
+   "title": "Elenker HFK-5115-2 Foldable Bed Rail for Elderly with ... - Formarme",
+   "source": "Formarme",
+   "source_icon": "https://serpapi.com/images/i/UklGRsgAAABXRUJQVlA4ILwAAABwBQCdASocABwAPrUurVanIacnG_DgFolsALbWJJA8z-bf0ZdG-IYSuk0o5rVI89sNsqgAAP74uiGA-pCdFe2HdeI3w17jnUpf7nQAVlK0-DFeVm7bAe0L3--j194plA4ybFtMqbJbe6PaoD1q6YTItgHyaBomS811dfyvXPMvRZTaFbX3NYvP2z5oh0x4f-gB1t2ThjtDgyHcT795IdInL7-2uISwF8oUNXi3tkughJ-czwxZC3H9X1gAAA.webp",
+   "link": "https://www.formarme.com/?q=35038724911100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIg4DOF_We_haftd_yrei1nRBdxe__-qDOoKI7_56fx1g4Y9Am1wwikXq&s",
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  },
+  {
+   "position": 70,
+   "title": "Elenker HFK-5115-2 Foldable Bed Rail for Elderly with Easy ...",
+   "source": "nova-solar.se",
+   "source_icon": "https://serpapi.com/images/i/UklGRgACAABXRUJQVlA4IPQBAADwCQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhH-A2iwr4LtX-lelM9QBvHH7ZekZgAmZsiB2BBgSqyZ741vpsji_1RqSZ8ceiYegAzPP18xXBnsk4_QAAP734kswg14wf1KEBb6qwGL4bPT3TpKZKryv-RfHpG-O-B7k64-kQKYgY-HiP_2zfHEN41P8EGNZ0VDQFbWIGL4VfpAETk7su1ix6X8Jl0_AcQRPrCJXzp_CJbeeSeLf050Q12ovRWMxq_EW1UBzRol0W0l4z8DPUF892MUo_LlwJ8_gMWNZSpdbzZx5Og3tOCCKxVe2mMBpB8H05KeH3tiofTFnNq9QN3-UStefNRV8MQatkS0wM7zbEbK5f86RxR1n7NZMBoZ1v9YhCJd2HtpWNwvXXgUduxJRJ-Nf9_zBihO8Bbk2rOOmhPqmss2VbJKsZuj1UeYYv5CCqWyr5MO5G738Aw7qKIx-2XLoKR1xjvBmTyAufx2NOtjcM-PzJSG0x2jCmNf3ba5tjTtSmgNir3Ov-v9aGPJFgY-ZP5luvgRJP2M1KszCNIRxmGa3df867K7847bOGbwSC7xHwQpB-H--bPfewzHNbq43BnxTyUt4r12mfZbQUUlpjNWQocJqrKBU2PdZd-u6s7ieD-vQbSD_JW2O6AAAAA.webp",
+   "link": "https://www.nova-solar.se/?productSearch/pictureSearch?id=21466282831100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIg4DOF_We_haftd_yrei1nRBdxe__-qDOoKI7_56fx1g4Y9Am1wwikXq&s",
+   "date": "Sep 13, 2026",
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  },
+  {
+   "position": 71,
+   "title": "Adult Folding Bed Rail - panyolafeszt.hu",
+   "source": "panyolafeszt.hu",
+   "link": "https://www.panyolafeszt.hu/?product/review/5312815581100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIg4DOF_We_haftd_yrei1nRBdxe__-qDOoKI7_56fx1g4Y9Am1wwikXq&s",
+   "date": "Aug 6, 2026",
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  },
+  {
+   "position": 72,
+   "title": "30 inch Safety Bed Rail, Folding Guardrail for Adults, Seniors ...",
+   "source": "www.salesplus.com.tr",
+   "link": "https://www.salesplus.com.tr/?c=13494328031100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7U4EmCfk5YUue3vIjr759lft5VuFICOHZtD2NmqUIA8oRbgdhdilroGU&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 73,
+   "title": "101 Cm, Acolchada Y Cómoda, Fácil De Instalar – Accesorio Para ...",
+   "source": "Boundlessshorestravel",
+   "source_icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAACwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHpugrwG2vzzPgAOle_YhhgrQPcyd1-q9h9Cejgh5R5AuRHZ8NNzQ2NAAP72E8qvld6MHaCoDoBE4qQM2gJ1KARaAW3rbMgtnUUDUUoxwXfnp9fyvxxUw6ImOfBSzE-EN91NrCSa_pPTn6HF47Wn_5_DTmLvtoPSojvf31GQywfRTjhKjA4FzhSs1drDhTgowNjePbmxw_YM0RSW-2Q9fdpTS-9B0Wh6ktIcK18gyi_mI9UzO_tc7Gazb9jmf-cC-bKdS9jG_fFbZZf7bb_E6zfiB8iJNd1pQMcTJjhMNmm_v28S7p2NhFx5i17s3aA0-FkOEPYv6EnYlXdPDfZmrHQKE5o5n3-GTxa-pHl_fXXZU0fimeGpklmcskuXs0AOLiMdRP5Q1slDoO0Nw8WckjVAxvPu_fK5_O9sSr1UVIIpcD9wH7pKob4Y11t6nc_8oG3fh_J3-_C4VfuwAAA.webp",
+   "link": "https://boundlessshorestravel.com/101-Cm-Acolchada-Y-C-moda-F-cil-De-Instalar-Accesorio-218954/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGS408_dwzK0z4GyVEai9CSFa7HlvGYDjBOdZXVQiDijCgDi6-fH59Hvk0&s",
+   "actual_image_width": 2000,
+   "actual_image_height": 2000
+  }
+ ]
+}

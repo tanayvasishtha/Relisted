@@ -1,0 +1,22 @@
+{
+ "search_metadata": {
+  "id": "6ac819ef5c018f5f486b3a17",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/DVNMdsHOakTddgZmk7RVp2JwzWbx4zVYZPWktdacdWM/6ac819ef5c018f5f486b3a17.json",
+  "markdown_endpoint": "https://serpapi.com/searches/DVNMdsHOakTddgZmk7RVp2JwzWbx4zVYZPWktdacdWM/6ac819ef5c018f5f486b3a17.md",
+  "created_at": "2026-10-08 22:32:15 UTC",
+  "processed_at": "2026-10-08 22:32:15 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fzing-3.png",
+  "raw_html_file": "https://serpapi.com/searches/DVNMdsHOakTddgZmk7RVp2JwzWbx4zVYZPWktdacdWM/6ac819ef5c018f5f486b3a17.html",
+  "total_time_taken": 9.11
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/zing-3.png",
+  "type": "exact_matches"
+ },
+ "search_information": {
+  "images_results_state": "Fully empty"
+ },
+ "error": "Google Lens hasn't returned any results for this query."
+}

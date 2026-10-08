@@ -1,0 +1,267 @@
+{
+ "search_metadata": {
+  "id": "6ac81a877d6e70702220c712",
+  "status": "Success",
+  "created_at": "2026-10-08 22:34:47 UTC",
+  "processed_at": "2026-10-08 22:34:47 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fzmc-1.png",
+  "total_time_taken": 5.95
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/zmc-1.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "ZMC Group Recalls Multiple Light Up Toys Due to Risk of Serious ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/ZMC-Group-Recalls-Multiple-Light-Up-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/r_GAEGeesIiq2aQWPJQS_kQLr9fgkg7DhWMZwT5G6YM.jpeg",
+   "actual_image_width": 469,
+   "actual_image_height": 400
+  },
+  {
+   "position": 2,
+   "title": "ZMC Group Recalls Multiple Light Up Toys Due to Risk of Serious ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10757/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/O8IX-uAABnpUvOvO-0KODc7_Z78o4el8NQxcCRruoSE.jpeg",
+   "date": "May 6, 2026",
+   "actual_image_width": 660,
+   "actual_image_height": 563
+  },
+  {
+   "position": 3,
+   "title": "Several light-up toys recalled; small batteries easily accessible to ...",
+   "source": "Local3News.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAADQAgCdASoQABAAAsBMJbACdAacjmv5W_KZfQLMYcMAAP70tpkQu7qlxjY4KoMdNNzTq63Xh689CGkp8CX1A3wVqcYejrKZDLzOX-b9YUWrAM_p37m2z5aoprC1Z7_EdGnFVo8fpgT1bv6Y-D-C2IiFv_iuHY8V1s0N9Bf9rveM-qVqZqkS02FzS5Y2sd-nYDynkYiCYpdm9J9_8cWOiPTxt_x81akbNQt_g0RjM0t9wZcxPSJfYME7Tq9PMNHw4AA.webp",
+   "link": "https://www.local3news.com/local-news/several-light-up-toys-recalled-small-batteries-easily-accessible-to-children/article_3bdcdb76-df37-46ab-8538-cb51ca320d35.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/FCt22Rt06LqzX03YDo3P3j9iyD5JcKfPbI0QioShg9M.jpeg",
+   "date": "May 10, 2026",
+   "actual_image_width": 586,
+   "actual_image_height": 500
+  },
+  {
+   "position": 4,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "fox61.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRrwBAABXRUJQVlA4ILABAADwCACdASogACAAPtEutFooIagoGAEAGglsAJ0y43UAqzIIMBtgNxnvJO83Pj6fHwgd0WYez9W-2xrQNmsCVMABa7oc-LGeG-0-gbfajp_-4gD-9gL_2a9a5jqI89KsJ_alI28QAEXQLKyjLEfZr5hZt1InM2JhaF6V7HZ-0zvxKIoT8OA7-wRri4NjqrJNWqN_y-8bv-wnXPJhDMvKWxma9WTi_cYunGsY4M_P_yjPvk6SxfxgwBRBo8hF5J6_8xdRrcOW7ZmrNcxH6BrDE4i5XsPHT-u-4uK4g4Dkaw7OClya5A0aZjRHnB_byUU52udkhOUHo93eYWF_u19KKm9OvOT5uQuPRphvvglV9MiK4ptR8JDbUfb40v_enM0uaygUjAn-22jj5-SAD_tKvZL4Ve2LD3JyBntzadAv3Zg-Ar0-lf1d5K7g8CkNzu5j6j64D9O3JLStYW8SuY1mi3RkAeu75Rg2IwF1SX0Azr-Hnh8YzRLFk_38fvf_g66NXBDSnJmaintN-yh7EFEq0kIoh-smpwfkuIy82XXCf8MF63do-Pu47Uz5F7jHRDzbAAA.webp",
+   "link": "https://www.fox61.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/fpulhJn1IU6k5YfMdgEhr0FfeyRyVi-mKorPeEEDUwI.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 750,
+   "actual_image_height": 422
+  },
+  {
+   "position": 5,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "localmemphis.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAAAQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yg8Qzg_cA21-4w3gDeWV-BpUGdzx6N5424_cw_TRZVzaUIacshnLLBcPBMsgAAP78mam9axMk1NqtAGhGdaWnHqTQsMmzDiqdxaiVNreUiwzBKVPQNGD_6HjenvsETBDNPVekUUd-uafj8utsRqMv7KWvlyG6NshkYQfYz8PIl9-Z3Iv2wmXyspqcWFxYcbEgUvB_MJ5_eCWPPCxS3sn07p719xR4nxKubKaXaWJNe8u6D5wL1rov-X03878qneZaqlkN3dcL9-JY_nH5GdeMjR_XsJbNlP46qNXsA3daywu9FKBy_P2NSdWO8JZxZDesxBeULKVei1jfHGUx3XSXYAmF7brDaf6n0l23xVYp1L-tvvWLNjKdRHjPYmU6UQFL7UHOfgXAS--LfbdNsKXxTA5tgStZ743QBuziGJ47nvoYFPexn9k02oYNgGGfWZ1V9VkEb5VJYz--nfj_oypOr587497caIWAMbKHP_NS3iENPirAAAA.webp",
+   "link": "https://www.localmemphis.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/mYgJslKyEIUHtGs5AAW8P-MLZbTqFOmpYFr19ymY8cs.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 750,
+   "actual_image_height": 422
+  },
+  {
+   "position": 6,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "ABC10",
+   "source_icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAADwBgCdASogACAAPrUurVanIacnG_DgFolsAJ05QVLeNIcV4HAO2wAFRgcuC4bZpbHf2juNxfMJ4X_JyI5M8vygAP7obdCbV9Pqn_C2kLmOh8RxKEj8I3PNabGZ-xnj8zzyLkca4QOhPxXu-ygR8E2zicl-3uKsrqX1WW4eK6bIRnPFeJ-93soo4o18_ZgTrAWig6AJZ0V7_xb4fy8-BHqBC07oTy-xFtd5jaW1nN6gmDVKPmLpDM2rvAW_Y-kFRw5oRMBjgH3XNb1JZJ0ow1M3wurt4_HB7QBpRJpY4wGQHeACfwRfTxB7DBJusZlha2grtWgpy9sAAA.webp",
+   "link": "https://www.abc10.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/Kum_sBMhbqwa7QaYb3Ec1QMbtO3V6-G9WxbfV2v6LZs.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 750,
+   "actual_image_height": 422
+  },
+  {
+   "position": 7,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "10TV",
+   "source_icon": "https://serpapi.com/images/i/UklGRm4BAABXRUJQVlA4IGIBAADwBwCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHVi0eur6gNsBdpO88frcWgKZP5CkGRCceEWQINxdufO8igFZOHSjSouONAA_vYFU2EazIwqL6CX6jT9q-fBf-MRQzMPdjfxDQDbA2gasKNA-DToRRoV4RtLyNHRSEGfBtxIjcyUsF7DqNxN6XU2ce2pnESV8TeX4C2FJxPcLljtN6wJuK4jcujBpsIcHc6mfYblO7P_-fQhxORYdWGgOVTs-lulVELEKpuH3vJWrtATtvKYLahSRllcXmOMyHpm1daBOhxTlbY8kADYeobIjHh2Yz09STTUf78cedD2K9dluvt7GzDhX1jQf9ByPhJXvnWXjSJxrzh7YfaeKQnQhHU39IjwhNdWLYUIjIBCZ7WFo8aCEFykP7KC4j5MOLOthVzPd1e85FpT8boqxiTf0i_LKxnE2ZLbAVzVi7VOTD8AGozOAAA.webp",
+   "link": "https://www.10tv.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/D0Hg7UXrNSL_QxmHUJKPGP3pXQY_5smnbx_asOgoNpE.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 750,
+   "actual_image_height": 422
+  },
+  {
+   "position": 8,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "WNEP",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAAAJ1BMVEVHcEwHX6kHX6kHX6kHX6kHX6kHX6kHX6kHX6kHX6kHX6kHX6kHX6lUIiDoAAAADHRSTlMA9qKIENgmcFg-vY8uVxZMAAAA7UlEQVQokYWT2xaFIAhERUFF-__vPQV4wVrrzEMl7UadMFx_FJ4LiGbNDR-AsihaqddHhSYANYgMIB0VmIBVBlBkgHFNUXYAAGVQ1xoIncNhcAPDwBwUZ1pATLwBSQ36ngP0BZgB1kgbkBZgjwExWxAegByWNDkP9LBLtuKBHLzaAUQ8AAYP8JidcVrsQMszJEiWuAO6FFG2Bxa5AwrqR6Kodh6QW1GgfQA6L5sDvgGtYZM1aJuxAyhbxEStqkHyOVhrIPOIlDxAZ9Tl_BfxSJpe_RDP9ycwti_-NE9W6reSdhDoBvJ2sj60zun1A9k1E2v-VDWiAAAAAElFTkSuQmCC.png",
+   "link": "https://www.wnep.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/3wq0X6R1vQZhAXXMyuRm-GoVX7L5tGne2p4pTlcXDgM.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 750,
+   "actual_image_height": 422
+  },
+  {
+   "position": 9,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "WTHR",
+   "source_icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAACQBQCdASocABwAPtEwtFooIigoGAEAGglsAJ0ygRSAjQBN2RGWpb_TIJHxeU2EjY7ovxfhwAD-nKnotOjp3DZwcxP65ztT4H3cyMiC19Uy4kAA9AblwzRUU4mm_-ObFvET-oYnzHmX3FLM04WQvwuiuZGenneprdF5XikeswNKXpaUqMcmiQZnU8bEvhPUdR7KlE4EeIo0BnnqZ2K1EmO6MVHFUmKroGzq5S-rsT4ihzvZ8rcVlKAcQr4p1MjfkQn_CAO4YpHKN9v8rvKSfxg45bO1fKwetMKNVaNJJVKq0AIrOoeYnK4K7Q-p1SgO72vpKbmIrV_idj9pxHS2kEYAAAA.webp",
+   "link": "https://www.wthr.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/hwA4vSCPTyTW539MVGommJhD882dFiUBxIOJM9kMO7s.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 750,
+   "actual_image_height": 422
+  },
+  {
+   "position": 10,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "newscentermaine.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAACwAgCdASoQABAAAsBMJbACdDiAByMHT6-olmD37QAA_vqt9_ZKidX4cPyYzohNed0hsLb38Z-MbTvU29LWkdVOv_mdd5Q1p66X8KyOWmhQ71v8IPqzWzUjyq923Mpkl9CP-ILDr5k1FFfcxe-GuEJZU94rgI1NwrTTvJWsk8_IZ_hmUr9Gf_e8M9aAAA.webp",
+   "link": "https://www.newscentermaine.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/AqbHeUrmZ0HWyM0WUhDxBYLxfOLLZGoHPKP8Tfa7NPY.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 750,
+   "actual_image_height": 422
+  },
+  {
+   "position": 11,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "kare11.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAAAwAwCdASoQABAAAsBMJbACdFQAuwDeWiIfMuH_NI1jx-cAAM4-vYNtlCM842DSo0ltPmGbaHVuOgo-gcPlnitWqBU0r5vELzLDjLBpPJ77JJqEdO4onFyYci0XWlgSPBqz6622S3uNda_7GXcXNp5FNu2ANHqeUz2fWj1W6PLfcA4ccOAAAA.webp",
+   "link": "https://www.kare11.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/i-LuBJkgjdNXHh1-QL0Jz3EMtEh-ofvWb2L8goN0M40.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 750,
+   "actual_image_height": 422
+  },
+  {
+   "position": 12,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "WCNC",
+   "source_icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAAAQAwCdASoQABAAAsBMJbACdDiAN5FIhswMpmRx8ISUaggA_vqsbIZWAf5zDmoAEU4VILeX9L_smnymz0aj2rJuXUIu8sc2znAUgKNoh_YXn7BDW9oLbAaESHvIRA94lCP6aYHzJ0BrSfj_rmvQ6QYTxfrpQcagY6mJCKfYXI7v4weS98rj4juU6_HObd3o18czwyFB-DTcAAAA.webp",
+   "link": "https://www.wcnc.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/hZDS1PlV5BqYbl9swm6DDIAOTYKWtFHUJ9DFXINdtsg.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 750,
+   "actual_image_height": 422
+  },
+  {
+   "position": 13,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "KVUE",
+   "source_icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAADwAgCdASoQABAAAsBMJbACdLoAfiGSpXxqMpsSlay8AAD-idqyX99jVfjPWRNR0fWPWsMs_cunURB4FdgsvSq5jBh7BiexRa9JnNjrNYt9aAv8-Z3Ru0JoYJwdOV63APR7L0yIrVKFfpj9h35XNoFD8Sh_3dr_wpQup17ZfsBMGpXCZdOF17cUmpG6FwEE5JpHX9402lr8G_JBcn0stRXU3n3aHIblC55EU_vlHSqV3B7ize-nMEUtJx_hWUvAAAA.webp",
+   "link": "https://www.kvue.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/7U09MOwDu1SP137D0JVe0qvTlMCnCaYNYv1mwDux-JI.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 750,
+   "actual_image_height": 422
+  },
+  {
+   "position": 14,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "fox43.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRsYBAABXRUJQVlA4ILoBAABwCQCdASogACAAPtEutFooIagoGAEAGglsAJ0vgRQI0BoAOYA1AD0APLO9mysm8KrxBGNaIyCA5PrO_WQBcYb04GgSUjKjrPolDf9ZQh76DzB8PHQA_v7CPn6DiPuCVvwyWnbiC82Jt_A6vT3tJt5lwMyecGi9s6nKwVk4KW6ubZq97e-2NAw-4F1_t7sw6YdySWSCrYlWN96-ljDeVRwIwBuwMoUdS9KZ58A3f6WHQwbkfsXj3HA25_rKhzyjZgcCiDvuVg4R056SNv4gyfW6kTUOH97TDuRR7QASJJj_5ilmwWanE3TQs6svnJr5a3QjdYFfJKj2_G7j0CUszvPAETIAS8VFOD-9669Ergfx6Gb1sAvx8BLUyQKEJeoPDCfPnSfhfmkLJ-ZCUD7KC47gNCK-GXjkGRjIwkFM1g6hIIb6HzsVe8IrEXHm6J1IIV_q1kMr_jpNOdb81lz5sysQdERHjsXAJyHSs9y4c4TyDQtJb6roXak5CIZcXZQFxj9sP3d6aCjfSsaYRt5sNB2nrM4Sgb17RoFtIudfzsXuxRC1pIQPpfKfmA1oczNn0LiB5WoTj1jmgAAA.webp",
+   "link": "https://www.fox43.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://serpapi.com/searches/6ac81a877d6e70702220c712/images/KbRB5UJqGBfd3YOM0Cvs8SJtKZVM3GogvnKPGC2dcY0.jpeg",
+   "date": "May 8, 2026",
+   "actual_image_width": 1920,
+   "actual_image_height": 1080
+  },
+  {
+   "position": 15,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "9News",
+   "source_icon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAACwAwCdASoQABAAAsBMJbACdEf_5AB0l7fAqAE9AZcMY3kQIIa0AAD-92vAg8H9IvTLSJlS8uz8IH02b339dtc1BnQv6mn3NLgfkpnzOa2XoQf9WTFTghvaCv3S0N_OfFsH5bhKHDm0PUL4Sp9EnJi1FN35P2HPL_9N-scr61RgfLB6EWTvbAZOa_bSxt6HZU2qNyiFECGDsEGjfkIZU8z-Kf8Js3ShInXczZtEAAA.webp",
+   "link": "https://www.9news.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBNiR5d73WyRMn2bgY666uZc4_fSo3-Z5p9CGDSTH3XtoAkVBnZEQTwwi&s",
+   "date": "May 8, 2026",
+   "actual_image_width": 1920,
+   "actual_image_height": 1080
+  },
+  {
+   "position": 16,
+   "title": "These light-up toys sold at discount stores since 2023 could put kids ...",
+   "source": "rocketcitynow.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRrIAAABXRUJQVlA4IKYAAABwAgCdASoQABAAAsBMJaACdAYr7vvM4NhtHEEAAP75A8QPIV026_5CvUr8h9XoJmp4Z-6i2eTSnkgGI9kxz_TU-bblpYBtzvKu1QW84gH73eXj2XSX_7L8bXtKl66kcz622UeBWER6uurUZC8698xMukF5_f-LK23s_tsRkbuvmwc9VOT3ld67kuQCdKRqUtwM2PW14PfOVH_fe1pnlblw23anOzAA.webp",
+   "link": "https://www.rocketcitynow.com/article/news/nation-world/light-up-toys-recalled-battery-ingestion-risk-zmc-group-refund-yo-yos-maracas-wands-sticks/507-bfcfd74b-3a2c-4a71-82c1-dc8b2c483d26",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBNiR5d73WyRMn2bgY666uZc4_fSo3-Z5p9CGDSTH3XtoAkVBnZEQTwwi&s",
+   "date": "May 8, 2026",
+   "actual_image_width": 1920,
+   "actual_image_height": 1080
+  },
+  {
+   "position": 17,
+   "title": "Light-up toy recall | | local3news.com",
+   "source": "Local 3 News",
+   "source_icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAADQAgCdASoQABAAAsBMJbACdAacjmv5W_KZfQLMYcMAAP70tpkQu7qlxjY4KoMdNNzTq63Xh689CGkp8CX1A3wVqcYejrKZDLzOX-b9YUWrAM_p37m2z5aoprC1Z7_EdGnFVo8fpgT1bv6Y-D-C2IiFv_iuHY8V1s0N9Bf9rveM-qVqZqkS02FzS5Y2sd-nYDynkYiCYpdm9J9_8cWOiPTxt_x81akbNQt_g0RjM0t9wZcxPSJfYME7Tq9PMNHw4AA.webp",
+   "link": "https://www.local3news.com/light-up-toy-recall/collection_dc0a463d-c294-468f-aa42-63acc7efbd0e.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Sa2PXnioxC3VrlFbEaol8RuWJbaPQslDMnhb974q73_qtTm89kzGV3pH&s",
+   "actual_image_width": 586,
+   "actual_image_height": 500
+  },
+  {
+   "position": 18,
+   "title": "Various light up toys recalled; here's why - ABC27",
+   "source": "ABC27",
+   "source_icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAADwBACdASocABAAAsBMJbAC7MoGv_2R1XAGQCmT-MH6F9gDoum31KISoai35a7tQAAA_vhD18ZMXWBGy--Gbw0EfAzQ8aHyzBnX0bolpHxufgLCjRMc698cvJhJxM7v4nJxMdn1rcPtS0rjbng7j33FfbPF1iJXL3VIUhSJrr1_jVhs0WIGOyjZS38ZtSx-bY94I4pS1JClzJE-VfMtT8mR-m9k_2Jz9o0__K8QmqPxP0o_jftDj4uKRvlDNTUHAUytqu0R1twK7hAnzJ_Fj5rFQyTK6trWufjZ6GnWYthE-EEKdw05SYn34cxSmXE_752CMCuCsoTES9_JuZ3_3LzzHD4ZxW_f6QRiv4-ozDX5wXxPi4ArAVs9Oc8OJNLCFNOek1mw0alY0bSl61meY99i-AAAAA.webp",
+   "link": "https://www.abc27.com/news/consumer/recalls/various-light-up-toys-recalled-heres-why/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQ7tUM712gDF0URfzThbQY9DLjVOofzP4DRJh4458UWLSxWXnkg7XmLTW&s",
+   "date": "May 7, 2026",
+   "actual_image_width": 660,
+   "actual_image_height": 563
+  },
+  {
+   "position": 19,
+   "title": "Sour Crush candy, toys and dog supplements recalled - 41NBC News",
+   "source": "41NBC News",
+   "source_icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHl4ZmOTW9mG-0rTNvk_AXsWPlG2_VhNw8eqg-wAAP7iuOPG5_I7lZ7jcjNYhCG87lGf-f4-1VI_zJfdJA48sktT7ZZcP_UkXfpx0b_Ax6fjRfnZkMA_tht0iNz-4GecSmIq0y1Io91ttiyb6BBcHRvqkqv9XLB8XwpLiAEZ4t23uScPVBWSco707eC6dFqOhgQJqyD6Crl-xqddX93hMp6-fDga5aPTe7X818tp51mnyWap0epif_gdNWx3IBfaXvRclJO19OeR9aTG-u_I71pxHh0RoX0X4HCv9J9mdWBnnWxnshgbasQZX7ZYo3s-L8nLUD7tPfHvRveQ9DmXZT-L33vpwkvnfWhNnHT4q6XAqQW554qiyYI7UHnx-_j79T_dgd5UkUsxYkwAkhPx0rY8_5lGlPEwAAA.webp",
+   "link": "https://www.41nbc.com/recall-watch-list-sour-crush-candy-toys-dog-supplements/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHhHDlsIW9PXpm8Zz9gZEVvEACtQnL2LYThBeZHcQurJV2aGzK-9HwCcY&s",
+   "date": "Sep 14, 2026",
+   "actual_image_width": 777,
+   "actual_image_height": 650
+  },
+  {
+   "position": 20,
+   "title": "CPSC announces recalls involving batteries, helmets, toys and ...",
+   "source": "WRNJ Radio",
+   "source_icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAADwBgCdASocABwAPtE-tFooIigoFAEAGgloALUbMA4CER_Lvna84LOV7j8GZGyZSIgu8KBe-Roh1Qlpsi_FfrS4AP79K8ZcFF47xGAZ2vT47lDnovVK40eyuFgVjnsZM7XaQmEpcwM_-eOdSAnhHKsbY_fHLD_qhI_58U--bTvH7fA7L5Kr89Q6HK_9642YuKQRYchT69Z6_OUv2qK2dz3AIXGwn3sIsNT6CXV7POjUVapuRZIG9d5AibZSbPC3Xpf8dQorsh3iyKEGU3bCbtJXbti75i4jL4vTjE3WdNa0Frs4MEhsp3o4ve3rI1Ob_HqkNwsL0xqxc_Pv1rvoxy9sqxyUSPN-xEn7ziaFA6XPR1Aqk8-vsBOQtnGQ6cgwLycQ78m-0vfiiNxSlevzbz50VZBhReHPC_qtYL5rtaBDDZ8RZHOm78S3fflM4b1gBAcp6o1XobLlvIm1QYayviM_TGAPLr2gMTzyH-NZ7sS_B_xQiNIu_3Fouh3YAAAA.webp",
+   "link": "https://wrnjradio.com/cpsc-announces-recalls-involving-batteries-helmets-toys-and-mattresses-over-injury-death-risks/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFoIwUlRrJ3M2It3iHgbyv9JneIMYZelLiPdwGMEdaZVpYBTzGi-UgMBxZ&s",
+   "date": "May 8, 2026",
+   "actual_image_width": 660,
+   "actual_image_height": 563
+  },
+  {
+   "position": 21,
+   "title": "Health alerts: Teething toys, coin batteries, light-up toys and more",
+   "source": "AAP",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAABQCACdASocABwAPtE-tFooIigoFAEAGglpAAZoHEB3gxdnNP9GewL-pPoV-rP9lfYi_YoNG-NY7VvNeT7ZvoOYHskEiIQKzos5UAAA_vYT4DMQ5226ZJtjDrZEctUvNIPaKqKebwmmK9SPgJOnfXtk7WcGO13JD7tr-bWORH0psEwEZ6bT2UbTZqArICenJx5XuEsZO8Gm1VjOR1VR04x3RBHNJ0gyCzya4xfhZxH-WGCNuZQ8IhBMt9rNpTd0DdjATv3hfJzvyNr-wzvzfrY8bdGqCTlLu7b9pMyOgVQC1_DwgrZ0St5sOt0psk97SEV5JdRngLPD4Elp93bEun4x0rDVE8Q6pKpzwRHmqeHQzi9kE4daMcpZlR81XzXR62tHtNucl9RB66X2f_6SkN1hAv_qhMSKiHrxOxFDr8r5Ad538eShUi_XKku8gN97-RembwDbf3SE9vIMvBPeuX0ipd2UBnO6CACig_Vwtr3TM6cIld4UCCPgA2DGfDnpkMoj88Wyt02KsCA4e1QJmp4Fy4WXfdPNEXOeFDaJuJLPpic4c80IaS7qngAAAA.webp",
+   "link": "https://publications.aap.org/aapnews/news/35288/Health-alerts-Teething-toys-coin-batteries-light",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYqqCx6V2OFsTPkWvERhU3l8nxcwhGcZYDwGhSR2A_k18hxTPSKetfkD24&s",
+   "date": "Jul 1, 2026",
+   "actual_image_width": 660,
+   "actual_image_height": 563
+  },
+  {
+   "position": 22,
+   "title": "Electronics & Appliances Recalls | CPSC",
+   "source": "Recalldirectory",
+   "source_icon": "https://serpapi.com/images/i/UklGRhgCAABXRUJQVlA4IAwCAADwCwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhH42zO6DOAbZbzAbmZ1He8ef4rzZmiCtjQIBjnkA-gv-H7g38k_rPU7_U32Of0lWg936uOqtZ2F7Fw-ZKD_VDCy1rYNM6wjrvcEiAAD-_sN7Z_3wf5Pq40wJ56b7jDvDj02iHbH7y00M7RsNUTDll5wNcctqplUELd5DQDCjoxxsIi0nuIBj7xg955F-dTSM6CS4LX-KXnnvOf9LLBrpJ3gvhP9YoipydEc7ii7y_AW6sx5N6ZoB5Mu1BrEt7rPI3O-wbXB-dSuHieIM7epsuz2W76wXMylxXax6JKCDSvXW9lrJARFcnOP5WoyKIk8Sz6OAPuni_quYPoNwyX9Te2FFvFLRr2vdUu-Pr2ASDFO6dkejtgNLZiulEczEvqq02NDfHpAnvqnfO9POn3qTehaLMld4_5g5dY5svGzIdH37xP4UTpo5SDAXsmUoIf56IzINBMKFM1WIZKK9Ytm8_cZZSPpCPovDM2hMlBj9eorVAM5xOcP8yj1V3D1ip3ikl0z7TH5UVMmX1S9ta9wInjzL6RRepDKznLvwx1F2M9zvBJvqoe4ICcpJH7hDx3--Gey0SMsZ5DGXppm9yR8v9HNlHarWEf8cVv5yorJRS7iuAvJtxCOG8y0LWW9y_NerrcAJ3ul24NXu7dl-yiAAAA.webp",
+   "link": "https://recalldirectory.com/product/electronics/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgSSiuP4ccvjD58ZMaODQMRA2W5uvjKQ0ON9sZ0PpW1pZv00WQeYyZhPm&s",
+   "actual_image_width": 469,
+   "actual_image_height": 400
+  },
+  {
+   "position": 23,
+   "title": "Consumer product safety recall roundup for May 15, 2026",
+   "source": "ConsumerAffairs",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtFBg9YcctCXueewyu3h6_js8_uBq-L-___I2_NUj9lmmd3nZ7hfAAAAC3RSTlMAHGkKi__xL9Cn5OXyBpAAAAChSURBVHgBbM1VEsAgFEPRWioQHPa_1bq_83snk-qpbpq6krUdFl0rtabHpm9-aRhxGYf32YSXqX6fvdzXg4JADVscIRq3P9y0xq1-RxpLMW6c1xQjgRCjAfiPOjkfF96l_F-WpW0C_5HZbctC4RO0cZEIMS5LHz3EqGPKOcVMKeYAkkH-BLGYhxQI-AIeb5Thj2zCyQQzgRFImoQTNd7sAAAzTw4gNIcHNwAAAABJRU5ErkJggg.png",
+   "link": "https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-may-13-2026-051526.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgSSiuP4ccvjD58ZMaODQMRA2W5uvjKQ0ON9sZ0PpW1pZv00WQeYyZhPm&s",
+   "date": "May 15, 2026",
+   "actual_image_width": 469,
+   "actual_image_height": 400
+  }
+ ]
+}

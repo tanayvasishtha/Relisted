@@ -1,0 +1,126 @@
+{
+ "search_metadata": {
+  "id": "6ac81a3f31aafef970a0fa35",
+  "status": "Success",
+  "created_at": "2026-10-08 22:33:35 UTC",
+  "processed_at": "2026-10-08 22:33:35 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fmelissa3.png",
+  "total_time_taken": 4.8
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/melissa3.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Melissa & Doug toy fire truck recalled for choking risk - FOX 8 News",
+   "source": "FOX 8 News",
+   "source_icon": "https://serpapi.com/images/i/UklGRtYBAABXRUJQVlA4IMoBAABQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhH4ngrj94Bdpu8svjswByg_n7f1jcUosckbq-21pEp5X_Y9edMRFQuY9PaQ2JAAAzj5bZEsAFuZgI7w7Yjexf-HSxnSnOoPsUA9cABZgNlrblT-mfmAqrlZ9RsSpRIOZRksHPHBfuuqJT4Z-TBPvg3kLs7oM1XBUMkf0L5seHi_CHxXCHsYBIcY5ZJ6-ZwEJuJyCtlrcX_eSOiu5c9-F-z_d_s14nwf9dkcw4YPUkne-r36uRtbOPdvZNVGn0Tjaa5LlnetFqC84mpc9On6VSOF04LHFEF5iZ-6X7pDGm1WJMWn6o4MI4joif8MVCbwhukeSFZKn10kkg14mTXfoinlFQXSkV5Y6mnn0I5hpElxrm6U5rARdmba86g3fMgpXiKMH7EpY_Wd-9yTbUCvF0GtLb1lLZw1uODGtjtH9x7JrelZap7gGcZFCTKJCINmkKW7dtLKoFhfv8XXH2FZP_1Tim3do7PW1rneWXH3F5Xra_of__snRm2GNHMdLKRbCltyJ7XCfvrWrt_aN3VAk96km4-kqGE6KPxidGjWksBoT8D-Aavy1wWeFVyeQAA.webp",
+   "link": "https://fox8.com/news/make-sure-your-kids-dont-have-this-melissa-doug-toy-firetruck-its-being-recalled/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a3f31aafef970a0fa35/images/jUkszrXlYCJEy1pydeC1rFT81pwlVGA14nwCseeX3dU.jpeg",
+   "date": "Sep 17, 2026",
+   "actual_image_width": 160,
+   "actual_image_height": 400
+  },
+  {
+   "position": 2,
+   "title": "Children's fire truck toys recalled due to choking hazard - WRAL",
+   "source": "WRAL",
+   "source_icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglkAJ0va5iqP9HyoHsAcbXBD6NONzwtSp1YoAD-7nOK8IEswJkdqU9_MEa7on7d0ZrrWLJxBmZ36mgeFpFpL3ATWvaSvDrxBKrgnX_z9vgb0MbS4Zfi5-eGwPrxDGfr85aP3uqUutb72yJeY30pDHz2gfIVBUP-lyp62us5d-qe7l-v2Jv-U-r6ICXKnRERQ1EZxvY86PNdXZbGB7SjkoxWnT6MMHXCxmmfrvT3dIn5ewf1872CgEfL-Cr9SfvlPT8wyMOzKGTIJke5BAWebK-RoAA.webp",
+   "link": "https://www.wral.com/consumer/5onyourside/fire-truck-activity-board-recall-sept-2026/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a3f31aafef970a0fa35/images/WH-hK3TcmJl_wNaQffZMdGzDmc16PxeyNuZutuKGby4.jpeg",
+   "date": "Sep 18, 2026",
+   "actual_image_width": 216,
+   "actual_image_height": 540
+  },
+  {
+   "position": 3,
+   "title": "Melissa & Doug toys sold at Target recalled - USA Today",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/story/money/2026/09/18/melissa-doug-toys-target-recall/91825060007/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a3f31aafef970a0fa35/images/DwZ3UjAhFsNDaYH6tF-I6XFTcUwJbU4A5bkjduIFVGs.jpeg",
+   "date": "Sep 18, 2026",
+   "actual_image_width": 160,
+   "actual_image_height": 400
+  },
+  {
+   "position": 4,
+   "title": "Melissa & Doug Recalls Fire Truck Activity Board Toys Due to Risk ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Melissa-and-Doug-Recalls-Fire-Truck-Activity-Board-Toys-Due-to-Risk-of-Serious-Injury-from-Choking-Hazard-Sold-Exclusively-at-Target",
+   "thumbnail": "https://serpapi.com/searches/6ac81a3f31aafef970a0fa35/images/3XmamLcx-8Yb71l3VMd2Csf8p18agOrQAnbauWxOt4A.jpeg",
+   "actual_image_width": 160,
+   "actual_image_height": 400
+  },
+  {
+   "position": 5,
+   "title": "Melissa & Doug toys sold at Target recalled. See the affected products",
+   "source": "AOL.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_1Cb_0yf90Sb_0yf_0yf_1Sf_2CjnvyOmiRnYsyG3mBzuxSTFox4BAQCJchU9MglURg1nVg8oIQZmRslgAAAABnRSTlMAGrn9_7TGuOPGAAAAw0lEQVR4AcWSBRLEIAwA0QTSkNr__3qp92pjJ4uzg2OMdT5c4KNVF26xJt5LZ_y99CY88FUJCHM5VQA2iSnT2JeqTB4Cc1olFBGpMYRalIawFfGrbERhHJ3iu01CEulFKtb-TK1mO4lZjUiXNCGSSL2XOqsO6MteBoBBAstEHuZepiUileOsI13ebUhBleOsnDTncbs9Ia0SSikISKVwoFxXHgJwUUDleHdzDogYFJgq_3jP5w_m7mV8_tTGRn85p7PmBUbAE1RDzShsAAAAAElFTkSuQmCC.png",
+   "link": "https://www.aol.com/articles/melissa-doug-toys-sold-target-155859000.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a3f31aafef970a0fa35/images/66olJkALjCdY9kXxWKr9U3RN6_8GQp2koc8GQGK53kQ.jpeg",
+   "date": "Sep 18, 2026",
+   "actual_image_width": 160,
+   "actual_image_height": 400
+  },
+  {
+   "position": 6,
+   "title": "Melissa & Doug Recalls Fire Truck Activity Board Toys Due to Risk ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10976/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a3f31aafef970a0fa35/images/D2B72tAQ0PYnAOmR3umRzlySeAD2X1730c-_L1ixSRc.jpeg",
+   "date": "Sep 16, 2026",
+   "actual_image_width": 216,
+   "actual_image_height": 540
+  },
+  {
+   "position": 7,
+   "title": "Make sure your kids don't have this Melissa & Doug toy fire truck, it's ...",
+   "source": "AOL.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_1Cb_0yf90Sb_0yf_0yf_1Sf_2CjnvyOmiRnYsyG3mBzuxSTFox4BAQCJchU9MglURg1nVg8oIQZmRslgAAAABnRSTlMAGrn9_7TGuOPGAAAAw0lEQVR4AcWSBRLEIAwA0QTSkNr__3qp92pjJ4uzg2OMdT5c4KNVF26xJt5LZ_y99CY88FUJCHM5VQA2iSnT2JeqTB4Cc1olFBGpMYRalIawFfGrbERhHJ3iu01CEulFKtb-TK1mO4lZjUiXNCGSSL2XOqsO6MteBoBBAstEHuZepiUileOsI13ebUhBleOsnDTncbs9Ia0SSikISKVwoFxXHgJwUUDleHdzDogYFJgq_3jP5w_m7mV8_tTGRn85p7PmBUbAE1RDzShsAAAAAElFTkSuQmCC.png",
+   "link": "https://www.aol.com/articles/sure-kids-don-t-melissa-165430000.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a3f31aafef970a0fa35/images/wsa2hx4ZbHY23bkFF57hUVpd9b0zPwKp-pstgnqaZto.jpeg",
+   "date": "Sep 17, 2026",
+   "actual_image_width": 160,
+   "actual_image_height": 400
+  },
+  {
+   "position": 8,
+   "title": "Make sure your kids don't have this Melissa & Doug toy fire truck, it's ...",
+   "source": "Yahoo",
+   "source_icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y1Tw_rqeMyPAHiJa72CusnhawJMmBUuzLIMAAAP5EilGHfSrv1c3raO7TMHCGEE0tanMuC4V63zPenGYvtPz_5miYFkvaNxoWFtqMmi-ZsnEGEWLyTen-1PcFiwqmOBEDdA2Bm4NzFKD-TDXjhuG3e7uKnQ0zqZhi8wQIDft34vQCWtH1diJyyQZvVUQhczt9vEuHYtoxJ3Gi7pHK8HONj47luWPosGLQpyPC5T2PfP3NbGwe_c16iS8OYJQdl3kAK7Xu9_Hgx1RwHhh6AAA.webp",
+   "link": "https://www.yahoo.com/news/us/articles/sure-kids-don-t-melissa-165430880.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a3f31aafef970a0fa35/images/eNRexJRTPUg1803GZdUAu1EUOzDytJj0U_BALPgQ9ew.jpeg",
+   "date": "Sep 17, 2026",
+   "actual_image_width": 160,
+   "actual_image_height": 400
+  },
+  {
+   "position": 9,
+   "title": "Melissa & Doug toys sold at Target recalled. See the affected products",
+   "source": "Yahoo",
+   "source_icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y1Tw_rqeMyPAHiJa72CusnhawJMmBUuzLIMAAAP5EilGHfSrv1c3raO7TMHCGEE0tanMuC4V63zPenGYvtPz_5miYFkvaNxoWFtqMmi-ZsnEGEWLyTen-1PcFiwqmOBEDdA2Bm4NzFKD-TDXjhuG3e7uKnQ0zqZhi8wQIDft34vQCWtH1diJyyQZvVUQhczt9vEuHYtoxJ3Gi7pHK8HONj47luWPosGLQpyPC5T2PfP3NbGwe_c16iS8OYJQdl3kAK7Xu9_Hgx1RwHhh6AAA.webp",
+   "link": "https://www.yahoo.com/news/us/articles/melissa-doug-toys-sold-target-155859302.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a3f31aafef970a0fa35/images/sDlaQ9WTgU7c2xmwTpnFwr6DihZ08pWYF7dqDGqF1Hg.jpeg",
+   "date": "Sep 18, 2026",
+   "actual_image_width": 160,
+   "actual_image_height": 400
+  },
+  {
+   "position": 10,
+   "title": "Melissa & Doug Recalls Fire Truck Activity Board Toys recalled due ...",
+   "source": "Safely HQ",
+   "source_icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAACQBQCdASocABwAPtE0tFooIigoGAEAGglsAJ0BizixExduYrWVpx6Q1ifqNxgjTW4dwOYdgAD-_nr_3xfZJYcbNk5qouq9pdUjVhXeSKvWJfvgHSIlcNLYNqhH57IXXQ48lEswJHIDEXlZNHa_7xvQTbXXml-rN82LhiBKajb5na6khJsxjan0tlmThHOpz63ncGvidDE6xySshGsmjHr69bO72GlGlal4n33C8vyUmLF-ze93s5fxMz4Kpv9I0zI6MLlgexHGcrC6Ii18nd_7j_ImSw9wAAA.webp",
+   "link": "https://safelyhq.com/recall/melissa-doug-recalls-fire-truck-activity-board-toys-recalled-due-to-risk-of-serious-injury-from-choking-hazard-united-states",
+   "thumbnail": "https://serpapi.com/searches/6ac81a3f31aafef970a0fa35/images/0qjhZ2HKOkw0x4BFzgEs5jZbaG52KPBZ7bxx2BYiSj8.jpeg",
+   "date": "Sep 20, 2026",
+   "actual_image_width": 480,
+   "actual_image_height": 1200
+  }
+ ]
+}

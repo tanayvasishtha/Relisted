@@ -1,0 +1,137 @@
+{
+ "search_metadata": {
+  "id": "6ac81aacb77a0a6684b10e3b",
+  "status": "Success",
+  "created_at": "2026-10-08 22:35:24 UTC",
+  "processed_at": "2026-10-08 22:35:24 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2FRecalledSamsClubMembersMarkChildrenspajamasets%2520.png",
+  "total_time_taken": 6.31
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/RecalledSamsClubMembersMarkChildrenspajamasets%20.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Sam's Club Recalls Member's Mark Children's Pajama Sets Due to ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Sams-Club-Recalls-Members-Mark-Childrens-Pajama-Sets-Due-to-Burn-Hazard-Violates-Mandatory-Flammability-Standards-for-Childrens-Sleepwear",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/j3mCOH5BW55ws-tafAB6cRSPtjz8HvGPz5Sh8O4zIus.jpeg",
+   "actual_image_width": 540,
+   "actual_image_height": 241
+  },
+  {
+   "position": 2,
+   "title": "Sam's Club Recalls Member's Mark Children's Pajama Sets Due to ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10690/",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/0RQwdwVTXRpX9sMruyCu9CtIKQ1rKOxnJS1gL-P8KZk.jpeg",
+   "date": "Apr 1, 2026",
+   "actual_image_width": 996,
+   "actual_image_height": 445
+  },
+  {
+   "position": 3,
+   "title": "Sam's Club Recalls Children's Pajamas Due to Fire Hazard",
+   "source": "Drugs.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAACwCACdASocABwAPtEutFooIagoGAEAGglsAJ0hN4nRZD0tAS4JBm9G3_M8jvzN_kvSK6wH63eyB-wA7NiiA0kX9mASaRrRQhjRJFlcCQAA_vYC_wB3cQ_62lhZzb_Cw3ByRJL7IAyL62sF5_WScmbtEk8aKcan9u2S-OW754BVj_ogbf3AoO9x7se5LN_fKheSqlaq9P64LQM7O6Kb-amYCn6JdQQi9n8-AhCVDJ80MuiBD-aMLxMobYHXLYSapIF7-BWzGqJravq7tI0VALhQclXVHQKUOhuZ_W-q8OlK5ycM6CuvgzjxX1V_eChJM_1W6aNmBwNSk3tGvzXBUnRgt4fi_oF7b2_dqZerpUNEEPYdKUT7SDbh7dXx5nfOHDBQbXJNihpmx7b8lVOXkya89hySuXTckYIdUfDMkQi8S9ug7fGsAboybI4BceLwpjrwCIWfAAA.webp",
+   "link": "https://www.drugs.com/news/sam-s-club-recalls-children-s-pajamas-due-fire-hazard-129616.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/V8pAFfSacHwUUE262c255WWYLXxNyuWcBeRkezdmGus.jpeg",
+   "date": "Apr 14, 2026",
+   "actual_image_width": 600,
+   "actual_image_height": 400
+  },
+  {
+   "position": 4,
+   "title": "Sams Club Recalls Childrens Pajamas Due to Fire Hazard",
+   "source": "Powers Health",
+   "source_icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAAAQBwCdASobABwAPtEutFooIagoGAEAGglsAJ0yhHtP5YR79S3OWbdrfSIxqtL4azT7Og3SLetEJlnzC0p9CHfuyAD-9gi9EpvIqFdKqJulC0YASAGz7kZI7Ulv5bpUEcrP4Tpqtavq0XIKhcScLJwpBb1YpV7oR0rvEucHQp-3pd1FU1pXPxp_9eBJld9d6yGEVPUarPQ0jh_J7lRwzbFjKvN7Dv10utewX8M4BxJja1_bbqbfoR5iTLPf5mpVI4_iwtGteF1r8GqjA_E0gt-ey5kyMY261iL8epAwftWoVvB_jUgdz8xvWH5He9HO70X4xER9VolVlDM_8NPhJkqd1LCJAXjQkBvQRH78E2un23DQRWTHcuPyZE4XFPAjaAjPiH5sZk-PwDR5B8SVeN2mr8loPsrt5xGtlf3d_VplwXXl0oDTTwAEWyeCW6hxvQlGg7rgAAA.webp",
+   "link": "https://www.powershealth.org/about-us/newsroom/health-library/2026/04/14/sams-club-recalls-childrens-pajamas-due-to-fire-hazard",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/IA6YcNtRjeNGO_qI0dQnPMvG9WGImqAbBhTseCmWz_k.jpeg",
+   "date": "Apr 14, 2026",
+   "actual_image_width": 1200,
+   "actual_image_height": 800
+  },
+  {
+   "position": 5,
+   "title": "Sam's Club recalls Member's Mark children's pajama sets due to ...",
+   "source": "NottinghamMD.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRpQAAABXRUJQVlA4IIgAAABQBACdASocABwAPrkurlcnIacnG_DgFwlpAAPkOwkG8y0NGMJtW9BYUJAAAP734oszjnZhLvscllHYE8-I3YUEZ8L_aNhm5H_GB2I4IV83caWWfi69njW4Rf0xUPTPCF7VZL-Ymk4b3ZqSbZLxxak3ujTLedYkMQ-zET09KbDDY7RGUr0AAAAA.webp",
+   "link": "https://nottinghammd.com/2026/04/02/sams-club-recalls-members-mark-childrens-pajama-sets-due-to-burn-hazard/",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/bowlbtBCRPXQFe5spf_KNQw0DucVNwlM8Pae46Y-9CA.jpeg",
+   "date": "Apr 2, 2026",
+   "actual_image_width": 600,
+   "actual_image_height": 425
+  },
+  {
+   "position": 6,
+   "title": "Sam's Club Recalls Children's Pajamas Due to Fire Hazard",
+   "source": "U.S. News & World Report",
+   "source_icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "link": "https://www.usnews.com/news/health-news/articles/2026-04-14/sams-club-recalls-childrens-pajamas-due-to-fire-hazard",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/T0uPqE7oGn2azoD0xynsFE_BszxnW5SplYygLLRSwcQ.jpeg",
+   "date": "Apr 14, 2026",
+   "actual_image_width": 640,
+   "actual_image_height": 420
+  },
+  {
+   "position": 7,
+   "title": "Sam's Club is recalling thousands of children's pajamas, and the ...",
+   "source": "PennLive.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAADwAwCdASoQABAAAsBMJbACdFQA5__TAN4sK8D2gvYDAWyJl5RTu4gAAP75regMw9YS6BywD7ef3We-Mtuj3FLfWFfSHMbBkDYsVBH_Rbd6T8wNI_renT0uochVJPaoDg1Yr0CTXYqHsOCF5iQRzHeMXZf95L6a1J_U66UeWBfMTuOg1J0x_9woY4rFQZgxCcw3bJEWXtig4fpUPivxICHIDYF065Z0aOI0OVmhHwAAAA.webp",
+   "link": "https://www.pennlive.com/news/2026/04/sams-club-is-recalling-thousands-of-childrens-pajamas-and-the-reason-is-terrifying.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/zc4mRb0mB15BsmJi4lOzeEW825rbrrRpdl7TPmaYRlU.jpeg",
+   "date": "Apr 7, 2026",
+   "actual_image_width": 500,
+   "actual_image_height": 223
+  },
+  {
+   "position": 8,
+   "title": "Sam's Club Recalls Children's Pajamas Due to Fire Hazard",
+   "source": "HealthDay",
+   "source_icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAACQBQCdASocABwAPtEutFooIagoGAEAGglsALboibZSIikX-tColkq9H3SPt6CS5C5e2zSwAAD-9gJYXRwh9ozUR90Ou5-Vpl4e6gB47MOgmV3dfXUc9_tfTQuBwC2l-acfJ3WxGgLyjbosA4lAXYs_EsO-mRdGaxnBnl89wAWenPAcRcFfavyWKYvM2b_4a50_sO-Do_Gc3HzQtZyv6vnyLRdRaO41CmBDeKwXCOnD3bwGEJjXyb7Jss7f4zqmYw7FHDsm0AhvNhALJwih77TTsOO5sjBmr0mWvfIO-MncAAAA.webp",
+   "link": "https://www.healthday.com/health-news/public-health/sams-club-recalls-childrens-pajamas-due-to-fire-hazard",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/0fhXMqU-WPa3RAEoZgbLPkIBKifIYM5Xh5o76gW8Ikw.jpeg",
+   "date": "Apr 14, 2026",
+   "actual_image_width": 480,
+   "actual_image_height": 320
+  },
+  {
+   "position": 9,
+   "title": "Health alerts: Infant car seats, baby loungers, stuffed bears and more",
+   "source": "AAP",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAABQCACdASocABwAPtE-tFooIigoFAEAGglpAAZoHEB3gxdnNP9GewL-pPoV-rP9lfYi_YoNG-NY7VvNeT7ZvoOYHskEiIQKzos5UAAA_vYT4DMQ5226ZJtjDrZEctUvNIPaKqKebwmmK9SPgJOnfXtk7WcGO13JD7tr-bWORH0psEwEZ6bT2UbTZqArICenJx5XuEsZO8Gm1VjOR1VR04x3RBHNJ0gyCzya4xfhZxH-WGCNuZQ8IhBMt9rNpTd0DdjATv3hfJzvyNr-wzvzfrY8bdGqCTlLu7b9pMyOgVQC1_DwgrZ0St5sOt0psk97SEV5JdRngLPD4Elp93bEun4x0rDVE8Q6pKpzwRHmqeHQzi9kE4daMcpZlR81XzXR62tHtNucl9RB66X2f_6SkN1hAv_qhMSKiHrxOxFDr8r5Ad538eShUi_XKku8gN97-RembwDbf3SE9vIMvBPeuX0ipd2UBnO6CACig_Vwtr3TM6cIld4UCCPgA2DGfDnpkMoj88Wyt02KsCA4e1QJmp4Fy4WXfdPNEXOeFDaJuJLPpic4c80IaS7qngAAAA.webp",
+   "link": "https://publications.aap.org/aapnews/news/34990/Health-alerts-Infant-car-seats-baby-loungers",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/pplCYvGkJgLWmpe6aU8nRBNlX-dHhVfViPY9x4nal-0.jpeg",
+   "date": "Jun 1, 2026",
+   "actual_image_width": 437,
+   "actual_image_height": 195
+  },
+  {
+   "position": 10,
+   "title": "Sam's Club Recalls 2026: What Members Need to Know Right Now",
+   "source": "Señora Era",
+   "source_icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtEwtFooIigoGAEAGgljAMNVICPPeNxMAHP_0za3P-Ve75sX9HQynCB-CaJuU_AEAAD-9gfjxEIjVqv_U_TPKGN0EI2uAjOnIhlrjzStZzSbD4tBHi1j0hru_-JGfkDDgeZaGN68drr1u7XQC5jQj_MPWX4HR2nUa1OUb2qW_EKBMLuzo9MNE4pTvpAqwy848JomMxAUD-VJBT35qEI5SHonf7dfBLtD-l_Sd_mIy2x16i_PESY--Pgl0tBLNKO9n-aUhmyYGuj532Uou70WPMnQ-_hpwOkTRmrNvUKf6qmeLQrNzU0qDOCft7BlXaE9DMkyEfnqCilvMAAA.webp",
+   "link": "https://senoraera.com/sams-club-recalls-2026-what-members-need-to-know-right-now/",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/aAQy8P_A1Zkj-Tg6Y37-n0EjNsba8L293WHhSIrdpYA.jpeg",
+   "date": "Apr 15, 2026",
+   "actual_image_width": 996,
+   "actual_image_height": 445
+  },
+  {
+   "position": 11,
+   "title": "CPSC announces multiple recalls over risks of death, injury from ...",
+   "source": "WRNJ Radio",
+   "source_icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAADwBgCdASocABwAPtE-tFooIigoFAEAGgloALUbMA4CER_Lvna84LOV7j8GZGyZSIgu8KBe-Roh1Qlpsi_FfrS4AP79K8ZcFF47xGAZ2vT47lDnovVK40eyuFgVjnsZM7XaQmEpcwM_-eOdSAnhHKsbY_fHLD_qhI_58U--bTvH7fA7L5Kr89Q6HK_9642YuKQRYchT69Z6_OUv2qK2dz3AIXGwn3sIsNT6CXV7POjUVapuRZIG9d5AibZSbPC3Xpf8dQorsh3iyKEGU3bCbtJXbti75i4jL4vTjE3WdNa0Frs4MEhsp3o4ve3rI1Ob_HqkNwsL0xqxc_Pv1rvoxy9sqxyUSPN-xEn7ziaFA6XPR1Aqk8-vsBOQtnGQ6cgwLycQ78m-0vfiiNxSlevzbz50VZBhReHPC_qtYL5rtaBDDZ8RZHOm78S3fflM4b1gBAcp6o1XobLlvIm1QYayviM_TGAPLr2gMTzyH-NZ7sS_B_xQiNIu_3Fouh3YAAAA.webp",
+   "link": "https://wrnjradio.com/cpsc-announces-multiple-recalls-over-risks-of-death-injury-from-toys-bed-rails-and-other-products/",
+   "thumbnail": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/OCdWGXsTY-mggMxfCGIz9UX2upoQ_A64ARUKrAE6iC4.jpeg",
+   "date": "Apr 3, 2026",
+   "actual_image_width": 996,
+   "actual_image_height": 445
+  }
+ ]
+}

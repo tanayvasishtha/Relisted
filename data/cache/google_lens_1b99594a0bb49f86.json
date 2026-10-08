@@ -1,0 +1,333 @@
+{
+ "search_metadata": {
+  "id": "6ac81a2c9701214f0955fbe3",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Po0i1azLHTDUp0aQVCCjBOv4Nx7pKUSA75Rl546xXDI/6ac81a2c9701214f0955fbe3.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Po0i1azLHTDUp0aQVCCjBOv4Nx7pKUSA75Rl546xXDI/6ac81a2c9701214f0955fbe3.md",
+  "created_at": "2026-10-08 22:33:16 UTC",
+  "processed_at": "2026-10-08 22:33:16 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2FPicture3_96.png",
+  "raw_html_file": "https://serpapi.com/searches/Po0i1azLHTDUp0aQVCCjBOv4Nx7pKUSA75Rl546xXDI/6ac81a2c9701214f0955fbe3.html",
+  "total_time_taken": 3.77
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/Picture3_96.png",
+  "type": "exact_matches"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Submersible LED Lights cr2032 Battery Powered ...",
+   "link": "https://www.amazon.com/clp/B07L7LDQSY",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV93CI8l_sg0xXybErSTIij-DgkRTV9QhreTrqYMT2L2_TZi9KYtiqHbCgCOjIZftKOSbKNUTROguXF0RNruddk38Z-eENbkzhn0swWnA_SqfR31XQmKAA-U-4WQ&ved=2ahUKEwiGiLGMvauXAxWSU0EAHQyPPOMQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://www.amazon.com › clp",
+   "thumbnail": "https://serpapi.com/searches/6ac81a2c9701214f0955fbe3/images/Q28tFEJpfwN_lGVd-gs2i5baWVcL1kDsX9mx1EjxjxA.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Submersible LED Lights cr2032 Battery Powered Underwater Waterproof LED Tea Light Candles for Events Wedding Centerpieces s Home Decor Lighting(Pack of 12) for ...",
+   "snippet_highlighted_words": [
+    "Submersible LED Lights cr2032 Battery Powered"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "extensions": [
+      "Free delivery",
+      "30-day returns"
+     ],
+     "detected_extensions": {
+      "day_returns": 30
+     }
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Submersible LED Lights cr2032 Battery Powered Underwater Waterproof LED Tea Light Candles for Events Wedding Centerpieces s Home Decor Lighting(Pack of 12) for ...",
+     "source_info_link": "https://www.amazon.com/clp/B07L7LDQSY",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjkzQ0k4bF9zZzB4WHliRXJTVElpai1EZ2tSVFY5UWhyZVRycVlNVDJMMl9UWmk5S1l0aXFIYkNnQ09qSVpmdEtPU2JLTlVUUk9ndVhGMFJOcnVkZGszOFotZUVOYmt6aG4wc3dXbkFfU3FmUjMxWFFtS0FBLVUtNFdREgQaAggAGiISABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVjkzQ0k4bF9zZzB4WHliRXJTVElpai1EZ2tSVFY5UWhyZVRycVlNVDJMMl9UWmk5S1l0aXFIYkNnQ09qSVpmdEtPU2JLTlVUUk9ndVhGMFJOcnVkZGszOFotZUVOYmt6aG4wc3dXbkFfU3FmUjMxWFFtS0FBLVUtNFdREgQaAggAGiISABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 2,
+   "title": "Ashland White Submersible LED Lights, 6 Packs",
+   "link": "https://www.amazon.com/clp/B0BSVFWJ9V",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVezNvR-bdvIqQtoikbtWwRHsVSEY-pSjbxU0Lu3oGQhxVHt7IUcS9r4YHdXL7j_sL74zx647X5p-a1A9NwBgWbolv4XIBOgQJVzPf663ogYS-R_lD02N6n_kGfA&ved=2ahUKEwiGiLGMvauXAxWSU0EAHQyPPOMQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://www.amazon.com › clp",
+   "thumbnail": "https://serpapi.com/searches/6ac81a2c9701214f0955fbe3/images/Q28tFEJpfwN_lGVd-gs2iwNfPEsIF-KZwHuYtk1VXiM.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Create the perfect mood or ambiance with water and lighting. Add beautiful illumination to floral arrangements, mixed media projects and more with these battery ...",
+   "snippet_highlighted_words": [
+    "Create the perfect mood or ambiance with water and lighting"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Create the perfect mood or ambiance with water and lighting. Add beautiful illumination to floral arrangements, mixed media projects and more with these battery ...",
+     "source_info_link": "https://www.amazon.com/clp/B0BSVFWJ9V",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmV6TnZSLWJkdklxUXRvaWtidFd3UkhzVlNFWS1wU2pieFUwTHUzb0dRaHhWSHQ3SVVjUzlyNFlIZFhMN2pfc0w3NHp4NjQ3WDVwLWExQTlOd0JnV2JvbHY0WElCT2dRSlZ6UGY2NjNvZ1lTLVJfbEQwMk42bl9rR2ZBEgQaAggAGiISABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmV6TnZSLWJkdklxUXRvaWtidFd3UkhzVlNFWS1wU2pieFUwTHUzb0dRaHhWSHQ3SVVjUzlyNFlIZFhMN2pfc0w3NHp4NjQ3WDVwLWExQTlOd0JnV2JvbHY0WElCT2dRSlZ6UGY2NjNvZ1lTLVJfbEQwMk42bl9rR2ZBEgQaAggAGiISABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Amazon.com",
+   "read_more_link": "https://www.amazon.com/clp/B0BSVFWJ9V#:~:text=Create%20the%20perfect%20mood%20or,battery%20operated%2C%20submersible%20LED%20lights."
+  },
+  {
+   "position": 3,
+   "title": "LED Lights Recalled Due to Risk of Serious Injury or ...",
+   "link": "https://www.cpsc.gov/Recalls/2026/LED-Lights-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Coin-Batteries-Sold-on-Amazon-by-Happiness-Light",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwIB6zswFXylNdx8GLZcAwmLCLqpAYPXZm2pUEAoMA-C8-IgIS3qvBaHv3XCz6KVCr2HqsfLe9xfUhuzrPh6THNU8DmpCg13hTYoHp4jbUUg4il6NdIUbKdFmtQnndc8t_I-VYLuhYqS9hGPx1yBt6s_LrFdy_0gj1lC9X6JRiAccuJkAwz0-NHkR5ugkATUh67s37_Kn7jukr_TXKZA5dxi1ophNgS8htV9JaEcnCQeq2uzrTfRBsULBTD5raUFDjRlzTQ0Hos2ttVKWorAnFrT301tWqfQzQpk6_v-D_JWths6Wu_H2OIApKsGAzzywu5t2t12ueem5ILOsoAJZj4yfQw08wP89YmX58auxpGla5elrM9njUA&ved=2ahUKEwiGiLGMvauXAxWSU0EAHQyPPOMQFnoECB0QAQ&uoh=1",
+   "displayed_link": "https://www.cpsc.gov › Recalls › LED-Lights-Recalled-D...",
+   "thumbnail": "https://serpapi.com/searches/6ac81a2c9701214f0955fbe3/images/Q28tFEJpfwN_lGVd-gs2i5-vRXiH6f0689lXpUZ3kcs.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "snippet": "When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.",
+   "about_this_result": {
+    "source": {
+     "description": "When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.",
+     "source_info_link": "https://www.cpsc.gov/Recalls/2026/LED-Lights-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Coin-Batteries-Sold-on-Amazon-by-Happiness-Light",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CoUDL2dvdG8_dXJsPUNBRVNsd0lCNnpzd0ZYeWxOZHg4R0xaY0F3bUxDTHFwQVlQWFptMnBVRUFvTUEtQzgtSWdJUzNxdkJhSHYzWEN6NktWQ3IySHFzZkxlOXhmVWh1enJQaDZUSE5VOERtcENnMTNoVFlvSHA0amJVVWc0aWw2TmRJVWJLZEZtdFFubmRjOHRfSS1WWUx1aFlxUzloR1B4MXlCdDZzX0xyRmR5XzBnajFsQzlYNkpSaUFjY3VKa0F3ejAtTkhrUjV1Z2tBVFVoNjdzMzdfS243anVrcl9UWEtaQTVkeGkxb3BoTmdTOGh0VjlKYUVjbkNRZXEydXpyVGZSQnNVTEJURDVyYVVGRGpSbHpUUTBIb3MydHRWS1dvckFuRnJUMzAxdFdxZlF6UXBrNl92LURfSld0aHM2V3VfSDJPSUFwS3NHQXp6eXd1NXQydDEydWVlbTVJTE9zb0FKWmo0eWZRdzA4d1A4OVltWDU4YXV4cEdsYTVlbHJNOW5qVUESBBoCCAAaJBICCAAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUDL2dvdG8_dXJsPUNBRVNsd0lCNnpzd0ZYeWxOZHg4R0xaY0F3bUxDTHFwQVlQWFptMnBVRUFvTUEtQzgtSWdJUzNxdkJhSHYzWEN6NktWQ3IySHFzZkxlOXhmVWh1enJQaDZUSE5VOERtcENnMTNoVFlvSHA0amJVVWc0aWw2TmRJVWJLZEZtdFFubmRjOHRfSS1WWUx1aFlxUzloR1B4MXlCdDZzX0xyRmR5XzBnajFsQzlYNkpSaUFjY3VKa0F3ejAtTkhrUjV1Z2tBVFVoNjdzMzdfS243anVrcl9UWEtaQTVkeGkxb3BoTmdTOGh0VjlKYUVjbkNRZXEydXpyVGZSQnNVTEJURDVyYVVGRGpSbHpUUTBIb3MydHRWS1dvckFuRnJUMzAxdFdxZlF6UXBrNl92LURfSld0aHM2V3VfSDJPSUFwS3NHQXp6eXd1NXQydDEydWVlbTVJTE9zb0FKWmo0eWZRdzA4d1A4OVltWDU4YXV4cEdsYTVlbHJNOW5qVUESBBoCCAAaJBICCAAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "CPSC.gov"
+  },
+  {
+   "position": 4,
+   "title": "LED Light - Newhouse Lighting",
+   "link": "https://www.homedepot.com/b/Newhouse-Lighting/LED-Light/N-5yc1vZdh3Z1z1bo1p",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFTW4zvytYzbmLqWh-KouTEMibGGszV84lPIcFjP66vp5FNM0EllwGIHSi26MmyQPVGnmuRCsNGF3pwCHk6rJMPGsOMVlpy0h72jLrikldVFr-9kYlL8NOoh8sWvwL-kNmLT3aD9y6AL1Km4OMr7O-nGxNBkywJv_ySB2Oqitorhaeg&ved=2ahUKEwiGiLGMvauXAxWSU0EAHQyPPOMQFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://www.homedepot.com › Newhouse-Lighting › LE...",
+   "thumbnail": "https://serpapi.com/searches/6ac81a2c9701214f0955fbe3/images/Q28tFEJpfwN_lGVd-gs2izFTP3rqkFwZg_faRzm2BzU.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRiACAABXRUJQVlA4IBQCAACQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhEgH4AXodt7CZ6ANsB5gPOd6MDqAOfb9g9fgrc0AIZd4tdQNWejx1AV2wLfrgzC5BaY5crdVgXxO58G11AshtwAA9wKUHMFlww6XmzmwVnt3NJzCUp4e_yUjGQVXdRQQpfbVGGTPPxb9ozsnmv8foc6TtiaGPlmGbZ8HdWZm8Lzt0OBE74SfXfH8gfoUo_NXSYiZ__ZoOaL4eRgIaQgDhYzj-c7RBuPf_9y1c8iZCIZt91a3bjN5c00D7g74jqnEhG9aVx0E9lMwtmpgjaci9eOo0qdBsbkHNdrLmco4PFnua2onidttCsNYffCXJDykkPC5CjXaEHIh5UxrX7DWFRVVhjkHufhmVdAKTPGNUEgLrRONYRyarZIqSEUe34RHmzfsovBG1EX3tn5W4cP-jj5AP1czLT0efHX0NDG3u8Q2luxFMlWt2ZyCdhoK2srVjlmZKsY8QtlmkU7rfHNcKIlqcmfGZaqgpT2B-loluxIICcsT8Of5JzIHthQKo1SQ5YpveIJm_uFXnuNtubxDCed32_6ujxaQO1B_g7hYijeF9rnR9Sccws5E9KmesLLeXejHEBom4zSbJ5ZKp0ZVl2JOE89PDuTHqD9S4YUHaDpXnw_bhoLP3asbgmJ3nbhKIGc6pprFJR1BRjLo29tk8vBfBVegAAAA.webp",
+   "snippet": "Get free shipping on qualified LED Light, Newhouse Lighting products or Buy Online. Underwater LED Tea Light. Get 10% off your purchase",
+   "snippet_highlighted_words": [
+    "LED Light, Newhouse Lighting products"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.6
+     },
+     "extensions": [
+      "4.6",
+      "store rating (3.7K)",
+      "Free in-store returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Get free shipping on qualified LED Light, Newhouse Lighting products or Buy Online. Underwater LED Tea Light. Get 10% off your purchase",
+     "source_info_link": "https://www.homedepot.com/b/Newhouse-Lighting/LED-Light/N-5yc1vZdh3Z1z1bo1p",
+     "icon": "https://serpapi.com/images/i/UklGRiACAABXRUJQVlA4IBQCAACQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhEgH4AXodt7CZ6ANsB5gPOd6MDqAOfb9g9fgrc0AIZd4tdQNWejx1AV2wLfrgzC5BaY5crdVgXxO58G11AshtwAA9wKUHMFlww6XmzmwVnt3NJzCUp4e_yUjGQVXdRQQpfbVGGTPPxb9ozsnmv8foc6TtiaGPlmGbZ8HdWZm8Lzt0OBE74SfXfH8gfoUo_NXSYiZ__ZoOaL4eRgIaQgDhYzj-c7RBuPf_9y1c8iZCIZt91a3bjN5c00D7g74jqnEhG9aVx0E9lMwtmpgjaci9eOo0qdBsbkHNdrLmco4PFnua2onidttCsNYffCXJDykkPC5CjXaEHIh5UxrX7DWFRVVhjkHufhmVdAKTPGNUEgLrRONYRyarZIqSEUe34RHmzfsovBG1EX3tn5W4cP-jj5AP1czLT0efHX0NDG3u8Q2luxFMlWt2ZyCdhoK2srVjlmZKsY8QtlmkU7rfHNcKIlqcmfGZaqgpT2B-loluxIICcsT8Of5JzIHthQKo1SQ5YpveIJm_uFXnuNtubxDCed32_6ujxaQO1B_g7hYijeF9rnR9Sccws5E9KmesLLeXejHEBom4zSbJ5ZKp0ZVl2JOE89PDuTHqD9S4YUHaDpXnw_bhoLP3asbgmJ3nbhKIGc6pprFJR1BRjLo29tk8vBfBVegAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZUVzR6dnl0WXpibUxxV2gtS291VEVNaWJHR3N6Vjg0bFBJY0ZqUDY2dnA1Rk5NMEVsbHdHSUhTaTI2TW15UVBWR25tdVJDc05HRjNwd0NIazZySk1QR3NPTVZscHkwaDcyakxyaWtsZFZGci05a1lsTDhOT29oOHNXdndMLWtObUxUM2FEOXk2QUwxS200T01yN08tbkd4TkJreXdKdl95U0IyT3FpdG9yaGFlZxIEGgIIABoiEgAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZUVzR6dnl0WXpibUxxV2gtS291VEVNaWJHR3N6Vjg0bFBJY0ZqUDY2dnA1Rk5NMEVsbHdHSUhTaTI2TW15UVBWR25tdVJDc05HRjNwd0NIazZySk1QR3NPTVZscHkwaDcyakxyaWtsZFZGci05a1lsTDhOT29oOHNXdndMLWtObUxUM2FEOXk2QUwxS200T01yN08tbkd4TkJreXdKdl95U0IyT3FpdG9yaGFlZxIEGgIIABoiEgAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "The Home Depot"
+  },
+  {
+   "position": 5,
+   "title": "Submersible Waterproof Candle Lights - Multicolor",
+   "link": "https://www.walmart.com/ip/Submersible-Waterproof-Candle-Lights-Multicolor/5139524807",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFeRd-HkKd8FiK5rEwti9aHogpIIEIRwgktbxgflHUjzisQS0CDJ1MggbWv5NEuqY0LPBMVt0Ot6jd310SU28DspSLA-eimVtC9Vwu2qavn5KERaRYpYejqnN4Q5Testzk6zmuh-595jz4y5twSqergiQw0isPC5n9uPtEwulemaQ5hl87Zbyt2-lY6E&ved=2ahUKEwiGiLGMvauXAxWSU0EAHQyPPOMQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://www.walmart.com › ... › Flameless Candles",
+   "thumbnail": "https://serpapi.com/searches/6ac81a2c9701214f0955fbe3/images/Q28tFEJpfwN_lGVd-gs2i0H1UkrNemcMsiv_ICayK0Q.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp",
+   "snippet": "Submersible Waterproof Candle Lights - Multicolor at Walmart.com. - Multicolor Current price is USD$8.76$876. Shipping Out of stock Pickup Not",
+   "snippet_highlighted_words": [
+    "Submersible Waterproof Candle Lights - Multicolor"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "detected_extensions": {
+      "price": 8.76,
+      "currency": "$",
+      "free_day_returns": 90
+     },
+     "extensions": [
+      "$8.76",
+      "Free 90-day returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Submersible Waterproof Candle Lights - Multicolor at Walmart.com. - Multicolor Current price is USD$8.76$876. Shipping Out of stock Pickup Not",
+     "source_info_link": "https://www.walmart.com/ip/Submersible-Waterproof-Candle-Lights-Multicolor/5139524807",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZlUmQtSGtLZDhGaUs1ckV3dGk5YUhvZ3BJSUVJUndna3RieGdmbEhVanppc1FTMENESjFNZ2diV3Y1TkV1cVkwTFBCTVZ0ME90NmpkMzEwU1UyOERzcFNMQS1laW1WdEM5Vnd1MnFhdm41S0VSYVJZcFllanFuTjRRNVRlc3R6azZ6bXVoLTU5NWp6NHk1dHdTcWVyZ2lRdzBpc1BDNW45dVB0RXd1bGVtYVE1aGw4N1pieXQyLWxZNkUSBBoCCAAaIhIAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZlUmQtSGtLZDhGaUs1ckV3dGk5YUhvZ3BJSUVJUndna3RieGdmbEhVanppc1FTMENESjFNZ2diV3Y1TkV1cVkwTFBCTVZ0ME90NmpkMzEwU1UyOERzcFNMQS1laW1WdEM5Vnd1MnFhdm41S0VSYVJZcFllanFuTjRRNVRlc3R6azZ6bXVoLTU5NWp6NHk1dHdTcWVyZ2lRdzBpc1BDNW45dVB0RXd1bGVtYVE1aGw4N1pieXQyLWxZNkUSBBoCCAAaIhIAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Walmart"
+  },
+  {
+   "position": 6,
+   "title": "JYtrend Bright LED Floral Tea Light Submersible ...",
+   "link": "https://www.amazon.com/clp/B00IT9QIGE",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVYJR1tO0h4Q5uD4EpWo-CJi-l9q1budCBaXgQ-EFHVTSHdoJE8z4Oq5wLcuCrEJ41-WHvW0Mt04HVRhL3kk35Eb_-7pWFAXUqhlEctGqLEJjuwFBnird3XK7lxA&ved=2ahUKEwiGiLGMvauXAxWSU0EAHQyPPOMQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://www.amazon.com › clp",
+   "thumbnail": "https://serpapi.com/searches/6ac81a2c9701214f0955fbe3/images/Q28tFEJpfwN_lGVd-gs2iy9DGR-F_CBr3rVDXGo8QU8.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "JYtrend Bright LED Floral Tea Light Submersible Lights for Party Wedding (White, 20 Pack): Flameless Candles. FREE DELIVERY possible",
+   "snippet_highlighted_words": [
+    "JYtrend Bright LED Floral Tea Light Submersible Lights"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "JYtrend Bright LED Floral Tea Light Submersible Lights for Party Wedding (White, 20 Pack): Flameless Candles. FREE DELIVERY possible",
+     "source_info_link": "https://www.amazon.com/clp/B00IT9QIGE",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVllKUjF0TzBoNFE1dUQ0RXBXby1DSmktbDlxMWJ1ZENCYVhnUS1FRkhWVFNIZG9KRTh6NE9xNXdMY3VDckVKNDEtV0h2VzBNdDA0SFZSaEwza2szNUViXy03cFdGQVhVcWhsRWN0R3FMRUpqdXdGQm5pcmQzWEs3bHhBEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVllKUjF0TzBoNFE1dUQ0RXBXby1DSmktbDlxMWJ1ZENCYVhnUS1FRkhWVFNIZG9KRTh6NE9xNXdMY3VDckVKNDEtV0h2VzBNdDA0SFZSaEwza2szNUViXy03cFdGQVhVcWhsRWN0R3FMRUpqdXdGQm5pcmQzWEs3bHhBEgQaAggAGiQSAggAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 7,
+   "title": "Reviews for Newhouse Lighting 1 in. Clear Waterproof ...",
+   "link": "https://www.homedepot.com/p/reviews/Newhouse-Lighting-1-in-Clear-Waterproof-Underwater-LED-Tea-Light-Pack-of-36-SW132WT-36/205617066/2",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFRxoljkxZLjxFC0B9Kg8gpaS6joRXEIxXk8_nGoqJIrXzlokwzF7SqBwmaJwjFWIPeXaHPiLq6I9SywvoWmNb3_El0J4-kjRnJ1xnoe6_mw6G20KceVRGQ2Wx_S-eXxiVdURJgshMUTlcqCwhtouDvuqOLWPxiQGyk2MyBRneMeEnuMI7gtJxVbnwMkE9--RcejMKrjYHqlCwMOWETz4QIBZUB4DyzxK-BsgE0lSWI__h-H9fEHQzH00AUb4lA&ved=2ahUKEwiGiLGMvauXAxWSU0EAHQyPPOMQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://www.homedepot.com › reviews",
+   "thumbnail": "https://serpapi.com/searches/6ac81a2c9701214f0955fbe3/images/Q28tFEJpfwN_lGVd-gs2i31qGnOUqUFC9YF6i2ZdVTE.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRiACAABXRUJQVlA4IBQCAACQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhEgH4AXodt7CZ6ANsB5gPOd6MDqAOfb9g9fgrc0AIZd4tdQNWejx1AV2wLfrgzC5BaY5crdVgXxO58G11AshtwAA9wKUHMFlww6XmzmwVnt3NJzCUp4e_yUjGQVXdRQQpfbVGGTPPxb9ozsnmv8foc6TtiaGPlmGbZ8HdWZm8Lzt0OBE74SfXfH8gfoUo_NXSYiZ__ZoOaL4eRgIaQgDhYzj-c7RBuPf_9y1c8iZCIZt91a3bjN5c00D7g74jqnEhG9aVx0E9lMwtmpgjaci9eOo0qdBsbkHNdrLmco4PFnua2onidttCsNYffCXJDykkPC5CjXaEHIh5UxrX7DWFRVVhjkHufhmVdAKTPGNUEgLrRONYRyarZIqSEUe34RHmzfsovBG1EX3tn5W4cP-jj5AP1czLT0efHX0NDG3u8Q2luxFMlWt2ZyCdhoK2srVjlmZKsY8QtlmkU7rfHNcKIlqcmfGZaqgpT2B-loluxIICcsT8Of5JzIHthQKo1SQ5YpveIJm_uFXnuNtubxDCed32_6ujxaQO1B_g7hYijeF9rnR9Sccws5E9KmesLLeXejHEBom4zSbJ5ZKp0ZVl2JOE89PDuTHqD9S4YUHaDpXnw_bhoLP3asbgmJ3nbhKIGc6pprFJR1BRjLo29tk8vBfBVegAAAA.webp",
+   "snippet": "Clear Waterproof Underwater LED Tea Light (Pack of 36). The lights are bright and look really nice in the centerpieces I made.",
+   "snippet_highlighted_words": [
+    "Clear Waterproof Underwater LED Tea Light"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.8,
+      "reviews": 33
+     },
+     "extensions": [
+      "4.8(33)",
+      "Free in-store returns"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Clear Waterproof Underwater LED Tea Light (Pack of 36). The lights are bright and look really nice in the centerpieces I made.",
+     "source_info_link": "https://www.homedepot.com/p/reviews/Newhouse-Lighting-1-in-Clear-Waterproof-Underwater-LED-Tea-Light-Pack-of-36-SW132WT-36/205617066/2",
+     "icon": "https://serpapi.com/images/i/UklGRiACAABXRUJQVlA4IBQCAACQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhEgH4AXodt7CZ6ANsB5gPOd6MDqAOfb9g9fgrc0AIZd4tdQNWejx1AV2wLfrgzC5BaY5crdVgXxO58G11AshtwAA9wKUHMFlww6XmzmwVnt3NJzCUp4e_yUjGQVXdRQQpfbVGGTPPxb9ozsnmv8foc6TtiaGPlmGbZ8HdWZm8Lzt0OBE74SfXfH8gfoUo_NXSYiZ__ZoOaL4eRgIaQgDhYzj-c7RBuPf_9y1c8iZCIZt91a3bjN5c00D7g74jqnEhG9aVx0E9lMwtmpgjaci9eOo0qdBsbkHNdrLmco4PFnua2onidttCsNYffCXJDykkPC5CjXaEHIh5UxrX7DWFRVVhjkHufhmVdAKTPGNUEgLrRONYRyarZIqSEUe34RHmzfsovBG1EX3tn5W4cP-jj5AP1czLT0efHX0NDG3u8Q2luxFMlWt2ZyCdhoK2srVjlmZKsY8QtlmkU7rfHNcKIlqcmfGZaqgpT2B-loluxIICcsT8Of5JzIHthQKo1SQ5YpveIJm_uFXnuNtubxDCed32_6ujxaQO1B_g7hYijeF9rnR9Sccws5E9KmesLLeXejHEBom4zSbJ5ZKp0ZVl2JOE89PDuTHqD9S4YUHaDpXnw_bhoLP3asbgmJ3nbhKIGc6pprFJR1BRjLo29tk8vBfBVegAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZSeG9samt4WkxqeEZDMEI5S2c4Z3BhUzZqb1JYRUl4WGs4X25Hb3FKSXJYemxva3d6RjdTcUJ3bWFKd2pGV0lQZVhhSFBpTHE2STlTeXd2b1dtTmIzX0VsMEo0LWtqUm5KMXhub2U2X213NkcyMEtjZVZSR1EyV3hfUy1lWHhpVmRVUkpnc2hNVVRsY3FDd2h0b3VEdnVxT0xXUHhpUUd5azJNeUJSbmVNZUVudU1JN2d0SnhWYm53TWtFOS0tUmNlak1LcmpZSHFsQ3dNT1dFVHo0UUlCWlVCNER5enhLLUJzZ0UwbFNXSV9faC1IOWZFSFF6SDAwQVViNGxBEgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZSeG9samt4WkxqeEZDMEI5S2c4Z3BhUzZqb1JYRUl4WGs4X25Hb3FKSXJYemxva3d6RjdTcUJ3bWFKd2pGV0lQZVhhSFBpTHE2STlTeXd2b1dtTmIzX0VsMEo0LWtqUm5KMXhub2U2X213NkcyMEtjZVZSR1EyV3hfUy1lWHhpVmRVUkpnc2hNVVRsY3FDd2h0b3VEdnVxT0xXUHhpUUd5azJNeUJSbmVNZUVudU1JN2d0SnhWYm53TWtFOS0tUmNlak1LcmpZSHFsQ3dNT1dFVHo0UUlCWlVCNER5enhLLUJzZ0UwbFNXSV9faC1IOWZFSFF6SDAwQVViNGxBEgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "The Home Depot"
+  },
+  {
+   "position": 8,
+   "title": "Submersible Led Lights with Remote,RGB Waterproof Tea Lights",
+   "link": "https://www.amazon.com/live/video/0f45a7081aee4f32822e1ab4b159d60a?ref_=vse_cards_2",
+   "displayed_link": "https://www.amazon.com › live › video",
+   "thumbnail": "https://serpapi.com/searches/6ac81a2c9701214f0955fbe3/images/Q28tFEJpfwN_lGVd-gs2ixcY4nxvLq5OQXdNEHrUn5g.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Submersible Led Lights with Remote,RGB Waterproof Tea Lights. Shop in our free App today. All Lighting & Ceiling Fans Novelty Lighting",
+   "duration": "1:53",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "date": "Oct 22, 2023"
+     },
+     "extensions": [
+      "Amazon.com",
+      "Rikiss",
+      "Oct 22, 2023"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Submersible Led Lights with Remote,RGB Waterproof Tea Lights. Shop in our free App today. All Lighting & Ceiling Fans Novelty Lighting",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    }
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZRTzdrUDF2bE05YXFXX2ZnN3hVNTQ3b3VvSE5QZWZVYmV5U3JkSC1VMGthanR4WXZrN2Rxb0RHZnBMZjdvUU53OXpkM3NTeWFtVGJxb0FacmhIenhhdi1meFBPY0ZueGJMdkVOVlpPX0NXcW5fNlBlT3kzMFpoZkFfNW1IcnRPMTlfX1VOU0QxQTA3OWZRVl83cmZJNVRjN2pual93S2p6bExwX3Y4eEZTMHBFS2pCRzdyUVlXTm0SFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZRTzdrUDF2bE05YXFXX2ZnN3hVNTQ3b3VvSE5QZWZVYmV5U3JkSC1VMGthanR4WXZrN2Rxb0RHZnBMZjdvUU53OXpkM3NTeWFtVGJxb0FacmhIenhhdi1meFBPY0ZueGJMdkVOVlpPX0NXcW5fNlBlT3kzMFpoZkFfNW1IcnRPMTlfX1VOU0QxQTA3OWZRVl83cmZJNVRjN2pual93S2p6bExwX3Y4eEZTMHBFS2pCRzdyUVlXTm0SFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT9Y8z0S5gOvQLoBUU6usuUIvr8oR5nqdg4Cw",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 9,
+   "title": "r/led",
+   "link": "https://www.reddit.com/r/led/",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVnQeGHTN75lXArGtJgWJVBjTQnil6ucQvXEtzoqRuWgyeo7wvhGfiII9zwGqCrfW2Atp1fZE2WMsTxEouiUnu87P_pbTTzeWF3L6be6zcWgE2LZQ&ved=2ahUKEwiGiLGMvauXAxWSU0EAHQyPPOMQFnoECEAQAQ&uoh=1",
+   "displayed_link": "37.3K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+   "snippet": "r/led: Ask questions and share information about using LED lights in your home, your projects, your car, your stage display and more. No selling.",
+   "snippet_highlighted_words": [
+    "using LED lights in your home, your projects, your car, your stage display and more"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "r/led: Ask questions and share information about using LED lights in your home, your projects, your car, your stage display and more. No selling.",
+     "source_info_link": "https://www.reddit.com/r/led/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVm5RZUdIVE43NWxYQXJHdEpnV0pWQmpUUW5pbDZ1Y1F2WEV0em9xUnVXZ3llbzd3dmhHZmlJSTl6d0dxQ3JmVzJBdHAxZlpFMldNc1R4RW91aVVudTg3UF9wYlRUemVXRjNMNmJlNnpjV2dFMkxaURIEGgIIABoiEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVm5RZUdIVE43NWxYQXJHdEpnV0pWQmpUUW5pbDZ1Y1F2WEV0em9xUnVXZ3llbzd3dmhHZmlJSTl6d0dxQ3JmVzJBdHAxZlpFMldNc1R4RW91aVVudTg3UF9wYlRUemVXRjNMNmJlNnpjV2dFMkxaURIEGgIIABoiEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Reddit · r/led"
+  }
+ ],
+ "search_information": {
+  "images_results_state": "Fully empty"
+ },
+ "error": "Google Lens hasn't returned any results for this query."
+}

@@ -1,0 +1,137 @@
+{
+ "search_metadata": {
+  "id": "6ac81a57f6d5eea1bee186b0",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/dsI7831Ztzkwlv9f-ODoB5P1m0gkDz5MF_DKjQuRHCQ/6ac81a57f6d5eea1bee186b0.json",
+  "markdown_endpoint": "https://serpapi.com/searches/dsI7831Ztzkwlv9f-ODoB5P1m0gkDz5MF_DKjQuRHCQ/6ac81a57f6d5eea1bee186b0.md",
+  "created_at": "2026-10-08 22:33:59 UTC",
+  "processed_at": "2026-10-08 22:33:59 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fbbrkinfire-1.png",
+  "raw_html_file": "https://serpapi.com/searches/dsI7831Ztzkwlv9f-ODoB5P1m0gkDz5MF_DKjQuRHCQ/6ac81a57f6d5eea1bee186b0.html",
+  "total_time_taken": 4.86
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/bbrkinfire-1.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Biometric Gun Safes Recalled Due to Serious Injury Hazard and ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Biometric-Gun-Safes-Recalled-Due-to-Serious-Injury-Hazard-and-Risk-of-Death-Sold-Exclusively-on-Amazon-com-by-BBRKIN",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/f94HjhSw1JjndEVoz6MHXAWJNoanbj5a-SlNA9DsA74.jpeg",
+   "actual_image_width": 298,
+   "actual_image_height": 400
+  },
+  {
+   "position": 2,
+   "title": "Biometric Gun Safes Recalled Due to Serious Injury Hazard and ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10855/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/pzcWst7Tlr_2M7lqwY4ZCR_HEnlK7XGEhZxt8phOmPg.jpeg",
+   "date": "Jul 8, 2026",
+   "actual_image_width": 494,
+   "actual_image_height": 664
+  },
+  {
+   "position": 3,
+   "title": "#Recall: Biometric Gun Safes Sold Exclusively on https ... - Facebook",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/USCPSC/posts/recall-biometric-gun-safes-sold-exclusively-on-by-bbrkin-the-biometric-lock-on-t/1733908675446905/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/JCFmKMKpbMxeGo0JOijHpo0G26tonHZaOBzC3lk2mrM.jpeg",
+   "date": "Jul 9, 2026",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 4,
+   "title": "It's Recall Thursday! Here are this week's Consumer Product Recalls ...",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "link": "https://www.instagram.com/p/DaldtSCmY4G/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/9GpFpj4kQCn8svqsHthgwGMN-31g6JjwtILrJBHdn6c.jpeg",
+   "date": "Jul 9, 2026",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 5,
+   "title": "CPSC announces recalls of grills, gun safes, batteries, infant ...",
+   "source": "WRNJ Radio",
+   "source_icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAADwBgCdASocABwAPtE-tFooIigoFAEAGgloALUbMA4CER_Lvna84LOV7j8GZGyZSIgu8KBe-Roh1Qlpsi_FfrS4AP79K8ZcFF47xGAZ2vT47lDnovVK40eyuFgVjnsZM7XaQmEpcwM_-eOdSAnhHKsbY_fHLD_qhI_58U--bTvH7fA7L5Kr89Q6HK_9642YuKQRYchT69Z6_OUv2qK2dz3AIXGwn3sIsNT6CXV7POjUVapuRZIG9d5AibZSbPC3Xpf8dQorsh3iyKEGU3bCbtJXbti75i4jL4vTjE3WdNa0Frs4MEhsp3o4ve3rI1Ob_HqkNwsL0xqxc_Pv1rvoxy9sqxyUSPN-xEn7ziaFA6XPR1Aqk8-vsBOQtnGQ6cgwLycQ78m-0vfiiNxSlevzbz50VZBhReHPC_qtYL5rtaBDDZ8RZHOm78S3fflM4b1gBAcp6o1XobLlvIm1QYayviM_TGAPLr2gMTzyH-NZ7sS_B_xQiNIu_3Fouh3YAAAA.webp",
+   "link": "https://wrnjradio.com/cpsc-announces-recalls-of-grills-gun-safes-batteries-infant-walkers-and-other-products/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/RKR0vG7XBP3UpGFj8g46eMxhrEqFJJa_DPLxRE4Xcxg.jpeg",
+   "date": "Jul 11, 2026",
+   "actual_image_width": 494,
+   "actual_image_height": 664
+  },
+  {
+   "position": 6,
+   "title": "Personal Protection Devices - CPSC.gov",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recall-Products/Personal-Protection-Devices",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/Km2Gr2Kb9XMrGTiVTJxmwqZ7tfnzOwvP9vwDpXdtA-s.jpeg",
+   "actual_image_width": 494,
+   "actual_image_height": 664
+  },
+  {
+   "position": 7,
+   "title": "Today's chuckle? Uh oh... I think we have a BINGO here... lol",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/groups/443003689793818/posts/2135074443920059/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/Vp-qH5cZBBkI5pS7U1EUVEiYJ3V8U9d_SUmybKZWj7g.jpeg",
+   "date": "Mar 5, 2026",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 8,
+   "title": "SOUTH BEACH COMMUNITY BULLETIN BOARD - Facebook",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/groups/443003689793818/posts/2240262153401287/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/7cCGrB_LLLFCNlgl7kqLMfTajPQJnESAoFi3HUj4kvA.jpeg",
+   "date": "Jul 6, 2026",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 9,
+   "title": "Quicktec Large Gun Safe-Digital Instruction Manual",
+   "source": "Manuals+",
+   "source_icon": "https://serpapi.com/images/i/UklGRhACAABXRUJQVlA4IAQCAADwCgCdASocABwAPtEutFooIagoGAEAGglsALEUsuQBHvnrGO7_mM4jjN_8v3sPub_pPR8zcvPXsBfqR_vukA9kT9bh2-lRgWAFD2e12hUcpakk4FHnIeuvLJAnzSmWsAAA_vYJvBCifMl__kcnyFPKFx4QamVCTL38PHLHoH2uHzq75wFz77aM5qDO2jMbswU20H-pcb7gHCJnJ9wr_L2l3U60DE-pyT9Wf-ojP6jq624as3jTbbQ3EWptCOUHSpoNOekvePPbw4E5tJmHX9runNoYx-RKHKKgzQZT73cIf7P9UrgbAfTFWd0xIAl9YVSynk2ESufTKPYIW0KJ_3gydNvB9H_UW_-DVRE_yKjOz9UWWmFPwjnQPfbLR4ijIr41pdiy1IZNXaTJC-aPsMvvTw4IN8q0JIJbSg24JO5O18ET3XTHsp3nZZBAivSmk6KmvLXwr6zbOI-XHxcvHK6tABAlTtVxpM2wFxqyri--lxSqz4a_D_6nH0PyhreC6xxUsgxiizr50R0AC-wM8uJwWDQThnDKZFjQnaGuOGdPecuc4coC7DL6NJN-1Iw-bMLiv4JTcT_m32_pyMfPbSYI9MaCjEEfAowVlht31HWwshIXKWY64mp8KEpJHRKFzxAfE3pL10BbT_4FnvyvLVy0JFvPZXGau9W5uWmvX3HKNh3MAAA.webp",
+   "link": "https://manuals.plus/asin/B07C4KNDT5",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/fogUlavUiHUSIJUcOsM9cLMdVl7kxVIxuwrcA-A3viU.jpeg",
+   "actual_image_width": 362,
+   "actual_image_height": 453
+  },
+  {
+   "position": 10,
+   "title": "Consumer product safety recall roundup for July 10, 2026",
+   "source": "ConsumerAffairs",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtFBg9YcctCXueewyu3h6_js8_uBq-L-___I2_NUj9lmmd3nZ7hfAAAAC3RSTlMAHGkKi__xL9Cn5OXyBpAAAAChSURBVHgBbM1VEsAgFEPRWioQHPa_1bq_83snk-qpbpq6krUdFl0rtabHpm9-aRhxGYf32YSXqX6fvdzXg4JADVscIRq3P9y0xq1-RxpLMW6c1xQjgRCjAfiPOjkfF96l_F-WpW0C_5HZbctC4RO0cZEIMS5LHz3EqGPKOcVMKeYAkkH-BLGYhxQI-AIeb5Thj2zCyQQzgRFImoQTNd7sAAAzTw4gNIcHNwAAAABJRU5ErkJggg.png",
+   "link": "https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-july-10-2026-071026.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/CLVRlR-_UvjdRmNLp9WCnGeAZ4Sk3flC1Ft4S37_Jd0.jpeg",
+   "date": "Jul 10, 2026",
+   "actual_image_width": 298,
+   "actual_image_height": 400
+  },
+  {
+   "position": 11,
+   "title": "Recall — Product Safety Alerts",
+   "source": "Therecalled",
+   "source_icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADwBgCdASogACAAPtEwtFooIigoGAEAGglpABPPngA4Axi3OL9H8Aj0AFrX-Gq5EewnxAzHcrW1tHY_UxJwD9rAAP7-lUmmMWX9DcdgKSvVrUhEBiqfhtoTYmwhCQipfPdGh29I8lH11WORFJVtDmyBFn-rAGN_LvBYmDEcRWqeMC7HTY49Cu2D_XqEUfGKxDQo6h5nern8ybj2mBsKz4woQHTjIqztQxtpy9nRdehoIHLC31VPreLd4kOQ3u_QfyzS0k5offpIWQn0SZbb680S4mimds_e4IFboWtRD_CdATObCWp3CTIgNTM_jV8DBgysBA2RGZTj1IsMFjEhOkEfr_gvvFr1WSf7UFjNk3ZSo--f7tdaK4dyke7_j6JKElrHJOHVhccmR6qaX8QL2y2_cUEcn10pGZ7Hf_0FXdAbBgrD59CdgAAA.webp",
+   "link": "https://www.therecalled.com/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a57f6d5eea1bee186b0/images/_gNTBc-u8TiZh-jrZ-cswhNhRR43AGq1_LjM3SnvUjc.jpeg",
+   "actual_image_width": 494,
+   "actual_image_height": 664
+  }
+ ]
+}

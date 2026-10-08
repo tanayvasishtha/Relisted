@@ -1,0 +1,534 @@
+{
+ "search_metadata": {
+  "id": "6ac819d206ca7fcf2985045b",
+  "status": "Success",
+  "created_at": "2026-10-08 22:31:46 UTC",
+  "processed_at": "2026-10-08 22:31:46 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fgoregent-1.png",
+  "total_time_taken": 14.21
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/goregent-1.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Infant Walkers Recalled Due to Risk of Serious Injury or Death from ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Infant-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Amazon-by-Goregent-Official-Store",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/KyIBc3CAjccPWRC5LgasOTRO0sY80G3h4_1K8shfI3Y.jpeg",
+   "actual_image_width": 376,
+   "actual_image_height": 400
+  },
+  {
+   "position": 2,
+   "title": "Infant Walkers Recalled Due to Risk of Serious Injury or Death from ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10665/",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/uaSeHIaM-pvT_aem_8GBXvvpkVGjWg_MEb6g-g7Psnw.jpeg",
+   "date": "Mar 18, 2026",
+   "actual_image_width": 419,
+   "actual_image_height": 446
+  },
+  {
+   "position": 3,
+   "title": "Baby Walkers Sold on Amazon Recalled Over Fall Risk",
+   "source": "Powers Health",
+   "source_icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAAAQBwCdASobABwAPtEutFooIagoGAEAGglsAJ0yhHtP5YR79S3OWbdrfSIxqtL4azT7Og3SLetEJlnzC0p9CHfuyAD-9gi9EpvIqFdKqJulC0YASAGz7kZI7Ulv5bpUEcrP4Tpqtavq0XIKhcScLJwpBb1YpV7oR0rvEucHQp-3pd1FU1pXPxp_9eBJld9d6yGEVPUarPQ0jh_J7lRwzbFjKvN7Dv10utewX8M4BxJja1_bbqbfoR5iTLPf5mpVI4_iwtGteF1r8GqjA_E0gt-ey5kyMY261iL8epAwftWoVvB_jUgdz8xvWH5He9HO70X4xER9VolVlDM_8NPhJkqd1LCJAXjQkBvQRH78E2un23DQRWTHcuPyZE4XFPAjaAjPiH5sZk-PwDR5B8SVeN2mr8loPsrt5xGtlf3d_VplwXXl0oDTTwAEWyeCW6hxvQlGg7rgAAA.webp",
+   "link": "https://www.powershealth.org/about-us/newsroom/health-library/2026/03/25/baby-walkers-sold-on-amazon-recalled-over-fall-risk",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/jd9e4mM9LKtWgXcWAHv7DUU-V2uBKBFwEbXnkZ6aQPg.jpeg",
+   "date": "Mar 25, 2026",
+   "actual_image_width": 1200,
+   "actual_image_height": 800
+  },
+  {
+   "position": 4,
+   "title": "Baby Walkers Sold on Amazon Recalled Over Fall Risk - Drugs.com",
+   "source": "Drugs.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAACwCACdASocABwAPtEutFooIagoGAEAGglsAJ0hN4nRZD0tAS4JBm9G3_M8jvzN_kvSK6wH63eyB-wA7NiiA0kX9mASaRrRQhjRJFlcCQAA_vYC_wB3cQ_62lhZzb_Cw3ByRJL7IAyL62sF5_WScmbtEk8aKcan9u2S-OW754BVj_ogbf3AoO9x7se5LN_fKheSqlaq9P64LQM7O6Kb-amYCn6JdQQi9n8-AhCVDJ80MuiBD-aMLxMobYHXLYSapIF7-BWzGqJravq7tI0VALhQclXVHQKUOhuZ_W-q8OlK5ycM6CuvgzjxX1V_eChJM_1W6aNmBwNSk3tGvzXBUnRgt4fi_oF7b2_dqZerpUNEEPYdKUT7SDbh7dXx5nfOHDBQbXJNihpmx7b8lVOXkya89hySuXTckYIdUfDMkQi8S9ug7fGsAboybI4BceLwpjrwCIWfAAA.webp",
+   "link": "https://www.drugs.com/news/baby-walkers-sold-amazon-recalled-over-fall-risk-129343.html",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/rHBkE-QXLKjTWkIyfWTJWLBkaptYhBH9QA-Ces2Mttc.jpeg",
+   "date": "Mar 25, 2026",
+   "actual_image_width": 600,
+   "actual_image_height": 400
+  },
+  {
+   "position": 5,
+   "title": "Infant Walkers Recalled Due to Risk of Serious Injury or Death from ...",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "link": "https://www.instagram.com/p/DWPfmbKlHxi/",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/WKX7CY-9GGCgFd6oB2Jn7_VrPElFl8vQWd3uEuQPGsU.jpeg",
+   "date": "Mar 23, 2026",
+   "actual_image_width": 419,
+   "actual_image_height": 446
+  },
+  {
+   "position": 6,
+   "title": "If you bought this infant walker on Amazon, stop using it immediately",
+   "source": "SILive.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAABQAgCdASoQABAAAsBMJbACdAYu5v5lR-WnQWAA_vQWPtXDDdct--1NDVMCY9Pk1NmpHy9Q8jPOW1U-xfDmXfavzx3Wre0P0VKployPIPTvPigl-PuRbE7dc--EERtTb8-jn0WGZa0589cBqjY3hBQLkX611KjYsb1pHfjf8zRo_1BcsH10sP_NI3kVPTRO0n5n51pBOuxLXuFeAAA.webp",
+   "link": "https://www.silive.com/parents/2026/03/if-you-bought-this-infant-walker-on-amazon-stop-using-it-immediately.html",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/_N4N0SKGMLtBUlXI9c7ib5gdPsTmPS8Ksck5hTgWsjk.jpeg",
+   "date": "Mar 20, 2026",
+   "actual_image_width": 800,
+   "actual_image_height": 762
+  },
+  {
+   "position": 7,
+   "title": "Baby Walkers Sold on Amazon Recalled Over Fall Risk - USNews.com",
+   "source": "U.S. News & World Report",
+   "source_icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+   "link": "https://www.usnews.com/news/health-news/articles/2026-03-25/baby-walkers-sold-on-amazon-recalled-over-fall-risk",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/VO09vSoFVVRLLXz5iktmY_4FyHSvvVaCeJhMl8sDvdc.jpeg",
+   "date": "Mar 25, 2026",
+   "actual_image_width": 640,
+   "actual_image_height": 420
+  },
+  {
+   "position": 8,
+   "title": "Baby Walkers Sold on Amazon Recalled Over Fall Risk - HealthDay",
+   "source": "HealthDay",
+   "source_icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAACQBQCdASocABwAPtEutFooIagoGAEAGglsALboibZSIikX-tColkq9H3SPt6CS5C5e2zSwAAD-9gJYXRwh9ozUR90Ou5-Vpl4e6gB47MOgmV3dfXUc9_tfTQuBwC2l-acfJ3WxGgLyjbosA4lAXYs_EsO-mRdGaxnBnl89wAWenPAcRcFfavyWKYvM2b_4a50_sO-Do_Gc3HzQtZyv6vnyLRdRaO41CmBDeKwXCOnD3bwGEJjXyb7Jss7f4zqmYw7FHDsm0AhvNhALJwih77TTsOO5sjBmr0mWvfIO-MncAAAA.webp",
+   "link": "https://www.healthday.com/health-news/public-health/baby-walkers-sold-on-amazon-recalled-over-fall-risk",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/S4dh0fQofQBeBOJRnC-1PFrZObCPgp3sB0MyTlv634I.jpeg",
+   "date": "Mar 25, 2026",
+   "actual_image_width": 480,
+   "actual_image_height": 320
+  },
+  {
+   "position": 9,
+   "title": "Wwuiuiww Amazon Baby Walker Low Price Amazon Top Rated ...",
+   "source": "Lidertasimavinc",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://lidertasimavinc.com.tr/?e=34176979081710",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/I-Rh1ivIXMiZuXkQv-LrcZ0NS4uohFLRvpeu8wXgc-Q.jpeg",
+   "date": "Sep 13, 2026",
+   "actual_image_width": 640,
+   "actual_image_height": 420
+  },
+  {
+   "position": 10,
+   "title": "Lamaze Spin And Explore Gym Recall - Instagram",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "link": "https://www.instagram.com/popular/lamaze-spin-and-explore-gym-recall/",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/bMJ0ORWPb_y-geHg6DxLmXY-QvXNApFGyDc66wlmr1Q.jpeg",
+   "date": "Mar 28, 2026",
+   "actual_image_width": 720,
+   "actual_image_height": 720
+  },
+  {
+   "position": 11,
+   "title": "Nicole Amarante and Amado Viera's Baby Registry at Babylist",
+   "source": "Babylist",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0vdZqAmbd1Wqi16aXaS4NlZzDVEp6Qase_GdtIzU1EcdYAAP7-lT7r86n7492h4nrXB887Vw34D3MR-1JuGBeyU6MAJvUe752y1d5q1tWr3jOpRF7hytbuf9Y5-GY46gM9NWViPPT7l3KJVHeepgXwEwYNMDswC0-YtpcpzxM9qakZfY4XvabjdzLAQjjaVsInPpVEF0yZJBQqG6D_lf-o3-aGA_RkWOyenHhfrduY15Cy-BRyziVT6d0d_wJAlwoWDsy47awYnRO7YnYFhOPOKATVAGCVNUtD7pnmie9QiDrHJaKFz_gXt_F1tS7sfglFqcyestK9Vd7k6VyL-kDE7JhARbIRs0qTTGtfLbczvfajelRGfjIxxvqLRiaOicO4r45wyAAA.webp",
+   "link": "https://my.babylist.com/nicole-amarante",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/UDLU9bEw65oatNbSjMf4VZAbsvqjPD4IEfWQiAD3ZH4.jpeg",
+   "date": "Jun 21, 2026",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 12,
+   "title": "Infant Walkers recalled due to risk of serious injury or death from fall ...",
+   "source": "MyParisTexas",
+   "source_icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAABwBwCdASocABwAPtE-tFooIigoFAEAGglsALD4E1fHxgHYEcAxgUzXxifRPsABlwv9JhxvCf1WT7z3T-hvL2IBPn0QAAD-9ge-uf3fxvwvuK6fzFANOqCX6LuH6KkYCXMR-ZVD7qLgb_PAQofs168EA-flpYrNHofiVe3aHOdteifTBURmJYXpOPMnTqNpTWvAV2q65YZh4ADeuYV3KTS0bwHvEjjCo73xCZOc7_Mrz8dMRIQH-QSnaw7UjJ24vtOZBd1S9Obz9BnnBcfR-4OhmB4lldQo7igodB-39jo9zw-d9gHJMv4ccyEbqZpyTsTLh_7qz9FM351M2ypVcAflv9rtc01vSqNCTHzJV76kxCS2BT35FAv8a0Yu1u9hJ4_gPny85PCTLxohuLapJO1nYolUjphMY6M8hE73P4o1d9o7l9UDSsrPX6aep_8e-IMpIxM_k7EFyTOWkCy6-nRvXB35UyniKhUDqSV00YLXW_0atvv-0jo3fX3SnuAA.webp",
+   "link": "https://myparistexas.com/infant-walkers-recalled-due-to-risk-of-serious-injury-or-death-from-fall-hazard-sold-on-amazon-by-goregent-official-store/",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/AyerfvXJd2akQkCvtMJDEscee-GYhvMBvMtpRftcGj8.jpeg",
+   "date": "Mar 23, 2026",
+   "actual_image_width": 1000,
+   "actual_image_height": 600
+  },
+  {
+   "position": 13,
+   "title": "Health alerts: Bassinets, tumblers, infant walkers and more",
+   "source": "AAP",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAABQCACdASocABwAPtE-tFooIigoFAEAGglpAAZoHEB3gxdnNP9GewL-pPoV-rP9lfYi_YoNG-NY7VvNeT7ZvoOYHskEiIQKzos5UAAA_vYT4DMQ5226ZJtjDrZEctUvNIPaKqKebwmmK9SPgJOnfXtk7WcGO13JD7tr-bWORH0psEwEZ6bT2UbTZqArICenJx5XuEsZO8Gm1VjOR1VR04x3RBHNJ0gyCzya4xfhZxH-WGCNuZQ8IhBMt9rNpTd0DdjATv3hfJzvyNr-wzvzfrY8bdGqCTlLu7b9pMyOgVQC1_DwgrZ0St5sOt0psk97SEV5JdRngLPD4Elp93bEun4x0rDVE8Q6pKpzwRHmqeHQzi9kE4daMcpZlR81XzXR62tHtNucl9RB66X2f_6SkN1hAv_qhMSKiHrxOxFDr8r5Ad538eShUi_XKku8gN97-RembwDbf3SE9vIMvBPeuX0ipd2UBnO6CACig_Vwtr3TM6cIld4UCCPgA2DGfDnpkMoj88Wyt02KsCA4e1QJmp4Fy4WXfdPNEXOeFDaJuJLPpic4c80IaS7qngAAAA.webp",
+   "link": "https://publications.aap.org/aapnews/news/34806/Health-alerts-Bassinets-tumblers-infant-walkers",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/FgNYSYNUJs6DZBCiJBFcuabuRKTP-MwajVa-aOu15sc.jpeg",
+   "date": "May 1, 2026",
+   "actual_image_width": 200,
+   "actual_image_height": 150
+  },
+  {
+   "position": 14,
+   "title": "Amazon Baby Walker Seat Buy Online Goyal's Soft Cushions Walker ...",
+   "source": "grenzenlose-notfelle-ev",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.grenzenlose-notfelle-ev.de/product/category/view_more/6997085011310",
+   "thumbnail": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/XGX7ldu8FW19nOwgUsWaUfQDjkgirHL6gOWBjq3IT_M.jpeg",
+   "date": "Aug 18, 2026",
+   "actual_image_width": 1200,
+   "actual_image_height": 1143
+  },
+  {
+   "position": 15,
+   "title": "Activity Center Child Walker Amazon Woodtoe Wooden Baby ...",
+   "source": "romerogabinetes.com.br",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.romerogabinetes.com.br/product-similar-image/?33886365001750",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2xBey16M4p77Tp4pFlOp-WHP1tg4-l9i6u_H5sBXjHT4j25UBOU-M9gB&s",
+   "actual_image_width": 1280,
+   "actual_image_height": 1219
+  },
+  {
+   "position": 16,
+   "title": "Toys Baby Walker Online Amazon Toddler Walker Amazon Prime ...",
+   "source": "www.gottesdienst-tv.de",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.gottesdienst-tv.de/product/category/31979016041970",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUrX6o62SU_UY7huLPQ2ANa4QQQyj_0ccgzLqNbArrJ7kIcBHbic71l2n&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 1143
+  },
+  {
+   "position": 17,
+   "title": "Optimus Prime Transformers Ubuy Transformer Backpack And ...",
+   "source": "hr-manager.pl",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "http://www.hr-manager.pl/product-similar-image/?46285635010550",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2xBey16M4p77Tp4pFlOp-WHP1tg4-l9i6u_H5sBXjHT4j25UBOU-M9gB&s",
+   "actual_image_width": 1280,
+   "actual_image_height": 1219
+  },
+  {
+   "position": 18,
+   "title": "Baby Trend Pack N Play Recall",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "link": "https://www.instagram.com/popular/baby-trend-pack-n-play-recall/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JtHUsOqomB3urNUicGRJZfgYmFcYn2DuK53gWOO3oXWp5GY6Nh9pNVlg&s",
+   "actual_image_width": 1080,
+   "actual_image_height": 1080
+  },
+  {
+   "position": 19,
+   "title": "Joie Product Recall",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "link": "https://www.instagram.com/popular/joie-product-recall/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6L8eyq8S6X8VN-1JneL6rlc8MrVG0g4yAu_9kBLbpOHiotsrof8kkekAz&s",
+   "date": "Mar 28, 2026",
+   "actual_image_width": 720,
+   "actual_image_height": 720
+  },
+  {
+   "position": 20,
+   "title": "Bike Propel Advanced Pro Disc 2021 Review Giant Propel ...",
+   "source": "www.rupos.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://rupos.com/product-similar-image/?6985030021570",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUrX6o62SU_UY7huLPQ2ANa4QQQyj_0ccgzLqNbArrJ7kIcBHbic71l2n&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 1143
+  },
+  {
+   "position": 21,
+   "title": "0-6 Months Infant Formula Tesco Similac Mouthwatering Mexican ...",
+   "source": "www.docsystems.com.ua",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAADwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHp_jvCD5AbaC7APQA6VhvqNXWz0jjesD62Ux8-su1t6h4P2OIVkdJQ_gAAA_m6MUtdxsa7fbE5BIjXFwdF5Qz_DQqdM31jUQ12HFXnS-eZi6q7vrdAB_xrtvZrtYa3mU_82F2oeSVZamdo-fv3OKz_Vba_vO5S9ACPZ3ayoxlM2Zcbh74q1VCIG0r7-HjBly3BKf_s-bHSureJqVZfWDO-0QdK3N21S8jeukID-PzHbfIz9QfleDt5glY2e5oNYSBQ2E7ly9_74zqtW90LwnMnuZXUfMEgELrQu-Sfh8e-aANFLkRiRX_03-v2-6QKl5mvqMqO-mXsGMfo8mzrdc1Mzl1KVqo9UL8xZOPxSPicupAddaN8VBJ5ufLyd8Of5K6uZfOAA.webp",
+   "link": "https://www.docsystems.com.ua/product-similar-image/?1634206010540",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0N04JcNFJ8JPyDKHEwKmtsowz_TTKEUIzoxgHMKu9TMeT7QBnn-ylXLP&s",
+   "actual_image_width": 800,
+   "actual_image_height": 762
+  },
+  {
+   "position": 22,
+   "title": "s Sunglasses Tom Ford Tf 669 Sunglasses Tom Ford FT0669 Jude ...",
+   "source": "absolutesound.co.za",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.absolutesound.co.za/product-similar-image/?22526151071950",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2xBey16M4p77Tp4pFlOp-WHP1tg4-l9i6u_H5sBXjHT4j25UBOU-M9gB&s",
+   "actual_image_width": 1280,
+   "actual_image_height": 1219
+  },
+  {
+   "position": 23,
+   "title": "Blink Ergonomic Chair Recall - Instagram",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "link": "https://www.instagram.com/popular/blink-ergonomic-chair-recall/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JtHUsOqomB3urNUicGRJZfgYmFcYn2DuK53gWOO3oXWp5GY6Nh9pNVlg&s",
+   "actual_image_width": 1080,
+   "actual_image_height": 1080
+  },
+  {
+   "position": 24,
+   "title": "Amazon Baby Walker Seat Buy Online Goyal's Soft ... - klub300.cz",
+   "source": "klub300.cz",
+   "link": "https://www.klub300.cz/product/category/6997085001000",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUrX6o62SU_UY7huLPQ2ANa4QQQyj_0ccgzLqNbArrJ7kIcBHbic71l2n&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 1143
+  },
+  {
+   "position": 25,
+   "title": "Activity Center Child Walker Amazon Lil Play Station II 3-in-1 Activity ...",
+   "source": "kangu.la",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://kangu.la/shop/manufacturer-site?&transition=top33886365111980",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2xBey16M4p77Tp4pFlOp-WHP1tg4-l9i6u_H5sBXjHT4j25UBOU-M9gB&s",
+   "actual_image_width": 1280,
+   "actual_image_height": 1219
+  },
+  {
+   "position": 26,
+   "title": "Baby Walker Amazon Baby Sale 2019 Parents Warned To ...",
+   "source": "taekwondoluxembourg.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.taekwondoluxembourg.com/shop/manufacturer-site?&transition=top1634141011730",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHpPs12q61iwmCZ4PAw_0aY166pg9BtxV_5YlgKYygRC3jU-LGNFNHWjs&s",
+   "actual_image_width": 970,
+   "actual_image_height": 647
+  },
+  {
+   "position": 27,
+   "title": "Toy Baby Walker Amazon Prime Baby Walkers Sold On Amazon ...",
+   "source": "Mbphotographie",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://mbphotographie.de/?c=7269869001210",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiSmB12Ci-0CybQGHEgh1t48SZKeK4SRwouKOSjdS-_7vj_Uxw39kWCC3&s",
+   "actual_image_width": 600,
+   "actual_image_height": 400
+  },
+  {
+   "position": 28,
+   "title": "Disha Target Baby Walkers Wheels Toy Amazon Prime Baby Walker ...",
+   "source": "www.oktoberfestochtrup.de",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.oktoberfestochtrup.de/shop/manufacturer-site?&transition=top17727324031550",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJpS91LA6jrIQJEIcfhHxYxjKaKC7JvDyDj_4SuqTLrZs0YFtoIZNtOoW&s",
+   "actual_image_width": 640,
+   "actual_image_height": 420
+  },
+  {
+   "position": 29,
+   "title": "Kosterclinic Mamas And Papas Baby Walker Cosco Brandclub ...",
+   "source": "dvg-westoverledingen.de",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.dvg-westoverledingen.de/shop/manufacturer-site?&transition=top34982941041530",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy-Tg9PrBa0K9LbEhoX5FDm2erku2F5_n1vNFbII8c_uGYtgyYOn_iIbmi&s",
+   "actual_image_width": 419,
+   "actual_image_height": 446
+  },
+  {
+   "position": 30,
+   "title": "Amazon Zoko Baby Walker Godmy Foldable Baby Walker ...",
+   "source": "Homeclass",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://homeclass.fr/?z=17854420001400",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHpPs12q61iwmCZ4PAw_0aY166pg9BtxV_5YlgKYygRC3jU-LGNFNHWjs&s",
+   "actual_image_width": 970,
+   "actual_image_height": 647
+  },
+  {
+   "position": 31,
+   "title": "Baby Walker Amazon Baby Sale 2019 Baby Walker Activity Toy ...",
+   "source": "www.icmmontiel.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.icmmontiel.com/product-similar-image/?1634141011960",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHpPs12q61iwmCZ4PAw_0aY166pg9BtxV_5YlgKYygRC3jU-LGNFNHWjs&s",
+   "actual_image_width": 970,
+   "actual_image_height": 647
+  },
+  {
+   "position": 32,
+   "title": "Food Recalls: Garlic and Other Items to Watch | TikTok",
+   "source": "TikTok",
+   "source_icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglqAM7t3At_tZAJkQvdasA_TiHmb7n9FyAAAP7-zMa8xfDsmgP7xucvFaqjgucV4bdksbH7T5hWZ7Spp4joaSpJkn8f-b3-hzHaYTR3orLW5n-k7-6LIWmkysnxryZWSCxzHX2r67D70GXzxOu61ckD56q8XtZWK_x58R4ZRGkSqRdrXLaacnMarnQXOhN4g7KbuRJ_RBQPlFto--LuPK0SDJ5nzs4aUXU65BLOB25fWHRS9zx-6YMAAAA.webp",
+   "link": "https://www.tiktok.com/@recalledition/photo/7621334566304845070?image_index=6",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLI_-rG6TFuVPG9qVOOuMcnWttsqzIb6UBC6bS8tTaffzBbmW6tneB1tdm&s",
+   "date": "Mar 25, 2026",
+   "actual_image_width": 590,
+   "actual_image_height": 1040
+  },
+  {
+   "position": 33,
+   "title": "Bright Starts Tiny Trek 2-in-1 Baby Activity Walker (Jungle Vines)",
+   "source": "pyrochemcatalyst.com",
+   "link": "https://www.pyrochemcatalyst.com/w/www4-5-115681801-5-17-22-Bright+Starts+Tiny+Trek+2-in-1+Baby+Activity+Walker+(Jungle+Vines)",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWQscEOu7fZG9LdrGM-0LMarplS2IhsXmXf5ym9w2pvAzahFwtYcDnNPO&s",
+   "actual_image_width": 419,
+   "actual_image_height": 446
+  },
+  {
+   "position": 34,
+   "title": "Amazon Top Rated Walkers For Babies Baby Walkers Sold On ...",
+   "source": "Spanishdancewear",
+   "source_icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAACwBQCdASocABwAPtE8tFooIigoFAEAGglpAARBvxiagAY_jzkNVWmpvPxR7PNoXbSyOLt-KgAA_vYJy6x1_fwKczxVyJgCg9h4BTYh5zx-2FPuP7xTTBG4T8YsfTC9N29k_yWiN3JTEdJStygeZt16dt393U4759k5eyfPKuBfk6F6NlwRDZzGkriEmmSrVEl4g-_jvEljzH5_5UqqtrP2wb_vx8uCR-6e7xKWPoLqL4siZNaU8tSP094bjs8CezKdycEwip7dQ0IgPxhsrf-ZO3gB0C5h-mviPBS0UAAAAA.webp",
+   "link": "https://www.spanishdancewear.com/?h=13519610001470",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJpS91LA6jrIQJEIcfhHxYxjKaKC7JvDyDj_4SuqTLrZs0YFtoIZNtOoW&s",
+   "price": "$46.00",
+   "extracted_price": 46.0,
+   "date": "Jul 19, 2026",
+   "actual_image_width": 640,
+   "actual_image_height": 420
+  },
+  {
+   "position": 35,
+   "title": "Amazon Wanderer Baby Walker Toys Baby Walker Online Amazon ...",
+   "source": "Ferramentariasardinha",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.ferramentariasardinha.com.br/?i=17912050001350",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiSmB12Ci-0CybQGHEgh1t48SZKeK4SRwouKOSjdS-_7vj_Uxw39kWCC3&s",
+   "date": "Aug 4, 2026",
+   "actual_image_width": 600,
+   "actual_image_height": 400
+  },
+  {
+   "position": 36,
+   "title": "Baby Walker Clearance Sale Activity Center Amazon Baby Walker ...",
+   "source": "Ferramentariasardinha",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.ferramentariasardinha.com.br/?i=17976057021350",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2xBey16M4p77Tp4pFlOp-WHP1tg4-l9i6u_H5sBXjHT4j25UBOU-M9gB&s",
+   "date": "Sep 1, 2026",
+   "actual_image_width": 1280,
+   "actual_image_height": 1219
+  },
+  {
+   "position": 37,
+   "title": "Wwuiuiww Amazon Baby Walker Low Price Amazon Top Rated ...",
+   "source": "Thermocontmt",
+   "link": "https://www.thermocontmt.com/?r=34176979061350",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJpS91LA6jrIQJEIcfhHxYxjKaKC7JvDyDj_4SuqTLrZs0YFtoIZNtOoW&s",
+   "date": "Aug 15, 2026",
+   "actual_image_width": 640,
+   "actual_image_height": 420
+  },
+  {
+   "position": 38,
+   "title": "Baby Walker Amazon Baby Sale 2019 Baby Walkers Sold On ...",
+   "source": "Vesda",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://cimiy.vesda.pl/?e=1634141011300",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHpPs12q61iwmCZ4PAw_0aY166pg9BtxV_5YlgKYygRC3jU-LGNFNHWjs&s",
+   "actual_image_width": 970,
+   "actual_image_height": 647
+  },
+  {
+   "position": 39,
+   "title": "Amazon Baby Walker Seat Buy Online Walker Seat Sitsafe Baby ...",
+   "source": "Gaf",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.gaf.dk/?j=6997085001910",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUrX6o62SU_UY7huLPQ2ANa4QQQyj_0ccgzLqNbArrJ7kIcBHbic71l2n&s",
+   "date": "Aug 13, 2026",
+   "actual_image_width": 1200,
+   "actual_image_height": 1143
+  },
+  {
+   "position": 40,
+   "title": "Kosterclinic Best Baby Jumper Uk Kosterclinic When Should I Buy A ...",
+   "source": "QB Comunicazione",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://qbcomunicazione.com/?w=14794068081150",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy-Tg9PrBa0K9LbEhoX5FDm2erku2F5_n1vNFbII8c_uGYtgyYOn_iIbmi&s",
+   "actual_image_width": 419,
+   "actual_image_height": 446
+  },
+  {
+   "position": 41,
+   "title": "Amazon Baby Walker Best Brand 10 Best Baby Walkers To Help ...",
+   "source": "Leasybike",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.leasybike.nl/?v=44564174011610",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHpPs12q61iwmCZ4PAw_0aY166pg9BtxV_5YlgKYygRC3jU-LGNFNHWjs&s",
+   "date": "Aug 11, 2026",
+   "actual_image_width": 970,
+   "actual_image_height": 647
+  },
+  {
+   "position": 42,
+   "title": "Kodak Retinette Retina Iii C The Kodak Retina IIIc ... - igls-schwaz",
+   "source": "igls-schwaz",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.igls-schwaz.at/?n=4469008061350",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3z7Qer1oqQ_skaShOZ9sogd4ZSGBCcau4WmC-bLBuMkjcIiYQAMrtiUW&s",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 1242,
+   "actual_image_height": 1183
+  },
+  {
+   "position": 43,
+   "title": "Online Shopping Daraz Online Baby Clothes New Born Daraz Baby ...",
+   "source": "Invsj",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://invsj.cl/?b=6127136081200",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3z7Qer1oqQ_skaShOZ9sogd4ZSGBCcau4WmC-bLBuMkjcIiYQAMrtiUW&s",
+   "date": "Aug 5, 2026",
+   "actual_image_width": 1242,
+   "actual_image_height": 1183
+  },
+  {
+   "position": 44,
+   "title": "Kinsale Safety First Ready Set Walker Recall Infant Walkers ...",
+   "source": "Joc",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.joc.net.pe/?m=9640480061880",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy-Tg9PrBa0K9LbEhoX5FDm2erku2F5_n1vNFbII8c_uGYtgyYOn_iIbmi&s",
+   "date": "Aug 11, 2026",
+   "actual_image_width": 419,
+   "actual_image_height": 446
+  },
+  {
+   "position": 45,
+   "title": "Disha Old Fashioned Baby Walker Toy Amazon Prime Baby Walker ...",
+   "source": "Quais",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://quais.com.ar/?z=17903444001810",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJpS91LA6jrIQJEIcfhHxYxjKaKC7JvDyDj_4SuqTLrZs0YFtoIZNtOoW&s",
+   "date": "Jul 28, 2026",
+   "actual_image_width": 640,
+   "actual_image_height": 420
+  },
+  {
+   "position": 46,
+   "title": "Wwuiuiww Amazon Baby Walker Low Price Amazon Top Rated ...",
+   "source": "wemobouw",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://wemobouw.nl/?f=34176979011810",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJpS91LA6jrIQJEIcfhHxYxjKaKC7JvDyDj_4SuqTLrZs0YFtoIZNtOoW&s",
+   "date": "Sep 17, 2026",
+   "actual_image_width": 640,
+   "actual_image_height": 420
+  },
+  {
+   "position": 47,
+   "title": "Amazon Top Rated Walkers For Babies If You Bought These Baby ...",
+   "source": "Gossipcocktailslab",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.gossipcocktailslab.it/?e=13519610001400",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJpS91LA6jrIQJEIcfhHxYxjKaKC7JvDyDj_4SuqTLrZs0YFtoIZNtOoW&s",
+   "date": "Aug 25, 2026",
+   "actual_image_width": 640,
+   "actual_image_height": 420
+  },
+  {
+   "position": 48,
+   "title": "Scarponcini Timberland Donna Timberland Uomo Color Ghiaccio ...",
+   "source": "www.camastudio.pl",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://camastudio.pl/product-similar-image/?17841162021790",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHpPs12q61iwmCZ4PAw_0aY166pg9BtxV_5YlgKYygRC3jU-LGNFNHWjs&s",
+   "actual_image_width": 970,
+   "actual_image_height": 647
+  },
+  {
+   "position": 49,
+   "title": "Amazon Cheap Baby Walker For Girl SLLINGLUO ... - aslangoldhotel",
+   "source": "aslangoldhotel",
+   "source_icon": "https://serpapi.com/images/i/UklGRqYBAABXRUJQVlA4IJoBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0ygy7RlSEzPAc8AzQW28YFbDLA0lM0Px9PiEILVCgYTfXKIqZP7VI5XRXOerYud7Z5AAD-_S_2eoqUeUmglT7l0xE5uyoblyXDvWzv0NtyGVuMvetS85CuaVysou8j7iDtEzA-uS_E1v_qve_-OebpO2YPMRdZ7zi-B8w9YlOz2p0rQmOdY7pC-AXWrfs2dZzkJGyP8Ro5Hl0PkXY_J-aWVqindhlzoUfxBkEAyqhK3HpRHnTSok8_9riuFi4ybu66U_1KJOfmLsS-yd9AwODFuSyoSshul4AOm9alevqLvOaBqsWsnQR_u8xj_20lAnw3BWbPrrsKYla_g6fs1mGqVbcc8ISr3FAD1EPbIdUTf65jxPnj0ZivpyS-QXKYUXtsNgGcKxJhyjblnp1Sb008xOQfQHEAO47r3QtcUQR4jWvPZnbj8khmq4qogPCmE9f7pDtefxIuQGpN-Lz9yVwKSoWSsGfpxWAtzZ628SP6LXvLYyhHZqoj-gX4GAAAAA.webp",
+   "link": "https://www.aslangoldhotel.com/?i=42150334011630",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiSmB12Ci-0CybQGHEgh1t48SZKeK4SRwouKOSjdS-_7vj_Uxw39kWCC3&s",
+   "date": "Sep 1, 2026",
+   "actual_image_width": 600,
+   "actual_image_height": 400
+  }
+ ]
+}

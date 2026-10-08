@@ -1,0 +1,30 @@
+{
+ "search_metadata": {
+  "id": "6ac81a68ee23182af6ef732c",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/rTBWLTJBGSeIMtpQgjysFUb8gyd_hkOSJSUVYiIV7_c/6ac81a68ee23182af6ef732c.json",
+  "markdown_endpoint": "https://serpapi.com/searches/rTBWLTJBGSeIMtpQgjysFUb8gyd_hkOSJSUVYiIV7_c/6ac81a68ee23182af6ef732c.md",
+  "created_at": "2026-10-08 22:34:16 UTC",
+  "processed_at": "2026-10-08 22:34:16 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fblacksheep-3.png",
+  "raw_html_file": "https://serpapi.com/searches/rTBWLTJBGSeIMtpQgjysFUb8gyd_hkOSJSUVYiIV7_c/6ac81a68ee23182af6ef732c.html",
+  "total_time_taken": 7.82
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/blacksheep-3.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "The Black Sheep Fam Recalls Children's Pajamas Due to Risk of ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/The-Black-Sheep-Fam-Recalls-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violates-Mandatory-Flammability-Standards-for-Childrens-Sleepwear",
+   "thumbnail": "https://serpapi.com/searches/6ac81a68ee23182af6ef732c/images/r1ZzXoSU761BoeKjxxhT0JRGvN5k47rQo5LjfeZgg_s.jpeg",
+   "actual_image_width": 413,
+   "actual_image_height": 400
+  }
+ ]
+}

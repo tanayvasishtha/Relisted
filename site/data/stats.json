@@ -1,0 +1,26 @@
+{
+ "recalls_checked": 41,
+ "searches_paid_total": 47,
+ "pages_matched": 5134,
+ "live_listings": 1624,
+ "stores": 432,
+ "countries": 117,
+ "recalls_with_listings": 27,
+ "recalls_with_three_or_more": 22,
+ "recalls_sold_in_india": 17,
+ "india_listings": 106,
+ "spam_pages_filtered": 745,
+ "headline": {
+  "recall_id": "10579",
+  "product": "AiTuiTui Pull String Teething Toys",
+  "date": "2026-01-29",
+  "risk": "Risk of serious injury or death from choking",
+  "matches": 400,
+  "live_listings": 118,
+  "stores": 53,
+  "countries": 25,
+  "india_listings": 2,
+  "recalled_brand": "AiTuiTui",
+  "listings_titled_with_recalled_brand": 0
+ }
+}

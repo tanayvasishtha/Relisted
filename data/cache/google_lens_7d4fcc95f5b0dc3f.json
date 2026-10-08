@@ -1,0 +1,317 @@
+{
+ "search_metadata": {
+  "id": "6ac81a4c73ae6050ba88d5d9",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/jvVXNSUJ8ihs0mFEyp-dgnY9kNSpy60gRvx5Yi7uvHw/6ac81a4c73ae6050ba88d5d9.json",
+  "markdown_endpoint": "https://serpapi.com/searches/jvVXNSUJ8ihs0mFEyp-dgnY9kNSpy60gRvx5Yi7uvHw/6ac81a4c73ae6050ba88d5d9.md",
+  "created_at": "2026-10-08 22:33:48 UTC",
+  "processed_at": "2026-10-08 22:33:48 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fmoodyyy-1.jpg",
+  "raw_html_file": "https://serpapi.com/searches/jvVXNSUJ8ihs0mFEyp-dgnY9kNSpy60gRvx5Yi7uvHw/6ac81a4c73ae6050ba88d5d9.html",
+  "total_time_taken": 10.07
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/moodyyy-1.jpg",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Moodooy Elderly Safety Guardrail, Height Adjustable Bed Rail with ...",
+   "source": "Amazon.eg",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.eg/-/en/Moodooy-Guardrail-Adjustable-Auxiliary-Impairments/dp/B0DJQCCJ7C",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/BcAB6vMNpQ8FxI6IrM2Jg5I4VZHMaK-z_4Yne6sWBCE.jpeg",
+   "actual_image_width": 348,
+   "actual_image_height": 350
+  },
+  {
+   "position": 2,
+   "title": "Moodooy Bed Rails Recalled Due to Risk of Serious Injury or Death ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10856/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/eKS_ikBCa-vKzWAbvkJkOX8KpV6rRVNVt35WYN_BTE4.jpeg",
+   "date": "Jul 8, 2026",
+   "actual_image_width": 399,
+   "actual_image_height": 299
+  },
+  {
+   "position": 3,
+   "title": "Moodooy Bed Rails Recalled Due to Risk of Serious Injury or Death ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Moodooy-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Yuezhang",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/cJ4vao9Mstno1sMbxUdWledTtFzTx-N3o4cki2UNWm8.jpeg",
+   "actual_image_width": 399,
+   "actual_image_height": 299
+  },
+  {
+   "position": 4,
+   "title": "Moodooy Elderly Safety Guardrail, Height Adjustable Bed Rail with ...",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.in/Moodooy-Guardrail-Adjustable-Auxiliary-Impairments/dp/B0DJQCCJ7C",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/sVonrikZNDcQbQBGAKpykwy55-7n4Enmu4ilsxv10Kw.jpeg",
+   "actual_image_width": 348,
+   "actual_image_height": 350
+  },
+  {
+   "position": 5,
+   "title": "Moodooy Adult Portable Bed Rails Recall Lawsuit - Johnson ...",
+   "source": "Johnsonbecker",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAABwBACdASocABwAPtEutFooIagoGAEAGglnAABc67aIQmEPscUoLZfZNJhKAAD-9gL7VqR2OTOqDiBQB-TP6G-7duJnlFd3ONT0K_FcJoIxbhRLbS92ONiMN1n9T9wnN3V938GO8mVHroWNmyv_q5W-Mu_74unywK15pJdgtOedQPX9YwEbe7LdUJxCGQKBD7P5nwX4r_8L-7ZGu9fgdJ2VBCbHeDWrzox5KQAA.webp",
+   "link": "https://www.johnsonbecker.com/product-liability/moodooy-adult-portable-bed-rails-recall-lawsuit/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/cWR3EjaaEVIn4xCalYDsfjg8P7Bxy8J35C1pVBUhZv4.jpeg",
+   "actual_image_width": 399,
+   "actual_image_height": 299
+  },
+  {
+   "position": 6,
+   "title": "Moodooy Bed Rail for Elderly,Bed railings for Seniors,Sturdy and ...",
+   "source": "Amazon.ca",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.ca/Moodooy-Elderly-railings-Seniors-Adjustable/dp/B0DJQCCJ7C",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/MYjLPQBRD1SbbowojdX0xWr2AodwvXac0RrPTzEOyxU.jpeg",
+   "actual_image_width": 348,
+   "actual_image_height": 350
+  },
+  {
+   "position": 7,
+   "title": "Moodooy Bed Rails for Elderly Adults Safety,Bed Rail for Seniors ...",
+   "source": "Amazon.ca",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.ca/Moodooy-Elderly-Seniors-bedrail-Mattresses/dp/B0DJQC5G7W",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/pE24-ib3C7E11Fan-tOVH-UAL9oJa8ga0cHEJedqJJY.jpeg",
+   "actual_image_width": 348,
+   "actual_image_height": 350
+  },
+  {
+   "position": 8,
+   "title": "Bed Assist Safety Rail With Storage Bag - Portable Handrail Bar for ...",
+   "source": "Amazon UK",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.co.uk/Bed-Assist-Safety-Rail-Storage/dp/B0F18PTCP3",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/lX0c85Ca22ybanbivfAK4EWb-GImfnA_6y6FsPQf_us.jpeg",
+   "actual_image_width": 894,
+   "actual_image_height": 901
+  },
+  {
+   "position": 9,
+   "title": "CPSC announces recalls of grills, gun safes, batteries, infant ...",
+   "source": "WRNJ Radio",
+   "source_icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAADwBgCdASocABwAPtE-tFooIigoFAEAGgloALUbMA4CER_Lvna84LOV7j8GZGyZSIgu8KBe-Roh1Qlpsi_FfrS4AP79K8ZcFF47xGAZ2vT47lDnovVK40eyuFgVjnsZM7XaQmEpcwM_-eOdSAnhHKsbY_fHLD_qhI_58U--bTvH7fA7L5Kr89Q6HK_9642YuKQRYchT69Z6_OUv2qK2dz3AIXGwn3sIsNT6CXV7POjUVapuRZIG9d5AibZSbPC3Xpf8dQorsh3iyKEGU3bCbtJXbti75i4jL4vTjE3WdNa0Frs4MEhsp3o4ve3rI1Ob_HqkNwsL0xqxc_Pv1rvoxy9sqxyUSPN-xEn7ziaFA6XPR1Aqk8-vsBOQtnGQ6cgwLycQ78m-0vfiiNxSlevzbz50VZBhReHPC_qtYL5rtaBDDZ8RZHOm78S3fflM4b1gBAcp6o1XobLlvIm1QYayviM_TGAPLr2gMTzyH-NZ7sS_B_xQiNIu_3Fouh3YAAAA.webp",
+   "link": "https://wrnjradio.com/cpsc-announces-recalls-of-grills-gun-safes-batteries-infant-walkers-and-other-products/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/XWqNlQiU8skMkcLtirhqoTqVSvJE8_pNgz4ei0qdWq4.jpeg",
+   "date": "Jul 11, 2026",
+   "actual_image_width": 399,
+   "actual_image_height": 299
+  },
+  {
+   "position": 10,
+   "title": "Consumer product safety recall roundup for July 10, 2026",
+   "source": "ConsumerAffairs",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtFBg9YcctCXueewyu3h6_js8_uBq-L-___I2_NUj9lmmd3nZ7hfAAAAC3RSTlMAHGkKi__xL9Cn5OXyBpAAAAChSURBVHgBbM1VEsAgFEPRWioQHPa_1bq_83snk-qpbpq6krUdFl0rtabHpm9-aRhxGYf32YSXqX6fvdzXg4JADVscIRq3P9y0xq1-RxpLMW6c1xQjgRCjAfiPOjkfF96l_F-WpW0C_5HZbctC4RO0cZEIMS5LHz3EqGPKOcVMKeYAkkH-BLGYhxQI-AIeb5Thj2zCyQQzgRFImoQTNd7sAAAzTw4gNIcHNwAAAABJRU5ErkJggg.png",
+   "link": "https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-july-10-2026-071026.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/lsEoQf7Jf7AMQOPhIkVvlrErFdgUyA6H4Vc60LZ9nKs.jpeg",
+   "date": "Jul 10, 2026",
+   "actual_image_width": 399,
+   "actual_image_height": 299
+  },
+  {
+   "position": 11,
+   "title": "los rieles de cama para adultos mayores utilizan el tubo ... - Instagram",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "link": "https://www.instagram.com/p/DU5eVBqAPSg/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/TIV4l90UefB4q9RlanMAlzO5kFq_zRddywNEuYFoE8c.jpeg",
+   "date": "Feb 18, 2026",
+   "actual_image_width": 1440,
+   "actual_image_height": 1440
+  },
+  {
+   "position": 12,
+   "title": "Bed Rail For Elderly Bed Railings For Seniors Sturdy Stable",
+   "source": "Desertcart",
+   "source_icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3oHDp2lpKofIUQr_Btymwsz5DrIJZhrfkXAAA_tiT80rEhwo8QfKq-33gTJ6QaeudvX9Y1ApkMWBZ3jmRD77AHb_-Wffb7M34pDbCUdQY7T7i1Lh6Afz1f5Bo-dkVxFZVOXbppaXq6SkXc_OwMCpOB-6SjnHc6ED_DT6904H5Bmv-vbYRH3diQHHZxvx5lctuq2Ch4e3s0bste1iImjtr-EA_ywfbXZpmdQPtIO_C7_l-11NtK2gA5D-aqJlUAROUppvnKKfyc5V46CD_17n9ukOn6oTusAmoeAAA.webp",
+   "link": "https://www.desertcart.in/products/696806542-bed-rail-for-elderly-bed-railings-for-seniors-sturdy-and-stable-height-adjustable-bed-railing-for-seniors-with-fixing-strap-and-storage-pocket-bed-rails-for-elderly-adults-safety-bedrails",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/E4eIvDBln57112pRd3jS3onw9pQWHLNjUvdQEol9jLY.jpeg",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 13,
+   "title": "Moodooy Elderly Safety Guardrail, Height Adjustable Bed Rail with ...",
+   "source": "Amazon.eg",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.eg/%D9%85%D9%88%D9%88%D8%AF%D9%88%D9%8A-CL001/dp/B0DJQCCJ7C",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/Dqh_rlmlvf7SgullZRoKx6gKDIFz9QAh4eF_lQIm0H8.jpeg",
+   "actual_image_width": 348,
+   "actual_image_height": 350
+  },
+  {
+   "position": 14,
+   "title": "Moodooy Barandilla de Seguridad para Personas Mayores Con ...",
+   "source": "Amazon.com.mx",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.com.mx/Moodooy-Compartimento-Almacenamiento-Antideslizante-Barandillas/dp/B0DJQC5G7W",
+   "thumbnail": "https://serpapi.com/searches/6ac81a4c73ae6050ba88d5d9/images/me2UrlUIFtmedkjgn5cGkk3-ssCwJuhilHQpYXkJdUA.jpeg",
+   "actual_image_width": 348,
+   "actual_image_height": 350
+  },
+  {
+   "position": 15,
+   "title": "Moodooy Trilho de cama para idosos, grades de cama ... - Amazon",
+   "source": "Amazon",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.com.br/Moodooy-resistente-est%C3%A1vel-ajust%C3%A1vel-armazenamento/dp/B0DJQCCJ7C",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOPauvr-RD9AlCOFfo92oIaN7yS5DFHqms0NJ7jQm8zr1p0mbAJxayHxM&s",
+   "actual_image_width": 348,
+   "actual_image_height": 350
+  },
+  {
+   "position": 16,
+   "title": "Moodooy 高齢者安全ガードレール、高さ調節可能なベッドレール",
+   "source": "amazon.jp",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.co.jp/-/en/Moodooy-CL001/dp/B0DJQCCJ7C",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOPauvr-RD9AlCOFfo92oIaN7yS5DFHqms0NJ7jQm8zr1p0mbAJxayHxM&s",
+   "actual_image_width": 348,
+   "actual_image_height": 350
+  },
+  {
+   "position": 17,
+   "title": "Barandilla de cama Moodooy robusta y estable para la seguridad ...",
+   "source": "Walmart",
+   "source_icon": "https://serpapi.com/images/i/UklGRo4AAABXRUJQVlA4IIIAAADQAgCdASoQABAAAsBMJbACdEIA__98Zo0AfW-9ChtAAP76JQOS24KAZl-GOSWziMp93xBfPgLXgaALdDG4wTI8CtJ65An5bn91TEYOJ0NWtGYGxay4Brzgy6QJ7EkDei0P548k3n4B5ZDN3xzAIorMncvZZMbrx4Y5B6fVYqeYkAAA.webp",
+   "link": "https://www.walmart.com.mx/ip/barandilla-de-cama-moodooy-robusta-y-estable-para-la-seguridad-de-los-adultos-mayores/00045067516536",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIe5VU-2Wh4Rf8ukwCAoy5kH0E1_oJ7cEpN3mCL6S6_-RhZMUjWU3v0GgA&s",
+   "actual_image_width": 612,
+   "actual_image_height": 612
+  },
+  {
+   "position": 18,
+   "title": "Barandillas de cama Moodooy para adultos mayores, seguridad ...",
+   "source": "Walmart",
+   "source_icon": "https://serpapi.com/images/i/UklGRo4AAABXRUJQVlA4IIIAAADQAgCdASoQABAAAsBMJbACdEIA__98Zo0AfW-9ChtAAP76JQOS24KAZl-GOSWziMp93xBfPgLXgaALdDG4wTI8CtJ65An5bn91TEYOJ0NWtGYGxay4Brzgy6QJ7EkDei0P548k3n4B5ZDN3xzAIorMncvZZMbrx4Y5B6fVYqeYkAAA.webp",
+   "link": "https://www.walmart.com.mx/ip/barandillas-de-cama-moodooy-para-adultos-mayores-seguridad-tamano-queen/00045067415693",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIe5VU-2Wh4Rf8ukwCAoy5kH0E1_oJ7cEpN3mCL6S6_-RhZMUjWU3v0GgA&s",
+   "actual_image_width": 612,
+   "actual_image_height": 612
+  },
+  {
+   "position": 19,
+   "title": "Barandillas de cama Moodooy para adultos mayores, seguridad ...",
+   "source": "Bodegaaurrera.com.mx",
+   "source_icon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABQBwCdASogACAAPrkurlcnIacnG_DgFwlsALElQQs9MPuRYgHlj-x-jQEXOiz1fNRZeVjAJULRo31Wle7BJTfnNUwAAP7-wqE5nGh8Tf1eg_PCWObhZN4GdddGKfy5fUWV_uROJZyl1IufgT7g-Af0PP71X9x_wgif8TH-XHl-Mli2rr_8CYK6L4glBR_WvVkE0NYS4iuezKyAbaZgBZ_5P6xT3cDjAeJbPVn2c9_4lrRVv9wwWzGZCKCOyo_raU5pS1MD-hhditGxDP7kf9XRey0pBSPpJTh32_5-HJDmVIXbKHrX23hr8E7h1C3ra7C34H_h0QCIddXLhzpJPEj02IRb5D3hHqWZH5UuhvHS-UHOcWEAEe1AAAA.webp",
+   "link": "https://www.bodegaaurrera.com.mx/ip/monitores-y-seguridad/barandillas-de-cama-moodooy-para-adultos-mayores-seguridad-tamano-queen/00045067415693",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIe5VU-2Wh4Rf8ukwCAoy5kH0E1_oJ7cEpN3mCL6S6_-RhZMUjWU3v0GgA&s",
+   "actual_image_width": 612,
+   "actual_image_height": 612
+  },
+  {
+   "position": 20,
+   "title": "Barandilla de cama Moodooy robusta y estable para la seguridad ...",
+   "source": "Bodegaaurrera.com.mx",
+   "source_icon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABQBwCdASogACAAPrkurlcnIacnG_DgFwlsALElQQs9MPuRYgHlj-x-jQEXOiz1fNRZeVjAJULRo31Wle7BJTfnNUwAAP7-wqE5nGh8Tf1eg_PCWObhZN4GdddGKfy5fUWV_uROJZyl1IufgT7g-Af0PP71X9x_wgif8TH-XHl-Mli2rr_8CYK6L4glBR_WvVkE0NYS4iuezKyAbaZgBZ_5P6xT3cDjAeJbPVn2c9_4lrRVv9wwWzGZCKCOyo_raU5pS1MD-hhditGxDP7kf9XRey0pBSPpJTh32_5-HJDmVIXbKHrX23hr8E7h1C3ra7C34H_h0QCIddXLhzpJPEj02IRb5D3hHqWZH5UuhvHS-UHOcWEAEe1AAAA.webp",
+   "link": "https://www.bodegaaurrera.com.mx/ip/equipo-ortopedico/barandilla-de-cama-moodooy-robusta-y-estable-para-la-seguridad-de-los-adultos-mayores/00045067516536",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIe5VU-2Wh4Rf8ukwCAoy5kH0E1_oJ7cEpN3mCL6S6_-RhZMUjWU3v0GgA&s",
+   "actual_image_width": 612,
+   "actual_image_height": 612
+  },
+  {
+   "position": 21,
+   "title": "Yetişkin yatakları için güvenlik rayı, saklama çantalı, güvenli tutuş ...",
+   "source": "Amazon.com.tr",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.com.tr/Yeti%C5%9Fkin-yataklar%C4%B1-g%C3%BCvenlik-t%C4%B1rabzan-kad%C4%B1nlar/dp/B0F18PTCP3",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUSzkeYVF-Pf0QLUPP9QgdxYHxUVd1ci9L17dcVxUg10fBTjYXLoi3VEv&s",
+   "actual_image_width": 347,
+   "actual_image_height": 350
+  },
+  {
+   "position": 22,
+   "title": "Moodooy Rieles De Cama Para Adultos Mayores, Riel De Cama Pa",
+   "source": "Mercado Libre Colombia",
+   "source_icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0y0HenlH5GRgDC29MA3ib9t_2A9p2JBM6X8beABxtKwBl2Ajed8Ef7Lv9QQVT8oAD-3ljRsSfgNaMKbmcTdp8n52t4g5jV4x1m--3vKP0ExZRQSjI5n3inE5efMGsNmB0jnY__52Fy3UUAecM_GkYRiZGhBOd_XgA-CVotESSzOcqiFyst4fyEcCtsUNfxJ65Lgee9hrfU6JqMaszS51xOFP8_IoR-B0TTONHBgjdfz3Xz9b_52LOCLaZXYveukdfNUt2nlbNdCFGdtNh2wF57XxvGUj454XfrLx9sO-PDN5mzUnxmWZWqdxP-FQVeeWRG6Atlkc87Hn1G8NT02HyJRBHnGkUweNI-XAKD5nEBDd-Pw6DMp-NI99Kl7e7oBfUgSKdVK_sEc9n0YQ7M_KbTuyWXn_B5JoTpJsp9rW79f7nvBvPj5ry5qXWf8E02413rORkQAAAA.webp",
+   "link": "https://www.mercadolibre.com.co/moodooy-rieles-de-cama-para-adultos-mayores-riel-de-cama-pa/up/MCOU3692558002",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_8IAEdNhavqkUzgjweqvBCrQJR42EkfdjVY5v0u0gwg9ReK5w5wJLKth&s",
+   "actual_image_width": 493,
+   "actual_image_height": 500
+  },
+  {
+   "position": 23,
+   "title": "Medical Supplies & Equipment Kuwait | Best Price Offers - noon",
+   "source": "noon",
+   "source_icon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAABQCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHp_nO9Nu6JQG8V7x7-23o7p4D3D9tH6_n8F_QPynuWjtiic1xtlpqNcpQsXrAAA_v7DmqOcSmd_9TsJ2-SBSzFlxLIomZEp77PfCy6T_e8_7Y955PmQmihmV6Yamz74Mw4338mHSNJsGPhNoo_-f__4uczlZ_OmsmTv91hx0S6lHW3WgoIm_f_G1sf_f_Gd8Buhv-YAbdUYCpEz-Ha-cQUPYq2q9oK-KnNnoxxngHgDMK7n27RuNTQIarYLFDPwBTPFHk0fGbbOXch1RBZXTuL0-m2o_kX2pB2EksIE_eEln2f1dDMwc-tiSe3QLHCNzFw59VyKgQoq4GnldS2IuJBrwx1_-_-n1zt3PCb_z1-ExjjSxfMO1BObSuiZWQcM_0Ct2-oxtHMGpZCjULNHdS4EWSTM-YsTsPuufwm4AhgkeHCRgO6cN-f6u65_7UTsvqAAAA.webp",
+   "link": "https://www.noon.com/kuwait-en/health/medical-supplies-and-equipment/ts-ae-en-medical-mattress/?sort%5Bby%5D=popularity&sort%5Bdir%5D=desc&limit=50&isCarouselView=false",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzos5ZPfxw4o0Kojp_iukP9MHW7QIyTkQ2eEgFVWdNtZhnr9G1PcbQCzLl&s",
+   "actual_image_width": 320,
+   "actual_image_height": 436
+  },
+  {
+   "position": 24,
+   "title": "Bed Rails Moodooy For Elderly Adults Safety Queen Size",
+   "source": "Mercado Libre",
+   "source_icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0y0HenlH5GRgDC29MA3ib9t_2A9p2JBM6X8beABxtKwBl2Ajed8Ef7Lv9QQVT8oAD-3ljRsSfgNaMKbmcTdp8n52t4g5jV4x1m--3vKP0ExZRQSjI5n3inE5efMGsNmB0jnY__52Fy3UUAecM_GkYRiZGhBOd_XgA-CVotESSzOcqiFyst4fyEcCtsUNfxJ65Lgee9hrfU6JqMaszS51xOFP8_IoR-B0TTONHBgjdfz3Xz9b_52LOCLaZXYveukdfNUt2nlbNdCFGdtNh2wF57XxvGUj454XfrLx9sO-PDN5mzUnxmWZWqdxP-FQVeeWRG6Atlkc87Hn1G8NT02HyJRBHnGkUweNI-XAKD5nEBDd-Pw6DMp-NI99Kl7e7oBfUgSKdVK_sEc9n0YQ7M_KbTuyWXn_B5JoTpJsp9rW79f7nvBvPj5ry5qXWf8E02413rORkQAAAA.webp",
+   "link": "https://www.mercadolibre.cl/bed-rails-moodooy-for-elderly-adults-safety-queen-size/p/MLC2036614573",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMksC_JtUCEnPOLw8DhthI5CoFWs9S_m3dZjzwex2eM-stVq47JZPlBdVy&s",
+   "actual_image_width": 493,
+   "actual_image_height": 500
+  },
+  {
+   "position": 25,
+   "title": "Moodooy Yaşlı Yetişkinler İçin Yatak Rayları Güvenliği ... - Amazon",
+   "source": "Amazon.com.tr",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.com.tr/Moodooy-Yeti%C5%9Fkinler-G%C3%BCvenli%C4%9Fi-Ya%C5%9Fl%C4%B1lar-G%C3%BCvenlik/dp/B0DJQC5G7W",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOPauvr-RD9AlCOFfo92oIaN7yS5DFHqms0NJ7jQm8zr1p0mbAJxayHxM&s",
+   "actual_image_width": 348,
+   "actual_image_height": 350
+  },
+  {
+   "position": 26,
+   "title": "Bed Rails Moodooy For Elderly Adults Safety Queen Size",
+   "source": "Mercado Libre",
+   "source_icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0y0HenlH5GRgDC29MA3ib9t_2A9p2JBM6X8beABxtKwBl2Ajed8Ef7Lv9QQVT8oAD-3ljRsSfgNaMKbmcTdp8n52t4g5jV4x1m--3vKP0ExZRQSjI5n3inE5efMGsNmB0jnY__52Fy3UUAecM_GkYRiZGhBOd_XgA-CVotESSzOcqiFyst4fyEcCtsUNfxJ65Lgee9hrfU6JqMaszS51xOFP8_IoR-B0TTONHBgjdfz3Xz9b_52LOCLaZXYveukdfNUt2nlbNdCFGdtNh2wF57XxvGUj454XfrLx9sO-PDN5mzUnxmWZWqdxP-FQVeeWRG6Atlkc87Hn1G8NT02HyJRBHnGkUweNI-XAKD5nEBDd-Pw6DMp-NI99Kl7e7oBfUgSKdVK_sEc9n0YQ7M_KbTuyWXn_B5JoTpJsp9rW79f7nvBvPj5ry5qXWf8E02413rORkQAAAA.webp",
+   "link": "https://www.mercadolibre.com.mx/bed-rails-moodooy-for-elderly-adults-safety-queen-size/p/MLM2036614573",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMksC_JtUCEnPOLw8DhthI5CoFWs9S_m3dZjzwex2eM-stVq47JZPlBdVy&s",
+   "actual_image_width": 493,
+   "actual_image_height": 500
+  },
+  {
+   "position": 27,
+   "title": "3 gear Adjustable Bed Rail Support Handle with Storage Pouch ...",
+   "source": "Noon",
+   "source_icon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAABQCACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHp_nO9Nu6JQG8V7x7-23o7p4D3D9tH6_n8F_QPynuWjtiic1xtlpqNcpQsXrAAA_v7DmqOcSmd_9TsJ2-SBSzFlxLIomZEp77PfCy6T_e8_7Y955PmQmihmV6Yamz74Mw4338mHSNJsGPhNoo_-f__4uczlZ_OmsmTv91hx0S6lHW3WgoIm_f_G1sf_f_Gd8Buhv-YAbdUYCpEz-Ha-cQUPYq2q9oK-KnNnoxxngHgDMK7n27RuNTQIarYLFDPwBTPFHk0fGbbOXch1RBZXTuL0-m2o_kX2pB2EksIE_eEln2f1dDMwc-tiSe3QLHCNzFw59VyKgQoq4GnldS2IuJBrwx1_-_-n1zt3PCb_z1-ExjjSxfMO1BObSuiZWQcM_0Ct2-oxtHMGpZCjULNHdS4EWSTM-YsTsPuufwm4AhgkeHCRgO6cN-f6u65_7UTsvqAAAA.webp",
+   "link": "https://www.noon.com/uae-en/3-gear-adjustable-bed-rail-support-handle-with-storage-pouch-white-and-black-height-assist-safety-guard-adjustable-bed-assist-rails-for-seniors-patients-fits-all-beds-tool-free-assembly/Z97A8C44E647542275B3DZ/p/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzos5ZPfxw4o0Kojp_iukP9MHW7QIyTkQ2eEgFVWdNtZhnr9G1PcbQCzLl&s",
+   "actual_image_width": 320,
+   "actual_image_height": 436
+  },
+  {
+   "position": 28,
+   "title": "Bed Rails Moodooy For Elderly Adults Safety Queen Size | Envío gratis",
+   "source": "Mercado Libre",
+   "source_icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0y0HenlH5GRgDC29MA3ib9t_2A9p2JBM6X8beABxtKwBl2Ajed8Ef7Lv9QQVT8oAD-3ljRsSfgNaMKbmcTdp8n52t4g5jV4x1m--3vKP0ExZRQSjI5n3inE5efMGsNmB0jnY__52Fy3UUAecM_GkYRiZGhBOd_XgA-CVotESSzOcqiFyst4fyEcCtsUNfxJ65Lgee9hrfU6JqMaszS51xOFP8_IoR-B0TTONHBgjdfz3Xz9b_52LOCLaZXYveukdfNUt2nlbNdCFGdtNh2wF57XxvGUj454XfrLx9sO-PDN5mzUnxmWZWqdxP-FQVeeWRG6Atlkc87Hn1G8NT02HyJRBHnGkUweNI-XAKD5nEBDd-Pw6DMp-NI99Kl7e7oBfUgSKdVK_sEc9n0YQ7M_KbTuyWXn_B5JoTpJsp9rW79f7nvBvPj5ry5qXWf8E02413rORkQAAAA.webp",
+   "link": "https://articulo.mercadolibre.com.ar/MLA-2307270466-bed-rails-moodooy-for-elderly-adults-safety-queen-size-_JM",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMksC_JtUCEnPOLw8DhthI5CoFWs9S_m3dZjzwex2eM-stVq47JZPlBdVy&s",
+   "price": "$154,595.36",
+   "extracted_price": 154595.36,
+   "actual_image_width": 493,
+   "actual_image_height": 500
+  },
+  {
+   "position": 29,
+   "title": "CPSC: Greenworks Tools Recalls Kobalt Yard Power ... - Instagram",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "link": "https://www.instagram.com/p/DavjPwVSQm6/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkF_XVWpoBNdDbMpPL4PVtQFTXRWJw4Vz7vV2LAB6wKrFM7OTcFWWap3E4&s",
+   "date": "Jul 13, 2026",
+   "actual_image_width": 1067,
+   "actual_image_height": 1277
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "search_metadata": {
+  "id": "6ac81a9a1266d7486139f3fc",
+  "status": "Success",
+  "created_at": "2026-10-08 22:35:06 UTC",
+  "processed_at": "2026-10-08 22:35:06 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Flilbuddies-2.png",
+  "total_time_taken": 6.68
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/lilbuddies-2.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "JC Sales Recalls Lil' Buddies Pet Laser Toys Due to Risk of Serious ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/JC-Sales-Recalls-Lil-Buddies-Pet-Laser-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Hazard-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
+   "thumbnail": "https://serpapi.com/searches/6ac81a9a1266d7486139f3fc/images/lyEwzZRHQ-BacUwd_SX1fi6gyz62tiSwGgeMZSzReWU.jpeg",
+   "actual_image_width": 303,
+   "actual_image_height": 400
+  },
+  {
+   "position": 2,
+   "title": "Recall 24496 - JC Sales",
+   "source": "JC Sales",
+   "source_icon": "https://serpapi.com/images/i/UklGRpQAAABXRUJQVlA4IIgAAACQAgCdASoQABAAAsBMJbACdAacpnVZLrWmO7_TAAD--q34QgF8smAqWh0wXtHA93Lbg0YducJRlYvpEryWCMXGHpsjdBsTVqHOBlq6gaFGkY5Yp-Q6pwQ_o9MaaFf9ImNJfeMt8pxpGbnU5dFhI6vRk4f8_8yj90707uTcg79M_bU0J7vF4AAA.webp",
+   "link": "https://www.jcsalesweb.com/Home/Content/recall24496",
+   "thumbnail": "https://serpapi.com/searches/6ac81a9a1266d7486139f3fc/images/WXsaiCcLE_OEUdr4SCI7FBsdgpxhOgB5NE34Gb_C8JE.jpeg",
+   "date": "Apr 6, 2026",
+   "actual_image_width": 639,
+   "actual_image_height": 843
+  },
+  {
+   "position": 3,
+   "title": "51K pet toys sold nationwide pulled for 'deadly' risk to children",
+   "source": "MassLive.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAABwAgCdASoQABAAAsBMJbACdFKATiWDHbIMGj_IAP70DLgAgKnXtfORjCIcL4OSEDP_fP_n79gRcFw-fQ2xfJ-JTmrpa-KKgR8NWYz84231LG2aSM51PT8JPffwuz2cdZynCBIstLEal0RgjqeeY_2GbXZhEfTH6Lgzsaest64pkyLeBw_auf-_fRj9k-u4PAHvn1vokv_Ne_7ztV-woDMprt3MfzAfuL9rMAAA.webp",
+   "link": "https://www.masslive.com/news/2026/04/51k-pet-toys-sold-nationwide-pulled-for-deadly-risk-to-children.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a9a1266d7486139f3fc/images/o1BnFxWntY58Z3eCYLedMmN08WvLC3aczJilzEDxaAc.jpeg",
+   "date": "Apr 23, 2026",
+   "actual_image_width": 800,
+   "actual_image_height": 994
+  },
+  {
+   "position": 4,
+   "title": "Lil' Buddies Pet Laser Toys Recalled For Battery Ingestion Hazard.",
+   "source": "Food Poisoning Bulletin",
+   "source_icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAADQBgCdASocABwAPtEutFooIagoGAEAGglsALbpBMOCuAlQPaI4VjoxPkYUElf_hr403Fu63rt74p_eukeg9AAA_vYSsqZ8QXPQr1Xfc8XDtWuQ07Ou_iZ-HnuawcXBmuxzyvNNFdaaab7JzeESwBqTNEqlQGz_TkM_6AdeFa8Kn3DcuBtev79LDYUqbCFX1yFxK-CQvO1krlcWyHbwJkz509gxP5Shz6TC9ZAh8P83z6xEjJ3GXnMaZeVtJ2Er31cAX5m4NDiUB-MW3q3EgZhcaxndBGSUx1a_1yXo7TiSgHjx7VbVKQUfBYdjImBKacLRkzY4zHjHX33MPXXfgyP72QIcAAAA.webp",
+   "link": "https://foodpoisoningbulletin.com/2026/lil-buddies-pet-laser-toys-recalled-for-battery-ingestion-hazard/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a9a1266d7486139f3fc/images/KSOHqdqcVKRDoCkiQDFBBLbziAE6VEEN_vBnHOTOjd8.jpeg",
+   "date": "Apr 27, 2026",
+   "actual_image_width": 730,
+   "actual_image_height": 908
+  },
+  {
+   "position": 5,
+   "title": "CPSC recalls power banks, generators, toys, other products over ...",
+   "source": "WRNJ Radio",
+   "source_icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAADwBgCdASocABwAPtE-tFooIigoFAEAGgloALUbMA4CER_Lvna84LOV7j8GZGyZSIgu8KBe-Roh1Qlpsi_FfrS4AP79K8ZcFF47xGAZ2vT47lDnovVK40eyuFgVjnsZM7XaQmEpcwM_-eOdSAnhHKsbY_fHLD_qhI_58U--bTvH7fA7L5Kr89Q6HK_9642YuKQRYchT69Z6_OUv2qK2dz3AIXGwn3sIsNT6CXV7POjUVapuRZIG9d5AibZSbPC3Xpf8dQorsh3iyKEGU3bCbtJXbti75i4jL4vTjE3WdNa0Frs4MEhsp3o4ve3rI1Ob_HqkNwsL0xqxc_Pv1rvoxy9sqxyUSPN-xEn7ziaFA6XPR1Aqk8-vsBOQtnGQ6cgwLycQ78m-0vfiiNxSlevzbz50VZBhReHPC_qtYL5rtaBDDZ8RZHOm78S3fflM4b1gBAcp6o1XobLlvIm1QYayviM_TGAPLr2gMTzyH-NZ7sS_B_xQiNIu_3Fouh3YAAAA.webp",
+   "link": "https://wrnjradio.com/cpsc-recalls-power-banks-generators-toys-other-products-over-safety-hazards/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a9a1266d7486139f3fc/images/Tc8sFN6UfX-7ShPQ29YCueZwzYUro9a4C1VAjgwFPmY.jpeg",
+   "date": "Apr 17, 2026",
+   "actual_image_width": 615,
+   "actual_image_height": 765
+  },
+  {
+   "position": 6,
+   "title": "Health alerts: Infant car seats, baby loungers, stuffed bears and more",
+   "source": "AAP",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAABQCACdASocABwAPtE-tFooIigoFAEAGglpAAZoHEB3gxdnNP9GewL-pPoV-rP9lfYi_YoNG-NY7VvNeT7ZvoOYHskEiIQKzos5UAAA_vYT4DMQ5226ZJtjDrZEctUvNIPaKqKebwmmK9SPgJOnfXtk7WcGO13JD7tr-bWORH0psEwEZ6bT2UbTZqArICenJx5XuEsZO8Gm1VjOR1VR04x3RBHNJ0gyCzya4xfhZxH-WGCNuZQ8IhBMt9rNpTd0DdjATv3hfJzvyNr-wzvzfrY8bdGqCTlLu7b9pMyOgVQC1_DwgrZ0St5sOt0psk97SEV5JdRngLPD4Elp93bEun4x0rDVE8Q6pKpzwRHmqeHQzi9kE4daMcpZlR81XzXR62tHtNucl9RB66X2f_6SkN1hAv_qhMSKiHrxOxFDr8r5Ad538eShUi_XKku8gN97-RembwDbf3SE9vIMvBPeuX0ipd2UBnO6CACig_Vwtr3TM6cIld4UCCPgA2DGfDnpkMoj88Wyt02KsCA4e1QJmp4Fy4WXfdPNEXOeFDaJuJLPpic4c80IaS7qngAAAA.webp",
+   "link": "https://publications.aap.org/aapnews/news/34990/Health-alerts-Infant-car-seats-baby-loungers",
+   "thumbnail": "https://serpapi.com/searches/6ac81a9a1266d7486139f3fc/images/3tv8mRSGcP_p_316wSgChQxsEUGiJCjSRCYnP7AjJvc.jpeg",
+   "date": "Jun 1, 2026",
+   "actual_image_width": 157,
+   "actual_image_height": 195
+  },
+  {
+   "position": 7,
+   "title": "UK Seizes Non-Compliant 'Squishy Dumpling' Toys at Border",
+   "source": "LinkedIn",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4____gOLB44D6nTcsGIo33QHi_zTGd0B2YTiAPpYjHIHNAf_piQk6wGPW8f_rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts_m_SfxBMs5RupswBaACr-P47b_5zlG_5DyzZ_r_-8hNF7vuvP__nn3r0X6JhJ-0ccPrR-_-H7735jw9cf_n5v0D1Nuo5gBxQve06zR0AjoL7b7_-__zjN4bc-ScfaOeA33___k9Yfg4mDw7u_Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII.png",
+   "link": "https://www.linkedin.com/posts/betterretailing_exclusive-non-compliant-versions-of-viral-activity-7453032020454092800-fKMq",
+   "thumbnail": "https://serpapi.com/searches/6ac81a9a1266d7486139f3fc/images/Wg5pkyl5Gjw37kQM8V8stw593ENYqQ5OtruzZ723S4E.jpeg",
+   "date": "Apr 23, 2026",
+   "actual_image_width": 615,
+   "actual_image_height": 765
+  }
+ ]
+}

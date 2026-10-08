@@ -1,0 +1,554 @@
+{
+ "search_metadata": {
+  "id": "6ac81a93f7e9962638eddfb8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/IT-0Fvj3JSy6tA_UEGikuYgeAE6Po1HmHWmONpwnD94/6ac81a93f7e9962638eddfb8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/IT-0Fvj3JSy6tA_UEGikuYgeAE6Po1HmHWmONpwnD94/6ac81a93f7e9962638eddfb8.md",
+  "created_at": "2026-10-08 22:34:59 UTC",
+  "processed_at": "2026-10-08 22:34:59 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2F1k-1.png",
+  "raw_html_file": "https://serpapi.com/searches/IT-0Fvj3JSy6tA_UEGikuYgeAE6Po1HmHWmONpwnD94/6ac81a93f7e9962638eddfb8.html",
+  "total_time_taken": 5.47
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/1k-1.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Alliance Chemical Recalls 1-K Kerosene Heater Fluid Containers ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Alliance-Chemical-Recalls-1-K-Kerosene-Heater-Fluid-Containers-Due-to-Risk-of-Serious-Injury-or-Death-from-Flash-Fire-Burn-and-Child-Poisoning-Violates-Mandatory-Standards-for-Portable-Fuel-Containers",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/b4iXy3kei6FCpXS_PNiL_Fz1TjjVy0cZGrDJz7vcA0Q.jpeg",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  },
+  {
+   "position": 2,
+   "title": "1-K Kerosene Heater Fluid Containers (CPSC #26",
+   "source": "www.arbicineuropa.it",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.arbicineuropa.it/product/category/33256265111310",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/_7mWXQLC1vrkcoe78v_NFm8E39BpFvuABl--f3kCq9o.jpeg",
+   "actual_image_width": 696,
+   "actual_image_height": 696
+  },
+  {
+   "position": 3,
+   "title": "Air Heater K1 Kerosene Heater What Is K-1 Kerosene? Grades ...",
+   "source": "Bhubaneswaroffice",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://bhubaneswaroffice.in/?x=33189826031710",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/tLQNLDJL5yHEgERBFyrZSFoSeVN1KQ7icoCUAp3DdNc.jpeg",
+   "date": "Sep 19, 2026",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 4,
+   "title": "Alliance Chemical Recalls 1-K Kerosene Heater Fluid Containers ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10742/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/WXAr3RsjMCXun_M7Mp_Y0dubEaDWSIwajtS0ga0Vt1g.jpeg",
+   "date": "Apr 29, 2026",
+   "actual_image_width": 475,
+   "actual_image_height": 475
+  },
+  {
+   "position": 5,
+   "title": "Kerosene Heater Oil Central Heating Service Kerosene K1 Clean ...",
+   "source": "www.silver-spirits.de",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://silver-spirits.de/product-similar-image/?29093647121140",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/Euu6fAImHnatigXwde3vLOWUC3-bKEPa4U7fKX4r6pg.jpeg",
+   "actual_image_width": 1200,
+   "actual_image_height": 630
+  },
+  {
+   "position": 6,
+   "title": "Kerosene Fuel Conditioner KeroKlean Kerosene Heater ... - vip-ag",
+   "source": "Vip-ag",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "http://www.vip-ag.com/?j=8735470031490",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/yCm14GZa4JGxYL-tyokNiGc4w8iV5lif_b5T550AMQk.jpeg",
+   "date": "Aug 19, 2026",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 7,
+   "title": "1-K Kerosene Heater Fluid Portable Fuel Containers recalled due to ...",
+   "source": "Canada.ca",
+   "source_icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAADwBQCdASocABwAPtE-tFooIigoFAEAGglsALbwskcA3jMiGAv9VaM0Qym5gzsnGOumdwhYDBSLwAD-9ge5OvNJljHr1J-wfwS0v-iTuTi5mFc3Tld8S6Hnex6selVE_F75LjMrvb9GKG_yDlrKEG88IDXqZeagkn8BWq2OIG1rFAJ0f0Xd8Ggy7DJFlk230tydtwNRiELhXJ3QP_es8Xcr5wS8THtYrFc44Y_EzpxjxUfLtmY1pzQCui-JUYIhLtr_z3pAycHNfuM8b_-xIdpiZbU9GCDir19VbvUHMIV7gd-DthixUyYDj_jiKtPmyfz_onPaFMjxGmmvziJAMlgBgAA.webp",
+   "link": "https://recalls-rappels.canada.ca/en/alert-recall/1-k-kerosene-heater-fluid-portable-fuel-containers-recalled-due-fire-hazard",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/7yp8nkB5-FqgG6EYuhuzqtlVSNs69JKdrj43dQrEZsE.jpeg",
+   "date": "May 19, 2026",
+   "actual_image_width": 544,
+   "actual_image_height": 544
+  },
+  {
+   "position": 8,
+   "title": "Litre Price Of Kerosene Oil Today 25 Litres Kerosene (Heating Oil)",
+   "source": "Excelien",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALbdAC7K95RK8EMc8a7CQeZCS_biZ3IWRZx846aKl_XwAP74rbewJfLaRTzbLg_Fta_eQMz5ba3UUow8YYNlpbrCoUjgfX4bsne7Ap5Pf5dMuT-_-BN79xi0xQ1KaUcDL2opy06Nsj-_mff6n4Gzc_2AWfwp_co55gkgq2BdD_7GDmXFJ_s2r-9ERtTP6Ibsut82OZ_3h4ZWL2K7eaC3IlevrZ9h9luZ-bs9lWRjX2Mvr9zB2BrohpHtu6KQtVvwaSrEFdriTxsbXzQ5jdNS_uPTa0zHJf47D3yZvJzO1oFjhntk7ZuvKv1-DF5OCRF5kz5zVOt4c73SNnryHlf-354gP5r3Nbj__mWFoAAAAA.webp",
+   "link": "https://excelien.com/product/review/37864534001600",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/HVHMk3DvJGyvqQAiaJu2ecfmoq_QtkSDbwf_0lu6O6I.jpeg",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 9,
+   "title": "Kerosene Oil Heated Kerosine Oil Price Today ... - Chom Capital",
+   "source": "www.chomcapital.com",
+   "link": "https://www.chomcapital.com/product/category/25040453011370",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/Liu_tY9c3Gk32QDEdy9NlFkoFADfF9K_5p5Rc8kgA1E.jpeg",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 10,
+   "title": "K Heater Fuel Kerosene Klean Heat Kerosene Klean Strip Odorless ...",
+   "source": "somo.sa",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://somo.sa/product-similar-image/?17023594031500",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/UA3WL578VRaKgVJV6UiFWDU8-EQLdI2gq4it3uGsv6Y.jpeg",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 11,
+   "title": "Air Heater K1 Kerosene Heater 80000 BTU Portable Multi Fuel ...",
+   "source": "Diagnostools",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALbdAC7K95RK8EMc8a7CQeZCS_biZ3IWRZx846aKl_XwAP74rbewJfLaRTzbLg_Fta_eQMz5ba3UUow8YYNlpbrCoUjgfX4bsne7Ap5Pf5dMuT-_-BN79xi0xQ1KaUcDL2opy06Nsj-_mff6n4Gzc_2AWfwp_co55gkgq2BdD_7GDmXFJ_s2r-9ERtTP6Ibsut82OZ_3h4ZWL2K7eaC3IlevrZ9h9luZ-bs9lWRjX2Mvr9zB2BrohpHtu6KQtVvwaSrEFdriTxsbXzQ5jdNS_uPTa0zHJf47D3yZvJzO1oFjhntk7ZuvKv1-DF5OCRF5kz5zVOt4c73SNnryHlf-354gP5r3Nbj__mWFoAAAAA.webp",
+   "link": "https://diagnostools.com/product/category/33189826001250",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/WOxqczrdc-WzFsExZRPdNCrPE19tm-Qp7vYC5p4Cts0.jpeg",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 12,
+   "title": "What Is K-1 Kerosene? Uses, Benefits, and How It Compares",
+   "source": "Alliance Chemical",
+   "source_icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAADwBgCdASocABwAPrUurVanIacnG_DgFolsALboTTYsmATyX8a7kCTAXOD8b-ithIFNwTPQLCW_ZeIgOCeymgAAAP74rbfPeeA0GRVcs_VeLO9G9b2udKwiCReTSjg-ZwhwQryALHXCzSCkjo5qaKTd6bgjtmT_82_CxJ6c-d6XjxAGRCbtOLNWfYHhNMrzDEdPgPk7tVGKZ9hjxexlUM5suSpbQwLsmC8fjVTjZsavLM57Vyxm7k8vnl3nFHn1q6A6Bcf5OsnjPikBT5d1s1Dm5M2OhOm_gngZvo3xc9457vJl_aNwQNx_T8OYsWIUg1K942G5h7Z8jx8n75m__lVd8792GAAA.webp",
+   "link": "https://alliancechemical.com/blogs/articles/what-is-k-1-kerosene-uses-benefits-and-how-it-compares",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/E2GfFrg-hsKsrUEJUPwvb7C4foIjzyESC_U1W79lEFk.jpeg",
+   "date": "Feb 3, 2026",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 13,
+   "title": "Fuel Container, Gasoline and Other Liquid Fuel Safety | CPSC.gov",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Safety-Education/Fuel-Container-Gasoline-and-Other-Liquid-Fuel-Safety-0",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/-WNqk8zKhyICASPNSTrPH49wutpwjvKO4xGoCSYpu0c.jpeg",
+   "actual_image_width": 475,
+   "actual_image_height": 475
+  },
+  {
+   "position": 14,
+   "title": "Oil Boiler Price Kerosene Heating Oil Furnace Oil, 250 Degree C At ...",
+   "source": "Vakuummash",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.vakuummash.com/?z=2182724071000",
+   "thumbnail": "https://serpapi.com/searches/6ac81a93f7e9962638eddfb8/images/RM4KPqxChtXbtGGlOVDjJ7x0Fj5Ks8YJ9qIFvqfF7js.jpeg",
+   "date": "Aug 8, 2026",
+   "actual_image_width": 1200,
+   "actual_image_height": 630
+  },
+  {
+   "position": 15,
+   "title": "Amika Products Amika Travel Size Shampoos Big Hit Volumizing ...",
+   "source": "Sahlstromsheating",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALbdAC7K95RK8EMc8a7CQeZCS_biZ3IWRZx846aKl_XwAP74rbewJfLaRTzbLg_Fta_eQMz5ba3UUow8YYNlpbrCoUjgfX4bsne7Ap5Pf5dMuT-_-BN79xi0xQ1KaUcDL2opy06Nsj-_mff6n4Gzc_2AWfwp_co55gkgq2BdD_7GDmXFJ_s2r-9ERtTP6Ibsut82OZ_3h4ZWL2K7eaC3IlevrZ9h9luZ-bs9lWRjX2Mvr9zB2BrohpHtu6KQtVvwaSrEFdriTxsbXzQ5jdNS_uPTa0zHJf47D3yZvJzO1oFjhntk7ZuvKv1-DF5OCRF5kz5zVOt4c73SNnryHlf-354gP5r3Nbj__mWFoAAAAA.webp",
+   "link": "https://sahlstromsheating.com/?v=39407868071480",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "date": "Oct 1, 2026",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 16,
+   "title": "Aerial Scranton Iowa The Best Homemade Tartar Sauce Is In A Bowl ...",
+   "source": "irishagen.nl",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.irishagen.nl/product-similar-image/?8735440140410",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 17,
+   "title": "Sonic And Puyo Puyo 35th Anniversary Sega Lucky Kuji Sonic The ...",
+   "source": "Whitneymcveigh",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://whitneymcveigh.com/?i=17009541081390",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 18,
+   "title": "K1 Kerosene for Enhanced Kerosene Heating - 1 Quart",
+   "source": "Desertcart Aruba",
+   "source_icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3oHDp2lpKofIUQr_Btymwsz5DrIJZhrfkXAAA_tiT80rEhwo8QfKq-33gTJ6QaeudvX9Y1ApkMWBZ3jmRD77AHb_-Wffb7M34pDbCUdQY7T7i1Lh6Afz1f5Bo-dkVxFZVOXbppaXq6SkXc_OwMCpOB-6SjnHc6ED_DT6904H5Bmv-vbYRH3diQHHZxvx5lctuq2Ch4e3s0bste1iImjtr-EA_ywfbXZpmdQPtIO_C7_l-11NtK2gA5D-aqJlUAROUppvnKKfyc5V46CD_17n9ukOn6oTusAmoeAAA.webp",
+   "link": "https://aruba.desertcart.com/products/539797614",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MBxGSyADugWGL8AxBDQN1RS35R_LV9dvJd1hYteTJXFpzKWZYblTPNux&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 19,
+   "title": "HOT ! Electric Tankless Rheem Performance Water Heater Parts ...",
+   "source": "Abri-voyageur",
+   "link": "https://abri-voyageur.ca/product/review/12051063001350",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-nk6uoblj-v2fLlf7i9deJBD2A3gYA-j4KtjfZFulCzkJe2cQ7UCfynl&s",
+   "actual_image_width": 1000,
+   "actual_image_height": 1000
+  },
+  {
+   "position": 20,
+   "title": "Curly Bob Gray Wigs Afro Short Synthetic Afro Kinky Curly Wigs ...",
+   "source": "cnbtechnology.net",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://cnbtechnology.net/product-similar-image/?10771895131300",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 21,
+   "title": "K1 Kerosene for Enhanced Kerosene Heating - 1 Quart",
+   "source": "bahrain.whizzcart.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAABwBQCdASogACAAPtE-tFooIigoFAEAGglAE6ZcHBAAZ3icEqGL-M4LCV6DKpIaTeSZAtJAAP71HkGvERdk3xiLZtigadkccwetWmMSIOBKsCCVbgP-3CqUNYqu7d77ugyAKbLq3Hqm7ysQZAgqMKqK0f65Nc-nY-avUiRyyD8XkavuAY_a_Fdg_Lrhz-s92gaNn65f8t25UhSkEqhElfqZ-zb7DrrM_yIPObyAoEqfWk2G32enMU0YCyDhnHm5FmwQVMyIUrayhxl1W8wAAA.webp",
+   "link": "https://bahrain.whizzcart.com/product/18971883/k1-kerosene-for-enhanced-kerosene-heating-1-quart-premium-quality-k1-kerosene-for-reliable-and-safe-kerosene-heating/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6e2C6Wo9o2ljXQoqZixFy6p0Hxt8mrXScAID96XWhQ-eXda1xY9LRb63R&s",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 22,
+   "title": "Medium Telfar Bag Retail Large Telfar Telfar Bag Retail Large Telfar ...",
+   "source": "Pickupsupermercati",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALbdAC7K95RK8EMc8a7CQeZCS_biZ3IWRZx846aKl_XwAP74rbewJfLaRTzbLg_Fta_eQMz5ba3UUow8YYNlpbrCoUjgfX4bsne7Ap5Pf5dMuT-_-BN79xi0xQ1KaUcDL2opy06Nsj-_mff6n4Gzc_2AWfwp_co55gkgq2BdD_7GDmXFJ_s2r-9ERtTP6Ibsut82OZ_3h4ZWL2K7eaC3IlevrZ9h9luZ-bs9lWRjX2Mvr9zB2BrohpHtu6KQtVvwaSrEFdriTxsbXzQ5jdNS_uPTa0zHJf47D3yZvJzO1oFjhntk7ZuvKv1-DF5OCRF5kz5zVOt4c73SNnryHlf-354gP5r3Nbj__mWFoAAAAA.webp",
+   "link": "https://www.pickupsupermercati.it/?j=41303513031940",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-I0WIPrM1lGbk0vMQHcXjaQwSE24W4032-O20vr1LY1eG9ZNS3F4kFmC&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 23,
+   "title": "Consumer product safety recall roundup for May 1, 2026",
+   "source": "ConsumerAffairs",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtFBg9YcctCXueewyu3h6_js8_uBq-L-___I2_NUj9lmmd3nZ7hfAAAAC3RSTlMAHGkKi__xL9Cn5OXyBpAAAAChSURBVHgBbM1VEsAgFEPRWioQHPa_1bq_83snk-qpbpq6krUdFl0rtabHpm9-aRhxGYf32YSXqX6fvdzXg4JADVscIRq3P9y0xq1-RxpLMW6c1xQjgRCjAfiPOjkfF96l_F-WpW0C_5HZbctC4RO0cZEIMS5LHz3EqGPKOcVMKeYAkkH-BLGYhxQI-AIeb5Thj2zCyQQzgRFImoQTNd7sAAAzTw4gNIcHNwAAAABJRU5ErkJggg.png",
+   "link": "https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-may-1-2026-050126.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREK-DfWm6HUjHYrkROPVsGzxc1Y4K7BUYnYAZIiJfe8vRvutwALRY48Mfu&s",
+   "date": "May 1, 2026",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  },
+  {
+   "position": 24,
+   "title": "2017 Ducati Ducati Monster 1200 Torque Ducati 1200 Monster 2017 ...",
+   "source": "بایوران",
+   "source_icon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAAAQBgCdASogABQAPtEutFooIagoGAEAGglsAL9ZO8OCEA1hqDEodRFV9MakuMEZnLGGo9_c0lpagAAA_vYHaycSlOCKBV7XnNvFpEGl3YP86NO9Gpq2EET9HAw95kFcBxbbSSXgWukOoL1UoklKYYZaP7Ix6scSACyMsvZ14ttH6XhKsr1_nbOVRVKMs76WLEDk-uqyPdv_bz3_0bhB88CPP91Ngvnx3w1oronipK6yZEqiBPyfsRBDC1vSuSjNfP08-IFbDEA2pBh9uMDIuyD8-fh3PpNQ4sS44ki9FwdCC0w9oFXgqmsZXl5VO8KGSYk9vRy-aZSSbv66-7r6uXpnScIcd0hLB5p_5TAAAAA.webp",
+   "link": "https://biorun.ir/shop/manufacturer-site?&transition=top41389162131920",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-I0WIPrM1lGbk0vMQHcXjaQwSE24W4032-O20vr1LY1eG9ZNS3F4kFmC&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 25,
+   "title": "Rheem Gas Package Rheem 10 Ton Package Unit 10 Ton Rheem ...",
+   "source": "SEDIM MARBURG",
+   "source_icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtEutFooIagoGAEAGglpAAPkIg30oQCPGfQqD0FeWj1TSn11uWwAAP72AtIG_-qBxYaIwbL1Qu6YsYbeUIMyCgqOwpNp-j-ccOvarE7kv72h0c-n-bb-J_0L1vdJibyumKlQyLRLPIpE8F-UfNw7f_sXhtF_9__8drc_CdH5v0_-b9ApE_4Nf_6g0tm0h_DsvfX899AV9w75t9olw0khY5Snh5G-ve3Xnbzn2YuXq8myyWTocywfifu8R7CQ5cCvQsYK_ULqNz2x3NK-5AllVV1DBVOfiuOdyCOp35x-MabwAAAA.webp",
+   "link": "https://sedim-marburg.com/?c=20324685021360",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPBu_v7HwvfnH5eZakX2p8DwdNJGTNP2txSdKK3E7ntKMGJIzkGDxFIMc&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 630
+  },
+  {
+   "position": 26,
+   "title": "Festina Watches Festina Chronograph Blaues Zifferblatt ...",
+   "source": "Ronald-holz",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALbdAC7K95RK8EMc8a7CQeZCS_biZ3IWRZx846aKl_XwAP74rbewJfLaRTzbLg_Fta_eQMz5ba3UUow8YYNlpbrCoUjgfX4bsne7Ap5Pf5dMuT-_-BN79xi0xQ1KaUcDL2opy06Nsj-_mff6n4Gzc_2AWfwp_co55gkgq2BdD_7GDmXFJ_s2r-9ERtTP6Ibsut82OZ_3h4ZWL2K7eaC3IlevrZ9h9luZ-bs9lWRjX2Mvr9zB2BrohpHtu6KQtVvwaSrEFdriTxsbXzQ5jdNS_uPTa0zHJf47D3yZvJzO1oFjhntk7ZuvKv1-DF5OCRF5kz5zVOt4c73SNnryHlf-354gP5r3Nbj__mWFoAAAAA.webp",
+   "link": "https://ronald-holz.de/?z=2216554001410",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBb7SaeVIOaKB9pXhZdqjBoHZZAwCVpCyYa6LYDxyMOK1nYy0hCOUZ6rb&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 27,
+   "title": "Gemini Ranger Fishing Jersey Vintage Saint Seiya",
+   "source": "nwotv.no",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.nwotv.no/product/category/9493122011750",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-I0WIPrM1lGbk0vMQHcXjaQwSE24W4032-O20vr1LY1eG9ZNS3F4kFmC&s",
+   "date": "1 day ago",
+   "actual_image_width": 1200,
+   "actual_image_height": 1200
+  },
+  {
+   "position": 28,
+   "title": "Queroseno De 2.5 Galones Para Calentadores, Lámparas Y Estufas",
+   "source": "Coeurdessables",
+   "source_icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAACwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHpugrwG2vzzPgAOle_YhhgrQPcyd1-q9h9Cejgh5R5AuRHZ8NNzQ2NAAP72E8qvld6MHaCoDoBE4qQM2gJ1KARaAW3rbMgtnUUDUUoxwXfnp9fyvxxUw6ImOfBSzE-EN91NrCSa_pPTn6HF47Wn_5_DTmLvtoPSojvf31GQywfRTjhKjA4FzhSs1drDhTgowNjePbmxw_YM0RSW-2Q9fdpTS-9B0Wh6ktIcK18gyi_mI9UzO_tc7Gazb9jmf-cC-bKdS9jG_fFbZZf7bb_E6zfiB8iJNd1pQMcTJjhMNmm_v28S7p2NhFx5i17s3aA0-FkOEPYv6EnYlXdPDfZmrHQKE5o5n3-GTxa-pHl_fXXZU0fimeGpklmcskuXs0AOLiMdRP5Q1slDoO0Nw8WckjVAxvPu_fK5_O9sSr1UVIIpcD9wH7pKob4Y11t6nc_8oG3fh_J3-_C4VfuwAAA.webp",
+   "link": "https://coeurdessables.com/product/Galones-Para-Calentadores-L-mparas-Y-Estufas-Marca-Sunnyside/188007",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRtHRZOjYsOFi_i86Vvay47OjdsnqbXXILZ7J9DxR-rq5TJvPJxCl8s44T&s",
+   "actual_image_width": 1113,
+   "actual_image_height": 1459
+  },
+  {
+   "position": 29,
+   "title": "K1 Kerosene Klean Heat Pack) Crown 1-K Clean Burning Kerosene ...",
+   "source": "Smvbespokelaw",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://smvbespokelaw.com/?i=16700390041000",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 30,
+   "title": "High-quality K1 Kerosene Shelf Life + Sunnyside High-end ...",
+   "source": "Clinicajimen",
+   "link": "https://wap.clinicajimen.com/?fgg=29.3259585.2.15",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "date": "Sep 27, 2026",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 31,
+   "title": "Fork Lift Lionel 264 Lionel 264 Vintage O Operating Forklift Platform ...",
+   "source": "Erinislamiccenter",
+   "source_icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAAAQBwCdASocABwAPrkurlcnIacnG_DgFwlAE6QbNgAMVxLA1Y_0hwAClIgg6iG89WUTHCMsAvexC7taR5EiB_zwwAD-9-mab4iaixMBCi3PtE9MmHdvVq-9Hhc6n4-6o8cAoZUh4XS0vkamoCsvu5OJGyFchMYn0d9-A9s19iIdikWFF1XHRNkD0qwNGOHonb1RJmVBl8dQsh4XOXn_7RdNd2jPKiBbMRIOMIcApi7BJFeywziKLREqpCPIE-AD-gx2vEySmA3BJLVyttNb3zaZtMBw-I3LF_a9Jbzduq9HC33com1cye_wcvgIc_17iutSOhbeKuXd8OttwS__19Sv8kcbQa1kTH_5Hvpl6XrZA52E394tptrXtUiATRsq2taVufEr11vgvMDxpkGUldlmLoNkl7UOwd3qSrTAp1EgIaf-FCoL-w_JjanBxAH-1V2VLSOR-KK3Lhpp8Sb_6joWiY1jKjXtp1qN3v_DC_f0oPvktL5jKIHaM5ESSQAA.webp",
+   "link": "https://erinislamiccenter.ca/?x=16697030031970",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "date": "Sep 20, 2026",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 32,
+   "title": "Space Heater Kerosene Heater Fluid Alliance Chemical Recalls 1-K ...",
+   "source": "Greenvalerecycling",
+   "source_icon": "https://serpapi.com/images/i/UklGRqwBAABXRUJQVlA4IKABAABwCACdASocABwAPtE-tFooIigoFAEAGglsALElQMhrgKW4DeOee3_VX4NfKZiXnuC3uTgUpz_Htu_PAqE3tMENg9fcSHzfvwUdSEAAAP72B_PvlA7i9nPvdy7RQrgaKDYwkfLQvsTxkd-VeYgCIKkhcQJZcMit5HxqW5uQ0ZhpZEYXSqYPU1ASEEqOY2sbKR70up94ETjJFHBp4uc6fgY1YUxIiC0lbWo9s0EU_nRPfI9BtJMom9Z8Nyj_mTtbZjgRbFhWaj5h1qTaPya4TE4LKCizId-h7Gf_0LNhpoRTcwn-dWUBy2yV90UL2z-Dyi6-EDzL1jzoR-vpR9YWypl-lQgxWzHqFtzjS3RPr8qlrEQt2g-cfOrFSLa2YawWCnMhn8uWL_b66yHfSNmUBvdPU1rndkPGMqD8cM0_xMDHYvGt4vf9yp6cV7qBzyK7ThJUcJ7_4cOsokFPbWrD-yZ0agFd8Tyjcg96cN-SxXorl2PDHvUCUJu5VKaYXhJ_sw34l2JhPxgOnkCWDpKyN3Ls171RALebzv9zT5aHqFAAAA.webp",
+   "link": "https://greenvalerecycling.co.uk/?v=33245757041600",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREK-DfWm6HUjHYrkROPVsGzxc1Y4K7BUYnYAZIiJfe8vRvutwALRY48Mfu&s",
+   "date": "Aug 7, 2026",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  },
+  {
+   "position": 33,
+   "title": "Klean Strip Kerosene Heater Fluid Kerosene K1 Clean Burning Fuel ...",
+   "source": "Bonjourbienvenue",
+   "link": "https://www.bonjourbienvenue.art/?v=33246087001550",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSys8asz975TWo1WTzc8vAZNQoIv5sZ5gK2eopf-fWQRXC2y2QJbuOZgLzb&s",
+   "date": "Aug 10, 2026",
+   "actual_image_width": 620,
+   "actual_image_height": 620
+  },
+  {
+   "position": 34,
+   "title": "Oil Klean Kerosene Kerosene Gas Buy Kerosene Best Price ...",
+   "source": "Lassa Architects",
+   "source_icon": "https://serpapi.com/images/i/UklGRhwCAABXRUJQVlA4IBACAACQCQCdASogACAAAsBMJbACdMoRwJoM4EGA2yO4A3gD0AOmAswQ7uL5WA191jpyBDLvGb9KejBvqH7RnFXctCkSo44m7T5HG_wmf30rFBwOvO3bezAAAP76rfCPkdRARvyAdnSGmiRfpwCqJRSTWIECjekUzn_hhVVAsl1xOilMCCVPNSq-fXntArIAojUFXjRSW6lRvNOPgHjov1KnvM908D_4iMfBmRL3Be7xoD1NRa0YpEoKGJ11kYqnzZmWwd0yMMw4YUr7Xtz1eBmfHWrfpuxC2Sqff5O8hup4659-dKicFkS48e8ASMt0vcr_xNTtu9uWdLBVKXQcqfs2MCciH8DWi0h8tRt9g0ugmzbUmNkXOFpEK3mIh5CBW2IEqqFWUU8EOAeYgXSAQxntKdAtl7bEjxB_v5Pnhv9hs7qPWn4qy1c2M2jLQ6QMCo9-o3-8JpQz81h8fWxFkVgPultg4TMgWibtZMUYE1pREnx0wESh1q9MvmmuC5GnhPiwUZIl_VLZZBoDQe6r_6W89r_Wuo9lBzOnkkqYdXzu12QD3gRTIpX--T_NFRhVtWpxrANdfms7FJNtbVeYxKOP2fgSsEIMiq94OI91jaIU-KkdV7IcKBY2Y_-A6JvELwMAffO16McaMuYehseeND-vsozF61y5nBfjWygBTKQ1JB-z205rgeIpZYsomXaQvVcAAAA.webp",
+   "link": "https://www.lassa-architects.com/?g=2251183071800",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBb7SaeVIOaKB9pXhZdqjBoHZZAwCVpCyYa6LYDxyMOK1nYy0hCOUZ6rb&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 35,
+   "title": "1 Gallon Premium Heating Fuel For Heaters & Lamps Clean Burning ...",
+   "source": "resideal-sante.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAABQBgCdASocABwAPtE-tFooIigoFAEAGglsAMNcgNz_yUkrwPdKQr-u0JDeXok_vNffBaWvV4eYsWqlgAD-9gd3GBvfqoa6GP5kgIkn_y4iLqrRmlLteroV-6zSA_gdIxJKFyflpHFgTX07HzU8h80G8VvAo1rQhPAS1JZqKjcqQCpz_y4bL_UySqeQh7-_1Qv3_3_62PxddegHR4jVbuScH_lVq9LNmVJwIg81-V42u1aLOBlkoOyMSmKXtxG2ea-_E79z_q87isCzFnEOEFDlaAvI-2piRDB1gRW5nHSvldZpOK7ffNdAAAA.webp",
+   "link": "https://www.resideal-sante.com/?p=22218",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmcqgPhzZYF6NLyq46QThkEDwUB0XZgNndLsUQs7C6IeEWG2GbZuX6A&s",
+   "actual_image_width": 116,
+   "actual_image_height": 116
+  },
+  {
+   "position": 36,
+   "title": "Kerosene Heaters Kerosene 20 Litre Heating Oil Kerosene Heating ...",
+   "source": "Wcsoluciones",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://wcsoluciones.com/?l=2940494051320",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPBu_v7HwvfnH5eZakX2p8DwdNJGTNP2txSdKK3E7ntKMGJIzkGDxFIMc&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 630
+  },
+  {
+   "position": 37,
+   "title": "Kerosene Heater Fluid K1 Kerosene For Enhanced Kerosene ...",
+   "source": "sinaninsaat",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://sinaninsaat.com.tr/?s=128084993600",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYUoO45aP_Mo1Jj4tgZmp3lwr293XGgePnmNgRC1PDSMAzW9WVsRoMstE&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 38,
+   "title": "Spiral Booklet Printing Ring/Wire Bound Textbooks A4 Wire Bound ...",
+   "source": "Vietthaimedical",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://vietthaimedical.com/?w=16679300031350",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 39,
+   "title": "Rinnai Tankless Water Heater Installed The Sun Is Setting Over A ...",
+   "source": "Energia",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.energia.com.br/shop/sold?id=top33250157052100",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5cDG_jxkxvEBX0MXFRU1JkmtOraPj9ef4bEW96imUeaOi4w2nKYUoaO50&s",
+   "date": "Aug 29, 2026",
+   "actual_image_width": 696,
+   "actual_image_height": 696
+  },
+  {
+   "position": 40,
+   "title": "Headband Hot Tools Purple Hair Ties Jaciya Bow Headbands For ...",
+   "source": "Asiaedufit",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://asiaedufit.com/?q=11149596011920",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 41,
+   "title": "Kerosene Alternative Klean Kerosene Pack) Klean-Strip Klean Heat ...",
+   "source": "Zaj.hu",
+   "source_icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAADQBQCdASocABwAPtEwtFooIigoGAEAGglpAARB_x-pgH6ADo4XOQVuJMmlaxqE-9kW5NS9U4QAAP72Cdn7_IW32xixNYbqW0YWV84rmdDWyF_MWRF6LRKh2z9pJXIsi4tWQEqYH8fwdF22j_OMeSoolegSufAYl7Rg3_lcP5oTZ4g1Ik5Fl_fimqWIMOxuq-oM8fftf928v7MAo_-kju3C9OX7cXVTw3_1c_K_Tkgi_XJQHWgLsAjr5yg-qDe2su9Zu_6E6Km2Hv6y-fGBPynbOkKj654ikE_8SfRPqvpD20sF-t2925dBJ28US-InBSMP6FJT-gAAAA.webp",
+   "link": "https://cafe.zaj.hu/?x=3592612021320",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "date": "Sep 13, 2026",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 42,
+   "title": "Kate Spade Gramercy Park Kate Spade New York ... - expotime.it",
+   "source": "www.expotime.it",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAIVBMVEVHcEyWaUTRajLlaykAVXLubCTfaim7ZTTVaS7qayXzbCAPsQHiAAAACnRSTlMAFE-nB-mILWXNLdvJKgAAAJNJREFUKJF9kVECwyAIQ4sKUu5_4G12iCA1X-pDE_C6MrWhFJE8qgcmZWdFGe2sy_ujDf_sTgxvvfhk7WUIxqYq6772l42VcUiHSxgLSvMkC6oB06AgTujzs4P9rbt0osZ4Yzbt7Jv4AOFkiQYFAqsLi20WcXK2YUDeVg1pforZqiG6ZTD8jrRFW62mtXJehaGW7T5flA0g8FLXqAAAAABJRU5ErkJggg.png",
+   "link": "https://www.expotime.it/product-similar-image/?28721685031750",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 43,
+   "title": "Kerosene Fuel Treatment Kerosene Heater Fluid Alliance Chemical ...",
+   "source": "Ruedaeconomica",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "http://ruedaeconomica.com.ar/?n=33252215091290",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREK-DfWm6HUjHYrkROPVsGzxc1Y4K7BUYnYAZIiJfe8vRvutwALRY48Mfu&s",
+   "date": "Aug 23, 2026",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  },
+  {
+   "position": 44,
+   "title": "Kerosene Heater Oil Central Heating Service Hot Sale 23, 800 BTU ...",
+   "source": "strakinpakken",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://strakinpakken.nl/?y=3501192021420",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPBu_v7HwvfnH5eZakX2p8DwdNJGTNP2txSdKK3E7ntKMGJIzkGDxFIMc&s",
+   "date": "Aug 3, 2026",
+   "actual_image_width": 1200,
+   "actual_image_height": 630
+  },
+  {
+   "position": 45,
+   "title": "K1 Kerosene Klean Heat Klean Heat Fuel At Discount Builders ...",
+   "source": "Montenegrolaw",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.montenegrolaw.com/?h=16700390031540",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 46,
+   "title": "Kerosene Fuel Treatment Kerosene Heater Fluid Kero-klean ...",
+   "source": "Ruedaeconomica",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://ruedaeconomica.com.ar/?n=33252215121290",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREK-DfWm6HUjHYrkROPVsGzxc1Y4K7BUYnYAZIiJfe8vRvutwALRY48Mfu&s",
+   "date": "Jul 22, 2026",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  },
+  {
+   "position": 47,
+   "title": "Heater Fuel Kerosene Heater Fluid Sunnyside Kerosene Fuel Gal",
+   "source": "Fean",
+   "link": "https://www.fean.edu.br/?s=33256265101640",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSys8asz975TWo1WTzc8vAZNQoIv5sZ5gK2eopf-fWQRXC2y2QJbuOZgLzb&s",
+   "actual_image_width": 620,
+   "actual_image_height": 620
+  },
+  {
+   "position": 48,
+   "title": "Heater Fuel Kerosene Heater Fluid Kero-Klean Kerosene Fuel ...",
+   "source": "duurzame-drukker.nl",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://duurzame-drukker.nl/shop/manufacturer-site?&transition=top33256265121740",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5cDG_jxkxvEBX0MXFRU1JkmtOraPj9ef4bEW96imUeaOi4w2nKYUoaO50&s",
+   "actual_image_width": 696,
+   "actual_image_height": 696
+  },
+  {
+   "position": 49,
+   "title": "Air Heater K1 Kerosene Heater 135000 BTU Portable Wheeled ...",
+   "source": "Mashfash",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://mashfash.com/?m=33189826041620",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 50,
+   "title": "Marshtomp Fanart Marshtomp Fanart Marshtomp Art, Marshtomp ...",
+   "source": "Alanyasutesisatcisi",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.alanyasutesisatcisi.com/?y=16686684061190",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6WYSbH_Rv1-GQMkqENF2FFStGYrP3ekvucHI-1LWsn0BfDKe8KuG6q54&s",
+   "actual_image_width": 1500,
+   "actual_image_height": 1500
+  },
+  {
+   "position": 51,
+   "title": "Heater Fuel Kerosene Heater Fluid Sunnyside Dye-Free ... - falesa",
+   "source": "falesa",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALbdAC7K95RK8EMc8a7CQeZCS_biZ3IWRZx846aKl_XwAP74rbewJfLaRTzbLg_Fta_eQMz5ba3UUow8YYNlpbrCoUjgfX4bsne7Ap5Pf5dMuT-_-BN79xi0xQ1KaUcDL2opy06Nsj-_mff6n4Gzc_2AWfwp_co55gkgq2BdD_7GDmXFJ_s2r-9ERtTP6Ibsut82OZ_3h4ZWL2K7eaC3IlevrZ9h9luZ-bs9lWRjX2Mvr9zB2BrohpHtu6KQtVvwaSrEFdriTxsbXzQ5jdNS_uPTa0zHJf47D3yZvJzO1oFjhntk7ZuvKv1-DF5OCRF5kz5zVOt4c73SNnryHlf-354gP5r3Nbj__mWFoAAAAA.webp",
+   "link": "http://www.falesa.com/?x=33256265131270",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5cDG_jxkxvEBX0MXFRU1JkmtOraPj9ef4bEW96imUeaOi4w2nKYUoaO50&s",
+   "date": "Jun 30, 2026",
+   "actual_image_width": 696,
+   "actual_image_height": 696
+  },
+  {
+   "position": 52,
+   "title": "Kerosene Heater Oil Central Heating Service Kerosene ... - OEDM.FR",
+   "source": "Oedm",
+   "source_icon": "https://serpapi.com/images/i/UklGRhwCAABXRUJQVlA4IBACAAAwCgCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHRfsduHbPjb7a-7TfQA8sb2PbME2BfY_AHwDrA7KuzeZIz3J0dCSopG7xKOHuC7EmLz1f407f_3t-LZiAAA_trVr8XUfshj9tG3JuTH7-1bC4CwCK0fm-9TvZL7h9F3PgQsq-egWTKVZ_stsmaywbaFE3yIC3uvKY1776WemRFSahI2LH_4cVXsBCCKq3WbX_fwiGYz5XScPcFi3-uu_ji3W85VWo-f4ug1fu--wK_4i61y9XFduLLV_kPcbsaRX30Bwz3Sdn_FMLXJrJfLXIh2BIBb35-6YVEgnkayOKf-J12dO_YEJArQ01thUlAU0qPKL7QL3Ld8Uf3FQCJ3PsK9OSlzevLA-hcGCNG-xNEKqy3l9hvZqZrUs_e9QGghMjYIlHO-lKlxb6NfyK9KOQm2OpNUGD_2dHD82M5BF6d9AqPtS8YgWm8neSnyyjIvGa1nJwzToH11Azg6h01i2Zpfw597_hV2H8DdCWXzJ-GIHACP5I2YFPl_igx6HUgsoPdN-UKG7zWJoEAlk7Kl8aVmruUKbxlKFHnabWanaAIfrg_3BGbhRRBskrJNNaSOv72tPr893SZoQzhB43AO28dUqHVY97v4_8crOsABNn1eenHKw1JUyyi7ucuvlPwHV4bEr89r_0_61gXBfNVWfWxfgAA.webp",
+   "link": "https://www.oedm.fr/?h=3501192031530",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPBu_v7HwvfnH5eZakX2p8DwdNJGTNP2txSdKK3E7ntKMGJIzkGDxFIMc&s",
+   "actual_image_width": 1200,
+   "actual_image_height": 630
+  }
+ ]
+}

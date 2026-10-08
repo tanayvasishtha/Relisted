@@ -1,0 +1,52 @@
+{
+ "search_metadata": {
+  "id": "6ac81aa8304ebabf288c36fe",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/XmcW-q7JqRjsRAsGnAAgUPUfmmgG_9od0AF9ImXOlXQ/6ac81aa8304ebabf288c36fe.json",
+  "markdown_endpoint": "https://serpapi.com/searches/XmcW-q7JqRjsRAsGnAAgUPUfmmgG_9od0AF9ImXOlXQ/6ac81aa8304ebabf288c36fe.md",
+  "created_at": "2026-10-08 22:35:20 UTC",
+  "processed_at": "2026-10-08 22:35:20 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2FRecalledSilksChildrensLoungewearshortsset.jpeg",
+  "raw_html_file": "https://serpapi.com/searches/XmcW-q7JqRjsRAsGnAAgUPUfmmgG_9od0AF9ImXOlXQ/6ac81aa8304ebabf288c36fe.html",
+  "total_time_taken": 3.33
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/RecalledSilksChildrensLoungewearshortsset.jpeg",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Silks Recall Children's Loungewear Sets Due to Risk of Serious ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Silks-Recall-Childrens-Loungewear-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violates-Mandatory-Flammability-Standards-for-Childrens-Sleepwear",
+   "thumbnail": "https://serpapi.com/searches/6ac81aa8304ebabf288c36fe/images/4aK4_LPWb4RDgNCrc0zDVqR3Q90rpnW8owFKtonu2Gw.jpeg",
+   "actual_image_width": 267,
+   "actual_image_height": 400
+  },
+  {
+   "position": 2,
+   "title": "Silks Recall Children's Loungewear Sets Due to Risk of Serious ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10698/",
+   "thumbnail": "https://serpapi.com/searches/6ac81aa8304ebabf288c36fe/images/2INMJ3Liabgm4j97lWk5YJ7cQaWVyGjkjHtQY3U_x1U.jpeg",
+   "date": "Apr 8, 2026",
+   "actual_image_width": 1024,
+   "actual_image_height": 1536
+  },
+  {
+   "position": 3,
+   "title": "Attorney General Todd Rokita alerts Hoosiers to over 60 products ...",
+   "source": "InkFreeNews.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABT0lEQVR4AX3QIayDMBQF0OvFNHJqasl3KBxmFkWCw2LmEOiaKnSTuXqDrGryk0oUEofFVaHe7_tjA8R2E0KTk_a2D_QljHKiLf63E92GI-Idjj9Au2ENDDu1B_RC0y5mj6OWhfGua6y6XNWKVRKfGKcKMMMFQCsA-0SLdmKkHuioA0pePRilhF473YoVrzRjlAGOXjvNE3tGCygKOjLaBLjpAohEBiS6BC6iAtAHVPgQFfDxCR-M8DwXw6N7Pj_mWfsVZ5_mV0OFJilIZgWmJc2zF84ADJ1SagWVQEAAR8SdakHiFgdMsuiFRATuHCCJh8Kd-buzuAdsLJWCKpz42Ag4diakPnZGN2r5tvnhtt4DsHROSIv3OxfG7-Mz1X1N3TR1-Jr6_1eZgFvmpu2dMmIUU6cM0QEXGJlp5y4y9fXZH3FyQ09mpoHGxQ3E-CV_5MvW4cwZAN4AAAAASUVORK5CYII.png",
+   "link": "https://www.inkfreenews.com/2026/05/12/attorney-general-todd-rokita-alerts-hoosiers-to-over-60-products-recalled-in-april/",
+   "thumbnail": "https://serpapi.com/searches/6ac81aa8304ebabf288c36fe/images/crVUBGKRzh9s9Dm2jrsxqCucJW6x1mZZO-FW8PXjw3U.jpeg",
+   "date": "May 12, 2026",
+   "actual_image_width": 231,
+   "actual_image_height": 300
+  }
+ ]
+}

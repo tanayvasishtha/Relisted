@@ -1,0 +1,19 @@
+{
+ "search_metadata": {
+  "id": "6ac81a7d01289b38412290a9",
+  "status": "Success",
+  "created_at": "2026-10-08 22:34:37 UTC",
+  "processed_at": "2026-10-08 22:34:37 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fhelmet-1_0.jpg",
+  "total_time_taken": 8.68
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/helmet-1_0.jpg",
+  "type": "exact_matches"
+ },
+ "search_information": {
+  "images_results_state": "Fully empty"
+ },
+ "error": "Google Lens hasn't returned any results for this query."
+}

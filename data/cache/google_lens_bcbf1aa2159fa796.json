@@ -1,0 +1,126 @@
+{
+ "search_metadata": {
+  "id": "6ac81a63529e4ba69f55bd40",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/aG5sadzemJl3MQZ28ipOz_7hBtegUTo6ALZ3-VVOB3Q/6ac81a63529e4ba69f55bd40.json",
+  "markdown_endpoint": "https://serpapi.com/searches/aG5sadzemJl3MQZ28ipOz_7hBtegUTo6ALZ3-VVOB3Q/6ac81a63529e4ba69f55bd40.md",
+  "created_at": "2026-10-08 22:34:11 UTC",
+  "processed_at": "2026-10-08 22:34:11 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fkith-1.png",
+  "raw_html_file": "https://serpapi.com/searches/aG5sadzemJl3MQZ28ipOz_7hBtegUTo6ALZ3-VVOB3Q/6ac81a63529e4ba69f55bd40.html",
+  "total_time_taken": 4.35
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/kith-1.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "Kith Retail Recalls Children's Loungewear Sets Due to Risk of ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Kith-Retail-Recalls-Childrens-Loungewear-Sets-Due-to-Risk-of-Serious-Injury-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear",
+   "thumbnail": "https://serpapi.com/searches/6ac81a63529e4ba69f55bd40/images/OfVxoo7wDdur_3Op3ra24XTM2pKIshMbrhhD74591to.jpeg",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  },
+  {
+   "position": 2,
+   "title": "Kith Retail Recalls Children's Loungewear Sets Due to Risk of ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10831/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a63529e4ba69f55bd40/images/m7yn2mQ0i_W8MpetV1SFRvptLvG8pgl8B3s2sirbIPw.jpeg",
+   "date": "Jun 24, 2026",
+   "actual_image_width": 975,
+   "actual_image_height": 975
+  },
+  {
+   "position": 3,
+   "title": "J. Crew Recalls Baby Coveralls | CPSC.gov",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2014/J-Crew-Recalls-Baby-Coveralls",
+   "thumbnail": "https://serpapi.com/searches/6ac81a63529e4ba69f55bd40/images/HbamKtrumD-axylRVJ1C23cmNaOesGWq3xznWGCkRz8.jpeg",
+   "actual_image_width": 975,
+   "actual_image_height": 975
+  },
+  {
+   "position": 4,
+   "title": "Consumer product safety recall roundup for June 26, 2026",
+   "source": "ConsumerAffairs",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtFBg9YcctCXueewyu3h6_js8_uBq-L-___I2_NUj9lmmd3nZ7hfAAAAC3RSTlMAHGkKi__xL9Cn5OXyBpAAAAChSURBVHgBbM1VEsAgFEPRWioQHPa_1bq_83snk-qpbpq6krUdFl0rtabHpm9-aRhxGYf32YSXqX6fvdzXg4JADVscIRq3P9y0xq1-RxpLMW6c1xQjgRCjAfiPOjkfF96l_F-WpW0C_5HZbctC4RO0cZEIMS5LHz3EqGPKOcVMKeYAkkH-BLGYhxQI-AIeb5Thj2zCyQQzgRFImoQTNd7sAAAzTw4gNIcHNwAAAABJRU5ErkJggg.png",
+   "link": "https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-june-26-2026-062926.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a63529e4ba69f55bd40/images/kRDAKKZUBkAQvrpYhTurRpVkEq9U7xD-OX4dKyH0MNA.jpeg",
+   "date": "Jun 29, 2026",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  },
+  {
+   "position": 5,
+   "title": "Baby Kithmas and Kids Kithmas Plaid Lounge Sets recalled due to ...",
+   "source": "Canada.ca",
+   "source_icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAADwBQCdASocABwAPtE-tFooIigoFAEAGglsALbwskcA3jMiGAv9VaM0Qym5gzsnGOumdwhYDBSLwAD-9ge5OvNJljHr1J-wfwS0v-iTuTi5mFc3Tld8S6Hnex6selVE_F75LjMrvb9GKG_yDlrKEG88IDXqZeagkn8BWq2OIG1rFAJ0f0Xd8Ggy7DJFlk230tydtwNRiELhXJ3QP_es8Xcr5wS8THtYrFc44Y_EzpxjxUfLtmY1pzQCui-JUYIhLtr_z3pAycHNfuM8b_-xIdpiZbU9GCDir19VbvUHMIV7gd-DthixUyYDj_jiKtPmyfz_onPaFMjxGmmvziJAMlgBgAA.webp",
+   "link": "https://recalls-rappels.canada.ca/en/alert-recall/baby-kithmas-and-kids-kithmas-plaid-lounge-sets-recalled-due-flammability-hazard",
+   "thumbnail": "https://serpapi.com/searches/6ac81a63529e4ba69f55bd40/images/uP18XpIurQ8UWvH4O1tRgi8yKXhB-NIC2Ogh5tAM8EA.jpeg",
+   "date": "Jun 25, 2026",
+   "actual_image_width": 660,
+   "actual_image_height": 660
+  },
+  {
+   "position": 6,
+   "title": "Nine West Footwear Corporation Recalls Sandals for Laceration ...",
+   "source": "U.S. Consumer Product Safety Commission (.gov)",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2006/nine-west-footwear-corporation-recalls-sandals-for-laceration-hazard",
+   "thumbnail": "https://serpapi.com/searches/6ac81a63529e4ba69f55bd40/images/W89xbMOQFJpmiz-BCPO2o8MeR_-6j9R3fAcNY0pktjU.jpeg",
+   "actual_image_width": 975,
+   "actual_image_height": 975
+  },
+  {
+   "position": 7,
+   "title": "Canada product recalls: Power banks, high chairs and ACs",
+   "source": "Inside Halton",
+   "source_icon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHT2grzG3GFQUddVLPRqQhCWsEtw_j12x_aszzrHjrv4AAD-_S_xUaOPHb-DyvuyIyg4aw1Ay0eyy94oL17XpHZwGYiBc4xfrqavkW-eMh-8WoMHnMBN_2a7w_bXz7xgJv-8xQ84No7t5aT9kAU6C2-oeYVkWsievuOvrpmZrKBthgv6icXRtG5Sp3ViZuVXCkyA65G6ePiStdROJF113TyHIhnJmQ7pyGzyQ7CtXjG-Ht1mEzv-qFZlvx2C0IY4tvawWocufABhZ0bYTU20vLx9rylD63J3H4QRRjZO_hJM8PsCpSZYvqLtkO5PdCwQeyFssDUJAAAAAA.webp",
+   "link": "https://www.insidehalton.com/news/canada-ontario-product-recalls-roundup-june-26/article_36ddb310-fa90-5b8a-a164-d2e5fa0c1b89.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a63529e4ba69f55bd40/images/NnL5q_pnIUuRCRUUtbvuWpzQJzyhKiBkgZW4Qv1CLVo.jpeg",
+   "date": "Jun 27, 2026",
+   "actual_image_width": 692,
+   "actual_image_height": 761
+  },
+  {
+   "position": 8,
+   "title": "Amazon Canada product recalls: ACs, snacks, power banks",
+   "source": "Inside Halton",
+   "source_icon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHT2grzG3GFQUddVLPRqQhCWsEtw_j12x_aszzrHjrv4AAD-_S_xUaOPHb-DyvuyIyg4aw1Ay0eyy94oL17XpHZwGYiBc4xfrqavkW-eMh-8WoMHnMBN_2a7w_bXz7xgJv-8xQ84No7t5aT9kAU6C2-oeYVkWsievuOvrpmZrKBthgv6icXRtG5Sp3ViZuVXCkyA65G6ePiStdROJF113TyHIhnJmQ7pyGzyQ7CtXjG-Ht1mEzv-qFZlvx2C0IY4tvawWocufABhZ0bYTU20vLx9rylD63J3H4QRRjZO_hJM8PsCpSZYvqLtkO5PdCwQeyFssDUJAAAAAA.webp",
+   "link": "https://www.insidehalton.com/news/canada-ontario-product-food-recalls-roundup-june-26/article_b542973a-e457-551a-8ff5-ebc62697f9a9.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a63529e4ba69f55bd40/images/mffunwfKO6qrrC6jPkzkw4h_Mf9IeIAR4gl8nOP8GhQ.jpeg",
+   "date": "Jun 29, 2026",
+   "actual_image_width": 200,
+   "actual_image_height": 220
+  },
+  {
+   "position": 9,
+   "title": "Ensembles de détente à carreaux pour bébé et enfant Kithmas ...",
+   "source": "Canada.ca",
+   "source_icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAADwBQCdASocABwAPtE-tFooIigoFAEAGglsALbwskcA3jMiGAv9VaM0Qym5gzsnGOumdwhYDBSLwAD-9ge5OvNJljHr1J-wfwS0v-iTuTi5mFc3Tld8S6Hnex6selVE_F75LjMrvb9GKG_yDlrKEG88IDXqZeagkn8BWq2OIG1rFAJ0f0Xd8Ggy7DJFlk230tydtwNRiELhXJ3QP_es8Xcr5wS8THtYrFc44Y_EzpxjxUfLtmY1pzQCui-JUYIhLtr_z3pAycHNfuM8b_-xIdpiZbU9GCDir19VbvUHMIV7gd-DthixUyYDj_jiKtPmyfz_onPaFMjxGmmvziJAMlgBgAA.webp",
+   "link": "https://recalls-rappels.canada.ca/fr/avis-rappel/ensembles-detente-carreaux-pour-bebe-et-enfant-kithmas-rappeles-en-raison-risque",
+   "thumbnail": "https://serpapi.com/searches/6ac81a63529e4ba69f55bd40/images/j1IBDakZbKTz6pS5gblsgulH0hF1e0ZBOZVig3uRu0A.jpeg",
+   "date": "Jun 25, 2026",
+   "actual_image_width": 660,
+   "actual_image_height": 660
+  },
+  {
+   "position": 10,
+   "title": "新品未使用 KITH キッズ チェック フリースシャツ S 120cm キッズ服 ...",
+   "source": "better-coaching.dk",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALbdAC7K95RK8EMc8a7CQeZCS_biZ3IWRZx846aKl_XwAP74rbewJfLaRTzbLg_Fta_eQMz5ba3UUow8YYNlpbrCoUjgfX4bsne7Ap5Pf5dMuT-_-BN79xi0xQ1KaUcDL2opy06Nsj-_mff6n4Gzc_2AWfwp_co55gkgq2BdD_7GDmXFJ_s2r-9ERtTP6Ibsut82OZ_3h4ZWL2K7eaC3IlevrZ9h9luZ-bs9lWRjX2Mvr9zB2BrohpHtu6KQtVvwaSrEFdriTxsbXzQ5jdNS_uPTa0zHJf47D3yZvJzO1oFjhntk7ZuvKv1-DF5OCRF5kz5zVOt4c73SNnryHlf-354gP5r3Nbj__mWFoAAAAA.webp",
+   "link": "https://better-coaching.dk/?good/details/Q3541641909/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a63529e4ba69f55bd40/images/_kdt0mwPjcX5LYL1cftjfwGyeoj19yT0XQ2TAuDdYcw.jpeg",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  }
+ ]
+}

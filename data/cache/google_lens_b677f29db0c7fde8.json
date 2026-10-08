@@ -1,0 +1,156 @@
+{
+ "search_metadata": {
+  "id": "6ac819e7d0a88fb56ed336e3",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/inqJLfL9-hJYdLrDqRpi69zv7f-9UrQFwj3Od38vci0/6ac819e7d0a88fb56ed336e3.json",
+  "markdown_endpoint": "https://serpapi.com/searches/inqJLfL9-hJYdLrDqRpi69zv7f-9UrQFwj3Od38vci0/6ac819e7d0a88fb56ed336e3.md",
+  "created_at": "2026-10-08 22:32:07 UTC",
+  "processed_at": "2026-10-08 22:32:07 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fgumili-1.png",
+  "raw_html_file": "https://serpapi.com/searches/inqJLfL9-hJYdLrDqRpi69zv7f-9UrQFwj3Od38vci0/6ac819e7d0a88fb56ed336e3.html",
+  "total_time_taken": 7.02
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/gumili-1.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "GM Gumili Wintergreen Essential Oil Bottles Recalled Due to Risk of ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/GM-Gumili-Wintergreen-Essential-Oil-Bottles-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violates-Mandatory-Standard-for-Child-Resistant-Packaging-Sold-on-Amazon-by-Gumili-Beauty",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/R-BiUsuuMXgIGSYjvaI--ZQQwfk7NXfLI7xgtDmkvmw.jpeg",
+   "date": "Feb 5, 2026",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  },
+  {
+   "position": 2,
+   "title": "GM Gumili Wintergreen Essential Oil Bottles Recalled Due to Risk of ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10596/",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/GfspAnVa2vDtxk5PYLCIf69rIOBWCCaRRtFpS65Frm8.jpeg",
+   "date": "Feb 4, 2026",
+   "actual_image_width": 882,
+   "actual_image_height": 882
+  },
+  {
+   "position": 3,
+   "title": "GM Gumili Orange Essential Oil - Pure Organic Oil for Skin, Hair ...",
+   "source": "Amazon.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.com/Gumili-Orange-Essential-Oil-Aromatherapy/dp/B0CXDHPPRC",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/IdOiGCpzJQQKbDbXkHaB08hXzuSw0eONreE--6ZdIZA.jpeg",
+   "actual_image_width": 200,
+   "actual_image_height": 225
+  },
+  {
+   "position": 4,
+   "title": "GM Gumili Jasmine Essential Oil for Skin, Diffuser, DIY Blends, 10mL",
+   "source": "Amazon.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.com/Gumili-Premium-Jasmine-Essential-Fragrance/dp/B0CXDBSCBN",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/p-GsgEgvPBOLRWI90amqvFxypHTppcYY71XQmcP7CIo.jpeg",
+   "actual_image_width": 200,
+   "actual_image_height": 225
+  },
+  {
+   "position": 5,
+   "title": "GM Gumili Violet Fragrance Oil, Floral Essential Oil for Diffuser",
+   "source": "Amazon.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.com/Gumili-Premium-Violet-Essential-Fragrance/dp/B0CXDH3BBQ",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/tNz0Y1rL1j0MbNjP5ZJA3n_DTxSZSsjXmotb5N8P66I.jpeg",
+   "actual_image_width": 200,
+   "actual_image_height": 225
+  },
+  {
+   "position": 6,
+   "title": "Consumer product safety recall roundup for Feb. 5, 2026",
+   "source": "ConsumerAffairs",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtEpdtFBg9YcctCXueewyu3h6_js8_uBq-L-___I2_NUj9lmmd3nZ7hfAAAAC3RSTlMAHGkKi__xL9Cn5OXyBpAAAAChSURBVHgBbM1VEsAgFEPRWioQHPa_1bq_83snk-qpbpq6krUdFl0rtabHpm9-aRhxGYf32YSXqX6fvdzXg4JADVscIRq3P9y0xq1-RxpLMW6c1xQjgRCjAfiPOjkfF96l_F-WpW0C_5HZbctC4RO0cZEIMS5LHz3EqGPKOcVMKeYAkkH-BLGYhxQI-AIeb5Thj2zCyQQzgRFImoQTNd7sAAAzTw4gNIcHNwAAAABJRU5ErkJggg.png",
+   "link": "https://www.consumeraffairs.com/news/consumer-product-safety-recall-roundup-for-feb-5-2026-020626.html",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/6kmJu6CRiiHkGWFsH8PBHr_tg2rpSL0_ZSIrNMF3uwY.jpeg",
+   "date": "Feb 6, 2026",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  },
+  {
+   "position": 7,
+   "title": "GM Gumili Wintergreen Essential Oil Bottles Recalled Due to Risk of ...",
+   "source": "Army.mil",
+   "source_icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAAAwAwCdASoQABAAAsBMJbACdDiAN4tIhb9djMw8Nu2g82rIAP75A8G5Pt6DhLq9P-wtsKNjgfYjyWY1pOvp6S3rJdYw3O6d0oybQekiEr4D8u8ue8JHmhXdYidI__4YKfZiORESC2-oAt_JTmQmS-MvpKgQVDCjz13ICVu6uGmLdLGdrdlBQEYEfzT25fQX87-ddO19bYTPlpDCybiqmVT_ZEbbU29Ey0CjbRmtsAZM_tvqIAA.webp",
+   "link": "https://home.army.mil/gordon/download_file/view/d7ee6170-6757-4bd4-88e7-781970d06a1c/331",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/SouX25LBjm3EWEsHKmekI957bNapArmm7mrevfk5_Zc.jpeg",
+   "date": "Feb 9, 2026",
+   "actual_image_width": 440,
+   "actual_image_height": 440
+  },
+  {
+   "position": 8,
+   "title": "GM Gumili Cinnamon Oil for Diffuser, Room Spray, DIY Candle ...",
+   "source": "Amazon.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.com/Gumili-Cinnamon-Essential-Oil-Aromatherapy/dp/B0CXD8QP3B",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/ZhIVCUfT64eSAwdtIhjdwvmfK58q8VCL_WOTMP8OGgw.jpeg",
+   "actual_image_width": 200,
+   "actual_image_height": 225
+  },
+  {
+   "position": 9,
+   "title": "U.S. safety agency recalls wide range of consumer products over ...",
+   "source": "WRNJ Radio",
+   "source_icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAADwBgCdASocABwAPtE-tFooIigoFAEAGgloALUbMA4CER_Lvna84LOV7j8GZGyZSIgu8KBe-Roh1Qlpsi_FfrS4AP79K8ZcFF47xGAZ2vT47lDnovVK40eyuFgVjnsZM7XaQmEpcwM_-eOdSAnhHKsbY_fHLD_qhI_58U--bTvH7fA7L5Kr89Q6HK_9642YuKQRYchT69Z6_OUv2qK2dz3AIXGwn3sIsNT6CXV7POjUVapuRZIG9d5AibZSbPC3Xpf8dQorsh3iyKEGU3bCbtJXbti75i4jL4vTjE3WdNa0Frs4MEhsp3o4ve3rI1Ob_HqkNwsL0xqxc_Pv1rvoxy9sqxyUSPN-xEn7ziaFA6XPR1Aqk8-vsBOQtnGQ6cgwLycQ78m-0vfiiNxSlevzbz50VZBhReHPC_qtYL5rtaBDDZ8RZHOm78S3fflM4b1gBAcp6o1XobLlvIm1QYayviM_TGAPLr2gMTzyH-NZ7sS_B_xQiNIu_3Fouh3YAAAA.webp",
+   "link": "https://wrnjradio.com/u-s-safety-agency-recalls-wide-range-of-consumer-products-over-injury-hazards/",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/tlyjCB6_o-OW7Z3gZvqVb-JvAnCvPbVyi8TKRjgSkxI.jpeg",
+   "date": "Feb 6, 2026",
+   "actual_image_width": 882,
+   "actual_image_height": 882
+  },
+  {
+   "position": 10,
+   "title": "GM Gumili冬青精油召回| 涉儿童中毒风险| 美国CPSC通报10596",
+   "source": "Myrecallhub",
+   "source_icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHmY0SoC7AN5IRoGzUpyDo6SlsWqjV_DGWZyOXvgAAD-_KXq-ssLY5yXaWEgUPAHPxEt_V1-xbo5jExdfVI_b169jd_wPN1jN84q414nkTry4mwFJZ0B9fuFYH8K7N5556R8bS1DQH8f8Sj3zw34MS6AidMi69fXqbihQ0PT6jprQETnsTlubbPSxHZCgA9F6BxO4rMn02zeUdstMPlqAG9gXZCgRr8svKv8JHs1R_AdiAbvy-Uff1u4Lf_INhJLz67I6vQqWFADbUr1WSFQvmdMG3Mep3tzTSRxpMJ6-jWrJYrNLAQAAA.webp",
+   "link": "https://www.myrecallhub.com/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E5%8C%BA/%E5%8C%97%E7%BE%8E/usa-recall-10596/",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/PXUam7xR3NViZnxZM6gpxiSlj3PnYhsArboLBb5vfEQ.jpeg",
+   "date": "Apr 15, 2026",
+   "actual_image_width": 882,
+   "actual_image_height": 882
+  },
+  {
+   "position": 11,
+   "title": "Gm Gumili Watermelon Fragrance Oil Fruity Perfume Oil For Diffuser",
+   "source": "Desertcart South Africa",
+   "source_icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0yhHA3oHDp2lpKofIUQr_Btymwsz5DrIJZhrfkXAAA_tiT80rEhwo8QfKq-33gTJ6QaeudvX9Y1ApkMWBZ3jmRD77AHb_-Wffb7M34pDbCUdQY7T7i1Lh6Afz1f5Bo-dkVxFZVOXbppaXq6SkXc_OwMCpOB-6SjnHc6ED_DT6904H5Bmv-vbYRH3diQHHZxvx5lctuq2Ch4e3s0bste1iImjtr-EA_ywfbXZpmdQPtIO_C7_l-11NtK2gA5D-aqJlUAROUppvnKKfyc5V46CD_17n9ukOn6oTusAmoeAAA.webp",
+   "link": "https://www.desertcart.co.za/products/651999067-gm-gumili-watermelon-essential-oil-pure-organic-scent-for-for-aromatherapy-diffusers-spray-skin-hair-care-massage-diy-candles-soap-perfume-fruity-fragrance-10ml",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/ezvnGpheJyeFFJxdMdbLwOXh9dMNaZgJitUEuBbESUE.jpeg",
+   "actual_image_width": 200,
+   "actual_image_height": 225
+  },
+  {
+   "position": 12,
+   "title": "Aceite Esencial De Gaulteria 100% Puro 30ml - Gm Gumili",
+   "source": "Mercado Libre",
+   "source_icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0y0HenlH5GRgDC29MA3ib9t_2A9p2JBM6X8beABxtKwBl2Ajed8Ef7Lv9QQVT8oAD-3ljRsSfgNaMKbmcTdp8n52t4g5jV4x1m--3vKP0ExZRQSjI5n3inE5efMGsNmB0jnY__52Fy3UUAecM_GkYRiZGhBOd_XgA-CVotESSzOcqiFyst4fyEcCtsUNfxJ65Lgee9hrfU6JqMaszS51xOFP8_IoR-B0TTONHBgjdfz3Xz9b_52LOCLaZXYveukdfNUt2nlbNdCFGdtNh2wF57XxvGUj454XfrLx9sO-PDN5mzUnxmWZWqdxP-FQVeeWRG6Atlkc87Hn1G8NT02HyJRBHnGkUweNI-XAKD5nEBDd-Pw6DMp-NI99Kl7e7oBfUgSKdVK_sEc9n0YQ7M_KbTuyWXn_B5JoTpJsp9rW79f7nvBvPj5ry5qXWf8E02413rORkQAAAA.webp",
+   "link": "https://www.mercadolibre.com.ar/aceite-esencial-de-gaulteria-100-puro-30ml--gm-gumili/up/MLAU3279059106",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/W5NjFDGBIgDkNQ9t3OmHWx8yFCXplo46PDmllRWqA1I.jpeg",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  },
+  {
+   "position": 13,
+   "title": "Aceite Esencial De Gaulteria Y Incienso 2x30ml Gm Gumili",
+   "source": "Mercado Libre",
+   "source_icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAAAwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0y0HenlH5GRgDC29MA3ib9t_2A9p2JBM6X8beABxtKwBl2Ajed8Ef7Lv9QQVT8oAD-3ljRsSfgNaMKbmcTdp8n52t4g5jV4x1m--3vKP0ExZRQSjI5n3inE5efMGsNmB0jnY__52Fy3UUAecM_GkYRiZGhBOd_XgA-CVotESSzOcqiFyst4fyEcCtsUNfxJ65Lgee9hrfU6JqMaszS51xOFP8_IoR-B0TTONHBgjdfz3Xz9b_52LOCLaZXYveukdfNUt2nlbNdCFGdtNh2wF57XxvGUj454XfrLx9sO-PDN5mzUnxmWZWqdxP-FQVeeWRG6Atlkc87Hn1G8NT02HyJRBHnGkUweNI-XAKD5nEBDd-Pw6DMp-NI99Kl7e7oBfUgSKdVK_sEc9n0YQ7M_KbTuyWXn_B5JoTpJsp9rW79f7nvBvPj5ry5qXWf8E02413rORkQAAAA.webp",
+   "link": "https://www.mercadolibre.com.ar/aceite-esencial-de-gaulteria-y-incienso-2x30ml-gm-gumili/up/MLAU3525899580",
+   "thumbnail": "https://serpapi.com/searches/6ac819e7d0a88fb56ed336e3/images/RenQQ5y1oLexlyTLSegF20FYgWhJ4WqwkPDMTIjWbPI.jpeg",
+   "actual_image_width": 500,
+   "actual_image_height": 500
+  }
+ ]
+}

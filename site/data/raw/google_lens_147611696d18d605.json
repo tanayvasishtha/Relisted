@@ -1,0 +1,321 @@
+{
+ "search_metadata": {
+  "id": "6ac81a30f607a98385385af4",
+  "status": "Success",
+  "created_at": "2026-10-08 22:33:20 UTC",
+  "processed_at": "2026-10-08 22:33:20 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2FPicture19_2.png",
+  "total_time_taken": 8.16
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/Picture19_2.png",
+  "type": "exact_matches"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "CPSC Warns Consumers to Stop Using Hefei Yaduan ...",
+   "link": "https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Hefei-Yaduan-Trading-Male-to-Male-Extension-Cords-Immediately-Due-to-Risk-of-Serious-Injury-and-Death-from-Electrocution-and-Carbon-Monoxide-Poisoning-Hazards",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAIB6zswFQrhL5_vR--nC2yCwR5rvdgbv9sdycQSQJ1q0_l7XXHtMIomkfNHNVaIa_Hy7VSjJr17Kb5Z9VXdelLVwKe9aewwCAG3YqfJznX_x7xw_zSsBJrLFAd-8tTEJv9jUtco7gC8DXzOWx_GWJfKCBBmu4qLsST5qWNTj2Xam038INdgpXqmqHCaeYXTnM8mjySYPfYJ5tqq20LNjtt1KV3yjhHtoHfq7k0v3-M6uAL6k0SyOvv_VN578Qmb8CGlSQsgFtbiMaQf4yZa3j5z7p2y16OrS5xcfiVuI__vDAWZeKDpZMUS3C7_UJZGRf4ihwxf49_dZZohMmJLVMVWY8IuTOTPL2uUjdaAMVKIOKo8jARjEmmTEHXQB75FxZA&ved=2ahUKEwjC9dCQvauXAxWUmSsGHQHwECcQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://www.cpsc.gov › Warnings › CPSC-Warns-Consu...",
+   "thumbnail": "https://serpapi.com/searches/6ac81a30f607a98385385af4/images/VlZpGTRhQXWjNLS7YI3gftsi4IcDdp-ddckdc8C-81Y.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "snippet": "CPSC Warns Consumers to Stop Using Hefei Yaduan Trading Male-to-Male Extension Cords Immediately Due to Risk of Serious Injury and Death from Electrocution and ...",
+   "snippet_highlighted_words": [
+    "CPSC Warns Consumers to Stop Using Hefei Yaduan Trading Male-to-Male Extension Cords"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "CPSC Warns Consumers to Stop Using Hefei Yaduan Trading Male-to-Male Extension Cords Immediately Due to Risk of Serious Injury and Death from Electrocution and ...",
+     "source_info_link": "https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Hefei-Yaduan-Trading-Male-to-Male-Extension-Cords-Immediately-Due-to-Risk-of-Serious-Injury-and-Death-from-Electrocution-and-Carbon-Monoxide-Poisoning-Hazards",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpEDL2dvdG8_dXJsPUNBRVNvQUlCNnpzd0ZRcmhMNV92Ui0tbkMyeUN3UjVydmRnYnY5c2R5Y1FTUUoxcTBfbDdYWEh0TUlvbWtmTkhOVmFJYV9IeTdWU2pKcjE3S2I1WjlWWGRlbExWd0tlOWFld3dDQUczWXFmSnpuWF94N3h3X3pTc0JKckxGQWQtOHRURUp2OWpVdGNvN2dDOERYek9XeF9HV0pmS0NCQm11NHFMc1NUNXFXTlRqMlhhbTAzOElOZGdwWHFtcUhDYWVZWFRuTThtanlTWVBmWUo1dHFxMjBMTmp0dDFLVjN5amhIdG9IZnE3azB2My1NNnVBTDZrMFN5T3Z2X1ZONTc4UW1iOENHbFNRc2dGdGJpTWFRZjR5WmEzajV6N3AyeTE2T3JTNXhjZmlWdUlfX3ZEQVdaZUtEcFpNVVMzQzdfVUpaR1JmNGlod3hmNDlfZFpab2hNbUpMVk1WV1k4SXVUT1RQTDJ1VWpkYUFNVktJT0tvOGpBUmpFbW1URUhYUUI3NUZ4WkESBBoCCAAaJBICCAAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEDL2dvdG8_dXJsPUNBRVNvQUlCNnpzd0ZRcmhMNV92Ui0tbkMyeUN3UjVydmRnYnY5c2R5Y1FTUUoxcTBfbDdYWEh0TUlvbWtmTkhOVmFJYV9IeTdWU2pKcjE3S2I1WjlWWGRlbExWd0tlOWFld3dDQUczWXFmSnpuWF94N3h3X3pTc0JKckxGQWQtOHRURUp2OWpVdGNvN2dDOERYek9XeF9HV0pmS0NCQm11NHFMc1NUNXFXTlRqMlhhbTAzOElOZGdwWHFtcUhDYWVZWFRuTThtanlTWVBmWUo1dHFxMjBMTmp0dDFLVjN5amhIdG9IZnE3azB2My1NNnVBTDZrMFN5T3Z2X1ZONTc4UW1iOENHbFNRc2dGdGJpTWFRZjR5WmEzajV6N3AyeTE2T3JTNXhjZmlWdUlfX3ZEQVdaZUtEcFpNVVMzQzdfVUpaR1JmNGlod3hmNDlfZFpab2hNbUpMVk1WV1k4SXVUT1RQTDJ1VWpkYUFNVktJT0tvOGpBUmpFbW1URUhYUUI3NUZ4WkESBBoCCAAaJBICCAAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "CPSC.gov"
+  },
+  {
+   "position": 2,
+   "title": "LBSC Heavy-Duty 20 Amp Extension Cord",
+   "link": "https://www.amazon.com/clp/B0DS229SFW",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVDIuw4eC_Mylf1g7F1OlSIn4yd6Y04DKY0oMH1tBg5fIgjYm5VUevK_pk3QVS7FW-unhOrb27t05mC7BOOLtUBsvd-Tu8HQXKATE6ApAb_jveYwAhDWTW-6HBDw&ved=2ahUKEwjC9dCQvauXAxWUmSsGHQHwECcQFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://www.amazon.com › clp",
+   "thumbnail": "https://serpapi.com/searches/6ac81a30f607a98385385af4/images/VlZpGTRhQXWjNLS7YI3gfhaOm7acZpa27J0DTZozHEM.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "NEMA FT Waterproof | 25 Foot 12 Gauge Outdoor Extension Cord with Lighted, Heavy Duty Extension Cord Waterproof with Hook, 15A 1875W 125V, ETL",
+   "snippet_highlighted_words": [
+    "NEMA FT Waterproof"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "extensions": [
+      "Free delivery",
+      "30-day returns"
+     ],
+     "detected_extensions": {
+      "day_returns": 30
+     }
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "NEMA FT Waterproof | 25 Foot 12 Gauge Outdoor Extension Cord with Lighted, Heavy Duty Extension Cord Waterproof with Hook, 15A 1875W 125V, ETL",
+     "source_info_link": "https://www.amazon.com/clp/B0DS229SFW",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkRJdXc0ZUNfTXlsZjFnN0YxT2xTSW40eWQ2WTA0REtZMG9NSDF0Qmc1ZklnalltNVZVZXZLX3BrM1FWUzdGVy11bmhPcmIyN3QwNW1DN0JPT0x0VUJzdmQtVHU4SFFYS0FURTZBcEFiX2p2ZVl3QWhEV1RXLTZIQkR3EgQaAggAGiISABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVkRJdXc0ZUNfTXlsZjFnN0YxT2xTSW40eWQ2WTA0REtZMG9NSDF0Qmc1ZklnalltNVZVZXZLX3BrM1FWUzdGVy11bmhPcmIyN3QwNW1DN0JPT0x0VUJzdmQtVHU4SFFYS0FURTZBcEFiX2p2ZVl3QWhEV1RXLTZIQkR3EgQaAggAGiISABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 3,
+   "title": "3Prong Plug 12AWG 125V Extension Cord Generator ...",
+   "link": "https://www.ebay.com/itm/366519690399",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVpICv4eBggs4BO6tLwaA5D0VTmWlQeD2pU2iWykvkc2K--IeGotduYU1v8Ie9H_HhOgYN6jJb8HeZLdfaIUmICtXCjaWI_np_zZNqoikpZZGYDD_XGWea6tkDog&ved=2ahUKEwjC9dCQvauXAxWUmSsGHQHwECcQFnoECDYQAQ&uoh=1",
+   "displayed_link": "https://www.ebay.com › ... › Extension Cords",
+   "thumbnail": "https://serpapi.com/searches/6ac81a30f607a98385385af4/images/VlZpGTRhQXWjNLS7YI3gfnU-qV9kMweJAPlOT5p6j2g.jpeg",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png",
+   "snippet": "3Prong Plug 12AWG 125V Extension Cord Generator Adapter. This item is no longer available. 1 × 1.97ft 12 AWG NEMA",
+   "snippet_highlighted_words": [
+    "3Prong Plug 12AWG 125V Extension Cord Generator Adapter"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "3Prong Plug 12AWG 125V Extension Cord Generator Adapter. This item is no longer available. 1 × 1.97ft 12 AWG NEMA",
+     "source_info_link": "https://www.ebay.com/itm/366519690399",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAYElEQVR4AWPAAdSBeDsQf4bi7WAxIoEKEL8C4kwg5oHiTKiYCjEGrAPiHCzi-RA5wuAz2FZMIAGRwwT_KcGUG_DUyOI_MmZIuYSCv65nQsFtO8SR8WAwYNQAytPBwBsAAPa7ZDmnz9wtAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnBJQ3Y0ZUJnZ3M0Qk82dEx3YUE1RDBWVG1XbFFlRDJwVTJpV3lrdmtjMkstLUllR290ZHVZVTF2OEllOUhfSGhPZ1lONmpKYjhIZVpMZGZhSVVtSUN0WENqYVdJX25wX3paTnFvaWtwWlpHWUREX1hHV2VhNnRrRG9nEgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnBJQ3Y0ZUJnZ3M0Qk82dEx3YUE1RDBWVG1XbFFlRDJwVTJpV3lrdmtjMkstLUllR290ZHVZVTF2OEllOUhfSGhPZ1lONmpKYjhIZVpMZGZhSVVtSUN0WENqYVdJX25wX3paTnFvaWtwWlpHWUREX1hHV2VhNnRrRG9nEgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "eBay"
+  },
+  {
+   "position": 4,
+   "title": "3 Prong Double Male Extension Male, 12AWG Heavy Duty ...",
+   "link": "https://www.amazon.com.be/-/en/Extension-Adapter-Generator-Practical-Reducer/dp/B0D87C3Y3C",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFRGr93cdfKMqPQYGHWqbZPEsbqk7MLO9Qrhc0LES_fKoe-BfvmWdUG-lXKTYrBi6aj3eu8YubmRxRcMZBJZgAR3CGbn116eHCK0JvEwx6whI2deGlpghGilO9RV6ydj8WfkVXh12WAi754DKiVFyP5HdIu8Ce6t7EkMoPg0d72zwOuQqAgyvLZbDO8UaN1Pq5g&ved=2ahUKEwjC9dCQvauXAxWUmSsGHQHwECcQFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://www.amazon.com.be › Extension-Adapter-Gener...",
+   "thumbnail": "https://serpapi.com/searches/6ac81a30f607a98385385af4/images/VlZpGTRhQXWjNLS7YI3gfmPCjDkVjvYcOO9qUrHUfmI.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "This 3 pin male to male extension cord is made from industrial grade parts, which ensures maximum durability.",
+   "snippet_highlighted_words": [
+    "made from industrial grade parts"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "detected_extensions": {
+      "price": 30.48,
+      "currency": "€"
+     },
+     "extensions": [
+      "€30.48",
+      "In stock"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "This 3 pin male to male extension cord is made from industrial grade parts, which ensures maximum durability.",
+     "source_info_link": "https://www.amazon.com.be/-/en/Extension-Adapter-Generator-Practical-Reducer/dp/B0D87C3Y3C",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZSR3I5M2NkZktNcVBRWUdIV3FiWlBFc2JxazdNTE85UXJoYzBMRVNfZktvZS1CZnZtV2RVRy1sWEtUWXJCaTZhajNldThZdWJtUnhSY01aQkpaZ0FSM0NHYm4xMTZlSENLMEp2RXd4NndoSTJkZUdscGdoR2lsTzlSVjZ5ZGo4V2ZrVlhoMTJXQWk3NTRES2lWRnlQNUhkSXU4Q2U2dDdFa01vUGcwZDcyendPdVFxQWd5dkxaYkRPOFVhTjFQcTVnEgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCNnpzd0ZSR3I5M2NkZktNcVBRWUdIV3FiWlBFc2JxazdNTE85UXJoYzBMRVNfZktvZS1CZnZtV2RVRy1sWEtUWXJCaTZhajNldThZdWJtUnhSY01aQkpaZ0FSM0NHYm4xMTZlSENLMEp2RXd4NndoSTJkZUdscGdoR2lsTzlSVjZ5ZGo4V2ZrVlhoMTJXQWk3NTRES2lWRnlQNUhkSXU4Q2U2dDdFa01vUGcwZDcyendPdVFxQWd5dkxaYkRPOFVhTjFQcTVnEgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Amazon.com.be"
+  },
+  {
+   "position": 5,
+   "title": "Best Cords, Adapters & Multi-Outlets",
+   "link": "https://www.amazon.com/Best-Sellers-Cords,-Adapters-Multi-Outlets/zgbs/hi/6396121011",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFaoW-A32eVvqnbTxAWrh2XNFPoJYcnYjbVqOp4prfetdPcls4pB25iqT5nb9ojltxKn-QK8BCY7B4b23RhE_IHHIVbN1fSfSopCm9FAw_VQxHFu_TAcXx-1HinFXKS_9RFl4ngQCUW9EFQLkDSMJFm559xUdyG8PUao8ARFHu5Ykt9CP4lmXQwGTsQ&ved=2ahUKEwjC9dCQvauXAxWUmSsGHQHwECcQFnoECCgQAQ&uoh=1",
+   "displayed_link": "https://www.amazon.com › zgbs",
+   "thumbnail": "https://serpapi.com/searches/6ac81a30f607a98385385af4/images/VlZpGTRhQXWjNLS7YI3gfiy1ZFxS5THIv9ZV8IUna7c.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Discover the best Cords, Adapters & Multi-Outlets in Best Sellers. Find the top 100 most popular items in Amazon Tools & Home Improvement Best Sellers.",
+   "snippet_highlighted_words": [
+    "Cords, Adapters & Multi-Outlets in Best Sellers"
+   ],
+   "images": [
+    "https://serpapi.com/searches/6ac81a30f607a98385385af4/images/VlZpGTRhQXWjNLS7YI3gflhB97mdPhIvEbRv3x2ZWiY.jpeg"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Discover the best Cords, Adapters & Multi-Outlets in Best Sellers. Find the top 100 most popular items in Amazon Tools & Home Improvement Best Sellers.",
+     "source_info_link": "https://www.amazon.com/Best-Sellers-Cords,-Adapters-Multi-Outlets/zgbs/hi/6396121011",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0Zhb1ctQTMyZVZ2cW5iVHhBV3JoMlhORlBvSlljbllqYlZxT3A0cHJmZXRkUGNsczRwQjI1aXFUNW5iOW9qbHR4S24tUUs4QkNZN0I0YjIzUmhFX0lISElWYk4xZlNmU29wQ205RkF3X1ZReEhGdV9UQWNYeC0xSGluRlhLU185UkZsNG5nUUNVVzlFRlFMa0RTTUpGbTU1OXhVZHlHOFBVYW84QVJGSHU1WWt0OUNQNGxtWFF3R1RzURIEGgIIABoiEgAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0Zhb1ctQTMyZVZ2cW5iVHhBV3JoMlhORlBvSlljbllqYlZxT3A0cHJmZXRkUGNsczRwQjI1aXFUNW5iOW9qbHR4S24tUUs4QkNZN0I0YjIzUmhFX0lISElWYk4xZlNmU29wQ205RkF3X1ZReEhGdV9UQWNYeC0xSGluRlhLU185UkZsNG5nUUNVVzlFRlFMa0RTTUpGbTU1OXhVZHlHOFBVYW84QVJGSHU1WWt0OUNQNGxtWFF3R1RzURIEGgIIABoiEgAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Amazon.com"
+  },
+  {
+   "position": 6,
+   "title": "General Purpose Extension Cords",
+   "link": "https://uswireandcable.com/products/general-purpose-extension-cords/?srsltid=AU7gw4WWgxvkfvH3H2mSEPfPAXuZxeMKvlNny0hcFC3c5otuxnYeOdWw",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwQEB6zswFevVag7flITOkyt7ugq-84MDdwdnLwFQTCWEthfe2ECdKE8zzbyDhJlRNqCfrP2PNVgD6V9b_zlF8VfuPUmbdoB1wwIOiwAc4lbdUYJIhDwQGsjBHc81NT6Jj-S5KU6lEAeCSxJ5uzXeB2Gnu-a09Fy-yTlih8O7ELynd6PpDGlwQjTJ_zhHR2FKCXSJDXQJOwCgTbHcDbcXENIWCNTS7NvduPWCxrXD7fgCFc3kS4CQ_SmgzA3ZYmGkvJHv&ved=2ahUKEwjC9dCQvauXAxWUmSsGHQHwECcQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://uswireandcable.com › products › general-purpose...",
+   "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABwBgCdASogACAAPtEutFooIagoGAEAGglsAHgf9Vpj-ABtqSqA96SHv1Z_kllw6GSCZ_zn5ZDhrDbnzhAA_vYTQn1DgjXQBn2UR-IqUxAak4gD1zJMorZqLR9J9X4k_wAWPRhTr5jzI_8d0k5T-4qJXVEF5H_m7SuX7FKwaKjDuKWa8vddb1VIMVLLJq-zCsW8foz5rLz-D6_-XnWNrn7yZwyaNSpHtBzSN1xrVhcTPdZH-dEImMHtsSOuHXKnfZmuB_GR3r-pVn6XnGTgWiZuI1VCxr_bnjeDHr1baInB5UM3K06b2IOTPBXQu1V6xR1OnfFAF-E_Pn6P8N2nH62aTeVAAA.webp",
+   "snippet": "General Purpose Extension Cords Outdoor SJTW vinyl cords are the workhorse of most projects. Made with double insulation, twisted copper wires and molded plugs ...",
+   "snippet_highlighted_words": [
+    "General Purpose Extension Cords"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "General Purpose Extension Cords Outdoor SJTW vinyl cords are the workhorse of most projects. Made with double insulation, twisted copper wires and molded plugs ...",
+     "source_info_link": "https://uswireandcable.com/products/general-purpose-extension-cords/?srsltid=AU7gw4WWgxvkfvH3H2mSEPfPAXuZxeMKvlNny0hcFC3c5otuxnYeOdWw",
+     "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABwBgCdASogACAAPtEutFooIagoGAEAGglsAHgf9Vpj-ABtqSqA96SHv1Z_kllw6GSCZ_zn5ZDhrDbnzhAA_vYTQn1DgjXQBn2UR-IqUxAak4gD1zJMorZqLR9J9X4k_wAWPRhTr5jzI_8d0k5T-4qJXVEF5H_m7SuX7FKwaKjDuKWa8vddb1VIMVLLJq-zCsW8foz5rLz-D6_-XnWNrn7yZwyaNSpHtBzSN1xrVhcTPdZH-dEImMHtsSOuHXKnfZmuB_GR3r-pVn6XnGTgWiZuI1VCxr_bnjeDHr1baInB5UM3K06b2IOTPBXQu1V6xR1OnfFAF-E_Pn6P8N2nH62aTeVAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZldlZhZzdmbElUT2t5dDd1Z3EtODRNRGR3ZG5Md0ZRVENXRXRoZmUyRUNkS0U4enpieURoSmxSTnFDZnJQMlBOVmdENlY5Yl96bEY4VmZ1UFVtYmRvQjF3d0lPaXdBYzRsYmRVWUpJaER3UUdzakJIYzgxTlQ2SmotUzVLVTZsRUFlQ1N4SjV1elhlQjJHbnUtYTA5RnkteVRsaWg4TzdFTHluZDZQcERHbHdRalRKX3poSFIyRktDWFNKRFhRSk93Q2dUYkhjRGJjWEVOSVdDTlRTN052ZHVQV0N4clhEN2ZnQ0ZjM2tTNENRX1NtZ3pBM1pZbUdrdkpIdhIEGgIIABoiEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZldlZhZzdmbElUT2t5dDd1Z3EtODRNRGR3ZG5Md0ZRVENXRXRoZmUyRUNkS0U4enpieURoSmxSTnFDZnJQMlBOVmdENlY5Yl96bEY4VmZ1UFVtYmRvQjF3d0lPaXdBYzRsYmRVWUpJaER3UUdzakJIYzgxTlQ2SmotUzVLVTZsRUFlQ1N4SjV1elhlQjJHbnUtYTA5RnkteVRsaWg4TzdFTHluZDZQcERHbHdRalRKX3poSFIyRktDWFNKRFhRSk93Q2dUYkhjRGJjWEVOSVdDTlRTN052ZHVQV0N4clhEN2ZnQ0ZjM2tTNENRX1NtZ3pBM1pZbUdrdkpIdhIEGgIIABoiEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "US Wire & Cable"
+  },
+  {
+   "position": 7,
+   "title": "40V 120 MPH 550 CFM Cordless Battery Leaf Blower With ...",
+   "link": "https://www.homedepot.com/p/RYOBI-40V-120-MPH-550-CFM-Cordless-Battery-Leaf-Blower-With-4-0-Ah-Battery-and-Charger-RY40LB01K/327354338",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFYW3nDqWOuNIhCYzGpacyqvMAylxY_Dn7b935C4FsfVjRK-gEEMBV9oeT_I4BBEKbfVK1Uzz7OqEUMHI1SWejKIJWpl5gyBoNEmbxcu4eJC6wR3xGnhRlwB7x71P4uEYm5fg8nnsLeJr6uoc6tgrzBN5_54o50tH9gkl1Kc1oOyirJDZ9rW6qRjOAGl9UV1ogDFdEqTCLKUvIhCx8XfEafKGga-tHiVr8V_BETJlwn_XTDjbX-44kNEgf9N1qw&ved=2ahUKEwjC9dCQvauXAxWUmSsGHQHwECcQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://www.homedepot.com › ...",
+   "favicon": "https://serpapi.com/images/i/UklGRiACAABXRUJQVlA4IBQCAACQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhEgH4AXodt7CZ6ANsB5gPOd6MDqAOfb9g9fgrc0AIZd4tdQNWejx1AV2wLfrgzC5BaY5crdVgXxO58G11AshtwAA9wKUHMFlww6XmzmwVnt3NJzCUp4e_yUjGQVXdRQQpfbVGGTPPxb9ozsnmv8foc6TtiaGPlmGbZ8HdWZm8Lzt0OBE74SfXfH8gfoUo_NXSYiZ__ZoOaL4eRgIaQgDhYzj-c7RBuPf_9y1c8iZCIZt91a3bjN5c00D7g74jqnEhG9aVx0E9lMwtmpgjaci9eOo0qdBsbkHNdrLmco4PFnua2onidttCsNYffCXJDykkPC5CjXaEHIh5UxrX7DWFRVVhjkHufhmVdAKTPGNUEgLrRONYRyarZIqSEUe34RHmzfsovBG1EX3tn5W4cP-jj5AP1czLT0efHX0NDG3u8Q2luxFMlWt2ZyCdhoK2srVjlmZKsY8QtlmkU7rfHNcKIlqcmfGZaqgpT2B-loluxIICcsT8Of5JzIHthQKo1SQ5YpveIJm_uFXnuNtubxDCed32_6ujxaQO1B_g7hYijeF9rnR9Sccws5E9KmesLLeXejHEBom4zSbJ5ZKp0ZVl2JOE89PDuTHqD9S4YUHaDpXnw_bhoLP3asbgmJ3nbhKIGc6pprFJR1BRjLo29tk8vBfBVegAAAA.webp",
+   "snippet": "Easily blow through heavier leaves and debris in your yard by choosing RYOBI Lithium-Ion Brushless Cordless Jet Fan Leaf Blower Battery and Charger ...",
+   "snippet_highlighted_words": [
+    "RYOBI Lithium-Ion Brushless Cordless Jet Fan Leaf Blower"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.6,
+      "reviews": 7026,
+      "price": 159.0,
+      "currency": "$"
+     },
+     "extensions": [
+      "4.6(7,026)",
+      "$159.00"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Easily blow through heavier leaves and debris in your yard by choosing RYOBI Lithium-Ion Brushless Cordless Jet Fan Leaf Blower Battery and Charger ...",
+     "source_info_link": "https://www.homedepot.com/p/RYOBI-40V-120-MPH-550-CFM-Cordless-Battery-Leaf-Blower-With-4-0-Ah-Battery-and-Charger-RY40LB01K/327354338",
+     "icon": "https://serpapi.com/images/i/UklGRiACAABXRUJQVlA4IBQCAACQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhEgH4AXodt7CZ6ANsB5gPOd6MDqAOfb9g9fgrc0AIZd4tdQNWejx1AV2wLfrgzC5BaY5crdVgXxO58G11AshtwAA9wKUHMFlww6XmzmwVnt3NJzCUp4e_yUjGQVXdRQQpfbVGGTPPxb9ozsnmv8foc6TtiaGPlmGbZ8HdWZm8Lzt0OBE74SfXfH8gfoUo_NXSYiZ__ZoOaL4eRgIaQgDhYzj-c7RBuPf_9y1c8iZCIZt91a3bjN5c00D7g74jqnEhG9aVx0E9lMwtmpgjaci9eOo0qdBsbkHNdrLmco4PFnua2onidttCsNYffCXJDykkPC5CjXaEHIh5UxrX7DWFRVVhjkHufhmVdAKTPGNUEgLrRONYRyarZIqSEUe34RHmzfsovBG1EX3tn5W4cP-jj5AP1czLT0efHX0NDG3u8Q2luxFMlWt2ZyCdhoK2srVjlmZKsY8QtlmkU7rfHNcKIlqcmfGZaqgpT2B-loluxIICcsT8Of5JzIHthQKo1SQ5YpveIJm_uFXnuNtubxDCed32_6ujxaQO1B_g7hYijeF9rnR9Sccws5E9KmesLLeXejHEBom4zSbJ5ZKp0ZVl2JOE89PDuTHqD9S4YUHaDpXnw_bhoLP3asbgmJ3nbhKIGc6pprFJR1BRjLo29tk8vBfBVegAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZZVzNuRHFXT3VOSWhDWXpHcGFjeXF2TUF5bHhZX0RuN2I5MzVDNEZzZlZqUkstZ0VFTUJWOW9lVF9JNEJCRUtiZlZLMVV6ejdPcUVVTUhJMVNXZWpLSUpXcGw1Z3lCb05FbWJ4Y3U0ZUpDNndSM3hHbmhSbHdCN3g3MVA0dUVZbTVmZzhubnNMZUpyNnVvYzZ0Z3J6Qk41XzU0bzUwdEg5Z2tsMUtjMW9PeWlySkRaOXJXNnFSak9BR2w5VVYxb2dERmRFcVRDTEtVdkloQ3g4WGZFYWZLR2dhLXRIaVZyOFZfQkVUSmx3bl9YVERqYlgtNDRrTkVnZjlOMXF3EgQaAggAGiISAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZZVzNuRHFXT3VOSWhDWXpHcGFjeXF2TUF5bHhZX0RuN2I5MzVDNEZzZlZqUkstZ0VFTUJWOW9lVF9JNEJCRUtiZlZLMVV6ejdPcUVVTUhJMVNXZWpLSUpXcGw1Z3lCb05FbWJ4Y3U0ZUpDNndSM3hHbmhSbHdCN3g3MVA0dUVZbTVmZzhubnNMZUpyNnVvYzZ0Z3J6Qk41XzU0bzUwdEg5Z2tsMUtjMW9PeWlySkRaOXJXNnFSak9BR2w5VVYxb2dERmRFcVRDTEtVdkloQ3g4WGZFYWZLR2dhLXRIaVZyOFZfQkVUSmx3bl9YVERqYlgtNDRrTkVnZjlOMXF3EgQaAggAGiISAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "The Home Depot"
+  },
+  {
+   "position": 8,
+   "title": "Guide to Male-to-Male Extension Cords (Engine Suicide ...",
+   "link": "https://www.yic-electronics.com/blog/Guide-to-Male-to-Male-Extension-Cords(Engine-Suicide-Cords).html",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFVUZbSSQTVZab9_zAzzbk2Tubi90531g2u5yzYI-ZY_8SyIOCvIS_1dasm8J7Grb1MWl5MYeEcWAkKMlE27Ub_yWortHHbMFYpLPx2K3xu8PEmVt1TrcQnvs7j5sXz3jgEA-zkWLnFu7NlPpG5ks50MpMBsC-2p0-9eaaCQzlAB_yqRSoPvxbpvQ8nh7iNKwRK9xFpTMLRLwBvwI&ved=2ahUKEwjC9dCQvauXAxWUmSsGHQHwECcQFnoECEsQAQ&uoh=1",
+   "displayed_link": "https://www.yic-electronics.com › blog › Guide-to-Male-...",
+   "favicon": "https://serpapi.com/images/i/UklGRqwAAABXRUJQVlA4IKAAAACQAgCdASoQABAAAsBMJbACdDBGAZjgjrn2-QJJAAD-yKffywrwScZaH_xG7fvLkMD0zNR5pX2bIWxC29rW6OzIMf_8emocn-mkxy75c2yiB2nCdQhb3PJCIto4McVpO0oiugWH2VT98RBnL2P7l1ecSmlpQBJm8KAJLiqStjt_2o-2xQ_himn81Dk6Rb-HPr_aveB-PS068Qbyv3vRz8AA.webp",
+   "snippet": "Male-to-male extension cords, also known as \"suicide cords,\" are not a common household item but can be crucial in emergencies for supplying power to home ...",
+   "snippet_highlighted_words": [
+    "Male-to-male extension cords"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Male-to-male extension cords, also known as \"suicide cords,\" are not a common household item but can be crucial in emergencies for supplying power to home ...",
+     "source_info_link": "https://www.yic-electronics.com/blog/Guide-to-Male-to-Male-Extension-Cords(Engine-Suicide-Cords).html",
+     "icon": "https://serpapi.com/images/i/UklGRqwAAABXRUJQVlA4IKAAAACQAgCdASoQABAAAsBMJbACdDBGAZjgjrn2-QJJAAD-yKffywrwScZaH_xG7fvLkMD0zNR5pX2bIWxC29rW6OzIMf_8emocn-mkxy75c2yiB2nCdQhb3PJCIto4McVpO0oiugWH2VT98RBnL2P7l1ecSmlpQBJm8KAJLiqStjt_2o-2xQ_himn81Dk6Rb-HPr_aveB-PS068Qbyv3vRz8AA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZWVVpiU1NRVFZaYWI5X3pBenpiazJUdWJpOTA1MzFnMnU1eXpZSS1aWV84U3lJT0N2SVNfMWRhc204SjdHcmIxTVdsNU1ZZUVjV0FrS01sRTI3VWJfeVdvcnRISGJNRllwTFB4MkszeHU4UEVtVnQxVHJjUW52czdqNXNYejNqZ0VBLXprV0xuRnU3TmxQcEc1a3M1ME1wTUJzQy0ycDAtOWVhYUNRemxBQl95cVJTb1B2eGJwdlE4bmg3aU5Ld1JLOXhGcFRNTFJMd0J2d0kSBBoCCAAaIhIAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZWVVpiU1NRVFZaYWI5X3pBenpiazJUdWJpOTA1MzFnMnU1eXpZSS1aWV84U3lJT0N2SVNfMWRhc204SjdHcmIxTVdsNU1ZZUVjV0FrS01sRTI3VWJfeVdvcnRISGJNRllwTFB4MkszeHU4UEVtVnQxVHJjUW52czdqNXNYejNqZ0VBLXprV0xuRnU3TmxQcEc1a3M1ME1wTUJzQy0ycDAtOWVhYUNRemxBQl95cVJTb1B2eGJwdlE4bmg3aU5Ld1JLOXhGcFRNTFJMd0J2d0kSBBoCCAAaIhIAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "YIC Electronics",
+   "read_more_link": "https://www.yic-electronics.com/blog/Guide-to-Male-to-Male-Extension-Cords(Engine-Suicide-Cords).html#:~:text=Male%2Dto%2Dmale%20extension%20cords%2C%20also%20known,supplying%20power%20to%20home%20appliances."
+  },
+  {
+   "position": 9,
+   "title": "Male-to-Male Extension Cords: Safety Warnings From Expert",
+   "link": "https://www.americord.com/blogs/blog/male-to-male-extension-cords-safety-warnings-from-expert?srsltid=AU7gw4WivfWU7ezkBH2yCR2ZguxLBndy1aQk29jeCOHejfhdaErNAdeO",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2gEB6zswFR1QjU9oxoq9nMJaBCYgIZUC_Q1xRQcmNMe2ptRovMH9ks-iYWj3yI4rz4Ni67Q4Hfbk0VgDP7s36dIu7yGnVWsKk6QZdn8dHzshSXL0GMyGYBSLsOV_yGkQe8M3-9O6uMXB_krsu9lXk1VSHqKx09jxulRK-B8IPZbdlq3WvRPEmbrRJtzAOXeIKNAqZjpvqx-Z_v8_EbQMq8rJp4oO-doA-WcwI2H6-wILv3JvaB2mxpKCxy0Fw3QvyUwCsIlLdFtsZaBY5ox4rQAVv9PvwhR1n6muwg&ved=2ahUKEwjC9dCQvauXAxWUmSsGHQHwECcQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://www.americord.com › blogs › blog › male-to-mal...",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAABQBQCdASogAA0APtEutFooIagoGAEAGglsAJ0ygyW0yv9ZhsAt_9v6MxXig0u4xm5kyogA_re2J5tnGqvCa50KilWDPsZOs2cFPrIxJGJNdj2OLrCkgswvhJyroZH0sjxah3J6hw7qhVypo4gBLv02uxr4M8cj6_95X_3PEhsvPb_-Tf-6rsfRqGBh6ABza67Pdx8rfVyFrMt9X_avR_S94Es9a0QX59y_fL7OyVjEywtz68kTu1T6l7Ic7d47_ALczXvZlQQtBS2Nl1e3DCZZIA7x_S42BPsB7y44K-fOS93OS_-DNnot9p-hu6Lh0lZAAAAA.webp",
+   "date": "Jan 27, 2025",
+   "snippet": "One of the most immediate dangers associated with using male-to-male extension cords is the risk of electrocution. If both ends of the cord have ...",
+   "snippet_highlighted_words": [
+    "risk of electrocution"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "One of the most immediate dangers associated with using male-to-male extension cords is the risk of electrocution. If both ends of the cord have ...",
+     "source_info_link": "https://www.americord.com/blogs/blog/male-to-male-extension-cords-safety-warnings-from-expert?srsltid=AU7gw4WivfWU7ezkBH2yCR2ZguxLBndy1aQk29jeCOHejfhdaErNAdeO",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAABQBQCdASogAA0APtEutFooIagoGAEAGglsAJ0ygyW0yv9ZhsAt_9v6MxXig0u4xm5kyogA_re2J5tnGqvCa50KilWDPsZOs2cFPrIxJGJNdj2OLrCkgswvhJyroZH0sjxah3J6hw7qhVypo4gBLv02uxr4M8cj6_95X_3PEhsvPb_-Tf-6rsfRqGBh6ABza67Pdx8rfVyFrMt9X_avR_S94Es9a0QX59y_fL7OyVjEywtz68kTu1T6l7Ic7d47_ALczXvZlQQtBS2Nl1e3DCZZIA7x_S42BPsB7y44K-fOS93OS_-DNnot9p-hu6Lh0lZAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCNnpzd0ZSMVFqVTlveG9xOW5NSmFCQ1lnSVpVQ19RMXhSUWNtTk1lMnB0Um92TUg5a3MtaVlXajN5STRyejROaTY3UTRIZmJrMFZnRFA3czM2ZEl1N3lHblZXc0trNlFaZG44ZEh6c2hTWEwwR015R1lCU0xzT1ZfeUdrUWU4TTMtOU82dU1YQl9rcnN1OWxYazFWU0hxS3gwOWp4dWxSSy1COElQWmJkbHEzV3ZSUEVtYnJSSnR6QU9YZUlLTkFxWmpwdnF4LVpfdjhfRWJRTXE4ckpwNG9PLWRvQS1XY3dJMkg2LXdJTHYzSnZhQjJteHBLQ3h5MEZ3M1F2eVV3Q3NJbExkRnRzWmFCWTVveDRyUUFWdjlQdndoUjFuNm11d2cSBBoCCAAaIhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCNnpzd0ZSMVFqVTlveG9xOW5NSmFCQ1lnSVpVQ19RMXhSUWNtTk1lMnB0Um92TUg5a3MtaVlXajN5STRyejROaTY3UTRIZmJrMFZnRFA3czM2ZEl1N3lHblZXc0trNlFaZG44ZEh6c2hTWEwwR015R1lCU0xzT1ZfeUdrUWU4TTMtOU82dU1YQl9rcnN1OWxYazFWU0hxS3gwOWp4dWxSSy1COElQWmJkbHEzV3ZSUEVtYnJSSnR6QU9YZUlLTkFxWmpwdnF4LVpfdjhfRWJRTXE4ckpwNG9PLWRvQS1XY3dJMkg2LXdJTHYzSnZhQjJteHBLQ3h5MEZ3M1F2eVV3Q3NJbExkRnRzWmFCWTVveDRyUUFWdjlQdndoUjFuNm11d2cSBBoCCAAaIhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "americord.com",
+   "read_more_link": "https://www.americord.com/blogs/blog/male-to-male-extension-cords-safety-warnings-from-expert?srsltid=AU7gw4WivfWU7ezkBH2yCR2ZguxLBndy1aQk29jeCOHejfhdaErNAdeO#:~:text=One%20of%20the%20most%20immediate,ends%20of%20the%20cord%20have"
+  }
+ ],
+ "search_information": {
+  "images_results_state": "Fully empty"
+ },
+ "error": "Google Lens hasn't returned any results for this query."
+}

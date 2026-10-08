@@ -1,0 +1,549 @@
+{
+ "search_metadata": {
+  "id": "6ac81a1631aafe00bda8ae55",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/OI-5aatxm38pEfsthO5CNM_CAuVBUcdziloxiEtC2uM/6ac81a1631aafe00bda8ae55.json",
+  "markdown_endpoint": "https://serpapi.com/searches/OI-5aatxm38pEfsthO5CNM_CAuVBUcdziloxiEtC2uM/6ac81a1631aafe00bda8ae55.md",
+  "created_at": "2026-10-08 22:32:54 UTC",
+  "processed_at": "2026-10-08 22:32:54 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Foctrot-2.png",
+  "raw_html_file": "https://serpapi.com/searches/OI-5aatxm38pEfsthO5CNM_CAuVBUcdziloxiEtC2uM/6ac81a1631aafe00bda8ae55.html",
+  "total_time_taken": 4.45
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/octrot-2.png",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "178K+ Amazon heated blankets recalled after 27 fires, 15 burn and ...",
+   "source": "MassLive.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAABwAgCdASoQABAAAsBMJbACdFKATiWDHbIMGj_IAP70DLgAgKnXtfORjCIcL4OSEDP_fP_n79gRcFw-fQ2xfJ-JTmrpa-KKgR8NWYz84231LG2aSM51PT8JPffwuz2cdZynCBIstLEal0RgjqeeY_2GbXZhEfTH6Lgzsaest64pkyLeBw_auf-_fRj9k-u4PAHvn1vokv_Ne_7ztV-woDMprt3MfzAfuL9rMAAA.webp",
+   "link": "https://www.masslive.com/news/2026/07/amazon-issues-nationwide-recall-for-178k-heated-blankets-after-dozens-of-fires-injuries.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/4f4lkWlsouRial8YiA_vFmzoOXV-CflJ_iU-PnOZa-E.jpeg",
+   "date": "Jul 31, 2026",
+   "actual_image_width": 500,
+   "actual_image_height": 363
+  },
+  {
+   "position": 2,
+   "title": "Popular item recalled nationwide, including in N.Y., after 15 injuries ...",
+   "source": "SILive.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAABQAgCdASoQABAAAsBMJbACdAYu5v5lR-WnQWAA_vQWPtXDDdct--1NDVMCY9Pk1NmpHy9Q8jPOW1U-xfDmXfavzx3Wre0P0VKployPIPTvPigl-PuRbE7dc--EERtTb8-jn0WGZa0589cBqjY3hBQLkX611KjYsb1pHfjf8zRo_1BcsH10sP_NI3kVPTRO0n5n51pBOuxLXuFeAAA.webp",
+   "link": "https://www.silive.com/news/2026/08/popular-item-recalled-nationwide-including-in-ny-after-15-injuries-reported.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/198K28HxgFt7KioBstR12T1suBuZoTEgD9dIrJ5Mzy8.jpeg",
+   "date": "Aug 11, 2026",
+   "actual_image_width": 1280,
+   "actual_image_height": 905
+  },
+  {
+   "position": 3,
+   "title": "Amazon Warming Blanket Battery Operated Heated Sherpa Throws ...",
+   "source": "Sowatravel",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALbdAC7K95RK8EMc8a7CQeZCS_biZ3IWRZx846aKl_XwAP74rbewJfLaRTzbLg_Fta_eQMz5ba3UUow8YYNlpbrCoUjgfX4bsne7Ap5Pf5dMuT-_-BN79xi0xQ1KaUcDL2opy06Nsj-_mff6n4Gzc_2AWfwp_co55gkgq2BdD_7GDmXFJ_s2r-9ERtTP6Ibsut82OZ_3h4ZWL2K7eaC3IlevrZ9h9luZ-bs9lWRjX2Mvr9zB2BrohpHtu6KQtVvwaSrEFdriTxsbXzQ5jdNS_uPTa0zHJf47D3yZvJzO1oFjhntk7ZuvKv1-DF5OCRF5kz5zVOt4c73SNnryHlf-354gP5r3Nbj__mWFoAAAAA.webp",
+   "link": "https://www.sowatravel.at/?d=37298750111760",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/84At3ooInFmkVboLY8sFqB2JIEDHCyAI4QmdSkZvTdA.jpeg",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 4,
+   "title": "Amazon Heated Blanket Recall: Fire Hazard Sparks Urgent Warning",
+   "source": "The Korea Daily",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAADwBgCdASocABwAPtE-tFooIigoFAEAGglpAAUQJ2Bz-mcN5b9gD9O_RyDXAjXVmUAH6DloI_msp0TEn1DaeAAAAP72BTa2gf0eNFH5n-7oz5D5nLIbmm1JYzCuj9Bk7zfzPpIg0XyyRSIhemS4vWTHYLeDXJ44KjjbGleSOxnsHw3dVB_-nD7CKH_A-N_s4YMc6I0zklMqHhIgaSb4d7Zi2kYTmUeyx_FUm5Ymzg-K-dfAz1lX-rxvFPr9vn9YfKPY-Jh3zBo0hj5QQqf-l7843zz8sfZ_lv2JPjl9MEEwmIJpQ30pS5mOPc2IyW7sw8W8pIkxv5D4swvq9UsiP-X6BTzmFQmCjesxDz_HY_4Hd31F1Ij2TcauxIfmYN8681K6lY_oAAAAAA.webp",
+   "link": "https://en.koreadaily.com/amazon-heated-blanket-recall-octrot-fire-hazard/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/r4ipR0Dd8BSFAaAJnLGXdo1U6JZPsqOTeaoow8IgVOw.jpeg",
+   "date": "Aug 20, 2026",
+   "actual_image_width": 555,
+   "actual_image_height": 540
+  },
+  {
+   "position": 5,
+   "title": "More than 178,000 heated throws and blankets are being recalled ...",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "link": "https://www.instagram.com/p/DbbtlwzoCgW/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/ikcTqAlOqUVOWPR50MjSy9e-PhhAUyEJGkoMz4vG-CU.jpeg",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 6,
+   "title": "Nearly 180,000 Heated Blankets Recalled Due to Risk of Fire and ...",
+   "source": "People.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAADwBACdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHA3oHDhhI5ohkv3SYfu2ezj0AAAS0kG5BugAd88aBOfi2BQzYiqeP-0eK7OpKn4pIZu_0PWglCScnz_5rx--J1RUbWpUhe619LZAm0HqhX3OJaO9n6Hpv6SFqa8VFYkU0_92U1q1qPxOuRsxsUC1eIpdaLnbWJzzcEeQCisW9lVYuqzaKgjHtFEPo9Y8KqH02yAu3eJTr3cO5HgKg8WbSAA.webp",
+   "link": "https://people.com/nearly-180-000-heated-blankets-recalled-due-to-risk-of-fire-and-burns-12032787",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/LQY1m3s9E9b82gnvmZtKAuXHrDbKbyQSFnhTGxfKzio.jpeg",
+   "date": "Aug 3, 2026",
+   "actual_image_width": 800,
+   "actual_image_height": 773
+  },
+  {
+   "position": 7,
+   "title": "Nearly 180,000 Heated Blankets Recalled Due to Risk of Fire and ...",
+   "source": "AOL.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_1Cb_0yf90Sb_0yf_0yf_1Sf_2CjnvyOmiRnYsyG3mBzuxSTFox4BAQCJchU9MglURg1nVg8oIQZmRslgAAAABnRSTlMAGrn9_7TGuOPGAAAAw0lEQVR4AcWSBRLEIAwA0QTSkNr__3qp92pjJ4uzg2OMdT5c4KNVF26xJt5LZ_y99CY88FUJCHM5VQA2iSnT2JeqTB4Cc1olFBGpMYRalIawFfGrbERhHJ3iu01CEulFKtb-TK1mO4lZjUiXNCGSSL2XOqsO6MteBoBBAstEHuZepiUileOsI13ebUhBleOsnDTncbs9Ia0SSikISKVwoFxXHgJwUUDleHdzDogYFJgq_3jP5w_m7mV8_tTGRn85p7PmBUbAE1RDzShsAAAAAElFTkSuQmCC.png",
+   "link": "https://www.aol.com/articles/nearly-180-000-heated-blankets-180449000.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/58sQzkgaMN240kU6IgF1hd7HVhWeHxqH1DHzxVYOwXA.jpeg",
+   "date": "Aug 3, 2026",
+   "actual_image_width": 497,
+   "actual_image_height": 480
+  },
+  {
+   "position": 8,
+   "title": "178k heated blankets, throws recalled after multiple reports of fires",
+   "source": "LiveNOW from FOX",
+   "source_icon": "https://serpapi.com/images/i/UklGRswBAABXRUJQVlA4IMABAACwCQCdASocABwAPtEutFooIagoGAEAGgloALbZ9VZLMxK-bfjzkyvpf5LTjdpC_-G_IDXm_4D0Sf87y3PZhvd66dWZ6W2suTgHO4pMvrV_1AwqBuVAAAD-9QSiGFJRAeh_rqMTB_D90g8Ki2vTH4z9NCmLP5Zg1aokBxWFHPBQicxrX9-kPRuwurYbyCT-hrJiLomU25N_YhWp9dEuy_k_GHaCV36JrBBAwkfZGsNZCDead07Gqskj0v39oO_e-ce5IeiK_sX_O1cO11x_3FXpQJLfr70nKpMtwIB_Indt_N-XxnMe7i_Br-cMD9DCn9PyWO3PbdSEdpaFK-L2x-e3M3VGEkqEMpb9JTYL_KOzjx3WE7ssiuX6ZZaWo2zyw9XeUbd6oeaSjvo16xqSG4cdD_nmfx16T6qtaVdegTJQ4mhQh-j_w4995c4kNtiB914IwxYtsfy2r5Oq_GwlRpsDce_s8_prhd29mQVWrgqSzjdfGlPIcTPbm1xMuXs0cz8J3LdYiu4dmFIbFuDv7-0maryWI22kI_tNlvOa6xRHINf5zghQmoGoSh-zzW6-mPlOf6NaNNjx3_8evm7lbAAA.webp",
+   "link": "https://www.livenowfox.com/news/178k-heated-blankets-throws-recalled-after-multiple-reports-fires",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/rbWRMhUoT-gKY2P9iMeDxZ30dZ6O0wxoyUr1o4WCM18.jpeg",
+   "date": "Jul 31, 2026",
+   "actual_image_width": 932,
+   "actual_image_height": 524
+  },
+  {
+   "position": 9,
+   "title": "than 178000 heated throws and blankets are being recalled due to a ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/wmar2news/posts/more-than-178000-heated-throws-and-blankets-are-being-recalled-due-to-a-fire-haz/1524769069695344/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/KX30B7xVze8_Fv1sbw2JaLmSBRO2PAeNl2ObQAMmPeU.jpeg",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 10,
+   "title": "Amazon Quality Blankets And Throws 178K+ Amazon Heated ...",
+   "source": "postarsombor.rs",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://postarsombor.rs/product-similar-image/?20817010031200",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/U4TJFgQQc4Y4MgvNKjnCvMm-3cNHRjGfiuVZrr3iYig.jpeg",
+   "actual_image_width": 1280,
+   "actual_image_height": 930
+  },
+  {
+   "position": 11,
+   "title": "Amazon issues nationwide recall for 178K+ heated blankets after ...",
+   "source": "Yahoo",
+   "source_icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y1Tw_rqeMyPAHiJa72CusnhawJMmBUuzLIMAAAP5EilGHfSrv1c3raO7TMHCGEE0tanMuC4V63zPenGYvtPz_5miYFkvaNxoWFtqMmi-ZsnEGEWLyTen-1PcFiwqmOBEDdA2Bm4NzFKD-TDXjhuG3e7uKnQ0zqZhi8wQIDft34vQCWtH1diJyyQZvVUQhczt9vEuHYtoxJ3Gi7pHK8HONj47luWPosGLQpyPC5T2PfP3NbGwe_c16iS8OYJQdl3kAK7Xu9_Hgx1RwHhh6AAA.webp",
+   "link": "https://www.yahoo.com/news/us/articles/amazon-issues-nationwide-recall-178k-153554102.html",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/Wkrcd6t-OP-4z66_vcCSgLISXxKTpQeRSDQGI4_xOLY.jpeg",
+   "date": "Jul 31, 2026",
+   "actual_image_width": 976,
+   "actual_image_height": 709
+  },
+  {
+   "position": 12,
+   "title": "178k heated blankets, throws recalled after multiple reports of fires",
+   "source": "FOX 5 New York",
+   "source_icon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglmALszUMKZ7V-dJ53DBbMohsQjEUqObvsOoUERoOAZFE7AAP7yq6UZpprQt6dYMqvxorqpqWh_p72UqpBOqF6YWzvaZ9LJE64Hz4VwsE959Hi1jO4Afe6X7qIFpqi5BxKCe-rs7Ko_l4AgKW9_vaFT5I7tNu1AHPmGl2O17k8K2VugpAhux5aDw0LZHGQ0z_ML-Hkb33xGpq8E34XNVHi5Df6lAnvcMZ97Ebui5ZitjnuYsw2v5um9ms0flCe1t3o_fEkatylUzPJPi--c1jNA_Du1QyMhkXFdjCzr5hXQ2soMJ99o62f3s_qPG1t4ME6rCMJDf3e64NzNaJu5SZ-h6ufBTzwQeSeak74AAAA.webp",
+   "link": "https://www.fox5ny.com/news/178k-heated-blankets-throws-recalled-after-multiple-reports-fires?taid=6a6d4fa3ef02360001bd183f&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/DYKE4cX61DcqVzS6LbkuBqAq74nl3zRmZy6b-lhDWEw.jpeg",
+   "date": "Jul 31, 2026",
+   "actual_image_width": 932,
+   "actual_image_height": 524
+  },
+  {
+   "position": 13,
+   "title": "Heated Sherpa Throws and Blankets Recalled Due to Risk of ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10888/",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/UEhYSiutd3hgDQjws1K_4C2StPbl3BLNME9lQJP3rtg.jpeg",
+   "date": "Jul 29, 2026",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 14,
+   "title": "Amazon Heated Blanket Brands 178K+ ... - Orthomed Hospital Hisar",
+   "source": "Orthomedhospital",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.orthomedhospital.in/?t=13772209001170",
+   "thumbnail": "https://serpapi.com/searches/6ac81a1631aafe00bda8ae55/images/hXz-8ST1t9qduv_iFM2GX9MzYo9ch5HOsLwavRZfXCs.jpeg",
+   "actual_image_width": 500,
+   "actual_image_height": 363
+  },
+  {
+   "position": 15,
+   "title": "than 178000 heated throws and blankets are being recalled due to a ...",
+   "source": "Instagram",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "link": "https://www.instagram.com/p/DbbYBgWjo_C/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYY1eYX3VKbFJT1aUilMB52hNVyPgAquLdgHiAJyf6C5rze2UaxO2LuWQ&s",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 16,
+   "title": "than 178000 heated throws and blankets are being recalled due to a ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/scrippsnews/posts/more-than-178000-heated-throws-and-blankets-are-being-recalled-due-to-a-fire-haz/1472807308214982/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_qa-p8uKzwSXNLSscXqN3Xl9mftfMQRMXyDF2zJ727HXWbbpC-4hNuC2&s",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 17,
+   "title": "Nearly 180,000 Heated Blankets Recalled Due to Risk of Fire and ...",
+   "source": "AOL.ca",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_1Cb_0yf90Sb_0yf_0yf_1Sf_2CjnvyOmiRnYsyG3mBzuxSTFox4BAQCJchU9MglURg1nVg8oIQZmRslgAAAABnRSTlMAGrn9_7TGuOPGAAAAw0lEQVR4AcWSBRLEIAwA0QTSkNr__3qp92pjJ4uzg2OMdT5c4KNVF26xJt5LZ_y99CY88FUJCHM5VQA2iSnT2JeqTB4Cc1olFBGpMYRalIawFfGrbERhHJ3iu01CEulFKtb-TK1mO4lZjUiXNCGSSL2XOqsO6MteBoBBAstEHuZepiUileOsI13ebUhBleOsnDTncbs9Ia0SSikISKVwoFxXHgJwUUDleHdzDogYFJgq_3jP5w_m7mV8_tTGRn85p7PmBUbAE1RDzShsAAAAAElFTkSuQmCC.png",
+   "link": "https://www.aol.ca/articles/nearly-180-000-heated-blankets-180449000.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8n3CL0aOVmEiTVOP6clUbFSLC86SgnwFDe0xojk7HjU2nqwJgGYRUb13n&s",
+   "date": "Aug 3, 2026",
+   "actual_image_width": 497,
+   "actual_image_height": 480
+  },
+  {
+   "position": 18,
+   "title": "More than 178000 heated throws and blankets are being recalled ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/scrippsnews/photos/more-than-178000-heated-throws-and-blankets-are-being-recalled-due-to-a-fire-haz/1472807271548319/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_qa-p8uKzwSXNLSscXqN3Xl9mftfMQRMXyDF2zJ727HXWbbpC-4hNuC2&s",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 19,
+   "title": "Heated Sherpa Throws and Blankets Recalled Due to Risk of ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Heated-Sherpa-Throws-and-Blankets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-Sold-on-Amazon-by-OCTROT",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrhz4SG1_psOFma-5M-Jv8IEFGJJuXgdDQHMpYamMR1cQnkUVPds7NPVl&s",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 20,
+   "title": "Over 500 reports of heated throw blankets melting, sparking, and ...",
+   "source": "Yahoo",
+   "source_icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y1Tw_rqeMyPAHiJa72CusnhawJMmBUuzLIMAAAP5EilGHfSrv1c3raO7TMHCGEE0tanMuC4V63zPenGYvtPz_5miYFkvaNxoWFtqMmi-ZsnEGEWLyTen-1PcFiwqmOBEDdA2Bm4NzFKD-TDXjhuG3e7uKnQ0zqZhi8wQIDft34vQCWtH1diJyyQZvVUQhczt9vEuHYtoxJ3Gi7pHK8HONj47luWPosGLQpyPC5T2PfP3NbGwe_c16iS8OYJQdl3kAK7Xu9_Hgx1RwHhh6AAA.webp",
+   "link": "https://www.yahoo.com/news/us/articles/over-500-reports-heated-throw-191130665.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTON8oMNF6DzNiiMYlsVlrpmo1oIqKHtEUZGSIJTvZOzS4VgSmHi1_mFMba&s",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 21,
+   "title": "Heated Sherpa Throws and Blankets Recalled; The electrical cord ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/USCPSC/posts/recall-heated-sherpa-throws-and-blankets-recalled-the-electrical-cord-on-the-rec/1756331256537980/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJhQ-7cxWJzJfY_e2sR5CU9XDK55bhmOEvNKWXPC9IXDTvtjjtf4etnSL2&s",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 22,
+   "title": "U.S. - #Recall: Heated Sherpa Throws and Blankets ... - Facebook",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/USCPSC/photos/recall-heated-sherpa-throws-and-blankets-recalled-the-electrical-cord-on-the-rec/1756331229871316/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJhQ-7cxWJzJfY_e2sR5CU9XDK55bhmOEvNKWXPC9IXDTvtjjtf4etnSL2&s",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 23,
+   "title": "Over 500 reports of heated throw blankets melting, sparking, and ...",
+   "source": "AOL.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz_1Cb_0yf90Sb_0yf_0yf_1Sf_2CjnvyOmiRnYsyG3mBzuxSTFox4BAQCJchU9MglURg1nVg8oIQZmRslgAAAABnRSTlMAGrn9_7TGuOPGAAAAw0lEQVR4AcWSBRLEIAwA0QTSkNr__3qp92pjJ4uzg2OMdT5c4KNVF26xJt5LZ_y99CY88FUJCHM5VQA2iSnT2JeqTB4Cc1olFBGpMYRalIawFfGrbERhHJ3iu01CEulFKtb-TK1mO4lZjUiXNCGSSL2XOqsO6MteBoBBAstEHuZepiUileOsI13ebUhBleOsnDTncbs9Ia0SSikISKVwoFxXHgJwUUDleHdzDogYFJgq_3jP5w_m7mV8_tTGRn85p7PmBUbAE1RDzShsAAAAAElFTkSuQmCC.png",
+   "link": "https://www.aol.com/articles/over-500-reports-heated-throw-191130000.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQoGr7c_RMCLavdfSJzI6ZgMas8lqWQZDrJUcFq02TY6_FY0DtcFBajdL&s",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 24,
+   "title": "Nationwide recall issued for 5 products sold on Amazon, Walmart",
+   "source": "MassLive.com",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgAAABXRUJQVlA4IKwAAABwAgCdASoQABAAAsBMJbACdFKATiWDHbIMGj_IAP70DLgAgKnXtfORjCIcL4OSEDP_fP_n79gRcFw-fQ2xfJ-JTmrpa-KKgR8NWYz84231LG2aSM51PT8JPffwuz2cdZynCBIstLEal0RgjqeeY_2GbXZhEfTH6Lgzsaest64pkyLeBw_auf-_fRj9k-u4PAHvn1vokv_Ne_7ztV-woDMprt3MfzAfuL9rMAAA.webp",
+   "link": "https://www.masslive.com/news/2026/08/check-your-home-nationwide-recall-issued-for-5-products-sold-on-amazon-walmart.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1K1RkTKzj6nFifZV9PyUBMf7Ia5T9s0opqyl0Zo3SXRcfz8QXCI4iMvO&s",
+   "date": "Aug 3, 2026",
+   "actual_image_width": 500,
+   "actual_image_height": 363
+  },
+  {
+   "position": 25,
+   "title": "Over 500 reports of heated throw blankets melting, sparking, and ...",
+   "source": "ABC27",
+   "source_icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAADwBACdASocABAAAsBMJbAC7MoGv_2R1XAGQCmT-MH6F9gDoum31KISoai35a7tQAAA_vhD18ZMXWBGy--Gbw0EfAzQ8aHyzBnX0bolpHxufgLCjRMc698cvJhJxM7v4nJxMdn1rcPtS0rjbng7j33FfbPF1iJXL3VIUhSJrr1_jVhs0WIGOyjZS38ZtSx-bY94I4pS1JClzJE-VfMtT8mR-m9k_2Jz9o0__K8QmqPxP0o_jftDj4uKRvlDNTUHAUytqu0R1twK7hAnzJ_Fj5rFQyTK6trWufjZ6GnWYthE-EEKdw05SYn34cxSmXE_752CMCuCsoTES9_JuZ3_3LzzHD4ZxW_f6QRiv4-ozDX5wXxPi4ArAVs9Oc8OJNLCFNOek1mw0alY0bSl61meY99i-AAAAA.webp",
+   "link": "https://www.abc27.com/news/over-500-reports-of-heated-throw-blankets-melting-sparking-and-smoking-leads-to-recall/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSFlIranvXp_vVwrbo_1X_aeUJ7Wha0sEhcOn-zwWW0iSeeUzhXrJpHsP1&s",
+   "date": "Jul 30, 2026",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 26,
+   "title": "Hazard: The electrical cord on the recalled throws and blankets can ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/TempeFire/posts/hazardthe-electrical-cord-on-the-recalled-throws-and-blankets-can-detach-and-ign/1515568230605633/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJhQ-7cxWJzJfY_e2sR5CU9XDK55bhmOEvNKWXPC9IXDTvtjjtf4etnSL2&s",
+   "date": "Sep 30, 2026",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 27,
+   "title": "Amazon How Safe Are Heated Blankets Heated Sherpa Throws And ...",
+   "source": "apnknurow.pl",
+   "source_icon": "https://serpapi.com/images/i/UklGRrgBAABXRUJQVlA4IKwBAADwBwCdASocABwAPtE-tFooIigoFAEAGglsALsZoDbQXYBvHqNBtgZAKZ142fpX2AwyI22t4TH788OrahE_a1sR8huwtlR8zoAA_vd9hNLnJlUd3Yol9-JqHGZd18B4e3E6D-Kff429V8Ctk7lhQ9Dh10JbUH7go6mWxZMTPhjh4J4ww2Ot9PWlLZQIQzeWqtAznHr2dMdEJKEbFM5e8oQmiaSIAKlHOwGvR14XaxWnAqc59yVCuZ_NXbO5a0lkyYKTtJ470mr1GPB3zZ_NBVsLdSn-t4rX4gzwK6XDSYvk3IJCSX2A9QtSvJml484HBp1tpHI9_TjayMmafJenq4vL8-f4TWydozpEY6PTMtkrRU9nce6Ot36CgpLRjF2QfmGC2Pjr75_E0BUYjGf4Kha3ovT527RQE_SRuOgTsvSSLBnOx9Su3khdDG9R7CCx_Z9cmqgMfLGecWStK7q6X4YJq_j_mVTXgsE15kqvv5N1xRnAcpN9QDaQ_LNGs_OIrQknk42YUIR_J9kMbDipi3BCMV9KDlK24QujZmhgOGjyMMfT63rX2hunFy2AAA.webp",
+   "link": "https://apnknurow.pl/product-similar-image/?6836793061480",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQoGr7c_RMCLavdfSJzI6ZgMas8lqWQZDrJUcFq02TY6_FY0DtcFBajdL&s",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 28,
+   "title": "K-9 Hansel-Official - Facebook",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/K9Hanselofficial/posts/1034111032744331/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJhQ-7cxWJzJfY_e2sR5CU9XDK55bhmOEvNKWXPC9IXDTvtjjtf4etnSL2&s",
+   "date": "Jul 31, 2026",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 29,
+   "title": "아마존 전기담요 17만8천개 리콜…코드 분리돼 화재·감전",
+   "source": "미주중앙일보",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAABQBACdASocABwAPrkurlcnIacnG_DgFwlsAB2poJNEhN89Z-vLl59l0VAAAP7348oWzA4eFggeptD-xo3V7eEUj73yWUCR-nGs_9w3DrsShxcfYH0diyiWxD9nCU7sMeXQX-rS71bBhEX3Y05teHbvtxit7MeXWGJpqvjWf3ai26dV_Nf8kuNaOQgAAA.webp",
+   "link": "https://www.koreadaily.com/article/20260819000450945",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0WEaWN9Tm4T8Jfy_RFIgskwfGIGyIx2xTR0fK2wJzn1kHtNI4diGlRsc&s",
+   "date": "Aug 19, 2026",
+   "actual_image_width": 566,
+   "actual_image_height": 547
+  },
+  {
+   "position": 30,
+   "title": "Chris Spiker — Reporter | Daily Voice",
+   "source": "Dailyvoice",
+   "source_icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAABwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0vr58uLwz1azOz9B6gAtTW3EmYftqq3JHVbLqByPcOBAAA_uKk6V8TzcuCaUr2lp6EyUxYTRcuC04Pfn0Cp6gbftcZd76X_k4SoPo90__9i8S-PuP3kAEO__76Af_faX_3Iih_HxL_5kzGC_4Ton5hl_-tzqf_6txif_iPzX_yF3xIfh_zBKWF4yaB_OdLLiTGrPnG9afOzP0eXWSVLBmsMUHDzdDtHQORC6uJOfLcIK36U0qMn6vjAbpHb7XKPvxkh9GUXDbaXyo1Dy1DGI__zv6RCXLf2KGRb7NIhV37PG6NtU3NWHvgPAfQ1rQt72mIs2rfg6Jmwq3DK9G5v9Uslx6x63-_zfSPx-RhLIuhe3hZvIbLSWbiSJ_g2oPoMCYgBgC7SIs-IuLB1gAA.webp",
+   "link": "https://dailyvoice.com/staff/139/chris-spiker/?page=21",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Dwh19k0SRyOuXEGfV_SZ8uLi9dqI3Teu56V4fC04DSmJ3oM1A4i7v2pK&s",
+   "actual_image_width": 200,
+   "actual_image_height": 200
+  },
+  {
+   "position": 31,
+   "title": "Shand Forensic Investigations - Facebook",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/p/Shand-Forensic-Investigations-61554922847537/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJhQ-7cxWJzJfY_e2sR5CU9XDK55bhmOEvNKWXPC9IXDTvtjjtf4etnSL2&s",
+   "actual_image_width": 1600,
+   "actual_image_height": 1600
+  },
+  {
+   "position": 32,
+   "title": "전체 | 미주중앙일보",
+   "source": "미주중앙일보",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgAAABXRUJQVlA4IIwAAABQBACdASocABwAPrkurlcnIacnG_DgFwlsAB2poJNEhN89Z-vLl59l0VAAAP7348oWzA4eFggeptD-xo3V7eEUj73yWUCR-nGs_9w3DrsShxcfYH0diyiWxD9nCU7sMeXQX-rS71bBhEX3Y05teHbvtxit7MeXWGJpqvjWf3ai26dV_Nf8kuNaOQgAAA.webp",
+   "link": "https://www.koreadaily.com/section/onload?page=610",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDPFP1pKpWbr-NdKaUYpiLmLyvu8NzBly-xQIDzvM_kYf4KSQKZ792JjwO&s",
+   "actual_image_width": 350,
+   "actual_image_height": 338
+  },
+  {
+   "position": 33,
+   "title": "Papá Noel El Corte Ingles 40 Descuento Juguetes Elcorteingles ...",
+   "source": "Annemie",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://annemie.eu/?j=38910580091860",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrhz4SG1_psOFma-5M-Jv8IEFGJJuXgdDQHMpYamMR1cQnkUVPds7NPVl&s",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 34,
+   "title": "出人命了！2死350伤！CPSC紧急通告：这三款产品立即停用召回",
+   "source": "大信法务",
+   "source_icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAACwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmYsOwdQCaQCVFeOt5WMikJGz4xqzJLW8pC63p5kGGyAAD-qvwsMY3dMfh7Qe5hWkaht_A3a667tv4uVytHwkfv8lLn76ssbXWQ3r_Wpr96ATbGOII7nEXUvIIb1H3LREC33AQraKcxVNWMpHND5JmPeWSmeTSTW9ylP-JFQb_yd66wdHrti2_N-sxbfxQ9yNDy1NSc-E9v6noflWQaILOxbufwT7-huOmwUwVpeQOb1qB358PY9gvx-sNEJelAL8z5vSCNsgEaT8jhjnjQlqJuu5N1ocRIB8GvtXrsXGDxOAAA.webp",
+   "link": "https://daxinfawu.com/overseas/1909.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSi-Xphu75wcm-hHphlTFwwNs7xEjRNi7VHhpvr_dgv8GO3etHFnq-FOV_&s",
+   "date": "Aug 6, 2026",
+   "actual_image_width": 764,
+   "actual_image_height": 738
+  },
+  {
+   "position": 35,
+   "title": "Amazon How Safe Are Heated Blankets 178K+ Amazon Heated ...",
+   "source": "بایوران",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://www.biorun.ir/product-similar-image/?6836793131920",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1K1RkTKzj6nFifZV9PyUBMf7Ia5T9s0opqyl0Zo3SXRcfz8QXCI4iMvO&s",
+   "actual_image_width": 500,
+   "actual_image_height": 363
+  },
+  {
+   "position": 36,
+   "title": "Biddeford Electric Discount Blanket Fire + Vendors Blankets Micro ...",
+   "source": "Tpk-america",
+   "link": "https://bbs.tpk-america.com/?76802c8=27_2521914_1_88",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8P4hn80n_a5YDz9JqrDfr4SAd1ay4b1n0hZHv8hwxXhiGFqUtWXpeRWJA&s",
+   "date": "Sep 16, 2026",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 37,
+   "title": "Jason Revolutionary Electric Blanket Recall 2021 - Exquisite Nearly ...",
+   "source": "Roker",
+   "link": "https://www.roker.store/?aeb=03.2521938.1.42",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1NieQo44Iu5f-NH9B56np9NcqueQ_Pv9JXrOtQ_udEr9-Qhgu61ZRRS7&s",
+   "date": "6 days ago",
+   "actual_image_width": 800,
+   "actual_image_height": 773
+  },
+  {
+   "position": 38,
+   "title": "Amazon Heated Blanket Brands 11 Cozy Heated Blankets On ...",
+   "source": "Sikarihuone",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://sikarihuone.com/?r=13772209031950",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1K1RkTKzj6nFifZV9PyUBMf7Ia5T9s0opqyl0Zo3SXRcfz8QXCI4iMvO&s",
+   "actual_image_width": 500,
+   "actual_image_height": 363
+  },
+  {
+   "position": 39,
+   "title": "Amazon Warming Blanket Battery Operated Heated Sherpa Throws ...",
+   "source": "Blumine",
+   "source_icon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAAAQBgCdASocABwAPtEutFooIagoGAEAGglsALboTkgGFmWRsSqryCIN-QaaBCoTk8O9086RCIHTDYAA_vYCWkaClVexfExr1FCCmQo-JMssIsWgJhOC5g4whXfMl_dIHLUwRauBchoVpAIGtC8NQIrQJ80ePkOKeSbRF3UAzBLFeggcoex8fiGHmFKDkAVr1crAcrckfBlihgySFw9byVBe0626avCuLP7g9mGzgv0JYAkTFYTyHyCVNX7MnDQXdHaXKixXD0YtPahsLS_bXqVUjQB-o7Fzs6cg8IjxlQ81CL0drjColxTTQ63Nq66_DRGcWUSZrrWhCnjfu-3I3G1JNrfgC-zU3_zD5Z-TCQAAAA.webp",
+   "link": "https://blumine.com.br/?t=37298750011790",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrhz4SG1_psOFma-5M-Jv8IEFGJJuXgdDQHMpYamMR1cQnkUVPds7NPVl&s",
+   "date": "Sep 4, 2026",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 40,
+   "title": "Amazon Warming Blanket Battery Operated Heated Sherpa Throws ...",
+   "source": "Businesskidspr",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.businesskidspr.com/?w=37298750041890",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrhz4SG1_psOFma-5M-Jv8IEFGJJuXgdDQHMpYamMR1cQnkUVPds7NPVl&s",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 41,
+   "title": "Amazon Heated Blanket Brands The Best Heated Blankets Of 2026 ...",
+   "source": "Orthomedhospital",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.orthomedhospital.in/product/category/view_more/13772209021170",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1K1RkTKzj6nFifZV9PyUBMf7Ia5T9s0opqyl0Zo3SXRcfz8QXCI4iMvO&s",
+   "date": "Sep 6, 2026",
+   "actual_image_width": 500,
+   "actual_image_height": 363
+  },
+  {
+   "position": 42,
+   "title": "Amazon Warming Blanket Battery Operated Baby Blanket ...",
+   "source": "Jainfinance",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://jainfinance.net/?h=37298750001310",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrhz4SG1_psOFma-5M-Jv8IEFGJJuXgdDQHMpYamMR1cQnkUVPds7NPVl&s",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 43,
+   "title": "HOT ! Hand Painted Hoodie Hand Painted Hoodie – Nut By Noran",
+   "source": "Tajinehshop",
+   "source_icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsALbdAC7K95RK8EMc8a7CQeZCS_biZ3IWRZx846aKl_XwAP74rbewJfLaRTzbLg_Fta_eQMz5ba3UUow8YYNlpbrCoUjgfX4bsne7Ap5Pf5dMuT-_-BN79xi0xQ1KaUcDL2opy06Nsj-_mff6n4Gzc_2AWfwp_co55gkgq2BdD_7GDmXFJ_s2r-9ERtTP6Ibsut82OZ_3h4ZWL2K7eaC3IlevrZ9h9luZ-bs9lWRjX2Mvr9zB2BrohpHtu6KQtVvwaSrEFdriTxsbXzQ5jdNS_uPTa0zHJf47D3yZvJzO1oFjhntk7ZuvKv1-DF5OCRF5kz5zVOt4c73SNnryHlf-354gP5r3Nbj__mWFoAAAAA.webp",
+   "link": "https://tajinehshop.com/product/review/37258424011820",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrhz4SG1_psOFma-5M-Jv8IEFGJJuXgdDQHMpYamMR1cQnkUVPds7NPVl&s",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 44,
+   "title": "Amazon Heated Blanket Brands This 'Snuggle-Approved' Heated ...",
+   "source": "Orthomedhospital",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://www.orthomedhospital.in/?t=13772209021170",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1K1RkTKzj6nFifZV9PyUBMf7Ia5T9s0opqyl0Zo3SXRcfz8QXCI4iMvO&s",
+   "date": "Sep 29, 2026",
+   "actual_image_width": 500,
+   "actual_image_height": 363
+  },
+  {
+   "position": 45,
+   "title": "Amazon Warming Blanket Battery Operated Heated Sherpa Throws ...",
+   "source": "Inksight",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://inksight.co.uk/?n=37298750011200",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrhz4SG1_psOFma-5M-Jv8IEFGJJuXgdDQHMpYamMR1cQnkUVPds7NPVl&s",
+   "date": "6 days ago",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 46,
+   "title": "Clearance Biddeford Electric Blanket Recall & More Than 178,000 ...",
+   "source": "Cfo-ready",
+   "link": "https://cfo-ready.com/?gih=28.2520305.3.85",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8P4hn80n_a5YDz9JqrDfr4SAd1ay4b1n0hZHv8hwxXhiGFqUtWXpeRWJA&s",
+   "date": "Sep 30, 2026",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 47,
+   "title": "Quilt Fabrics Handmade Baby Quilts Fawn Baby Quilt Modern Baby ...",
+   "source": "Nel",
+   "source_icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASogACAAPtEutFooIagoGAEAGgljALfY5mpA9xL1VX_6p1oGWicJQD_caAOBkvC8Hw3atq4-FAAA_vylaHcJf4cfvjNP2uJ1hmN0hkvZxqia_xMhNWGGMpNfRG8iXXJMEE-fisAz4bTDzE1qnTqrUliEvXnQyOpIiYSwoMaRnqznpbKtm0rLfM9nnh_RIaQoLYxQ2rTdPBwbO1maNCZxyZnpJFfolWpKSJhifXr1i-FGJH2ESrbUQ_SgunQnIBH8WkWCiKOWImNRkVpI2sV5XjFFRUs4EFQGgoDSNxgAXxsaUcML-t58F4u6rQ0lzavEqCFqh4Cm18vOfH55NMVVgyzPLJEig-E0Be4FZFN3MXlHQAAA.webp",
+   "link": "https://nel.org.au/?r=38918812021000",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrhz4SG1_psOFma-5M-Jv8IEFGJJuXgdDQHMpYamMR1cQnkUVPds7NPVl&s",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 48,
+   "title": "Nearly 180000 Shop Heated Blankets Recalled Due To Risk Of Fire",
+   "source": "Shahfinance",
+   "link": "https://www.shahfinance.online/?dcd=27.2522583.2.32",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1NieQo44Iu5f-NH9B56np9NcqueQ_Pv9JXrOtQ_udEr9-Qhgu61ZRRS7&s",
+   "date": "Sep 26, 2026",
+   "actual_image_width": 800,
+   "actual_image_height": 773
+  },
+  {
+   "position": 49,
+   "title": "Unique Baby Girl Crib Bedding Sets Cars Are Parked On The Street ...",
+   "source": "bloemenverlinde.be",
+   "source_icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+   "link": "https://bloemenverlinde.be/shop/manufacturer-site?&transition=top34013096012910",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrhz4SG1_psOFma-5M-Jv8IEFGJJuXgdDQHMpYamMR1cQnkUVPds7NPVl&s",
+   "actual_image_width": 382,
+   "actual_image_height": 369
+  },
+  {
+   "position": 50,
+   "title": "Jason Electric Blanket Sales Recall 2021 Fine Anti-Bacterial White ...",
+   "source": "Graciabueno",
+   "link": "https://web.graciabueno.com/?c005670=03_2521938_1_45",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG1NieQo44Iu5f-NH9B56np9NcqueQ_Pv9JXrOtQ_udEr9-Qhgu61ZRRS7&s",
+   "date": "Sep 21, 2026",
+   "actual_image_width": 800,
+   "actual_image_height": 773
+  }
+ ]
+}

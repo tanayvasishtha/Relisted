@@ -1,0 +1,315 @@
+{
+ "search_metadata": {
+  "id": "6ac81a11ec900d68f585ee41",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/ApSi_OduNyTlx8q7zjbDaDX6sq1ctFw25JnM1LZtg2k/6ac81a11ec900d68f585ee41.json",
+  "markdown_endpoint": "https://serpapi.com/searches/ApSi_OduNyTlx8q7zjbDaDX6sq1ctFw25JnM1LZtg2k/6ac81a11ec900d68f585ee41.md",
+  "created_at": "2026-10-08 22:32:49 UTC",
+  "processed_at": "2026-10-08 22:32:49 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2Fyeryork.png%3FVersionId%3D7esaqmvS0uQhJAzQ1Zo.fKYSGQy8N_1w",
+  "raw_html_file": "https://serpapi.com/searches/ApSi_OduNyTlx8q7zjbDaDX6sq1ctFw25JnM1LZtg2k/6ac81a11ec900d68f585ee41.html",
+  "total_time_taken": 4.59
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/yeryork.png?VersionId=7esaqmvS0uQhJAzQ1Zo.fKYSGQy8N_1w",
+  "type": "exact_matches"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Electric Pressure Washer, 4500 PSI 2.8 GPM Power ...",
+   "link": "https://www.amazon.ae/Electric-Anti-Tipping-Technology-Stainless-Driveways/dp/B0DMCZ2ZFW",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFcLyEFKnkKYcT6EkN-BE2HIW9Ww8WVMi6IdJc7Of8cyQfRdVnaVHq4w0TY2rqqEtlvI56UCn1LGg-x_TYH2kEzP4Y7z7Rrvnb9S3zDh-BYdH0M910e6i65MJlyUt4H5sRwrzDPK0huLhOzpk6JZRGfCo24Hef4ycJpkPhoKrwu7iiv7xn4RCYttrVgRaWqs&ved=2ahUKEwiV0eT_vKuXAxXn7ckDHSVNEqoQFnoECCgQAQ&uoh=1",
+   "displayed_link": "https://www.amazon.ae › Electric-Anti-Tipping-Technol...",
+   "thumbnail": "https://serpapi.com/searches/6ac81a11ec900d68f585ee41/images/xt6XZ-WB1dFG9vZDGXFr54JAAurAf52rlw0p_2sGneA.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "【Anti-Tipping & Lockable Wheels】Designed for maximum stability and smooth maneuverability, this electric power washer features four 360° rotating wheels for ...",
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 2.5,
+      "reviews": 2
+     },
+     "extensions": [
+      "2.5(2)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "【Anti-Tipping & Lockable Wheels】Designed for maximum stability and smooth maneuverability, this electric power washer features four 360° rotating wheels for ...",
+     "source_info_link": "https://www.amazon.ae/Electric-Anti-Tipping-Technology-Stainless-Driveways/dp/B0DMCZ2ZFW",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZjTHlFRktua0tZY1Q2RWtOLUJFMkhJVzlXdzhXVk1pNklkSmM3T2Y4Y3lRZlJkVm5hVkhxNHcwVFkycnFxRXRsdkk1NlVDbjFMR2cteF9UWUgya0V6UDRZN3o3UnJ2bmI5UzN6RGgtQllkSDBNOTEwZTZpNjVNSmx5VXQ0SDVzUndyekRQSzBodUxoT3pwazZKWlJHZkNvMjRIZWY0eWNKcGtQaG9Lcnd1N2lpdjd4bjRSQ1l0dHJWZ1JhV3FzEgQaAggAGiISABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZjTHlFRktua0tZY1Q2RWtOLUJFMkhJVzlXdzhXVk1pNklkSmM3T2Y4Y3lRZlJkVm5hVkhxNHcwVFkycnFxRXRsdkk1NlVDbjFMR2cteF9UWUgya0V6UDRZN3o3UnJ2bmI5UzN6RGgtQllkSDBNOTEwZTZpNjVNSmx5VXQ0SDVzUndyekRQSzBodUxoT3pwazZKWlJHZkNvMjRIZWY0eWNKcGtQaG9Lcnd1N2lpdjd4bjRSQ1l0dHJWZ1JhV3FzEgQaAggAGiISABoCCAEiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Amazon.ae",
+   "read_more_link": "https://www.amazon.ae/Electric-Anti-Tipping-Technology-Stainless-Driveways/dp/B0DMCZ2ZFW#:~:text=%E3%80%90Anti%2DTipping%20%26%20Lockable%20Wheels%E3%80%91Designed%20for,effortless%20movement%20on%20any%20surface."
+  },
+  {
+   "position": 2,
+   "title": "1900PSI Electric Pressure Washer",
+   "link": "https://yeryork.com/products/3500psi-electric-pressure-washer-ye006?srsltid=AU7gw4WS0qib3j5V14QLsLdcCB4GSBCsrAChePWW_e6fsj8XwR5x1Kvi",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwAEB6zswFfU_Cu39cAFVZc39zv0C2fwTjgqH5X8kRmudlzca2SqtUggaDIUAqx3WHoey-Ax5ttDlcc-rsVivbpVvO1AJIVVXdAB_g5DgqvfiAgYn7uVIamznXMTaifO2scGQKls-mA1h_0BHt-gDj0Z7TsD_JlFNCTGJhXWFQZFBoNEgi75OboLdwe3JMkfxerkEn9diDXUr5KKnj-1eQGenWaGDecqFpKf3zdWbXF-bV0qZVSkjz6aRS_hqBZE8MEQ&ved=2ahUKEwiV0eT_vKuXAxXn7ckDHSVNEqoQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://yeryork.com › products",
+   "thumbnail": "https://serpapi.com/searches/6ac81a11ec900d68f585ee41/images/xt6XZ-WB1dFG9vZDGXFr59Bn3X35NvJBhNNDkkmFHXg.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAABQBACdASocABwAPtEutFooIagoGAEAGglAAAudUn_yoELHnoi4Jid4ZIJgAP7ug0ALQbbMSiYxvQFfJdilBzGc5HamrOBopqJFz9CqcKYUMT_8yr9RnkEAE05JwwJeI1s5fKUfNTnUbFMAp-owpjzh_8OTcvKtGWWvUvYLwPCF85qV25hw4G2v-IOv_JBwvPkCEOhdoHPug1Xv7r-d3gCsoLL6pIjDajhfBPxwAAA.webp",
+   "snippet": "Features. [Powerful Cleaning Performance] - Tackle tough cleaning jobs with the 1900 PSI electric pressure washer, delivering up to 2.4 GPM of high-pressure ...",
+   "snippet_highlighted_words": [
+    "1900 PSI electric pressure washer"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.8,
+      "reviews": 4,
+      "price": 119.99,
+      "currency": "$"
+     },
+     "extensions": [
+      "4.8(4)",
+      "$119.99",
+      "Out of stock"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Features. [Powerful Cleaning Performance] - Tackle tough cleaning jobs with the 1900 PSI electric pressure washer, delivering up to 2.4 GPM of high-pressure ...",
+     "source_info_link": "https://yeryork.com/products/3500psi-electric-pressure-washer-ye006?srsltid=AU7gw4WS0qib3j5V14QLsLdcCB4GSBCsrAChePWW_e6fsj8XwR5x1Kvi",
+     "icon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAABQBACdASocABwAPtEutFooIagoGAEAGglAAAudUn_yoELHnoi4Jid4ZIJgAP7ug0ALQbbMSiYxvQFfJdilBzGc5HamrOBopqJFz9CqcKYUMT_8yr9RnkEAE05JwwJeI1s5fKUfNTnUbFMAp-owpjzh_8OTcvKtGWWvUvYLwPCF85qV25hw4G2v-IOv_JBwvPkCEOhdoHPug1Xv7r-d3gCsoLL6pIjDajhfBPxwAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0ZmVV9DdTM5Y0FGVlpjMzl6djBDMmZ3VGpncUg1WDhrUm11ZGx6Y2EyU3F0VWdnYURJVUFxeDNXSG9leS1BeDV0dERsY2MtcnNWaXZicFZ2TzFBSklWVlhkQUJfZzVEZ3F2ZmlBZ1luN3VWSWFtem5YTVRhaWZPMnNjR1FLbHMtbUExaF8wQkh0LWdEajBaN1RzRF9KbEZOQ1RHSmhYV0ZRWkZCb05FZ2k3NU9ib0xkd2UzSk1rZnhlcmtFbjlkaURYVXI1S0tuai0xZVFHZW5XYUdEZWNxRnBLZjN6ZFdiWEYtYlYwcVpWU2tqejZhUlNfaHFCWkU4TUVREgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0ZmVV9DdTM5Y0FGVlpjMzl6djBDMmZ3VGpncUg1WDhrUm11ZGx6Y2EyU3F0VWdnYURJVUFxeDNXSG9leS1BeDV0dERsY2MtcnNWaXZicFZ2TzFBSklWVlhkQUJfZzVEZ3F2ZmlBZ1luN3VWSWFtem5YTVRhaWZPMnNjR1FLbHMtbUExaF8wQkh0LWdEajBaN1RzRF9KbEZOQ1RHSmhYV0ZRWkZCb05FZ2k3NU9ib0xkd2UzSk1rZnhlcmtFbjlkaURYVXI1S0tuai0xZVFHZW5XYUdEZWNxRnBLZjN6ZFdiWEYtYlYwcVpWU2tqejZhUlNfaHFCWkU4TUVREgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Yeryork",
+   "read_more_link": "https://yeryork.com/products/3500psi-electric-pressure-washer-ye006?srsltid=AU7gw4WS0qib3j5V14QLsLdcCB4GSBCsrAChePWW_e6fsj8XwR5x1Kvi#:~:text=Features,and%20stubborn%20dirt%20with%20ease."
+  },
+  {
+   "position": 3,
+   "title": "Pressure Washers Recalled Due to Serious Risk of Injury ...",
+   "link": "https://www.cpsc.gov/Recalls/2026/Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-YERYORK",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES3QEB6zswFQK1B_cy4prbGqWJY_AibNZWPIDdLz9fhq87cPlHezfH-cjN881u85wzZAu9O_LXFeHk-q0-i9s4KFf4-zDz2bBB7DCrFIyDDZCOKsjgwDJmns011IJKePII1y_0Typ0VFV8yTOD3AVVlNsiQWLX5w4T0phsvJseX_EMIrvwlzeXh45uvxDRcu3cu6bVJ4QwWyho1zYZD7RicYPb6_wTJJ6Yp7oZYpkGg7pzWhW3c6xeRfny5RNE9BOQ8sn7uK9YiRLSDp6YSj5h_J9UmQd4mjhEKcX1WmhAxQ&ved=2ahUKEwiV0eT_vKuXAxXn7ckDHSVNEqoQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://www.cpsc.gov › Recalls › Pressure-Washers-Recal...",
+   "thumbnail": "https://serpapi.com/searches/6ac81a11ec900d68f585ee41/images/xt6XZ-WB1dFG9vZDGXFr5wsC5oQMc75FVi1d5EbhzOo.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "snippet": "The recalled pressure washers lack an integral ground-fault circuit-interrupter (GFCI) and an adequate-length power cord, posing serious risks of injury or ...",
+   "snippet_highlighted_words": [
+    "lack an integral ground-fault circuit-interrupter (GFCI"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The recalled pressure washers lack an integral ground-fault circuit-interrupter (GFCI) and an adequate-length power cord, posing serious risks of injury or ...",
+     "source_info_link": "https://www.cpsc.gov/Recalls/2026/Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-YERYORK",
+     "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZRSzFCX2N5NHByYkdxV0pZX0FpYk5aV1BJRGRMejlmaHE4N2NQbEhlemZILWNqTjg4MXU4NXd6WkF1OU9fTFhGZUhrLXEwLWk5czRLRmY0LXpEejJiQkI3RENyRkl5RERaQ09Lc2pnd0RKbW5zMDExSUpLZVBJSTF5XzBUeXAwVkZWOHlUT0QzQVZWbE5zaVFXTFg1dzRUMHBoc3ZKc2VYX0VNSXJ2d2x6ZVhoNDV1dnhEUmN1M2N1NmJWSjRRd1d5aG8xellaRDdSaWNZUGI2X3dUSko2WXA3b1pZcGtHZzdweldoVzNjNnhlUmZueTVSTkU5Qk9ROHNuN3VLOVlpUkxTRHA2WVNqNWhfSjlVbVFkNG1qaEVLY1gxV21oQXhREgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZRSzFCX2N5NHByYkdxV0pZX0FpYk5aV1BJRGRMejlmaHE4N2NQbEhlemZILWNqTjg4MXU4NXd6WkF1OU9fTFhGZUhrLXEwLWk5czRLRmY0LXpEejJiQkI3RENyRkl5RERaQ09Lc2pnd0RKbW5zMDExSUpLZVBJSTF5XzBUeXAwVkZWOHlUT0QzQVZWbE5zaVFXTFg1dzRUMHBoc3ZKc2VYX0VNSXJ2d2x6ZVhoNDV1dnhEUmN1M2N1NmJWSjRRd1d5aG8xellaRDdSaWNZUGI2X3dUSko2WXA3b1pZcGtHZzdweldoVzNjNnhlUmZueTVSTkU5Qk9ROHNuN3VLOVlpUkxTRHA2WVNqNWhfSjlVbVFkNG1qaEVLY1gxV21oQXhREgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "CPSC.gov",
+   "read_more_link": "https://www.cpsc.gov/Recalls/2026/Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-YERYORK#:~:text=The%20recalled%20pressure%20washers%20lack,from%20shock%20and%20electrocution%20hazards."
+  },
+  {
+   "position": 4,
+   "title": "IMPORTANT SAFETY RECALL INFORMATION",
+   "link": "https://yeryork.com/pages/yeryork-product-recall?srsltid=AU7gw4XjZl0tLM1MM8rlFpanqNN1MV2SxCe34eZgLmKqneAXBp7MF3Rv",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFZ7YP1EaZcvfCpYbcsg2QYtsK_nUpktvXAv7HwHIZeNwnhTZDyS53eT5RsedF6sZsP-rx5pVZ2GrGqrni7fEYar7R9L8NorH3dRAk91NxDgctI8xc2_Z_0IdfkU-25Ph1sUEDhtBgr55KyPVFjQ-F9Kys_kWShtvkXyXHAidmZWdFItS0mWvNBC6Z7CDHXjNzSDA0gmJQtAwYMeLj2Yx_TaR9_Wbg1Qa&ved=2ahUKEwiV0eT_vKuXAxXn7ckDHSVNEqoQFnoECCcQAQ&uoh=1",
+   "displayed_link": "https://yeryork.com › pages › yeryork-product-recall",
+   "thumbnail": "https://serpapi.com/searches/6ac81a11ec900d68f585ee41/images/xt6XZ-WB1dFG9vZDGXFr5548uNBvuLo3a3Q07WW8UMQ.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAABQBACdASocABwAPtEutFooIagoGAEAGglAAAudUn_yoELHnoi4Jid4ZIJgAP7ug0ALQbbMSiYxvQFfJdilBzGc5HamrOBopqJFz9CqcKYUMT_8yr9RnkEAE05JwwJeI1s5fKUfNTnUbFMAp-owpjzh_8OTcvKtGWWvUvYLwPCF85qV25hw4G2v-IOv_JBwvPkCEOhdoHPug1Xv7r-d3gCsoLL6pIjDajhfBPxwAAA.webp",
+   "snippet": "Lanzhou Xinshi Mingchen Information Technology Co., Ltd., dba YERYORK, in cooperation with the U.S. Consumer Product Safety Commission, is voluntarily recalling ...",
+   "snippet_highlighted_words": [
+    "Lanzhou Xinshi Mingchen Information Technology Co., Ltd., dba YERYORK"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lanzhou Xinshi Mingchen Information Technology Co., Ltd., dba YERYORK, in cooperation with the U.S. Consumer Product Safety Commission, is voluntarily recalling ...",
+     "source_info_link": "https://yeryork.com/pages/yeryork-product-recall?srsltid=AU7gw4XjZl0tLM1MM8rlFpanqNN1MV2SxCe34eZgLmKqneAXBp7MF3Rv",
+     "icon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAABQBACdASocABwAPtEutFooIagoGAEAGglAAAudUn_yoELHnoi4Jid4ZIJgAP7ug0ALQbbMSiYxvQFfJdilBzGc5HamrOBopqJFz9CqcKYUMT_8yr9RnkEAE05JwwJeI1s5fKUfNTnUbFMAp-owpjzh_8OTcvKtGWWvUvYLwPCF85qV25hw4G2v-IOv_JBwvPkCEOhdoHPug1Xv7r-d3gCsoLL6pIjDajhfBPxwAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CvYBL2dvdG8_dXJsPUNBRVNyQUVCNnpzd0ZaN1lQMUVhWmN2ZkNwWWJjc2cyUVl0c0tfblVwa3R2WEF2N0h3SElaZU53bmhUWkR5UzUzZVQ1UnNlZEY2c1pzUC1yeDVwVloyR3JHcXJuaTdmRVlhcjdSOUw4Tm9ySDNkUkFrOTFOeERnY3RJOHhjMl9aXzBJZGZrVS0yNVBoMXNVRURodEJncjU1S3lQVkZqUS1GOUt5c19rV1NodHZrWHlYSEFpZG1aV2RGSXRTMG1Xdk5CQzZaN0NESFhqTnpTREEwZ21KUXRBd1lNZUxqMll4X1RhUjlfV2JnMVFhEgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvYBL2dvdG8_dXJsPUNBRVNyQUVCNnpzd0ZaN1lQMUVhWmN2ZkNwWWJjc2cyUVl0c0tfblVwa3R2WEF2N0h3SElaZU53bmhUWkR5UzUzZVQ1UnNlZEY2c1pzUC1yeDVwVloyR3JHcXJuaTdmRVlhcjdSOUw4Tm9ySDNkUkFrOTFOeERnY3RJOHhjMl9aXzBJZGZrVS0yNVBoMXNVRURodEJncjU1S3lQVkZqUS1GOUt5c19rV1NodHZrWHlYSEFpZG1aV2RGSXRTMG1Xdk5CQzZaN0NESFhqTnpTREEwZ21KUXRBd1lNZUxqMll4X1RhUjlfV2JnMVFhEgQaAggAGiQSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Yeryork",
+   "read_more_link": "https://yeryork.com/pages/yeryork-product-recall?srsltid=AU7gw4XjZl0tLM1MM8rlFpanqNN1MV2SxCe34eZgLmKqneAXBp7MF3Rv#:~:text=Lanzhou%20Xinshi%20Mingchen%20Information%20Technology,March%202025%20through%20June%202026."
+  },
+  {
+   "position": 5,
+   "title": "YERYORK YE-006 Pressure Washers Without GFCI ...",
+   "link": "https://www.thecraftycatsman.com/news/yeryork-pressure-washer-recall-2026/",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFc2fd9DICnwnvjh6-aimmZ6zZ4GJ22HC2_IIYj7uMq2EIjgZvKSwH5q3HM0p8ASW3lzr7UQeE3cLpwYdIURpl24IfrHGiT041ft7eH5Eo8b8-WSN1byHovE8bmwYt2-GgO57vwlGOKMcfD56Q1Ip1It61b5KVhxjppKybq53XN2x&ved=2ahUKEwiV0eT_vKuXAxXn7ckDHSVNEqoQFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://www.thecraftycatsman.com › news › yeryork-pres...",
+   "thumbnail": "https://serpapi.com/searches/6ac81a11ec900d68f585ee41/images/xt6XZ-WB1dFG9vZDGXFr54tTrgVr4O9MtSQoQdP3a6k.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBgCdASogACAAPtEutFooIagoGAEAGglAGM_lgwwUyryVouAKjrwk5AFQDhsyzqgchJ5Zo9FXhQAA_vYS-i5Bvng1enOuEEfGuY46piYn7UOxV6Ffr2vc3coFA0_L6NpqWGuKWnSd5UpouDFgMlS4gzhTEa9Ef4rW6baRMOsxX2Hj1Pj_-te4b92ou3Kg_ehcfu-QQ5E2YhWSD7wNBsIT0EcdhZSS_y6Qd6D3aQviudSK3buHC1MBHW1-oHyGHaDiPJcgY4nmMvL9rPxgTjmcpLLvznSDv5TZ-EYvFU11LZLk6hZr3SEywZ0sK245O5O7HKf-E0VLxZJfyHjV-QasvI67uvs03HJwAA.webp",
+   "date": "Sep 1, 2026",
+   "snippet": "CPSC recall 26-725 covers about 300 YERYORK YE-006 pressure washers that lack integral GFCI protection. Stop using and unplug the washer now ...",
+   "snippet_highlighted_words": [
+    "about 300 YERYORK YE-006 pressure washers"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "CPSC recall 26-725 covers about 300 YERYORK YE-006 pressure washers that lack integral GFCI protection. Stop using and unplug the washer now ...",
+     "source_info_link": "https://www.thecraftycatsman.com/news/yeryork-pressure-washer-recall-2026/",
+     "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBgCdASogACAAPtEutFooIagoGAEAGglAGM_lgwwUyryVouAKjrwk5AFQDhsyzqgchJ5Zo9FXhQAA_vYS-i5Bvng1enOuEEfGuY46piYn7UOxV6Ffr2vc3coFA0_L6NpqWGuKWnSd5UpouDFgMlS4gzhTEa9Ef4rW6baRMOsxX2Hj1Pj_-te4b92ou3Kg_ehcfu-QQ5E2YhWSD7wNBsIT0EcdhZSS_y6Qd6D3aQviudSK3buHC1MBHW1-oHyGHaDiPJcgY4nmMvL9rPxgTjmcpLLvznSDv5TZ-EYvFU11LZLk6hZr3SEywZ0sK245O5O7HKf-E0VLxZJfyHjV-QasvI67uvs03HJwAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZjMmZkOURJQ253bnZqaDYtYWltbVo2elo0R0oyMkhDMl9JSVlqN3VNcTJFSWpnWnZLU3dINXEzSE0wcDhBU1czbHpyN1VRZUUzY0xwd1lkSVVScGwyNElmckhHaVQwNDFmdDdlSDVFbzhiOC1XU04xYnlIb3ZFOGJtd1l0Mi1HZ081N3Z3bEdPS01jZkQ1NlExSXAxSXQ2MWI1S1ZoeGpwcEt5YnE1M1hOMngSBBoCCAAaIhIAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZjMmZkOURJQ253bnZqaDYtYWltbVo2elo0R0oyMkhDMl9JSVlqN3VNcTJFSWpnWnZLU3dINXEzSE0wcDhBU1czbHpyN1VRZUUzY0xwd1lkSVVScGwyNElmckhHaVQwNDFmdDdlSDVFbzhiOC1XU04xYnlIb3ZFOGJtd1l0Mi1HZ081N3Z3bEdPS01jZkQ1NlExSXAxSXQ2MWI1S1ZoeGpwcEt5YnE1M1hOMngSBBoCCAAaIhIAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "The Crafty Catsman",
+   "read_more_link": "https://www.thecraftycatsman.com/news/yeryork-pressure-washer-recall-2026/#:~:text=CPSC%20recall%2026%2D725%20covers%20about,YERYORK%20through%20the%20official%20recall."
+  },
+  {
+   "position": 6,
+   "title": "Yeryork Pressure Washer",
+   "link": "https://www.amazon.com/yeryork-pressure-washer/s?k=yeryork+pressure+washer",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFcK4J5lzBHg_lzL1JlS8C2rTFQId1bWkMXr3DpxZegsStqP1OyldLhN4yRCWHvp8pW7Zfn4i4bAMV1x7iPxFR2RMoLVB1ez3xyUc67u8K7_zAKDyrCaZ9PB9ZTf_t4nTnrv7w14yu8nQ2N2nPX8G3T9lxl_-t3YwBSkUggADoalC&ved=2ahUKEwiV0eT_vKuXAxXn7ckDHSVNEqoQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://www.amazon.com › yeryork-pressure-washer",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Yeryork Adjustable 5000 PSI Pressure Washer,2.5 Max GPM Power Washer with 33 FT Retractable Hose Reel, Stainless Steel Lance, 500ml Foam Cannon, ...",
+   "snippet_highlighted_words": [
+    "Yeryork Adjustable 5000 PSI Pressure Washer"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Yeryork Adjustable 5000 PSI Pressure Washer,2.5 Max GPM Power Washer with 33 FT Retractable Hose Reel, Stainless Steel Lance, 500ml Foam Cannon, ...",
+     "source_info_link": "https://www.amazon.com/yeryork-pressure-washer/s?k=yeryork+pressure+washer",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZjSzRKNWx6QkhnX2x6TDFKbFM4QzJyVEZRSWQxYldrTVhyM0RweFplZ3NTdHFQMU95bGRMaE40eVJDV0h2cDhwVzdaZm40aTRiQU1WMXg3aVB4RlIyUk1vTFZCMWV6M3h5VWM2N3U4SzdfekFLRHlyQ2FaOVBCOVpUZl90NG5UbnJ2N3cxNHl1OG5RMk4yblBYOEczVDlseGxfLXQzWXdCU2tVZ2dBRG9hbEMSBBoCCAAaIBIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZjSzRKNWx6QkhnX2x6TDFKbFM4QzJyVEZRSWQxYldrTVhyM0RweFplZ3NTdHFQMU95bGRMaE40eVJDV0h2cDhwVzdaZm40aTRiQU1WMXg3aVB4RlIyUk1vTFZCMWV6M3h5VWM2N3U4SzdfekFLRHlyQ2FaOVBCOVpUZl90NG5UbnJ2N3cxNHl1OG5RMk4yblBYOEczVDlseGxfLXQzWXdCU2tVZ2dBRG9hbEMSBBoCCAAaIBIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "Amazon.com",
+   "read_more_link": "https://www.amazon.com/yeryork-pressure-washer/s?k=yeryork+pressure+washer#:~:text=Yeryork%20Adjustable%205000%20PSI%20Pressure,Washer%20for%20Cars%2C%20Fences%2C%20Patios"
+  },
+  {
+   "position": 7,
+   "title": "YERYORK Electric Pressure Washer, 4800 PSI 3.0 GPM ...",
+   "link": "https://camelcamelcamel.com/product/B0FDWXJHCC",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVBy44RWHfhZSYkdG7cl1LytzVRy1M3JwI4jtjnMUi-FfcimPhgcFcIunsuGzPl_nEiEtTr-Aphr-c9_Mw9Aeie3LOyCqc8S0RcasZvyFeQvl2T01iu3IP33KQ9CEy8OSMZcaJMQ&ved=2ahUKEwiV0eT_vKuXAxXn7ckDHSVNEqoQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://camelcamelcamel.com › product",
+   "favicon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAACQBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0y7PcwsXXCTG3AG8XkeB7xqV-vPg2LBTXWYpJZCWUN4CbNU3j-BTSuQAAA_v0v2-GrlW4dLk7dztt_eY-dxoYnePW466POlIp1yHsFaQZ2krg6b38BCtWl_N3ep_V5eeZeL6kqOpbEbrHM9p9JXlkuLl6DeVN9gOOKl1HURbWl3Bsl7drmJzWaXNFbTEqM52c_ZQrkh-Xykzw1aL3b_Xkvx4w34pD5sm9PipV7AlEnn0XBUKuMhlCMP5Ln20F-DT79ckypBlbInbYykWfX_x0aGkFZhqnBF6tWYn7unvzV-dFzuT9iEtwnr6hLtFKI8MRx1L0mBsb6D2U0QetfgraY5382cZwAyfxTaYz-MKscxtPiHdk55nJITkLVhJS3mPXm6lnoVcNIkwge-t4wSJFYBookBheC03sAAAA.webp",
+   "snippet": "Price history and tracking for YERYORK Electric Pressure Washer, 4800 PSI 3.0 GPM Power Washer with 4 Lockable Wheels, Steel Wand, 4 Quick Connect Nozzles, ...",
+   "snippet_highlighted_words": [
+    "YERYORK Electric Pressure Washer"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Price history and tracking for YERYORK Electric Pressure Washer, 4800 PSI 3.0 GPM Power Washer with 4 Lockable Wheels, Steel Wand, 4 Quick Connect Nozzles, ...",
+     "source_info_link": "https://camelcamelcamel.com/product/B0FDWXJHCC",
+     "icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAACQBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0y7PcwsXXCTG3AG8XkeB7xqV-vPg2LBTXWYpJZCWUN4CbNU3j-BTSuQAAA_v0v2-GrlW4dLk7dztt_eY-dxoYnePW466POlIp1yHsFaQZ2krg6b38BCtWl_N3ep_V5eeZeL6kqOpbEbrHM9p9JXlkuLl6DeVN9gOOKl1HURbWl3Bsl7drmJzWaXNFbTEqM52c_ZQrkh-Xykzw1aL3b_Xkvx4w34pD5sm9PipV7AlEnn0XBUKuMhlCMP5Ln20F-DT79ckypBlbInbYykWfX_x0aGkFZhqnBF6tWYn7unvzV-dFzuT9iEtwnr6hLtFKI8MRx1L0mBsb6D2U0QetfgraY5382cZwAyfxTaYz-MKscxtPiHdk55nJITkLVhJS3mPXm6lnoVcNIkwge-t4wSJFYBookBheC03sAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkJ5NDRSV0hmaFpTWWtkRzdjbDFMeXR6VlJ5MU0zSndJNGp0am5NVWktRmZjaW1QaGdjRmNJdW5zdUd6UGxfbkVpRXRUci1BcGhyLWM5X013OUFlaWUzTE95Q3FjOFMwUmNhc1p2eUZlUXZsMlQwMWl1M0lQMzNLUTlDRXk4T1NNWmNhSk1REgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkJ5NDRSV0hmaFpTWWtkRzdjbDFMeXR6VlJ5MU0zSndJNGp0am5NVWktRmZjaW1QaGdjRmNJdW5zdUd6UGxfbkVpRXRUci1BcGhyLWM5X013OUFlaWUzTE95Q3FjOFMwUmNhc1p2eUZlUXZsMlQwMWl1M0lQMzNLUTlDRXk4T1NNWmNhSk1REgQaAggAGiISABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "CamelCamelCamel"
+  },
+  {
+   "position": 8,
+   "title": "4800 PSI Electric Pressure Washer Review | 4-Wheel Design ...",
+   "link": "https://www.youtube.com/watch?v=Wfn8WAkM2OA",
+   "displayed_link": "2.4K+ views · 6 months ago",
+   "thumbnail": "https://serpapi.com/searches/6ac81a11ec900d68f585ee41/images/xt6XZ-WB1dFG9vZDGXFr5w1MRfvoeZdNGLR6u-gfvDc.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Looking for a powerful electric pressure washer that actually gets the job done? In this video, I put a 4800 PSI pressure washer with a ...",
+   "duration": "5:00",
+   "about_this_result": {
+    "source": {
+     "description": "Looking for a powerful electric pressure washer that actually gets the job done? In this video, I put a 4800 PSI pressure washer with a ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    }
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjNDUjBTUlZJMVNpQkl5eTVZOEVSMjRraVBEVlpqcXluTTU5OFZ5MUltd3VqeTV4WjI1bE5mSHhyNXJ4WjZSSGF4cGNnNHBmTlQxQnhfTmxqZE5GUjFpcDlpb2pBQU5wY2RveXhUVHB5dVBHaEdJLWtESGFNS194aVNhLUR3WDNRSVESIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjNDUjBTUlZJMVNpQkl5eTVZOEVSMjRraVBEVlpqcXluTTU5OFZ5MUltd3VqeTV4WjI1bE5mSHhyNXJ4WjZSSGF4cGNnNHBmTlQxQnhfTmxqZE5GUjFpcDlpb2pBQU5wY2RveXhUVHB5dVBHaEdJLWtESGFNS194aVNhLUR3WDNRSVESIQoVCgQIMEgCCgQISEgCCgIIPwoDCIABEgQKAghaGgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "YouTube · DIY for Home and Life"
+  },
+  {
+   "position": 9,
+   "title": "Electric Pressure Washer",
+   "link": "https://yeryork.com/collections/electric-pressure-washer?srsltid=AU7gw4UqvYnu8sGA_yIZRnQlbNIY-WANPja7IgDOx-_H8cwBkRmcvF-j",
+   "redirect_link": "https://lens.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStAEB6zswFSDX_j5tVcbdln3rwFpo5sUcqLqquqacM9IWQ0rljc3KzklyNWoUVWWrYC365wPoyPHd-GrlZ1ixyY5CuP4_yl7Hqusss_GIWDvc9nCRCcxQdCUOS5Dc_wyXACHgAaLjCpdio31YjJ1DfXnlcxZVlpeZKVPgU1X1qty2iMhgkXgo2poE0dsNU218x4UONkAV34YNgIGmQDByMfjouwITwpzxSbIPGzTNkcEY5aEqqyo&ved=2ahUKEwiV0eT_vKuXAxXn7ckDHSVNEqoQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://yeryork.com › collections › electric-pressure-was...",
+   "thumbnail": "https://serpapi.com/searches/6ac81a11ec900d68f585ee41/images/xt6XZ-WB1dFG9vZDGXFr5xfOj1tAtkpK6cnMv2mA3rQ.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAABQBACdASocABwAPtEutFooIagoGAEAGglAAAudUn_yoELHnoi4Jid4ZIJgAP7ug0ALQbbMSiYxvQFfJdilBzGc5HamrOBopqJFz9CqcKYUMT_8yr9RnkEAE05JwwJeI1s5fKUfNTnUbFMAp-owpjzh_8OTcvKtGWWvUvYLwPCF85qV25hw4G2v-IOv_JBwvPkCEOhdoHPug1Xv7r-d3gCsoLL6pIjDajhfBPxwAAA.webp",
+   "snippet": "Tackle tough cleaning jobs like a pro with the Yeryork Electric Pressure Washer. Whether you need serious power or easy portability, the Yeryork pressure washer ...",
+   "snippet_highlighted_words": [
+    "Yeryork Electric Pressure Washer"
+   ],
+   "rich_snippet": {
+    "bottom": {
+     "extensions": [
+      "Free delivery",
+      "30-day returns"
+     ],
+     "detected_extensions": {
+      "day_returns": 30
+     }
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Tackle tough cleaning jobs like a pro with the Yeryork Electric Pressure Washer. Whether you need serious power or easy portability, the Yeryork pressure washer ...",
+     "source_info_link": "https://yeryork.com/collections/electric-pressure-washer?srsltid=AU7gw4UqvYnu8sGA_yIZRnQlbNIY-WANPja7IgDOx-_H8cwBkRmcvF-j",
+     "icon": "https://serpapi.com/images/i/UklGRroAAABXRUJQVlA4IK4AAABQBACdASocABwAPtEutFooIagoGAEAGglAAAudUn_yoELHnoi4Jid4ZIJgAP7ug0ALQbbMSiYxvQFfJdilBzGc5HamrOBopqJFz9CqcKYUMT_8yr9RnkEAE05JwwJeI1s5fKUfNTnUbFMAp-owpjzh_8OTcvKtGWWvUvYLwPCF85qV25hw4G2v-IOv_JBwvPkCEOhdoHPug1Xv7r-d3gCsoLL6pIjDajhfBPxwAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://lens.google.com/search/about-this-result?origin=www.google.com&req=CoECL2dvdG8_dXJsPUNBRVN0QUVCNnpzd0ZTRFhfajV0VmNiZGxuM3J3RnBvNXNVY3FMcXF1cWFjTTlJV1EwcmxqYzNLemtseU5Xb1VWV1dyWUMzNjV3UG95UEhkLUdybFoxaXh5WTVDdVA0X3lsN0hxdXNzc19HSVdEdmM5bkNSQ2N4UWRDVU9TNURjX3d5WEFDSGdBYUxqQ3BkaW8zMVlqSjFEZlhubGN4WlZscGVaS1ZQZ1UxWDFxdHkyaU1oZ2tYZ28ycG9FMGRzTlUyMTh4NFVPTmtBVjM0WU5nSUdtUURCeU1mam91d0lUd3B6eFNiSVBHelROa2NFWTVhRXFxeW8SBBoCCAAaIhIAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoECL2dvdG8_dXJsPUNBRVN0QUVCNnpzd0ZTRFhfajV0VmNiZGxuM3J3RnBvNXNVY3FMcXF1cWFjTTlJV1EwcmxqYzNLemtseU5Xb1VWV1dyWUMzNjV3UG95UEhkLUdybFoxaXh5WTVDdVA0X3lsN0hxdXNzc19HSVdEdmM5bkNSQ2N4UWRDVU9TNURjX3d5WEFDSGdBYUxqQ3BkaW8zMVlqSjFEZlhubGN4WlZscGVaS1ZQZ1UxWDFxdHkyaU1oZ2tYZ28ycG9FMGRzTlUyMTh4NFVPTmtBVjM0WU5nSUdtUURCeU1mam91d0lUd3B6eFNiSVBHelROa2NFWTVhRXFxeW8SBBoCCAAaIhIAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "Yeryork",
+   "read_more_link": "https://yeryork.com/collections/electric-pressure-washer?srsltid=AU7gw4UqvYnu8sGA_yIZRnQlbNIY-WANPja7IgDOx-_H8cwBkRmcvF-j#:~:text=Tackle%20tough%20cleaning%20jobs%20like,portability%2C%20the%20Yeryork%20pressure%20washer"
+  }
+ ],
+ "search_information": {
+  "images_results_state": "Fully empty"
+ },
+ "error": "Google Lens hasn't returned any results for this query."
+}
