@@ -8,7 +8,6 @@ No model is involved: every label comes from the domain, the URL path and the ti
 from __future__ import annotations
 
 import re
-from collections import Counter
 from dataclasses import dataclass
 from urllib.parse import urlparse
 
@@ -23,7 +22,8 @@ STORES: dict[str, re.Pattern[str]] = {
     "etsy": re.compile(r"/listing/"),
     "mercari": re.compile(r"/item/"),
     "mercadolibre": re.compile(r"ML[A-Z]-?\d+|/p/"),
-    "ubuy": re.compile(r"/product/"),
+    "ubuy": re.compile(r"/product[a-z]{0,3}/"),
+    "dhgate": re.compile(r"/product/|/goods/"),
     "desertcart": re.compile(r"/products/"),
     "flipkart": re.compile(r"/p/"),
     "meesho": re.compile(r"/p/"),
@@ -70,7 +70,7 @@ SOCIAL_DOMAINS = (
 SPAM_PATH = re.compile(
     r"\?productSearch|/pin/[0-9a-f]{6,}|\?goods/|[?&](?:h|r|c)=\d{6,}|/details/[0-9a-f]{6,}|/ajax/|\?shop/|"
     r"/shopdetail/|/product/category/\d+|/dp/a\d+|/category/item/|/listing/[a-z0-9-]+-p\d{8,}|"
-    r"/product-similar-image/|pictureSearch|manufacturer-site|[?&][a-z]=\d{10,}",
+    r"/product-similar-image/|pictureSearch|manufacturer-site|[?&][a-z]=\d{10,}|\d{13,}",
     re.I,
 )
 CJK = re.compile("[぀-ヿ㐀-鿿가-힯]")
@@ -83,29 +83,17 @@ US_STORES = frozenset(
     "amazon ebay walmart target etsy wayfair offerup bedbathandbeyond kmart babylist".split()
 )
 # Two-letter domain endings that are used as generic names, not countries.
-GENERIC_CC = frozenset({"io", "ai", "tv", "me", "cc", "ly", "to", "fm", "ws"})
+GENERIC_CC = frozenset(
+    "io ai tv me cc ly to fm ws la tk ml ga cf gq pw sh vc gg ac ms nu so st su tf gl gs mn bz sx".split()
+)
 # Country subdomains used by marketplaces, such as jp.mercari.com and us.shein.com.
 COUNTRY_SUBDOMAINS = frozenset({"jp", "us", "uk", "in", "de", "fr", "it", "es", "mx", "br", "ca", "au"})
 ISO_FIX = {"uk": "GB"}
 
-# Words that open listing titles but are not brands, in the languages these listings show up in.
-GENERIC = frozenset(
-    """
-    a an the new hot sale buy best top premium original official genuine upgraded latest
-    baby babies infant kids kid child children toddler boy girl boys girls
-    walker walkers andador trotteur girello tacataca lauflernhilfe gehfrei
-    foldable folding fold one touch one-touch adjustable activity center centre wheels wheel round
-    gray grey white pink blue black green purple red
-    portable multifunctional multi-function multifunction anti-roll anti-rollover
-    for with and of in to by from at on
-    las los el la le les il der die das de du mit con para pour avec und et y
-    amazon ebay walmart shein temu ubuy desertcart
-    honest best-selling entertainment large dinner plate brake
-    """.split()
+# Words that are not a brand when they open a recalled product's name.
+NOT_A_BRAND = frozenset(
+    "a an the new baby babies infant kids kid child children toddler boy girl adult".split()
 )
-BRACKET = re.compile(r"[【\[]([A-Za-z][A-Za-z0-9]{2,})[】\]]")
-FIRST_WORD = re.compile(r"^\W*([A-Za-z][A-Za-z0-9]{2,})\b")
-BRAND_KINDS = frozenset({"listing", "shop", "spam"})
 
 
 @dataclass
@@ -117,12 +105,12 @@ class Match:
     kind: str  # listing | store_page | shop | news | social | spam | other
     country: str
     price: str | None
-    brand: str | None
     thumbnail: str | None
 
     @property
     def india(self) -> bool:
-        return self.country == "IN" and self.kind in {"listing", "shop", "store_page"}
+        """A product page on a known store that sells in India. Unknown shops never count."""
+        return self.country == "IN" and self.kind == "listing"
 
     @property
     def selling(self) -> bool:
@@ -179,16 +167,6 @@ def kind_of(title: str, link: str, domain: str, has_price: bool) -> str:
     return "other"
 
 
-def brand_of(title: str) -> str | None:
-    m = BRACKET.search(title) or FIRST_WORD.search(title)
-    if not m:
-        return None
-    word = m.group(1)
-    if word.lower() in GENERIC or word.isdigit():
-        return None
-    return word.upper() if word.isupper() else word[0].upper() + word[1:].lower()
-
-
 def product_terms(product: str) -> set[str]:
     """Nouns from the recalled product name, singular and plural, used to keep unknown shops honest."""
     filler = {
@@ -225,23 +203,5 @@ def classify(item: dict, terms: set[str] | None = None) -> Match:
         kind=kind,
         country=country_of(domain),
         price=price_text,
-        brand=brand_of(title) if kind in BRAND_KINDS else None,
         thumbnail=item.get("thumbnail"),
     )
-
-
-def brand_aliases(matches: list[Match], recalled_brand: str | None = None, min_count: int = 2) -> list[dict]:
-    """Brand names on copies of the recalled photo, most copies first.
-
-    Scraped spam pages count as copies because they carry the brand name of the listing they copied.
-    `live_listings` counts only matches that are store listings.
-    """
-    pool = [m for m in matches if m.brand and m.kind in BRAND_KINDS]
-    copies = Counter(m.brand for m in pool)
-    live = Counter(m.brand for m in pool if m.selling)
-    recalled = (recalled_brand or "").lower()
-    return [
-        {"name": name, "copies": n, "live_listings": live[name], "recalled": name.lower() == recalled}
-        for name, n in copies.most_common()
-        if n >= min_count or name.lower() == recalled
-    ]

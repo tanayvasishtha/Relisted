@@ -83,20 +83,3 @@ def border_white(img: Image.Image, band: float = 0.06, level: int = 232) -> floa
 def score(url: str, caption: str = "", settings: Settings | None = None) -> PhotoScore:
     img = open_image(download(url, settings))
     return PhotoScore(url, caption, round(border_white(img), 3), *img.size)
-
-
-def dhash(img: Image.Image, size: int = 8) -> int:
-    """Difference hash: 64 bits that survive resizing and recompression."""
-    grey = img.convert("L").resize((size + 1, size))
-    px = list(grey.tobytes())
-    bits = 0
-    for row in range(size):
-        for col in range(size):
-            left = px[row * (size + 1) + col]
-            right = px[row * (size + 1) + col + 1]
-            bits = (bits << 1) | (left > right)
-    return bits
-
-
-def distance(a: int, b: int) -> int:
-    return (a ^ b).bit_count()

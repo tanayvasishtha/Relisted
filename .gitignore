@@ -12,3 +12,5 @@ submission/
 .pytest_cache/
 .ruff_cache/
 *.db
+data/*.png
+data/*.log

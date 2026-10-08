@@ -1,8 +1,6 @@
 import pytest
 
 from relisted.classify import (
-    brand_aliases,
-    brand_of,
     classify,
     country_of,
     domain_of,
@@ -47,6 +45,13 @@ def kind(title: str, link: str, price: str | None = None) -> str:
             "shop",
         ),
         ("Rocky Top Baby", "https://rockytopbaby.com/", "other"),
+        (
+            "EEMB CR1620 Battery India | Ubuy",
+            "https://www.ubuy.co.in/productuk/4Y29HM4XS-eemb-cr1620",
+            "listing",
+        ),
+        ("Best Toys For Babies", "https://www.orthomedhospital.in/product/review/19546788041170", "spam"),
+        ("Sneakers for Boys", "https://in.dhgate.com/product/sole-soft-sneakers/1111886990.html", "listing"),
     ],
 )
 def test_kind_of(title, link, expected):
@@ -86,26 +91,17 @@ def test_country_of(domain, country):
     assert country_of(domain) == country
 
 
-@pytest.mark.parametrize(
-    "title, brand",
-    [
-        ("【Uuoeebb】ベビーウォーカー 折りたたみ", "Uuoeebb"),
-        ("uuoeebb ベビーウォーカー K1018", "Uuoeebb"),
-        ("PRVAETU Foldable Baby Walker with Wheels", "PRVAETU"),
-        ("ABIOSER - Andador de bebé de altura ajustable", "ABIOSER"),
-        ("Baby Walker Foldable With 6 Adjustable Heights", None),
-        ("Las ruedas multifuncion", None),
-        ("2026 Walker", None),
-    ],
-)
-def test_brand_of(title, brand):
-    assert brand_of(title) == brand
-
-
 def test_product_terms_include_singular_and_plural():
     terms = product_terms("Wnttmt Baby Walkers")
     assert {"walker", "walkers", "wnttmt"} <= terms
     assert "baby" not in terms
+
+
+def test_an_unknown_indian_shop_is_not_counted_as_sold_in_india():
+    shop = classify(
+        {"title": "malker bike light set", "link": "https://shoptheworld.in/products/malker-bike-light-set"}
+    )
+    assert shop.kind == "shop" and shop.country == "IN" and not shop.india
 
 
 def test_india_flag_needs_an_indian_store_that_sells():
@@ -125,17 +121,3 @@ def test_unknown_shop_about_something_else_is_not_a_listing():
     }
     assert classify(item).kind == "shop"
     assert classify(item, product_terms("Wnttmt Baby Walkers")).kind == "other"
-
-
-def test_brand_aliases_count_copies_and_live_listings():
-    def match(title, link):
-        return classify({"title": title, "link": link})
-
-    matches = [
-        match("Uuoeebb Baby Walker", "https://www.amazon.de/dp/B0AAAAAAAA"),
-        match("Uuoeebb Baby Walker", "https://jp.mercari.com/item/m1"),
-        match("Uuoeebb ベビー", "https://scraper.example/pin/aabbccddee"),
-        match("Zorbo Baby Walker", "https://www.ebay.com/itm/1"),
-    ]
-    aliases = brand_aliases(matches, recalled_brand="Wnttmt")
-    assert aliases == [{"name": "Uuoeebb", "copies": 3, "live_listings": 2, "recalled": False}]

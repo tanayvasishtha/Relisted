@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pytest
 
-from relisted.recalls import SOLD_ON, normalise, priority, store_name
+from relisted.recalls import SOLD_ON, normalise, priority, store_name, title_parts
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
@@ -56,3 +56,39 @@ def test_priority_puts_marketplace_children_recalls_first(sample):
     ranked = sorted(sample.values(), key=priority, reverse=True)
     assert ranked[-1].recall_id == "10976"
     assert priority(sample["10901"]) > priority(sample["10976"])
+
+
+def test_risk_and_standard_come_from_the_title(sample):
+    walker = sample["10901"]
+    assert walker.risk == "Risk of serious injury or death from fall and entrapment hazards"
+    assert walker.standard == "Mandatory standard for infant walkers"
+    assert sample["10976"].standard is None
+    assert sample["10976"].risk == "Risk of serious injury from choking hazard"
+
+
+def test_cpsc_long_hazard_text_is_not_kept(sample):
+    """Some CPSC records carry another recall's paragraph, so the site links to the notice instead."""
+    assert not hasattr(sample["10901"], "hazard")
+    assert not hasattr(sample["10901"], "remedy")
+
+
+@pytest.mark.parametrize(
+    "title, risk, standard",
+    [
+        (
+            "Recall of Cpzzkq Baby Loungers Expanded Due to Risk Serious Injury or Death from Suffocation "
+            "Hazard; Violate Mandatory Standard for Infant Support Cushions; Sold on Amazon by CetoPMax",
+            "Risk serious injury or death from suffocation hazard",
+            "Mandatory standard for infant support cushions",
+        ),
+        (
+            "NEWDERY Power Banks Recalled Due to Fire and Burn Hazards; Risk of Serious Injury; "
+            "Sold on Amazon",
+            "Fire and burn hazards",
+            None,
+        ),
+        ("Something Recalled", "", None),
+    ],
+)
+def test_title_parts(title, risk, standard):
+    assert title_parts(title) == (risk, standard)

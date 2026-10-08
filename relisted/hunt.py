@@ -12,10 +12,13 @@ from collections import Counter
 from dataclasses import asdict, dataclass, field
 from urllib.parse import quote
 
-from .classify import GENERIC, Match, brand_aliases, classify, product_terms
+from .classify import NOT_A_BRAND, Match, classify, product_terms
 from .photos import PhotoScore, score
 from .recalls import Recall
 from .serp import SerpClient, cache_key
+
+# Lens returns at most this many exact matches for one photo, with no way to page further.
+LENS_MATCH_LIMIT = 400
 
 
 @dataclass
@@ -25,8 +28,8 @@ class Trail:
     recall_photo_url: str
     search_key: str
     matches_total: int
+    matches_capped: bool
     kinds: dict[str, int]
-    aliases: list[dict]
     countries: list[tuple[str, int]]
     stores: int
     recalled_brand: str | None
@@ -59,7 +62,7 @@ def lens_params(photo_url: str) -> dict:
 def recalled_brand(recall: Recall) -> str | None:
     """The brand as CPSC writes it: the first word of the product name, unless it is a generic word."""
     first = re.sub(r"[^A-Za-z0-9]", "", recall.product.split()[0]) if recall.product.split() else ""
-    return first if first[:1].isalpha() and first.lower() not in GENERIC else None
+    return first if first[:1].isalpha() and first.lower() not in NOT_A_BRAND else None
 
 
 def build_trail(recall: Recall, photo: PhotoScore, data: dict) -> Trail:
@@ -74,8 +77,8 @@ def build_trail(recall: Recall, photo: PhotoScore, data: dict) -> Trail:
         recall_photo_url=photo.url,
         search_key=cache_key(params),
         matches_total=len(matches),
+        matches_capped=len(matches) >= LENS_MATCH_LIMIT,
         kinds=dict(Counter(m.kind for m in matches)),
-        aliases=brand_aliases(matches, brand),
         countries=Counter(m.country for m in selling).most_common(),
         stores=len({m.domain for m in selling}),
         recalled_brand=brand,

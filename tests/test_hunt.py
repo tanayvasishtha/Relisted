@@ -28,11 +28,23 @@ def trail(walker_recall):
 
 def test_trail_totals(trail):
     assert trail.matches_total == 375
+    assert not trail.matches_capped
     assert trail.status == "ok"
     assert len(trail.selling) >= 40
     assert trail.stores >= 30
     assert sum(trail.kinds.values()) == 375
     assert trail.kinds["spam"] > trail.kinds["listing"]
+
+
+def test_a_full_page_of_matches_is_flagged_as_capped(walker_recall):
+    photo = PhotoScore(url=WALKER_URL, caption="", border_white=0.98, width=300, height=270)
+    full = {
+        "exact_matches": [{"title": f"Walker {i}", "link": f"https://shop{i}.test/p/{i}"} for i in range(400)]
+    }
+    assert build_trail(walker_recall, photo, full).matches_capped
+    assert not build_trail(
+        walker_recall, photo, {"exact_matches": full["exact_matches"][:399]}
+    ).matches_capped
 
 
 def test_recorded_walker_search_stays_valid(trail):
@@ -45,14 +57,6 @@ def test_india_hits_are_stores_that_sell_in_india(trail):
     domains = {m["domain"] for m in trail.india}
     assert "ubuy.co.in" in domains
     assert all(m["india"] and m["country"] == "IN" for m in trail.india)
-
-
-def test_new_names_found_under_the_recalled_photo(trail):
-    top = trail.aliases[0]
-    assert top["name"] == "Uuoeebb"
-    assert top["copies"] >= 10
-    assert top["live_listings"] >= 3
-    assert not any(a["recalled"] for a in trail.aliases)
 
 
 def test_recalled_brand_is_absent_from_the_live_listings(walker_recall, trail):

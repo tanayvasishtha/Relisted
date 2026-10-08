@@ -35,10 +35,9 @@ class Recall:
     title: str
     url: str
     product: str
-    hazard: str
+    risk: str
+    standard: str | None
     units: str
-    remedy: str
-    injuries: str
     sold_on: str | None
     seller: str | None
     countries: list[str] = field(default_factory=list)
@@ -50,7 +49,7 @@ class Recall:
 
     @property
     def fire(self) -> bool:
-        return bool(FIRE.search(f"{self.title} {self.hazard}"))
+        return bool(FIRE.search(self.title))
 
     @property
     def marketplace(self) -> bool:
@@ -82,14 +81,29 @@ def store_name(raw: str) -> str:
     return STORE_NAMES.get(clean.lower(), clean)
 
 
-def _names(items: list[dict] | None) -> str:
-    return "; ".join(i.get("Name", "").strip() for i in items or [] if i.get("Name"))
+def sentence_case(text: str) -> str:
+    return text[:1].upper() + text[1:].lower()
+
+
+def title_parts(title: str) -> tuple[str, str | None]:
+    """The risk and the standard violated, as the recall's own title states them.
+
+    CPSC's long hazard paragraph is not used: some records carry another recall's text.
+    The teething-toy recall 10579, for one, holds the hair-serum paragraph of recall 10578.
+    """
+    segments = [s.strip() for s in title.split(";")]
+    due = re.search(r"\bDue to\s+(.+)$", segments[0], re.I)
+    violated = next((s for s in segments[1:] if re.match(r"Violates?\s", s, re.I)), None)
+    risk = sentence_case(due.group(1)) if due else ""
+    standard = sentence_case(re.sub(r"^Violates?\s+", "", violated, flags=re.I)) if violated else None
+    return risk, standard
 
 
 def normalise(raw: dict) -> Recall:
     title = (raw.get("Title") or "").strip()
     products = raw.get("Products") or [{}]
     sold = SOLD_ON.search(title)
+    risk, standard = title_parts(title)
     return Recall(
         recall_id=str(raw.get("RecallID")),
         number=str(raw.get("RecallNumber") or ""),
@@ -97,10 +111,9 @@ def normalise(raw: dict) -> Recall:
         title=title,
         url=raw.get("URL") or "",
         product=(products[0].get("Name") or "").strip(),
-        hazard=_names(raw.get("Hazards")),
+        risk=risk,
+        standard=standard,
         units=(products[0].get("NumberOfUnits") or "").strip(),
-        remedy=_names(raw.get("Remedies")),
-        injuries=_names(raw.get("Injuries")),
         sold_on=store_name(sold.group(1)) if sold else None,
         seller=sold.group(2).strip() if sold and sold.group(2) else None,
         countries=[c.get("Country", "") for c in raw.get("ManufacturerCountries") or [] if c.get("Country")],
