@@ -107,3 +107,12 @@ def test_candidates_are_unsearched_recalls_with_listing_style_photos(client, liv
     assert [c["recall_id"] for c in client.get("/api/candidates").json()] == ["10901"]
     client.post("/api/search/10901", headers=HEADERS)
     assert client.get("/api/candidates").json() == []  # now searched
+
+
+def test_the_count_drops_at_once_after_a_paid_search(client, live, monkeypatch):
+    calls = []
+    monkeypatch.setattr(server, "account_status", lambda settings: calls.append(1) or {"searches_left": 203})
+    assert client.get("/api/status").json()["searches_left"] == 203
+    client.post("/api/search/10901", headers=HEADERS)
+    assert client.get("/api/status").json()["searches_left"] == 202
+    assert len(calls) == 1  # the new count came from local arithmetic, not a second account call

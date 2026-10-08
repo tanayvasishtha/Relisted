@@ -49,6 +49,14 @@ def require_header(x_relisted: str | None = Header(default=None)) -> None:
         raise HTTPException(403, "Missing the X-Relisted header.")
 
 
+def _count_search(paid: int) -> None:
+    """The account endpoint lags a few seconds behind a search, so subtract locally and refresh later."""
+    if _status["value"] is None:
+        _status["at"] = 0.0
+    else:
+        _status.update(at=time.monotonic(), value=_status["value"] - paid)
+
+
 @app.get("/api/status")
 def status() -> dict:
     settings = load_settings()
@@ -116,7 +124,7 @@ def search(recall_id: str) -> dict:
         trails[recall_id] = done
         store.save(trails, client.credits_used)
         stats.write(trails, settings.ledger_path)  # the home page counts must match its table
-        _status["at"] = 0.0  # the next status call shows the new count
+        _count_search(client.credits_used)
         _candidates["value"] = None  # this recall is no longer a candidate
     return {
         "recall_id": recall_id,
