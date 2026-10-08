@@ -60,7 +60,12 @@ NEWS_DOMAINS = (
     "buttondown.com which.co.uk"
 ).split()
 NEWS_TOKEN = re.compile(r"(^|[.-])(news|times|herald|tribune|gazette|radio|press)([.-]|$)")
-RECALL_WORDS = re.compile(r"\brecall(?:ed|s)?\b|safety (?:alert|notice|warning)", re.I)
+RECALL_WORDS = re.compile(
+    r"\brecall(?:ed|s)?\b|safety (?:alert|notice|warning)|\bCPSC\b|"
+    r"\bchoked\b|\bdeaths?\b|\binjur(?:y|ies|ed)\b",
+    re.I,
+)
+NEWS_PATH = re.compile(r"/(?:news|articles?|stor(?:y|ies)|blogs?|press|magazine)/", re.I)
 SOCIAL_DOMAINS = (
     "facebook.com instagram.com twitter.com x.com reddit.com youtube.com pinterest.com threads.net "
     "linkedin.com"
@@ -158,7 +163,7 @@ def kind_of(title: str, link: str, domain: str, has_price: bool) -> str:
         return "news"
     if store := store_name(domain):
         return "listing" if STORES[store].search(path) else "store_page"
-    if RECALL_WORDS.search(title):
+    if RECALL_WORDS.search(title) or NEWS_PATH.search(path):
         return "news"
     if SPAM_PATH.search(path) or (CJK.search(title) and domain.rsplit(".", 1)[-1] not in CJK_TLDS):
         return "spam"

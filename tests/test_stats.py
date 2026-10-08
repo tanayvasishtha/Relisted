@@ -25,6 +25,7 @@ def trail(
             "marketplace": marketplace,
         },
         "matches_total": matches,
+        "matches_capped": matches >= 400,
         "kinds": {"spam": spam, "listing": listings},
         "countries": countries or [["US", 3], ["GB", 2], ["XX", 5]],
         "stores": listings,
@@ -68,6 +69,7 @@ def test_headline_prefers_childrens_marketplace_recalls_without_the_recalled_nam
     assert top["recall_id"] == "fit"
     assert top["live_listings"] == 90 and top["india_listings"] == 2
     assert top["countries"] == 2 and top["listings_titled_with_recalled_brand"] == 0
+    assert top["matches_capped"] is False
 
 
 def test_headline_falls_back_to_the_most_listings(tmp_path):

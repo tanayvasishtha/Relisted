@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T04:21:10+0530",
+ "generated_at": "2026-10-09T04:30:06+0530",
  "lens_searches": 41,
  "credits_spent_this_run": 0,
  "trails": {
@@ -2946,18 +2946,18 @@
    "matches_total": 400,
    "matches_capped": true,
    "kinds": {
-    "other": 171,
-    "news": 15,
+    "other": 158,
+    "news": 30,
     "listing": 148,
     "social": 3,
-    "shop": 30,
+    "shop": 28,
     "store_page": 22,
     "spam": 11
    },
    "countries": [
     [
      "XX",
-     39
+     37
     ],
     [
      "CA",
@@ -3136,7 +3136,7 @@
      1
     ]
    ],
-   "stores": 81,
+   "stores": 79,
    "recalled_brand": "EEMB",
    "recalled_brand_listings": 132,
    "selling": [
@@ -3247,18 +3247,6 @@
      "thumbnail": "thumbs/2712839a0ecad165.jpg",
      "india": false,
      "thumbnail_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9c78B9CsucvKdPeDop3u-y-OCpWb2K9Df63ZBOBe3FXtmpfKZ2CWNrJkL&s"
-    },
-    {
-     "title": "CR1616 Battery: Advantages, Usage, and Safety Guidelines",
-     "link": "https://www.yic-electronics.com/blog/CR1616-Battery-Advantages,Usage,and-Safety-Guidelines.html",
-     "source": "YIC Electronics",
-     "domain": "yic-electronics.com",
-     "kind": "shop",
-     "country": "XX",
-     "price": null,
-     "thumbnail": "thumbs/8f1461101092f61b.jpg",
-     "india": false,
-     "thumbnail_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE5moeqPBlZEAJgpHP8NZSyQlddBGEXsfKzrOqHqjiIqGBczFb3RDtJ5iw&s"
     },
     {
      "title": "EEMB 10PCS CR1632 Battery 3V Lithium Battery Li-MnO2 Nigeria",
@@ -3547,18 +3535,6 @@
      "thumbnail": "thumbs/48998b23f746e830.jpg",
      "india": false,
      "thumbnail_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYkBAA1J4USw1qMYdK5aaeOd8XkMdv8q7OTt0Lt2X4dykltlGjX_bnJ_f&s"
-    },
-    {
-     "title": "Understanding the Rechargeability of CR2032 Battery - Ventron",
-     "link": "https://www.ventronchip.com/news/understanding-the-rechargeability-of-cr2032-button-cells.html",
-     "source": "Ventronchip",
-     "domain": "ventronchip.com",
-     "kind": "shop",
-     "country": "XX",
-     "price": null,
-     "thumbnail": "thumbs/67dd16f930a7a1e9.jpg",
-     "india": false,
-     "thumbnail_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKO8QRSEgdc5wuLRWChHcaUHQAnzfYB9Pepx7ereMTePtl676sTkDTXmP&s"
     },
     {
      "title": "Eemb 20 Pack Cr1620 Battery 3v Lithium Battery Button Coin",
@@ -5550,10 +5526,10 @@
    "matches_total": 400,
    "matches_capped": true,
    "kinds": {
-    "news": 15,
+    "news": 16,
     "shop": 43,
     "listing": 129,
-    "other": 170,
+    "other": 169,
     "social": 11,
     "spam": 13,
     "store_page": 19
@@ -8039,9 +8015,9 @@
    "matches_capped": false,
    "kinds": {
     "listing": 138,
-    "news": 8,
+    "news": 9,
     "spam": 51,
-    "other": 112,
+    "other": 111,
     "store_page": 38,
     "shop": 15,
     "social": 4
@@ -10216,10 +10192,10 @@
    "kinds": {
     "listing": 104,
     "spam": 48,
-    "other": 179,
+    "other": 178,
     "shop": 19,
     "store_page": 48,
-    "news": 2
+    "news": 3
    },
    "countries": [
     [
@@ -11949,18 +11925,18 @@
    "matches_total": 400,
    "matches_capped": true,
    "kinds": {
-    "news": 15,
-    "shop": 30,
-    "spam": 33,
+    "news": 18,
+    "spam": 32,
     "social": 43,
     "listing": 88,
-    "other": 183,
+    "shop": 29,
+    "other": 182,
     "store_page": 8
    },
    "countries": [
     [
      "XX",
-     35
+     34
     ],
     [
      "MX",
@@ -12063,22 +12039,10 @@
      1
     ]
    ],
-   "stores": 53,
+   "stores": 52,
    "recalled_brand": "AiTuiTui",
    "recalled_brand_listings": 0,
    "selling": [
-    {
-     "title": "15 children have choked on these popular teething toys from Amazon",
-     "link": "https://www.pennlive.com/news/2026/01/15-children-have-choked-on-these-popular-teething-toys-from-amazon.html",
-     "source": "PennLive.com",
-     "domain": "pennlive.com",
-     "kind": "shop",
-     "country": "XX",
-     "price": null,
-     "thumbnail": "thumbs/92db88cb3200faa0.jpg",
-     "india": false,
-     "thumbnail_src": "https://serpapi.com/searches/6ac819f971ff8cdca61ff012/images/3mzxQwnBqP04fkO7TSCMHhpPSuPZJzXFqSX3Y2BqEpg.jpeg"
-    },
     {
      "title": "Montessori Toys for Babies 6-12 12-18 Months Baby Liberia | Ubuy",
      "link": "https://www.liberia.ubuy.com/product/7A4VVEPDK-oueyes-montessori-toys-for-1-year-old-baby-toys-12-18-months-food-grade-tpe-pull-string-activity-sensory-toys-for-toddlers-travel-toys-babies-fine",
@@ -13553,11 +13517,11 @@
    "matches_total": 319,
    "matches_capped": false,
    "kinds": {
-    "news": 3,
+    "news": 4,
     "listing": 81,
     "shop": 24,
     "spam": 39,
-    "other": 77,
+    "other": 76,
     "social": 11,
     "store_page": 84
    },
@@ -15146,10 +15110,10 @@
    "matches_capped": false,
    "kinds": {
     "listing": 75,
-    "news": 21,
+    "news": 22,
     "store_page": 51,
     "social": 12,
-    "other": 12,
+    "other": 11,
     "shop": 12,
     "spam": 19
    },
@@ -16401,9 +16365,9 @@
    "matches_capped": true,
    "kinds": {
     "spam": 17,
-    "news": 11,
+    "news": 15,
     "social": 10,
-    "other": 288,
+    "other": 284,
     "listing": 8,
     "shop": 63,
     "store_page": 3
@@ -18433,11 +18397,11 @@
    "matches_capped": false,
    "kinds": {
     "shop": 18,
-    "news": 10,
+    "news": 12,
     "spam": 47,
     "listing": 43,
     "social": 33,
-    "other": 92,
+    "other": 90,
     "store_page": 27
    },
    "countries": [
@@ -20247,12 +20211,12 @@
    "matches_total": 270,
    "matches_capped": false,
    "kinds": {
-    "news": 36,
+    "news": 39,
     "social": 20,
-    "spam": 54,
+    "spam": 53,
     "listing": 47,
     "shop": 11,
-    "other": 73,
+    "other": 71,
     "store_page": 29
    },
    "countries": [
@@ -23579,9 +23543,9 @@
    "matches_total": 68,
    "matches_capped": false,
    "kinds": {
-    "news": 5,
-    "shop": 5,
-    "other": 23,
+    "news": 7,
+    "shop": 4,
+    "other": 22,
     "spam": 18,
     "social": 3,
     "listing": 8,
@@ -23594,7 +23558,7 @@
     ],
     [
      "XX",
-     3
+     2
     ],
     [
      "GB",
@@ -23613,7 +23577,7 @@
      1
     ]
    ],
-   "stores": 8,
+   "stores": 7,
    "recalled_brand": "LiKee",
    "recalled_brand_listings": 6,
    "selling": [
@@ -23640,18 +23604,6 @@
      "thumbnail": "thumbs/1c501fd1da691f71.jpg",
      "india": false,
      "thumbnail_src": "https://serpapi.com/searches/6ac819bfb7942f7b30779e1e/images/vObKR0e2asFgjIa2yWn8E_rckfDUk9iNEHhGVWyPc2Y.jpeg"
-    },
-    {
-     "title": "A chilling discovery about these colorful baby toys has led to a ...",
-     "link": "https://www.pennlive.com/news/2026/06/a-chilling-discovery-about-these-colorful-baby-toys-has-led-to-a-massive-recall.html",
-     "source": "PennLive.com",
-     "domain": "pennlive.com",
-     "kind": "shop",
-     "country": "XX",
-     "price": null,
-     "thumbnail": "thumbs/adb6a417d75b7000.jpg",
-     "india": false,
-     "thumbnail_src": "https://serpapi.com/searches/6ac819bfb7942f7b30779e1e/images/C0QZzqmHpMkXMvFWS2lH47Q6IsYwYmAzm2GMMmpyV5s.jpeg"
     },
     {
      "title": "Likee Baby Sensory Toys Montessori Pull String Learning Ropes ...",
@@ -24159,9 +24111,9 @@
    "matches_total": 39,
    "matches_capped": false,
    "kinds": {
-    "news": 5,
+    "news": 14,
     "social": 3,
-    "other": 25,
+    "other": 16,
     "store_page": 2,
     "listing": 3,
     "shop": 1
@@ -24289,11 +24241,11 @@
    "matches_total": 52,
    "matches_capped": false,
    "kinds": {
-    "news": 6,
-    "spam": 40,
-    "other": 4,
+    "news": 8,
+    "spam": 39,
     "listing": 1,
-    "shop": 1
+    "shop": 1,
+    "other": 3
    },
    "countries": [
     [
@@ -24472,12 +24424,12 @@
    "matches_total": 49,
    "matches_capped": false,
    "kinds": {
-    "news": 8,
+    "news": 9,
     "social": 5,
     "shop": 1,
     "spam": 31,
     "store_page": 2,
-    "other": 2
+    "other": 1
    },
    "countries": [
     [
@@ -24621,33 +24573,13 @@
    "matches_total": 11,
    "matches_capped": false,
    "kinds": {
-    "news": 9,
-    "shop": 1,
-    "other": 1
+    "news": 11
    },
-   "countries": [
-    [
-     "XX",
-     1
-    ]
-   ],
-   "stores": 1,
+   "countries": [],
+   "stores": 0,
    "recalled_brand": "Members",
    "recalled_brand_listings": 0,
-   "selling": [
-    {
-     "title": "Sam's Club is recalling thousands of children's pajamas, and the ...",
-     "link": "https://www.pennlive.com/news/2026/04/sams-club-is-recalling-thousands-of-childrens-pajamas-and-the-reason-is-terrifying.html",
-     "source": "PennLive.com",
-     "domain": "pennlive.com",
-     "kind": "shop",
-     "country": "XX",
-     "price": null,
-     "thumbnail": "thumbs/527f7085512a7212.jpg",
-     "india": false,
-     "thumbnail_src": "https://serpapi.com/searches/6ac81aacb77a0a6684b10e3b/images/zc4mRb0mB15BsmJi4lOzeEW825rbrrRpdl7TPmaYRlU.jpeg"
-    }
-   ],
+   "selling": [],
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_0773fc4a7440745e.json",
@@ -24704,10 +24636,10 @@
    "matches_total": 50,
    "matches_capped": false,
    "kinds": {
-    "news": 18,
-    "spam": 19,
+    "news": 20,
+    "spam": 18,
     "social": 10,
-    "other": 3
+    "other": 2
    },
    "countries": [],
    "stores": 0,
@@ -25368,8 +25300,7 @@
    "matches_total": 23,
    "matches_capped": false,
    "kinds": {
-    "news": 9,
-    "other": 14
+    "news": 23
    },
    "countries": [],
    "stores": 0,
@@ -25424,8 +25355,7 @@
    "matches_total": 7,
    "matches_capped": false,
    "kinds": {
-    "news": 4,
-    "other": 2,
+    "news": 6,
     "social": 1
    },
    "countries": [],

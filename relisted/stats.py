@@ -46,6 +46,7 @@ def headline(trails: list[dict]) -> dict | None:
         "date": top["recall"]["date"],
         "risk": top["recall"]["risk"],
         "matches": top["matches_total"],
+        "matches_capped": top["matches_capped"],
         "live_listings": len(top["selling"]),
         "stores": top["stores"],
         "countries": len(countries(top)),

@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Relisted: how it works</title>
+  <meta name="description" content="How Relisted turns a US recall notice into a list of store listings: one Google Lens search per recall, sorted by rules, with every limit stated.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Relisted: how it works">
+  <meta property="og:image" content="https://tanayvasishtha.github.io/Relisted/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to the method</a>
+  <div id="local-bar"></div>
+  <header class="site-header wrap">
+    <a class="wordmark" href="index.html">Relisted</a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="index.html">All recalls</a>
+      <a href="method.html" aria-current="page">How it works</a>
+      <a href="https://github.com/tanayvasishtha/Relisted">Source code</a>
+    </nav>
+  </header>
+
+  <main id="main" class="wrap">
+    <h1 class="display display-page">How it works</h1>
+    <div class="prose">
+      <h2>What Relisted does</h2>
+      <p>The US Consumer Product Safety Commission publishes a notice for every recall, with photos of the product. When a seller is told to stop, the same product often keeps appearing on other stores, other sites and other countries' storefronts.</p>
+      <p>Relisted takes the seller's photo from the notice, asks Google Lens which pages carry it, and sorts the answer into evidence you can open: store listings, the country each store serves, and the stores that sell in India. India has no single public recall database, and product safety sits with separate regulators, so a recall abroad does not automatically reach a seller there.</p>
+
+      <h2>From a recall to its listings</h2>
+      <ul>
+        <li><strong>Recalls.</strong> The CPSC recalls feed is public JSON and needs no key. Cost: no SerpApi search.</li>
+        <li><strong>Priority.</strong> Recalls of products sold by marketplace sellers come first, then children's products, then fire and battery hazards.</li>
+        <li><strong>Photo.</strong> We pick the notice photo with the whitest border, because seller photos sit on a white backdrop. Photos taken on a lab table are skipped: Lens finds look-alikes for those, not copies.</li>
+        <li><strong>Search.</strong> One Google Lens search through SerpApi, type <code>exact_matches</code>, on that photo. Cost: <strong>one SerpApi search</strong>. Everything after this step is free and runs on the saved answer.</li>
+        <li><strong>Sorting.</strong> Rules read each address and title and label every match, as the table below shows.</li>
+        <li><strong>Trail.</strong> Per recall: listings by country, the stores that sell in India, what was left out, and a link to the raw search result.</li>
+      </ul>
+      <p>Every search is saved to disk the first time it is paid for and never paid for twice. Without a SerpApi key the program replays the saved searches, so anyone can run the full demo offline.</p>
+
+      <h2>How matches are sorted</h2>
+    </div>
+    <div class="prose">
+      <div class="table-wrap" tabindex="0" role="region" aria-label="How matches are sorted">
+        <table class="data">
+          <thead><tr><th scope="col">Label</th><th scope="col">How a match gets it</th><th scope="col">Counts as a listing</th></tr></thead>
+          <tbody>
+            <tr><td>Store listing</td><td>A product page on a known store, judged by the shape of its address, such as <code>amazon.in/dp/…</code></td><td>Yes</td></tr>
+            <tr><td>Shop</td><td>An unknown site with a price or a product path, whose title mentions the recalled product</td><td>Yes</td></tr>
+            <tr><td>Store category page</td><td>A known store, but not a single product</td><td>No</td></tr>
+            <tr><td>News</td><td>A news site, a news or blog path, or a title about the recall, deaths or injuries</td><td>No</td></tr>
+            <tr><td>Social post</td><td>Facebook, Instagram, YouTube, Reddit and similar</td><td>No</td></tr>
+            <tr><td>Copy on an unrelated site</td><td>Address patterns used by hijacked sites that republish scraped listings, or a title in another script on an unrelated domain</td><td>No</td></tr>
+            <tr><td>Other</td><td>Everything else</td><td>No</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="prose">
+      <p>A listing counts as <strong>sold in India</strong> only when it is a product page on a known store that sells there: Amazon India, Flipkart, Desertcart India, Ubuy India, DHgate India and a few others. An unknown shop with a .in address does not count.</p>
+
+      <h2>What it cannot tell you</h2>
+      <ul>
+        <li><strong>A match is a lead, not a verdict.</strong> Lens matches the look of the photo. For a product with a distinctive shape, such as the teething toy on the home page, the matches are the same toy. For a plain-looking product, such as a pool drain cover or a coin battery, Lens also matches other brands' products. Compare the listing photo with the recall photo before you act.</li>
+        <li><strong>A listing may be gone.</strong> The results are a snapshot. A page can be out of stock, or taken down after the snapshot.</li>
+        <li><strong>Lens returns at most 400 matches</strong> for one photo and offers no further pages. Where a recall shows 400+, the true number is higher.</li>
+        <li><strong>The country comes from the store's web address.</strong> Ubuy and Desertcart run a separate storefront for each country, which is why country counts run high. A plain .com address says nothing about where a shop sells, so those listings are grouped as country not shown.</li>
+        <li><strong>The recalled name check uses the first word</strong> of the product name in the CPSC notice. A brand written as two words is matched on its first word only.</li>
+        <li><strong>CPSC's long hazard paragraph is not used.</strong> Some records carry another recall's text: the teething-toy recall holds the hair-serum paragraph of the recall filed just before it. The reason shown on each page comes from the recall's title, and the page links to the notice.</li>
+        <li><strong>The rules can be wrong.</strong> A small shop can be filed as a copy, and a copy can pass as a shop.</li>
+        <li><strong>Recalls with lab photos only are not searched,</strong> so the sweep undercounts.</li>
+      </ul>
+      <p>Nothing here says a seller knew about a recall or did anything wrong. The listings are for a person to review.</p>
+
+      <h2>Sources</h2>
+      <ul>
+        <li>Recall notices: the US Consumer Product Safety Commission recalls feed, public data. Each page links to its notice.</li>
+        <li>Image search: Google Lens, through the SerpApi Google Lens API. The raw response for each recall is published next to its page.</li>
+        <li>Listings and thumbnails belong to their stores. They are linked, and shown small for identification.</li>
+        <li>Typeface: Archivo, under the SIL Open Font License.</li>
+      </ul>
+
+      <h2>Run it yourself</h2>
+      <p>The code is at <a href="https://github.com/tanayvasishtha/Relisted">github.com/tanayvasishtha/Relisted</a>. With <code>uv</code> installed:</p>
+      <ul>
+        <li><code>uv sync</code></li>
+        <li><code>uv run relisted serve</code>, then open <code>http://127.0.0.1:8000</code></li>
+      </ul>
+      <p>With no key it replays the saved searches. To search live, put <code>SERPAPI_API_KEY=…</code> in a file named <code>.env</code>. <span id="usage"></span></p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>These are leads for review, not findings. A listing that matches a recall photo may be a different item, or may already be gone.</p>
+      <p class="quiet"><span id="snapshot"></span> Built for the SerpApi India Hackathon 2026.</p>
+    </div>
+  </footer>
+  <script type="module" src="assets/live.js"></script>
+  <script type="module" src="assets/method.js"></script>
+</body>
+</html>

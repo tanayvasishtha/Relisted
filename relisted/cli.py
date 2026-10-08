@@ -7,7 +7,7 @@ import sys
 
 from serpapi import SerpApiError
 
-from . import publish, stats, store
+from . import og, publish, stats, store
 from .config import load_settings
 from .hunt import best_photo, hunt
 from .recalls import Recall, fetch, priority
@@ -79,6 +79,14 @@ def cmd_stats(_: argparse.Namespace) -> None:
     print("headline:", top)
 
 
+def cmd_og(_: argparse.Namespace) -> None:
+    """Draw the social preview image from the saved results. Free."""
+    doc = store.load()
+    numbers = stats.compute(doc["trails"], load_settings().ledger_path)
+    out = og.render(numbers, doc["trails"][numbers["headline"]["recall_id"]], og.SITE / "og.png")
+    print(f"wrote {out}")
+
+
 def cmd_account(_: argparse.Namespace) -> None:
     print(account_status())
 
@@ -112,6 +120,7 @@ def main(argv: list[str] | None = None) -> None:
     sub.add_parser("stats", help="print the numbers for the README and write stats.json (free)").set_defaults(
         func=cmd_stats
     )
+    sub.add_parser("og", help="draw the social preview image (free)").set_defaults(func=cmd_og)
     sub.add_parser("account", help="searches left this month (free)").set_defaults(func=cmd_account)
     serve = sub.add_parser("serve", help="run the website locally with live checks")
     serve.add_argument("--port", type=int, default=8000)

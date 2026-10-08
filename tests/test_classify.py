@@ -46,6 +46,12 @@ def kind(title: str, link: str, price: str | None = None) -> str:
         ),
         ("Rocky Top Baby", "https://rockytopbaby.com/", "other"),
         (
+            "15 children have choked on these popular teething toys",
+            "https://www.pennlive.com/news/2026/01/15-children-have-choked.html",
+            "news",
+        ),
+        ("Teething toys, a buyer guide", "https://parenting.example/blog/best-teething-toys.html", "news"),
+        (
             "EEMB CR1620 Battery India | Ubuy",
             "https://www.ubuy.co.in/productuk/4Y29HM4XS-eemb-cr1620",
             "listing",
