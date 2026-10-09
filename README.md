@@ -33,7 +33,7 @@ These figures come from `relisted stats`, which reads the saved results. They ar
 
 1. Recalls. The US Consumer Product Safety Commission publishes its recalls as public JSON. No key and no SerpApi search is needed.
 2. Priority. Products sold by marketplace sellers come first, then children's products, then fire and battery hazards.
-3. Photo. Seller photos sit on a white backdrop, so Relisted picks the notice photo with the whitest border. Photos taken on a lab table are skipped, because Lens finds look-alikes for those, not copies.
+3. Photo. Seller photos sit on a white backdrop, so Relisted picks the notice photo with the whitest border. Photos taken on a lab table are skipped: no store uses them, so Lens can only return other products that look similar.
 4. Search. One Google Lens search through SerpApi, with `type=exact_matches`, on that photo. This is the only step that costs a SerpApi search.
 5. Sorting. Rules read each match's address and title and label it a store listing, a shop, a store category page, news, a social post, a copy on an unrelated site, or other. Country comes from the store's address.
 6. Trail. For each recall, the listings by country, the stores that sell in India, what was left out, and a link to the raw search result.

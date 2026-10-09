@@ -37,7 +37,7 @@
       <ul>
         <li><strong>Recalls.</strong> The CPSC recalls feed is public JSON and needs no key. Cost: no SerpApi search.</li>
         <li><strong>Priority.</strong> Recalls of products sold by marketplace sellers come first, then children's products, then fire and battery hazards.</li>
-        <li><strong>Photo.</strong> We pick the notice photo with the whitest border, because seller photos sit on a white backdrop. Photos taken on a lab table are skipped: Lens finds look-alikes for those, not copies.</li>
+        <li><strong>Photo.</strong> We pick the notice photo with the whitest border, because seller photos sit on a white backdrop. Photos taken on a lab table are skipped: no store uses them, so Lens can only return other products that look similar.</li>
         <li><strong>Search.</strong> One Google Lens search through SerpApi, type <code>exact_matches</code>, on that photo. Cost: <strong>one SerpApi search</strong>. Everything after this step is free and runs on the saved answer.</li>
         <li><strong>Sorting.</strong> Rules read each address and title and label every match, as the table below shows.</li>
         <li><strong>Trail.</strong> Per recall: listings by country, the stores that sell in India, what was left out, and a link to the raw search result.</li>

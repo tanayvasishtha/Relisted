@@ -1,8 +1,8 @@
-"""From one recall to its trail: every copy of its listing photo, sorted into evidence.
+"""From one recall to its trail: every page Lens matches to its listing photo, sorted into evidence.
 
 This is the only module that spends SerpApi credits. A recall with a seller-style
-photo costs one Lens search. A recall with only lab photos is skipped by default,
-because Lens can only find look-alikes for those, not copies.
+photo costs one Lens search. A recall with only lab photos is skipped by default:
+no store uses those photos, so Lens can only return other products that look similar.
 """
 
 from __future__ import annotations
