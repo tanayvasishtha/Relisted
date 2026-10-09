@@ -10,18 +10,18 @@ Live site: https://tanayvasishtha.github.io/Relisted/
 
 The AiTuiTui pull-string teething toy was recalled in the US on 29 January 2026. The notice gives the reason as a risk of serious injury or death from choking, and says it was sold on Amazon. One Lens search on the recall photo matched 400 or more pages, including 117 store listings on 52 stores in 28 countries. Two of those listings are on Desertcart India. No listing title uses the name AiTuiTui. Searched by name, Google Shopping India shows 40 results for the product, from Flipkart, Amazon India, FirstCry and others, and none of them carries the name AiTuiTui.
 
-Across the 42 recalls searched:
+Across the 43 recalls searched:
 
 | | |
 |---|---|
-| Recalls with store listings | 25 |
-| Recalls with three or more listings | 22 |
-| Pages Lens matched | 5,141 |
-| Store listings | 1,618 on 428 stores |
-| Listings on stores that sell in India | 106, across 17 recalls |
-| Pages left out as copies on unrelated sites | 743 |
-| Google Shopping India searches by name | 42, showing 1,597 results |
-| Recalled names found in none of those results | 22 of the 26 that could be counted |
+| Recalls with store listings | 26 |
+| Recalls with three or more listings | 23 |
+| Pages Lens matched | 5,540 |
+| Store listings | 1,710 on 453 stores |
+| Listings on stores that sell in India | 110, across 18 recalls |
+| Pages left out as copies on unrelated sites | 886 |
+| Google Shopping India searches by name | 43, showing 1,637 results |
+| Recalled names found in none of those results | 23 of the 27 that could be counted |
 
 These figures come from `relisted stats`, which reads the saved results. They are a snapshot from 9 October 2026.
 
@@ -52,7 +52,7 @@ The project uses two engines, and each answers a different question.
 - `google_lens` with `type=exact_matches` finds the pages that carry the recall photo. For each match it reads `link`, `source`, `title`, `price` and `thumbnail`. No other public source says which store pages carry a given photo, which is what the project needs.
 - `google_shopping` with `gl=in` and `hl=en` shows what a shopper in India gets when they search the product's name. It reads `title` and `source` from about 40 results. Put next to the Lens result, it shows how far a search by name gets in India compared with a search by photo.
 
-A recall costs two searches. The 42 Lens searches and 42 Google Shopping India searches behind this site, plus 6 test searches, make 90 paid in total, out of the 250 a month on the free plan. The raw response for each recall is published under `site/data/raw/`, so any count can be checked against what SerpApi returned. Lens returns at most 400 matches for one photo, and the pages say so where a recall reaches that limit.
+A recall costs two searches. The 43 Lens searches and 43 Google Shopping India searches behind this site, plus 6 test searches, make 92 paid in total, out of the 250 a month on the free plan. The raw response for each recall is published under `site/data/raw/`, so any count can be checked against what SerpApi returned. Lens returns at most 400 matches for one photo, and the pages say so where a recall reaches that limit.
 
 ## Run it
 
