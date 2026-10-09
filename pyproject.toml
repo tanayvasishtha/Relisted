@@ -1,7 +1,7 @@
 [project]
 name = "relisted"
 version = "0.1.0"
-description = "Find recalled products still on sale under new brand names, using SerpApi Google Lens."
+description = "Match US recall photos to store listings with SerpApi Google Lens, and search the names on Google Shopping India."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

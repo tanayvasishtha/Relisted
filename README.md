@@ -8,20 +8,20 @@ Live site: https://tanayvasishtha.github.io/Relisted/
 
 ## What it found
 
-The AiTuiTui pull-string teething toy was recalled in the US on 29 January 2026. The notice gives the reason as a risk of serious injury or death from choking, and says it was sold on Amazon. One Lens search on the recall photo matched 400 or more pages, including 117 store listings on 52 stores in 25 countries. Two of those listings are on Desertcart India. No listing title uses the name AiTuiTui. Searched by name, Google Shopping India shows 40 results for the product, from Flipkart, Amazon India, FirstCry and others, and none of them carries the name AiTuiTui.
+The AiTuiTui pull-string teething toy was recalled in the US on 29 January 2026. The notice gives the reason as a risk of serious injury or death from choking, and says it was sold on Amazon. One Lens search on the recall photo matched 400 or more pages, including 117 store listings on 52 stores in 28 countries. Two of those listings are on Desertcart India. No listing title uses the name AiTuiTui. Searched by name, Google Shopping India shows 40 results for the product, from Flipkart, Amazon India, FirstCry and others, and none of them carries the name AiTuiTui.
 
 Across the 42 recalls searched:
 
 | | |
 |---|---|
-| Recalls with store listings | 26 |
+| Recalls with store listings | 25 |
 | Recalls with three or more listings | 22 |
 | Pages Lens matched | 5,141 |
-| Store listings | 1,619 on 429 stores |
+| Store listings | 1,618 on 428 stores |
 | Listings on stores that sell in India | 106, across 17 recalls |
-| Pages left out as copies on unrelated sites | 742 |
-| Google Shopping India searches by name | 26, showing 906 results |
-| Recalled names found in none of those results | 18 of the 21 that could be counted |
+| Pages left out as copies on unrelated sites | 743 |
+| Google Shopping India searches by name | 42, showing 1,597 results |
+| Recalled names found in none of those results | 22 of the 26 that could be counted |
 
 These figures come from `relisted stats`, which reads the saved results. They are a snapshot from 9 October 2026.
 
@@ -52,7 +52,7 @@ The project uses two engines, and each answers a different question.
 - `google_lens` with `type=exact_matches` finds the pages that carry the recall photo. For each match it reads `link`, `source`, `title`, `price` and `thumbnail`. No other public source says which store pages carry a given photo, which is what the project needs.
 - `google_shopping` with `gl=in` and `hl=en` shows what a shopper in India gets when they search the product's name. It reads `title` and `source` from about 40 results. Put next to the Lens result, it shows how far a search by name gets in India compared with a search by photo.
 
-A recall costs two searches. The 42 Lens searches and 26 Google Shopping India searches behind this site, plus 6 test searches, make 74 paid in total, out of the 250 a month on the free plan. The raw response for each recall is published under `site/data/raw/`, so any count can be checked against what SerpApi returned. Lens returns at most 400 matches for one photo, and the pages say so where a recall reaches that limit.
+A recall costs two searches. The 42 Lens searches and 42 Google Shopping India searches behind this site, plus 6 test searches, make 90 paid in total, out of the 250 a month on the free plan. The raw response for each recall is published under `site/data/raw/`, so any count can be checked against what SerpApi returned. Lens returns at most 400 matches for one photo, and the pages say so where a recall reaches that limit.
 
 ## Run it
 
@@ -72,7 +72,8 @@ To rebuild the results:
 ```
 uv run relisted candidates   # rank recalls and score their photos, free
 uv run relisted sweep        # one Lens search per candidate, up to the credit cap
-uv run relisted shopping     # one Google Shopping India search per recall with listings
+uv run relisted shopping     # one Google Shopping India search per saved recall
+uv run relisted rebuild      # sort the saved searches again after a rule change, free
 uv run relisted thumbs       # save thumbnails and raw responses for the site, free
 uv run relisted stats        # print the numbers above, free
 ```
@@ -83,11 +84,11 @@ Tests and lint: `uv run pytest` and `uv run ruff check .`. Tests never call Serp
 
 - A match is a lead. Lens matches the look of a photo. For a product with a distinctive shape, such as the teething toy, the matches are the same toy. For a plain-looking product, such as a pool drain cover or a coin battery, Lens also returns other brands' products. Compare the listing photo with the recall photo before acting.
 - A listing can be out of stock or gone by now. The results are a snapshot.
-- The country comes from the store's web address. Ubuy and Desertcart run a separate storefront for each country, which raises country counts. A plain .com address does not say where a shop sells, so those listings are grouped as country not shown.
+- The country comes from the store's web address. Ubuy and Desertcart run a separate storefront for each country, such as brunei.desertcart.com, which raises country counts. A plain .com or a .eu address does not name one country, so those listings are grouped as country not shown.
 - A listing counts as sold in India only when it is a product page on a known store that sells there. An unknown shop with a .in address does not count.
 - The reason shown for each recall comes from the recall's title. CPSC's long hazard paragraph is not used, because some records carry another recall's text. Recall 10579, the teething toy, holds the paragraph for the hair-serum recall filed just before it.
 - Recalls whose notices only have lab photos are not searched, so the sweep undercounts.
-- The recalled-name check uses the first word of CPSC's product name. Words that are ordinary English, such as Magnetic or Little, are not counted.
+- The recalled-name check uses the first word of CPSC's product name. Words that are ordinary English, such as Magnetic or Little, short words such as GM, and hyphenated descriptions such as Male-to-Male are not counted.
 - The name search reads one page of about 40 Google Shopping results, so a seller using the name further down is not seen.
 - The sorting rules can be wrong. A small shop can be filed as a copy, and a copy can pass as a shop.
 
