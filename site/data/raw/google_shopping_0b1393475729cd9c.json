@@ -1,0 +1,761 @@
+{
+ "search_metadata": {
+  "id": "6ac89ce3792d68a7677a3fc9",
+  "status": "Success",
+  "created_at": "2026-10-09 07:50:59 UTC",
+  "processed_at": "2026-10-09 07:50:59 UTC",
+  "google_shopping_url": "https://www.google.com/search?udm=28&q=OCTROT+Electric+Thows+and+Blankets&hl=en&gl=in",
+  "total_time_taken": 1.99
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "OCTROT Electric Thows and Blankets",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "OCTROT Electric Thows and Blankets",
+  "shopping_results_state": "Showing results for exact spelling despite spelling suggestion",
+  "spelling_fix": "OCTRO Electric Throws and Blankets"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Tapish Coral Electric Blanket - Single Bed Warmer for Mild Winters - ISO:9001 Certified (5 Years Warranty, Coral Fleece, Grey, 30x60 inches,",
+   "product_id": "9044418504932600959",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:9044418504932600959,headlineOfferDocid:9044418504932600959,imageDocid:676155872055420634,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹949",
+   "extracted_price": 949,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSN3M6EMZwipBgFBmV2CvDzuqlzgaaqwRsSWC6VwFUNkA4XCOuF1ISJZBm-y0h1L6bNAYZ9eF93d26oYAK-jn3ZcUCH0nhWyEoKGRpBw1BdJfW48tacM_JSew",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/M_O1bXicDcn_DkJAAADgJ_LbLLbW7oQi2hjin8YRKufkdOOpep3epr5_v--npZRMhiDUGL0WQuuKoyWW-WaiBe0Qj4ZemNqBkA43u3H7PwMEle6gKFB8zfJz1hHY2LBPZPO9X-fxuTZFMbJwilJTS5gdBw-gXszzbEvHyM1hzy1iK520MgBZrte2rlSyNmTA4-5YyVFsHkTcpos1eE5IIJNg5d5SdUML5F_dqGY_cpI9kA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 2,
+   "title": "Corded Plush Heated Blanket Serta",
+   "product_id": "13255509395395446360",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=catalogid:13255509395395446360,productid:5456692644412934972,headlineOfferDocid:17080441985347257313,imageDocid:1612176133645656520,rds:PC_15580066393140773666|PROD_PC_15580066393140773666,gpcid:15580066393140773666,mid:576462482915079613,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹32,183.68",
+   "extracted_price": 32183.68,
+   "rating": 5.0,
+   "reviews": 62,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSOQGXo4lUZrhveGb4dBAKS7qKKYiYwGzzF3ft1oSozYWrxdWjCFxOFSvQvkbtE-hcIMfrw_62qKgOWbOVG_PEYMrINld0lMiO1dABbYiOx1kU9TLkdhnH6Yg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/3SwLIHicDclRDoIgAADQE6VZzpZba9aSmik1KqMfF6BCmigyM0_VdbpNvd_3_XCt69Y1zbSi6l3rlI00qcZG3uq7FtSg8mm2XNa1qPJls_if60VsDiiCR3CVdnm-Kd6lgNhs5QVo1gQBFvgFhsGfZtqSSA44Vj2LH2u_hz7qjl1B9GbE6S7M1CtxJk2Qw5jAC0gOGxyqXVSycRkKaDFvRbCAvVWc56d9wXi1dXD-A_WKP7E"
+  },
+  {
+   "position": 3,
+   "title": "Electric Blanket, Comfortable Soft Heated Throw Blanket One Touch Control for Home",
+   "product_id": "9692842859197853708",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:9692842859197853708,headlineOfferDocid:9692842859197853708,imageDocid:7334561796642824409,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹3,449",
+   "extracted_price": 3449,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRR0phBpmTExkYilIZTQoZzD3jEcr5bYs4yVhThvWG16g5CzBvXETLRgnh6PHyeRO7jTKFLXfECJna5rHS-xzryr61_xwiD4DcWDfRGsu9WPZErIo792PPD",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/8mSmdXicDcnhEoEwAADgJyJRudw5h03CkdlJ_XGZtMI229B6KO_jbfj-ft8P1VqogWXljEgjdH5u6ROz24XSmS5Jm_C7pSgXomTF6DH832C8PvsBQagj6ETcMayvSXkLU7zlaQN6FSTSPSXKMXuK6SsObK9wp83kdYB4hQpGvWhucrTpV3g5Wx0ucLpgmSvnu1bdSCM9-1i_S-AAEoMLCtTTj6MUypD3_W4UgR9baz4s"
+  },
+  {
+   "position": 4,
+   "title": "Serta Ultra Soft, Cozy and Comfortable Knit Electric Blanket for Cold Weather, Auto Shut Off and Heat Level Adjustment Driver, Queen, Gray",
+   "product_id": "14815269684539260157",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:14815269684539260157,headlineOfferDocid:14815269684539260157,imageDocid:5503147265672181943,rds:PC_13467243279840490976|PROD_PC_13467243279840490976,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹28,992.82",
+   "extracted_price": 28992.82,
+   "rating": 3.3,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSb9SsdJliV6bcBFVof1xlBHMP-u1qocrLK_qdIl3G6thRLmUtF7TmLGD1MGAt7aCo_zt4EoBUC8oOucJbPM9BUOgnjaMUx",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/3ZH9EXicDcnxDkJAHADgJ8JMI7bWUJRcLJ1_zd0Jjbvjfjb1IL1bb1Pfv9_30wFI5RlGw-n8ktAwDQi39FZBDT3VqRgN1Qkpe97up93_PP_K3JgWxC0US4a-tAkNolI8zHUITijXFnMSdE4v1cTOgxXb0N3SEUPk3Mc0Ppgo9sGpQ1G9YXMUAQ63IltoQnLkBjhr-bNGeP0Bpxc1xg"
+  },
+  {
+   "position": 5,
+   "title": "Biotronix Full Body Heating Blanket - PU Fabric, 2 Heating Zones, Digital Display | Portable Electric Heat Therapy for Adults and Children",
+   "product_id": "3368140000833928954",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:3368140000833928954,headlineOfferDocid:3368140000833928954,imageDocid:5099770124068535456,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "source_icon": "https://serpapi.com/searches/6ac89ce3792d68a7677a3fc9/images/_ZsLNgdU2rt_ovBC4bBXm9VrsvoTEHjoYvQwHfLWz18.png",
+   "price": "₹1,000",
+   "extracted_price": 1000,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcShnr-GxBZvSUZO4J5cx5D1MVllEeMY-XNP4uEA1eYcoam_wqPUinMq15AwCktf-PfMZOMgRjU6gZ0fEF5RkCDAw3b_QVy8",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/RFUnT3icDcnbCoIwAADQL5oXclFChKkJwdQUJfciOuc0dd5W6o_0b_1Nndfz_VRCDLMuy5STaRsELYDIuSKxWWSiJhLpO3mu-mGoOTuPp__phlscHRJWfALOesHvMMKedoNkhZaK4ra1KUrAw_W1l22oNCF91qXL6Ec1R6MKjcVsRAn8EmEPseAZ7RlWSvsKg8a0jGWXp_d4O_wAkaY1NA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 6,
+   "title": "Heated Electric Blanket Throw",
+   "product_id": "13588090574295959614",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=catalogid:13588090574295959614,productid:8099092996708060565,headlineOfferDocid:18404165500390171178,imageDocid:5293899686142336047,gpcid:7989817804954255566,mid:576462567298979430,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹4,415",
+   "extracted_price": 4415,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTOwFO5codKmnCInswO9U-MeZybUNW66Z0MjdiOmupPf1NvGbE71Qc1EdBtIn3AplpcIQO9_YoywNggQxI0JM69SZJp-BDphOmbnGTFVKfk",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/_I4onHicDcndCoIwGADQJ_IPyVCI0FKZ4pZkRd5Ebv5Vbl9tZb5Ob9Xb1Lk930-nFEjPMGpOHxOommmq4rbeSnVWPdWpGAzZCYCet8v74n-ej5kb04KMEZlRwdKBrxCXI3F3WlaXU7XDB8cpzezCejI8YdNY-BVX4dzKqRWyQCFu-3ADinLino5iGnHb5m9kJpnjbssEtGANHRkqHhfRPm2uP1GgOdI"
+  },
+  {
+   "position": 7,
+   "title": "MACMORE Cozy Heated Blanket Throw 50\" x 60",
+   "product_id": "13539022460727903927",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=catalogid:13539022460727903927,productid:18196795543958138531,headlineOfferDocid:8921532359041427611,imageDocid:7816313973866624843,gpcid:8156915310416498059,mid:576462912410595242,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹6,265",
+   "extracted_price": 6265,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwMLWwQFyIVCLm5V458ZAE6G1apcXUZ3DvaAghCxYQYVEDSdd0cz73pKuzwmgwpdofY1OCGzVPuJJUbsmKiFQcNTgushvsNnbgrgiTnVU6",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/GtLLm3icDcldEkJAAADgE0VGVGaaxvibkDKxxRu7Wh52bXbZOE636jb1vX7fTysE45aqNhQOMxMNWoma6grmohIdVGBPVN72jHUUH1-H_1l2gvYBTOU5vsvUn0_AiYkBNsautD0z0CoGH3mpu1Nl49Z5F2kBPPeG0BouW51F4yIJlgz1z0K7OMECrmMY5jUnUeenMMnwyNuJJ7TGA-4yCnLzB0Y5Owk"
+  },
+  {
+   "position": 8,
+   "title": "Devology Heated Throw - Electric Blanket - Digital Controller - Timer up to 12 hours, 6 Heat Settings, Auto Shutoff - Machine Washable - Single",
+   "product_id": "14951634022270775621",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=catalogid:14951634022270775621,productid:14093234455926280128,headlineOfferDocid:8580669843284126251,imageDocid:10733589430384992100,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹5,987",
+   "extracted_price": 5987,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcScGM0abdjoC395qPayv5oj18m1XD2t094SUCOVf9ypnNbNlVkCdBc9ohskGNny8GbK1tIYs5dmMwxEquMcR5rkj_JztYdBx2q_qnlCa11O",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/f1wPxXicDclbCoJAFADQFaWOJThCRFpIhRpJkl-iM-Z7Hs6ttOW0q3ZT5_d8PzWAUI6ul4yMs4CSLqBghlYpyKEhGuGDrmouRMOqjVz_z9mGFPskJn5g5AVtubfEljzn89PiLbIHdNuZYOBVfPWi5I5nwcIi7JPOoy7BvFadH7LZ9osTgkOqLDoEr2kvHwG5WGPXZsc3pNSdTJlJ1ns5QtEPPbI6Yw"
+  },
+  {
+   "position": 9,
+   "title": "CAROMIO Fast Heating Electric Heated Throw Blanket Decorative Sherpa Thick Fluffy Blanket 10 Heating Levels 10 Time Settings ETL Listed Machine",
+   "product_id": "11221500952432679476",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:11221500952432679476,headlineOfferDocid:11221500952432679476,imageDocid:5850507503459160941,rds:PC_12344834276935229253|PROD_PC_12344834276935229253,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹13,287.74",
+   "extracted_price": 13287.74,
+   "rating": 5.0,
+   "reviews": 468,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQCNXw6MLxmcRMplLKp8B74tjZ8RC-zpERl7Gegz639hjfMOguchAdD2GTQ24FnKGv1YZ63oTCX7lTomuTtrI_Ay9xStd6DMbgLF_9sxHOfZ6z-63g_XPshWg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/cLZhK3icDclvD0JAHADgT4RFO7G1JkrNv5IteWN1uGO4y_0q-VR9nb5NPW-f74cCcGEqStnj4c2hLCS49TOZCLhCjWXMOkVQxnndk9V9-T_TCgvDxUc7TF8o8McOxwFvfY8v1vocmmwR29LEN3GruyWZkGbQpgoi8sDUKhzVTY7qfNt77nN2yZDGEjvV24R1jwSGfW69jfEEBXKCG_G3uSHGXVRlaJKQRvL0IOiZ_AB2wj4z"
+  },
+  {
+   "position": 10,
+   "title": "ZOOMELLA Double Sided Electric Heated Blanket Throw Living Room Washable Office Use|Home Decoration Items for Living Room Durable Home Garden Tool Kit",
+   "product_id": "1121836985139931324",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:1121836985139931324,headlineOfferDocid:1121836985139931324,imageDocid:17018785808651633858,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,206",
+   "extracted_price": 2206,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-VpY65enV1cEQDeMrTGeU652uh1PM_WoBxiUwkBal-HeziM69W1bMHs5Y7ZJqqyGddLpE9Eg3dDs3YbDED-hCFIxjh32hulhNez0djzwltp8U41cl4b5D",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Nrs0q3icDcn_DkJAAADgJ0LnV7G1lk7UYrXC9E_j7uZIHHdGHqr36W3q-_f7fqgQjNuKQhrUv5kgWBJ5o8oFF5kokYzal8Jpy1jZFJtu_T97G2LLQ1cpZqlpkCYGyL1AEvQ3j0SmoQ4UnINH0jpTGY1PJ6sln8xlYFoJyAOfG-nyfuy6t4fxibmWW2gYci3NoQslutsfpopqKh1qGpJ5gat5rAVbRTpAtZ4b8Afl8T1G"
+  },
+  {
+   "position": 11,
+   "title": "ESTINGO Electric Heated Blanket Throw, 50\"x60\" Dark Grey & 50\"x60\" Rose Pink Bundle",
+   "product_id": "16404738088244324885",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:16404738088244324885,headlineOfferDocid:16404738088244324885,imageDocid:4932929587615761424,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹7,797",
+   "extracted_price": 7797,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTD5C5kC1mpceCxV9_E4ESu2NZg7HfXCJEfSYpLxQeAsK-RKiSVXKiZ50yZ0v6jhp7SJ76hs2unP8kd_cGCjaVq5-0ArLD-q04z6FEM6lXk",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/NRajKnicDcn_DkJAAADgJ8JljthasyMNWXXN5B_T-S0cdxo9Tm_V29T37_f9VJxTZkhS3pNppTzPBP7ogVgynvKaiGToJFYNlNZ9uR93_zPMINMdcrMggi3adJTkaAn1xFZsPMtBXGrHIkKuXeA79ZdLbjJPuHo1DiOvjiFYY_BSm4pq2NXUislzf962WUIc1KThCAVgTr4ljEB5qwf7pD6j9gfzZzgd"
+  },
+  {
+   "position": 12,
+   "title": "Double Sided Electric Heated Blanket Throw Living Room Washable Office Use Home & Garden | Bedding | Blankets & Throws",
+   "product_id": "5666240155018123172",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:5666240155018123172,headlineOfferDocid:5666240155018123172,imageDocid:17018785808651633858,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,205",
+   "extracted_price": 2205,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-VpY65enV1cEQDeMrTGeU652uh1PM_WoBxiUwkBal-HeziM69W1bMHs5Y7ZJqqyGddLpE9Eg3dDs3YbDED-hCFIxjh32hulhNez0djzwltp8U41cl4b5D",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Nrs0q3icDcn_DkJAAADgJ0LnV7G1lk7UYrXC9E_j7uZIHHdGHqr36W3q-_f7fqgQjNuKQhrUv5kgWBJ5o8oFF5kokYzal8Jpy1jZFJtu_T97G2LLQ1cpZqlpkCYGyL1AEvQ3j0SmoQ4UnINH0jpTGY1PJ6sln8xlYFoJyAOfG-nyfuy6t4fxibmWW2gYci3NoQslutsfpopqKh1qGpJ5gat5rAVbRTpAtZ4b8Afl8T1G"
+  },
+  {
+   "position": 13,
+   "title": "Premium Heated Throw Blanket 50\"60\" Ultra Soft Electric Blanket(Beige)",
+   "product_id": "682858609192893547",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:682858609192893547,headlineOfferDocid:682858609192893547,imageDocid:1197912898708867897,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹4,494",
+   "extracted_price": 4494,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtkzbv5FSrQoDMNFqBFJE3-dUq7jVc3A07zOiPU06ybcosVadOzGm2VSxiHly-PwRHuhdN5QlsJVNxTb_En76In2PFgPERIX7upv8INQYm",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/26dHLHicDclJDoIwAADAF7EIAZTEGIysiWUnejLQEkChFFoQeI6_8jc61_l-asYI1QWhxHBcCSsRxwq84yvKctZAHvadQOuekAZXp-H4P90A6GDDhL22YlaseAz7yxVYw9nyTJlD6aA9Mygborb5TZCK6lrAnmY58je7k7J4aZx25YJ35Ew1AkrYUi8DS1I8TKypLpYCqwrMyL1pE5n3Lgjv3Q9TOjnr"
+  },
+  {
+   "position": 14,
+   "title": "ARCOVA HOME Solid Double Electric Blanket for Heavy Winter",
+   "product_id": "15299755642932124154",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:15299755642932124154,headlineOfferDocid:15299755642932124154,imageDocid:12650655542328010390,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89ce3792d68a7677a3fc9/images/_ZsLNgdU2rt_ovBC4bBXm_0uTw_stVRgoydUQ5d5F4g.png",
+   "price": "₹1,749",
+   "extracted_price": 1749,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTNgHub5spURQHRDiazjyiLrWCESdIiUIfzau1xJurH_4Kv9y_XvtXICoHZPqv_VA-xa592DQTd1AHyC0IHK5q8kH1kc_80",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/XM9_lHicDcltCoIwAADQE-UXCSpEiEZbhqRpSX_G3EyXpNNNcR6ku3Wben_f99NIyYWn61VHRsVlRTey7CytFhJLRjTSv3XR9Jyzrt4Pu_95fkzdI8niGkylLXieJiANGV5fip3He3C4Ushy-FzxZC6naQRoG82uQsUsCxj04HEZZnTzNwu2XStMMmr6QAUGBJE9OC0wW4Ic4wfipzXF"
+  },
+  {
+   "position": 15,
+   "title": "ARCOVA HOME Solid Double Electric Blanket for Heavy Winter (Poly... more",
+   "product_id": "2601821527867774330",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:2601821527867774330,headlineOfferDocid:2601821527867774330,imageDocid:13692106436599679675,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89ce3792d68a7677a3fc9/images/_ZsLNgdU2rt_ovBC4bBXm0RCqIy_ZHQA-BDOm_KShaI.png",
+   "price": "₹3,264",
+   "extracted_price": 3264,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTjyr1mIFYBkMjigDVyRSM8RXrq5Y0S4O1-R2Q2z5eiDecTJc5zeEngQpaYYI8fTlcJk55juu8XbUeIqCQ5gr-NkM1ePCg5",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/rOlEVnicDclLDoIwFADAEwGCNkESYxTUQALKz9AllGcpSCmlLOAg3s3b6Gzn-2mUEpNjGMCJXISCWlMV3-p0UqViRCdDb0zNIATj9Dge_ueconp_I1m7SLP3r_jchS2j3nNJ0tBOCjkivEl3d1NLrNhaETAPSBYQtMKF01iUGPv2K3uToEOonWe7qHLwRzdGVGpRF5rwcCn6AZfoNT4"
+  },
+  {
+   "position": 16,
+   "title": "Electric Heated Blanket Flannel Electric Blanket Throws",
+   "product_id": "14139056686080461760",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=catalogid:14139056686080461760,productid:8035642807142555548,headlineOfferDocid:2909360976359666362,imageDocid:8599375982099664441,rds:PC_13780760517978904795|PROD_PC_13780760517978904795,gpcid:13780760517978904795,mid:576462592247294761,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹3,733",
+   "extracted_price": 3733,
+   "rating": 2.7,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1Cl94fn6FrPKy-fIpQQ2DvWSTdMhy0zeg0M21ja5Fl5TGSbDP-d0S3umWZY1MM47ksB7NmORj484L4albHy1c3fzOOxdIN7sFN429wrNE",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/3X3sq3icDclJDoIwAADAF7EUigiJMSqCRCkgJERv0LLKUmld4Dn-yt_oXOf7qTinzJSkvMfjRHlOBJ71QCwZT3mNRTx0EqsGSuu-XN9X_zM3iBgOjsGuNWDRL-wxOE5C4dIwVKxnEsXEqyZ5zkvZU0CTanarxU6UWYFA5Eh9dMn1AjwP6je21VHnnxu4hCeYttlhAlgtZt9_ExfpzEZQMV4j2v8A3UU3wg"
+  },
+  {
+   "position": 17,
+   "title": "ARCOVA HOME Solid Double Electric Blanket for Heavy Winter (Poly... more",
+   "product_id": "15807132027173827148",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:15807132027173827148,headlineOfferDocid:15807132027173827148,imageDocid:7714603844141895094,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89ce3792d68a7677a3fc9/images/_ZsLNgdU2rt_ovBC4bBXm4oy4eFnurakkEgWo1v3P4k.png",
+   "price": "₹1,757",
+   "extracted_price": 1757,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSSZE1Y8H7CJrWc4ZE2ssam5RycZqewg-ZhU1I6eG3bZ-NMQclsjhDYVAZW2-MtjMn5vFK6o8c77O9mnYfKCBG05VbdzIj",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ytf9A3icDcndCoIwGADQJ5qm5S9EmJmZaJSkuDv9XE7JOd0o6kF6t96mzu35fqiUXLiqShjMLy5Jg2TNdKUVspIdKDAOqqAj5x1rN9P6f66XNk4IWZbhQCvtg-Uf5wJWONCFqAbj8gI8kWeLML1qkUnCZY1RmpzhLnq6K3MPFzpKZJ8w47GPzdEGyzo5Aytvsb8NF0ZeN--o_wFoAjSB"
+  },
+  {
+   "position": 18,
+   "title": "Premium Heated Throw Blanket 50\"60\" Ultra Soft Electric Blanket(Pink)",
+   "product_id": "3330573907771346839",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:3330573907771346839,headlineOfferDocid:3330573907771346839,imageDocid:1197912898708867897,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹4,494",
+   "extracted_price": 4494,
+   "old_price": "₹5,202",
+   "extracted_old_price": 5202,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtkzbv5FSrQoDMNFqBFJE3-dUq7jVc3A07zOiPU06ybcosVadOzGm2VSxiHly-PwRHuhdN5QlsJVNxTb_En76In2PFgPERIX7upv8INQYm",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/26dHLHicDclJDoIwAADAF7EIAZTEGIysiWUnejLQEkChFFoQeI6_8jc61_l-asYI1QWhxHBcCSsRxwq84yvKctZAHvadQOuekAZXp-H4P90A6GDDhL22YlaseAz7yxVYw9nyTJlD6aA9Mygborb5TZCK6lrAnmY58je7k7J4aZx25YJ35Ew1AkrYUi8DS1I8TKypLpYCqwrMyL1pE5n3Lgjv3Q9TOjnr"
+  },
+  {
+   "position": 19,
+   "title": "ATORSE Electric Heating Plush Throw Carpet USB Rechargeable Heated Cape for Winter Beige |Home & Garden|Bedding|Blankets & Throws",
+   "product_id": "5921981840746431442",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:5921981840746431442,headlineOfferDocid:5921981840746431442,imageDocid:16332015618554993646,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,177",
+   "extracted_price": 2177,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSa25OsJ0HE8ghE8gzEEUbMOSSEmVllMaEOMXknlKi2guNbZgDfl2IAQ5pHr3N4c-zVXqic7NIc27CDy26YopGXFynZhsgvmu0NDHlxF-r8xo_d1-rL9SZ9YA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/jAD2G3icDcldCoIwAADgE6m1_lSIkJxp5SQkUV9Cp01pzulmqKfqOt2mHr6n7_uppOTC1LSS4X7isiwUmTOgEiEzWWMVt40mqpbzmpFDt_-faaHCOOEwA5tAnBcu1En1N0N4z_0gDGETUepnMPDjF6OXGpAB5SmxnxR41m3D3X6F1liZo7ir8Q55GOyO9gS2SctPsTOxtBLk3QwLZLt0dJReH9tHsVT6qxGmRmL9AGhKPeM"
+  },
+  {
+   "position": 20,
+   "title": "Electric Blanket, Electric Heated Throw Blanket for Sofa, Luxurious Electric Underblanket Heated Throw Blanket Large Soft Fleece Heated Blanket Throw",
+   "product_id": "7870602796867259632",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:7870602796867259632,headlineOfferDocid:7870602796867259632,imageDocid:11807051022450337322,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹31,134",
+   "extracted_price": 31134,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtaYDZa1zQ7GpG1f1UyPGDvITY1Rkvgd74z16ImvmPyCPDBt_KrZvKVDUuRbtol6vCSRcmi66UH3n1dKSz_bH7ggxCwumCVOMs6ayiSqD8yg9BarAQIob6",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/hA-lvXicDcndCoIwGADQJypZxawgIh2oSOVPBnUjc9qUmlv6uZoP1fv0NnVuz_dTA6h-bVlVyzqjoConULSzKe-BQsOmTAqrr6VSTcu3z83_1rtDufLYCeiFXCkaY9tTHrqhzEQe0cHpgpK75qW9GBEOhBaRcSPiQB52Vx2eSTYkBcgH1m6aMNFgnPnzFpVhOuaFb3P-dl-DcM_HfY-padInWRq-cmi3iwNZ4B8xjT50"
+  },
+  {
+   "position": 21,
+   "title": "Double Sided Electric Heated Blanket Throw Living Room Washable Office Use Home & Garden|Bedding|Blankets & Throws",
+   "product_id": "1714880469204331745",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:1714880469204331745,headlineOfferDocid:1714880469204331745,imageDocid:17018785808651633858,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,283",
+   "extracted_price": 2283,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-VpY65enV1cEQDeMrTGeU652uh1PM_WoBxiUwkBal-HeziM69W1bMHs5Y7ZJqqyGddLpE9Eg3dDs3YbDED-hCFIxjh32hulhNez0djzwltp8U41cl4b5D",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Nrs0q3icDcn_DkJAAADgJ0LnV7G1lk7UYrXC9E_j7uZIHHdGHqr36W3q-_f7fqgQjNuKQhrUv5kgWBJ5o8oFF5kokYzal8Jpy1jZFJtu_T97G2LLQ1cpZqlpkCYGyL1AEvQ3j0SmoQ4UnINH0jpTGY1PJ6sln8xlYFoJyAOfG-nyfuy6t4fxibmWW2gYci3NoQslutsfpopqKh1qGpJ5gat5rAVbRTpAtZ4b8Afl8T1G"
+  },
+  {
+   "position": 22,
+   "title": "ARCOVA HOME Made in India Premium Single Electric Bed Warmer (76 X 152 cm, Blue)",
+   "product_id": "10209960908835259880",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:10209960908835259880,headlineOfferDocid:10209960908835259880,imageDocid:1226641561257856010,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹999",
+   "extracted_price": 999,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT0w7F5mVfYT-XXV1hb5PQV-1p0k9WuUuhTYtkgQVXxBKpVjxeTDRKtsX3eGWGiV3F777r_HSu6vtbS2zx-8YQppDBtpZ2QfOo2tSCLArzSiAt0CYzgb05vOg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ApA0BXicDcnrDkJgGADgK3JsEltrDqNNS6IP_Wk5fWR44yW5qm6nu6nn7_P9lIgwqByXt2n_BswzBpNWZOmAd6xSNu0abig7gKqlu-f2f6p2zBQ7DfiXbEkNKeKAiSIilIl08ggjAF8r4XgZyyDGmnokmnUHyGPOA_Ps4BCtcju0K7KyZFnub3t_XE-Y-OIyM5vYAzB1hKvoFW4nom8ctH7xKw15I15owkuTS398Nz5x"
+  },
+  {
+   "position": 23,
+   "title": "Electric Blanket, Electric Heated Throw Blanket for Sofa, Luxurious Electric Underblanket Heated Throw Blanket Large Soft Fleece Heated Blanket Throw",
+   "product_id": "12025762931002414570",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:12025762931002414570,headlineOfferDocid:12025762931002414570,imageDocid:18335737699278837932,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹31,134",
+   "extracted_price": 31134,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSdu8KgrtfECbv_v2Ut-mPR133aD0X5fIRTxGGynf10gL1hamKC50nztkXYS70iTz28ABT7K1WZ9maRjCN8TbOuUEuz9I_9iyUdwGDNOAh1",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/m5biEnicDclbDkNAFADQFWGGiEfSNIpMREPDSB8_gvFqYyiXluV0V91Ne37P99MADJMpSSUvxnWAkgmQcyTWE2TQFmLRd9LU9MPQ8nr_3P3PtAJmkCJms-7XI1SunS_pIicgdKcIK0rmoItaeRF9E7LyCqP6iJus820V8Q0el2usoZZusm4dqObj883osuhuBzrNwzlx583wUqNdE_YiThBaDf4BHXA4wA"
+  },
+  {
+   "position": 24,
+   "title": "Double Sided Electric Heated Blanket Throw Living Room Washable Office Use | Home & Garden | Bedding | Blankets & Throws",
+   "product_id": "12093171889537152355",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:12093171889537152355,headlineOfferDocid:12093171889537152355,imageDocid:12522384568366168955,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,205",
+   "extracted_price": 2205,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSToTLgrpigjN5lSjoOpOX9hkK8sC1_7PmQiF5BlqpWsn21YEVqQkq45Ak-jc5z-RWeOPyQCyPF3GKybk4gvpNlePP6-liQ2V0CdHC9v_eTmw1o0N53GzJfmg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/uXC6pnicDcnbCoIwAADQL1LzskohoqSMDJ0pVk9Rc82pu9hGoV_V7_Q3dV7P91NrLVVgWZij5yA1rgx9565JlL5pikwkmKVqISXlZNkv_hesksqPUF6I4kCekpImAV3eiFSmZ79u47kK7esMsoxuwbrr5Ulxx75syj5rew-sWqNBYDSOJ5zCIQsHuHWjeLi3HnnJpMMQTo2OZk45Catd6L-uuGBvW0wS4Ebj_sHID8DBPoU"
+  },
+  {
+   "position": 25,
+   "title": "Beurer HD 74 Limited Edition",
+   "product_id": "1719593142386370445",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=catalogid:1719593142386370445,productid:10244653592979672079,headlineOfferDocid:10145321907749794230,imageDocid:4049272538592702204,rds:PC_6637928021566889989|PROD_PC_6637928021566889989,gpcid:6637928021566889989,mid:576462484302226924,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "MediKart",
+   "source_icon": "https://serpapi.com/searches/6ac89ce3792d68a7677a3fc9/images/_ZsLNgdU2rt_ovBC4bBXm_cKdXGi9amqkhYLD6MjoqA.png",
+   "price": "₹7,500",
+   "extracted_price": 7500,
+   "rating": 3.8,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRr-0uIpvXl12HLikwJ952evNYsqsgcH1pfIS_1JBZwMGNXf4qks2ghVEACFoIhsg6jtrjF7v3HTxOc-Ccff3yg2FozPjGtrQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/WnsgqHicDclJDoIwFADQEzEVh0BiDBKZojjGoBujhbaA0tJ-QT2JV_M2-rbv-2EAQrmGUTRYvgQUuQbXxtSpgguUWMf8bijGhSgbOm0n_3O9NHdCvJWa-YhFl90sFC3Kuk-cISq69KhaRXFkCRLvzlYyO_XLMM3IoK0Vouww9_yAx0zRUQWyCsadHe2fK6z5mBD7RVHA3-sqBLn5ARc8Nug"
+  },
+  {
+   "position": 26,
+   "title": "Heated Blanket Throw, Comfortable Electric Heated Blanket Keep Warming for Office (Black)",
+   "product_id": "16938665706898497094",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:16938665706898497094,headlineOfferDocid:16938665706898497094,imageDocid:10155057077330501349,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹8,418",
+   "extracted_price": 8418,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgd27ep57pDKV61WHMMYMexje7gCQyrEdzkxuMSPNjWLrX10xcr4tVT8ZFudJN0jEa1WUrnkRQP-vWPSBbeh76z3YWaiAtWLij8uD09ru4yQL4EwyeouLoSg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/w09M5XicDclJDoIwAADAF7EpsiXGqKBGgYAoFW_QNmWJUEurwKv8jr_Ruc73U3JOe0dRcAvZSDlGEi9aTSY9z3kFZdg9lL7sKK1asnou_-esQ2Tv4YWgmYnpwqTuKTU0cAiCLMBDjU2yjUfmoakZRJBEYQ18dtPUATKdpxfrvhPoGKq1l2vgytrmHEfSC0TJpsClaUzzDOTVmgO_qi3hqjYT-hj7uvcecSf8LiE_nFc_Bw"
+  },
+  {
+   "position": 27,
+   "title": "ARCOVA HOME Solid Double Electric Blanket for Heavy Winter (Poly... more",
+   "product_id": "9312332941746999777",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:9312332941746999777,headlineOfferDocid:9312332941746999777,imageDocid:9443329725741569740,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89ce3792d68a7677a3fc9/images/_ZsLNgdU2rt_ovBC4bBXm3utm8qyxJSPGf05o2PeBes.png",
+   "price": "₹1,824",
+   "extracted_price": 1824,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBLwXbPRnHH6miXvFUj12914xepgeRY2IJVIAOhDC5G_6sBWmuTMhsYDw6yFxeMbP5JMiP0Y_ofvtxrAVFW6zRMQgEhzSxMg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ITh2QXicDclJDoIwAADAF8kWIYHEGBTZYhVBWU5EoLY1oVRa2V7i1_yNznW-HywE45YsQ1r3MxOwWYmKKhLi4i5ILdVdK3PcMUYo2r42_7PsU2N6dbI7jnkVxdT3jZbkg3t7qpqprifIEIwLLQjTwD5jZ697pcF3Wfu-AswLZzRmd4KgivQQkEgpyu4xiKm3Uzczlhhc0AEvyQTQD_b-Np4",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 28,
+   "title": "ARCOVA HOME Solid Double Electric Blanket for Heavy Winter (Poly... more",
+   "product_id": "2233250850884917461",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:2233250850884917461,headlineOfferDocid:2233250850884917461,imageDocid:13186345109770266407,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89ce3792d68a7677a3fc9/images/_ZsLNgdU2rt_ovBC4bBXm4lRt2xcuCWf-VRwWHPXan8.png",
+   "price": "₹1,574",
+   "extracted_price": 1574,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT0RYLk2jT88aaiRSjvcU4VmoKtxkVFojYcu4vLAO-0t4nbftkZoUCQoEfRQT8QAEZhLS4FmnfKfGrC3tO8eNCaweUzQzbPcrqarAnD0fFT0lppRbVoVu5rFg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/4tqBc3icDclbDkNAFADQFRUpTVTSNKL4INQz4W8M41UzY1zaWlW309205_d8Px0AXwxZbigWbw5NfYCKqlK7AIIeS5hN8tIxznvaXufL_wwzqM8uTpW48MfjkOo6Qn2cDBvOtHxiHrzG3GFDgVdt883woIBGKwJjyTIrYjaJo1SPTLvs_ERzJko84gpLhVBvAgs9m2yP9uqOxYyESW8KcVLlwXlc5SxfT8Jpf81AP70"
+  },
+  {
+   "position": 29,
+   "title": "OakRidge Ultrasoft Plush Sherpa Digital Heated Blanket",
+   "product_id": "7650462112714273882",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=catalogid:7650462112714273882,productid:12323945836221910308,headlineOfferDocid:14616363343996655594,imageDocid:10238488317467010185,rds:PC_6173400502741621275|PROD_PC_6173400502741621275,gpcid:6173400502741621275,mid:576462840645271519,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹14,758",
+   "extracted_price": 14758,
+   "rating": 4.3,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSYjph6A9XncjdumQELeeM5WuRp2aEoiNQk8TgLxfZxS6i7BbqHTgM1BDg-4VhH-IpW_AllXH2evYSrATRDi7KBeQ82aUrfVBZAqAbUOpc",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/A1_Mg3icDclZCoJAAADQE6ko5QYRI0pGargvP6HjOI65jDqGHadjdZt6v-_7aRmjqy4IaITLmzJUc6waRR6vrGQE8nAahLWdKCUjPs-n_-nAq7ULDPOOtjLQshF29Tb4loOQe0y3gEqlNRHPf6oRdvam2EOZKEY12xF2RcPE3CFpbe5K0wfo-8yW0CsPFxAFJlFuBvJVqYyXJjEKMIMqvlP4Ax50OUs"
+  },
+  {
+   "position": 30,
+   "title": "KLL Octopuses Wearable Heated Blanket for bedtime rest",
+   "product_id": "17955651991976083401",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:17955651991976083401,headlineOfferDocid:17955651991976083401,imageDocid:12680077953212166826,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹9,056",
+   "extracted_price": 9056,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRETXoMKmR8X-Kirb3t5ocik7wbF9L8UzXzvr9xa3dM3WB59ja6STbWBQyzKxQJdoeCn6NZTio_uHjm4YpRPNiWIWAHxoGH",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Xn5In3icDclRCoIwAADQE6mQaU6I0CgtU9KMrX7CbaIz3JauUg_S3bpNvd_3_dRKyd41jJKTbpSqpJrCfKZXvSoUIzoRrdHXQkrGq9Vj-T_XSygISLbJkYijNnOQFrEOm8oShN0Xb7wFB-c8oenVgaEwaWxC3wJNYZ9yDP10nKIh3VNRrrmdXHMmbs-waecXmR0TBnfQCwcRhD-rVTYh",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 31,
+   "title": "ESTINGO Electric Throw Blanket Heated Blanket Throw, 50\"x60\" Dark Grey & 62\"x84\" Green Bundle",
+   "product_id": "5075936096090203549",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:5075936096090203549,headlineOfferDocid:5075936096090203549,imageDocid:7650787468744635096,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSjusvrdHJw8zQJadxaZGoFq5tkye1-z5pp-TJngYKnfQiG488ignuBcCK1wTkL93UfsW2meepddqXpmka4IXi5_9yUnPX1qQ",
+   "price": "₹9,188",
+   "extracted_price": 9188,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcToJ1g5980nPN1zpp18sKjPhp3V-ah0dtTJaxO_4m-7spSyGMMvA4fQddnRWPvRoXZOekMMhPLzqxWzq3QDfSq24MDbqlqoJuj3FJRR3DNt",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/cm6NonicDclZCoJAAADQE7k1RipECJJgjTsZ_YQ66mg5SzOJepxu1W3q_b7vB0vJhKNpDalfC5MNUmRFdLUTspR9rdZ01ASmjPWkO_D9_xw3RLZf5zQwuq1t6SQOjZUxwxKnIcYMXJQS60jmQTlHd3NUdoJliw_h5JptghBJi3hK6fUWNQ8IcXxe-VysHCRem_GNCb2KPzkN3gM4BmkKvFD-ADsgOhE"
+  },
+  {
+   "position": 32,
+   "title": "Warmer Electric Heated Throw Blanket Digital Controller Timer",
+   "product_id": "9743213160709856393",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=catalogid:9743213160709856393,productid:5476884686183319506,headlineOfferDocid:3290382083818880775,imageDocid:11666611982850810202,rds:PC_12501655194804904796|PROD_PC_12501655194804904796,gpcid:12501655194804904796,mid:576462810919765245,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSjusvrdHJw8zQJadxaZGoFq5tkye1-z5pp-TJngYKnfQiG488ignuBcCK1wTkL93UfsW2meepddqXpmka4IXi5_9yUnPX1qQ",
+   "multiple_sources": true,
+   "price": "₹7,166",
+   "extracted_price": 7166,
+   "rating": 3.2,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRjsDgw5dD4llcnhEQR2iKXtk9zAOul-5hZYOrOCRW6_39KEvXcaa6cKh8tHf0E0UhmNgfnvSLZtQgq0AZlSsOiUR772UakGWX11tUk8HqE3H1Y32mocfwz",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/4OZPa3icDclbCoJAFADQFeWzNIMIKUkwGhqR1J-Yrjlj6qjNTalFtZ92U-f3fD8CsVcrXb9JeLx6vBUzvEpL4woZVqBB1-pKdH1fSb4Z1v9b-cfC2wO9qx2fFsVu3jQgRXCiVhWlWHtvnzyb2ULkGXmQLT07F9uLgjEFxhyIxBLD0giMRLRHXsoxPuR44oPh502sSJVQ17USVu_PqWliUi_DIbBDM7OttoNyev8AKJc9qA"
+  },
+  {
+   "position": 33,
+   "title": "ATORSE Electric Blanket USB 3 Gear Winter Warm Shawl Wearable for Travel Home Couch|Home & Garden|Bedding|Blankets & Throws",
+   "product_id": "16363967934062910628",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:16363967934062910628,headlineOfferDocid:16363967934062910628,imageDocid:11967745191293649023,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹5,430",
+   "extracted_price": 5430,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLMxfl0Y0tuZumq3ifXBlKwisNoQeKeDe3be5Dy1lduoue0v2ctAdDO-n-AFnyTe3DCJdTKe2JtZ17zWICqqFN1SOmhB6RSyITqKJCZN-EStE4mE-xtdT_",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/T-w84nicDclbCoJAFADQFU1q9qAgwmekZaRC5U_kzDUFZ8bJa2mLaj_tps7v-X5KxKZdahoI-hgaBEYwF-bo3uINKzqikmttKZumEve1Wv1vaUVssaHxbt8XtX7Rscs6rsyqONt1-KraSB4hBBfMHKbuYNSskx3ozzFFi7kHIojliyEF03UCloYwDjAz5u_T1lHKj4zkwEt7FifDNlVh4GQR8RL0JtwjPbL0-gNa7T3v"
+  },
+  {
+   "position": 34,
+   "title": "Heated Blanket Queen Size Electric Blanket with Dual Control, Charcoal Gray",
+   "product_id": "4984905558384217671",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:4984905558384217671,headlineOfferDocid:4984905558384217671,imageDocid:6986356205301519729,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQdblNTcONna_VbsPXKxD4mmNfXvGqrquJSBnVexhm4ZERVLb4SpN0_TvRB9s0yQdla3W0qL80WEfpqwga2UhbeZmZcNZ_RKrPbjQ",
+   "price": "₹11,487",
+   "extracted_price": 11487,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRxjzNwGTBkGgLCtZgBi0K5d-iwB3PUWLVzNERvWfx5Nsl31LujDRjaOGgjbYZYq3vY_yJHpm-k7qMiX1ZdE0q24tJilxkH0Q",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/CyNqK3icDclJDoIwFADQEzGJxEhijCiBIKISFWFjoGBpmYr9Mp3Eq3kbfdv3_eQAjOuSlNXoNTLIUgGSWhExhxgIElFTSTxvGCM1Xrer_-kbL11ayB_o5PXWxSgs7G4hwgaR91oqkN5QT9fAvU2e6XfBc9A8XqqK-6Y7n8ZHC9MkjMJW7cLH6NisEopFeyB3JUpNuZ3NwSHlUNjy-Qct4DbO",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "Electric Blanket Heated Throw Machine Washable Extremely Soft & Comfortable Fast Heating Electric Throw with 10 Heating Levels & Time Settings, 248",
+   "product_id": "16748843629002593138",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:16748843629002593138,headlineOfferDocid:16748843629002593138,imageDocid:5064740887925936344,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSjusvrdHJw8zQJadxaZGoFq5tkye1-z5pp-TJngYKnfQiG488ignuBcCK1wTkL93UfsW2meepddqXpmka4IXi5_9yUnPX1qQ",
+   "price": "₹4,599",
+   "extracted_price": 4599,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTGUxr5NWmOS6NraaWIpUrF106eB0juZDgm1yW-eYetF-4E_2nulyAN4C6-Qe57M9sKU3uzyfKAp7V8KX_ta_MNfU46f6Qh4NpmRSLMrRQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/rVsNBXicDclJDoIwAADAF5VFSxESY3CBGKQGsaJeCEJZjJTalkT8jc_yNzrX-X4apbh0dZ2yQoxc0RKoGzO0WqpctYVW9J0um57zltWL5_x_rodLJyiOAXkJC6fdPkFY5Hm65UT4poHo0rgP13XdmWMK6IUqH8BNNmHDY_QwXCEQU8uOHBmS6fAeq9Dj9mkWnjOVZxGuCEQVihuIeXdIdpE4xD_YPjhb"
+  },
+  {
+   "position": 36,
+   "title": "Double Sided Electric Heated Blanket Throw Living Room Washable Office Use Home & Garden|Bedding|Blankets & Throws",
+   "product_id": "17116145510412557267",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:17116145510412557267,headlineOfferDocid:17116145510412557267,imageDocid:17018785808651633858,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹2,240",
+   "extracted_price": 2240,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-VpY65enV1cEQDeMrTGeU652uh1PM_WoBxiUwkBal-HeziM69W1bMHs5Y7ZJqqyGddLpE9Eg3dDs3YbDED-hCFIxjh32hulhNez0djzwltp8U41cl4b5D",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Nrs0q3icDcn_DkJAAADgJ0LnV7G1lk7UYrXC9E_j7uZIHHdGHqr36W3q-_f7fqgQjNuKQhrUv5kgWBJ5o8oFF5kokYzal8Jpy1jZFJtu_T97G2LLQ1cpZqlpkCYGyL1AEvQ3j0SmoQ4UnINH0jpTGY1PJ6sln8xlYFoJyAOfG-nyfuy6t4fxibmWW2gYci3NoQslutsfpopqKh1qGpJ5gat5rAVbRTpAtZ4b8Afl8T1G"
+  },
+  {
+   "position": 37,
+   "title": "80W Electric Heating Blanket",
+   "product_id": "18201567332906347903",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:18201567332906347903,headlineOfferDocid:18201567332906347903,imageDocid:17781864484461544700,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "IndiaMART",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR7wVlvIaZhQLZ1CIdHh_FMew8dRGyW56au_AX53kuh60OJOlvuavQEnzznxiOEeuz-XccZ-JqO1GeqkqvP3MGUhrtUakOl",
+   "price": "₹850",
+   "extracted_price": 850,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTuTcdFMM53HRqXJqNBCzV1JcZn62hq1yrErCvGWy0RmdQnW_Zg8g64D1cqXE26HBwSvmHfbtHm8ePffzIaDS5tpcjxNkAJsjon8InbDZFvwg1y9TqOMd2mMg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/iCOQC3icDcndDoIgGADQJyrDyllba6UluWF_rpo3TT8UrYGgZNFT9Tq9TZ3b8_2UWst2alm5gMZIndOezsSgz1qd6gr6UHOrLWspK8Hmava_6SKikwDiRwx0Tch4iA_qEqpo6b1PKIREOHapkGlWjdcFZzM4cLoX52vCXOaMfATqsrIdvHweO46LTGPu5ruieG9S_zjWEm6v6L4I21st3I3I_GTdPRkyk1htCbU5YT-hqD9B",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 38,
+   "title": "Expressions Polar Electric Bed Warmer - Electric Under Blanket - Single Bed Size (150cms x 80cms) with 3 Heat Settings & Dual Safety Feature with Over",
+   "product_id": "15573057825589137675",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:15573057825589137675,headlineOfferDocid:15573057825589137675,imageDocid:15599090066127942363,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+   "price": "₹2,399",
+   "extracted_price": 2399,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQBhs2gFczCo2pLewI3YcEu0bG5UYSxkqepMfrO9DKggk1_w_vS94SjLNEtSDjdzkjhAyXU7R9YnUNeufYeAugTdIh0YKJANNSDuTDOIQ6RylPrQMs5VUFQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/YFB9PXicDcn_EoEwAADgJ1JEXN05F_24VCOTs786rbVV1LSFPJT38TZ8_37fD5OSC1NVSYO7gUuSj2TWTBUq5EWWWMHtTRWs5bxs6Oq-_J9pgdzwcLxmQqMufm9ajYfk6U8Rdvpx5ukJgq_6TnhUdDvDDiitJ-kzfUBjBqsQOBLaVf6uK2YN52RxMFCTANIXiFg9PeY-G6NgawEA7f5o7_x4fhiu-y6OhH5K3PgHXhI-ig",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 39,
+   "title": "Electric Blanket, Heated Throw for Bed, Couch",
+   "product_id": "13944588422999966850",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=productid:13944588422999966850,headlineOfferDocid:13944588422999966850,imageDocid:8058143313098006442,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹1,400",
+   "extracted_price": 1400,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6XcoLv5cgL9TRPXF5sTIBHAaklXcA25BLQF79HZBbzywc6PrOgekh6e3Anww0uAOz-HcpfDsOcpbJjh-EHXKoPPbO4rhzfmp55Us9dK2uZQc8mkNTrlsz",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/RaiNi3icDclJDoIwFADQEwEGLQqJMSWKVQiDwaRhB5-hyFRpkcihvI-30bd93w-TkgtL04oexjeXRa7IrNfVSshU1qDC0GmCDZzXfXV47v9nYT83zxAZFAbvhaDyzPgWUgeJ-GITnDYtBawj24ucrUkSO1veMxjhGFRFw4xijft5Xk04WBQCvDyKAHh2fTDlRKg7hGEWbEa2lB1H6C7M3NWnJIJd1_jx2IrlB_uAPj0"
+  },
+  {
+   "position": 40,
+   "title": "Electric Blanket 74.0 x 51.2 inches 188 x 130 cm",
+   "product_id": "13116571743139967750",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OCTROT Electric Thows and Blankets&prds=catalogid:13116571743139967750,productid:12699702993955255226,headlineOfferDocid:15251979211518057976,imageDocid:8419282392411430669,gpcid:7094383201446632350,mid:576462882314268064,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSjusvrdHJw8zQJadxaZGoFq5tkye1-z5pp-TJngYKnfQiG488ignuBcCK1wTkL93UfsW2meepddqXpmka4IXi5_9yUnPX1qQ",
+   "price": "₹5,065",
+   "extracted_price": 5065,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtnbOOy1frARA0r3ZnTFjgegKx75nKnKr-U7TMKTJjC6NpsyL_DrfzjbYDJPqpN_Mt8wkAYJKeynl7sBrhwktJkmgo-cR-iTEu-Jh_AY1SywxwFN4IO5R8Lw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/XFr1tXicDcndDsEwGADQJ6pZmCERqd9o2WTqYm4Wq-l-6Kr9pOqpvI634dye76cEUGbseYXk2ikoLghy6XeEgTNUvMPbu2fKVqlKiulj8r8xji6jNWcg8zh2_lXjBHd17yTZqhaFoK8wkFRSjY4h21FG6vkgUsZts4W-vus8XZD9Q0XZDoa2wSmhhZO30Mx0aRsgzV20iCeoYssnImWGU__g7Muuov4mDpLh1v4A6lw_tQ"
+  }
+ ],
+ "filters": [
+  {
+   "input_type": "link_with_icon",
+   "options": [
+    {
+     "text": "On sale",
+     "shoprs": "CAESBEoCCAEYBioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czITCAYSB09uIHNhbGUYAiIESgIIAViOrCBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=OCTRO+Electric+Throws+and+Blankets+sale&shoprs=CAESBEoCCAEYBioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czITCAYSB09uIHNhbGUYAiIESgIIAViOrCBgAg"
+    },
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIMCAMSBk5lYXJieRgCWI6sIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=OCTRO+Electric+Throws+and+Blankets+nearby&shoprs=CAEYAyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIMCAMSBk5lYXJieRgCWI6sIGAC"
+    }
+   ]
+  },
+  {
+   "type": "Sort by",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Relevance",
+     "shoprs": "CAEYFyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIKCBcqBBABGAFQBGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=octro+electric+throws+and+blankets&shoprs=CAEYFyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIKCBcqBBABGAFQBGAC"
+    },
+    {
+     "text": "Price: low to high",
+     "shoprs": "CAEYFyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIeCBcSElByaWNlOiBsb3cgdG8gaGlnaCoEEAEYAVABYAKIAQE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=octro+electric+throws+and+blankets&shoprs=CAEYFyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIeCBcSElByaWNlOiBsb3cgdG8gaGlnaCoEEAEYAVABYAKIAQE"
+    },
+    {
+     "text": "Price: high to low",
+     "shoprs": "CAEYFyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIeCBcSElByaWNlOiBoaWdoIHRvIGxvdyoEEAEYAVACYAKIAQI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=octro+electric+throws+and+blankets&shoprs=CAEYFyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIeCBcSElByaWNlOiBoaWdoIHRvIGxvdyoEEAEYAVACYAKIAQI"
+    },
+    {
+     "text": "Rating: High to low",
+     "shoprs": "CAEYFyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIfCBcSE1JhdGluZzogSGlnaCB0byBsb3cqBBABGAFQA2ACiAED",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=octro+electric+throws+and+blankets&shoprs=CAEYFyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIfCBcSE1JhdGluZzogSGlnaCB0byBsb3cqBBABGAFQA2ACiAED"
+    }
+   ]
+  },
+  {
+   "type": "Bed Size",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Double",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIYCAESBkRvdWJsZToMCPjA1QIQ3MfVAjAAWI6sIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=double+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIYCAESBkRvdWJsZToMCPjA1QIQ3MfVAjAAWI6sIGAC"
+    },
+    {
+     "text": "Single",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIYCAESBlNpbmdsZToMCPjA1QIQwsLVAjAAWI6sIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=single+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIYCAESBlNpbmdsZToMCPjA1QIQwsLVAjAAWI6sIGAC"
+    },
+    {
+     "text": "King",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIWCAESBEtpbmc6DAj4wNUCEI_I1QIwAFiOrCBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=king+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIWCAESBEtpbmc6DAj4wNUCEI_I1QIwAFiOrCBgAg"
+    }
+   ]
+  },
+  {
+   "type": "Price",
+   "input_type": "price_range",
+   "options": [
+    {
+     "text": "Under ₹2,500",
+     "shoprs": "CAESDRILEQAAACBfoOJBGAEYBSoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czInCAUSDlVuZGVyIOKCuTIsNTAwGAIiDRILEQAAACBfoOJBGAEqAhgBWI6sIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=OCTRO+Electric+Throws+and+Blankets+under+2500&shoprs=CAESDRILEQAAACBfoOJBGAEYBSoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czInCAUSDlVuZGVyIOKCuTIsNTAwGAIiDRILEQAAACBfoOJBGAEqAhgBWI6sIGAC"
+    },
+    {
+     "text": "₹2,500 - ₹5,000",
+     "shoprs": "CAESFhIUCQAAACBfoOJBEQAAAABfoPJBGAEYBSoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czI1CAUSE-KCuTIsNTAwIC0g4oK5NSwwMDAYAiIWEhQJAAAAIF-g4kERAAAAAF-g8kEYASoCGAFYjqwgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=OCTRO+Electric+Throws+and+Blankets+between+2500+and+5000&shoprs=CAESFhIUCQAAACBfoOJBEQAAAABfoPJBGAEYBSoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czI1CAUSE-KCuTIsNTAwIC0g4oK5NSwwMDAYAiIWEhQJAAAAIF-g4kERAAAAAF-g8kEYASoCGAFYjqwgYAI"
+    },
+    {
+     "text": "₹5,000 - ₹10,000",
+     "shoprs": "CAESFhIUCQAAAABfoPJBEQAAAABfoAJCGAEYBSoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czI2CAUSFOKCuTUsMDAwIC0g4oK5MTAsMDAwGAIiFhIUCQAAAABfoPJBEQAAAABfoAJCGAEqAhgBWI6sIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=OCTRO+Electric+Throws+and+Blankets+between+5000+and+10000&shoprs=CAESFhIUCQAAAABfoPJBEQAAAABfoAJCGAEYBSoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czI2CAUSFOKCuTUsMDAwIC0g4oK5MTAsMDAwGAIiFhIUCQAAAABfoPJBEQAAAABfoAJCGAEqAhgBWI6sIGAC"
+    },
+    {
+     "text": "Over ₹10,000",
+     "shoprs": "CAESDRILCQAAAABfoAJCGAEYBSoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czInCAUSDk92ZXIg4oK5MTAsMDAwGAIiDRILCQAAAABfoAJCGAEqAhgBWI6sIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=OCTRO+Electric+Throws+and+Blankets+over+10000&shoprs=CAESDRILCQAAAABfoAJCGAEYBSoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czInCAUSDk92ZXIg4oK5MTAsMDAwGAIiDRILCQAAAABfoAJCGAEqAhgBWI6sIGAC"
+    }
+   ]
+  },
+  {
+   "type": "Shops",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIMCAISCEZsaXBrYXJ0WI6sIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+octro+electric+throws+and+blankets&shoprs=CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIMCAISCEZsaXBrYXJ0WI6sIGAC"
+    },
+    {
+     "text": "Amazon.in",
+     "shoprs": "CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czINCAISCUFtYXpvbi5pbliOrCBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=amazon.in+octro+electric+throws+and+blankets&shoprs=CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czINCAISCUFtYXpvbi5pbliOrCBgAg"
+    },
+    {
+     "text": "ubuy.co.in",
+     "shoprs": "CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIOCAISCnVidXkuY28uaW5YjqwgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=ubuy.co.in+octro+electric+throws+and+blankets&shoprs=CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIOCAISCnVidXkuY28uaW5YjqwgYAI"
+    },
+    {
+     "text": "desertcart.in",
+     "shoprs": "CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIRCAISDWRlc2VydGNhcnQuaW5YjqwgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=desertcart.in+octro+electric+throws+and+blankets&shoprs=CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIRCAISDWRlc2VydGNhcnQuaW5YjqwgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Brand",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Serta",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIVCAESBVNlcnRhOgoIg_M8EPqGPzABWI6sIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=serta+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIVCAESBVNlcnRhOgoIg_M8EPqGPzABWI6sIGAC"
+    },
+    {
+     "text": "B&Q",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czITCAESA0ImUToKCIPzPBCD2WgwAViOrCBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=b%26q+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czITCAESA0ImUToKCIPzPBCD2WgwAViOrCBgAg"
+    },
+    {
+     "text": "Marnur",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIYCAESBk1hcm51cjoMCIPzPBCIponJBTABWI6sIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=marnur+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIYCAESBk1hcm51cjoMCIPzPBCIponJBTABWI6sIGAC"
+    },
+    {
+     "text": "Beautyrest",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIaCAESCkJlYXV0eXJlc3Q6CgiD8zwQ47FAMAFYjqwgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=beautyrest+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIaCAESCkJlYXV0eXJlc3Q6CgiD8zwQ47FAMAFYjqwgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Department",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Children Unisex",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIfCAESD0NoaWxkcmVuIFVuaXNleDoKCIGRbxCHkW8wAFiOrCBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=children+unisex+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIfCAESD0NoaWxkcmVuIFVuaXNleDoKCIGRbxCHkW8wAFiOrCBgAg"
+    },
+    {
+     "text": "Baby Unisex",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIbCAESC0JhYnkgVW5pc2V4OgoIgZFvEI2RbzAAWI6sIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=baby+unisex+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIbCAESC0JhYnkgVW5pc2V4OgoIgZFvEI2RbzAAWI6sIGAC"
+    }
+   ]
+  },
+  {
+   "type": "Carousel Filters",
+   "options": [
+    {
+     "text": "Double",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIYCAESBkRvdWJsZToMCPjA1QIQ3MfVAjAAWI6sIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=double+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIYCAESBkRvdWJsZToMCPjA1QIQ3MfVAjAAWI6sIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Single",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIYCAESBlNpbmdsZToMCPjA1QIQwsLVAjAAWI6sIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=single+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIYCAESBlNpbmdsZToMCPjA1QIQwsLVAjAAWI6sIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "King",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIWCAESBEtpbmc6DAj4wNUCEI_I1QIwAFiOrCBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=king+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIWCAESBEtpbmc6DAj4wNUCEI_I1QIwAFiOrCBgAQ",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "On sale",
+     "shoprs": "CAESBEoCCAEYBioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czITCAYSB09uIHNhbGUYAiIESgIIAViOrCBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=OCTRO+Electric+Throws+and+Blankets+sale&shoprs=CAESBEoCCAEYBioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czITCAYSB09uIHNhbGUYAiIESgIIAViOrCBgAQ",
+     "input_type": "link_with_icon"
+    },
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIMCAMSBk5lYXJieRgCWI6sIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=OCTRO+Electric+Throws+and+Blankets+nearby&shoprs=CAEYAyoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIMCAMSBk5lYXJieRgCWI6sIGAB",
+     "input_type": "link_with_icon"
+    },
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIMCAISCEZsaXBrYXJ0WI6sIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+octro+electric+throws+and+blankets&shoprs=CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIMCAISCEZsaXBrYXJ0WI6sIGAB",
+     "input_type": "link"
+    },
+    {
+     "text": "Under ₹2,500",
+     "shoprs": "CAESDRILEQAAACBfoOJBGAEYBSoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czInCAUSDlVuZGVyIOKCuTIsNTAwGAIiDRILEQAAACBfoOJBGAEqAhgBWI6sIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=OCTRO+Electric+Throws+and+Blankets+under+2500&shoprs=CAESDRILEQAAACBfoOJBGAEYBSoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czInCAUSDlVuZGVyIOKCuTIsNTAwGAIiDRILEQAAACBfoOJBGAEqAhgBWI6sIGAB",
+     "input_type": "price_range"
+    },
+    {
+     "text": "Wool",
+     "shoprs": "CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIUCAESBFdvb2w6Cgj9vTUQ37M1MAJYjqwgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=wool+octro+electric+throws+and+blankets&shoprs=CAEYASoib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIUCAESBFdvb2w6Cgj9vTUQ37M1MAJYjqwgYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Amazon.in",
+     "shoprs": "CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czINCAISCUFtYXpvbi5pbliOrCBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=amazon.in+octro+electric+throws+and+blankets&shoprs=CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czINCAISCUFtYXpvbi5pbliOrCBgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "ubuy.co.in",
+     "shoprs": "CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIOCAISCnVidXkuY28uaW5YjqwgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=ubuy.co.in+octro+electric+throws+and+blankets&shoprs=CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIOCAISCnVidXkuY28uaW5YjqwgYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "desertcart.in",
+     "shoprs": "CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIRCAISDWRlc2VydGNhcnQuaW5YjqwgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=desertcart.in+octro+electric+throws+and+blankets&shoprs=CAEYAioib2N0cm8gZWxlY3RyaWMgdGhyb3dzIGFuZCBibGFua2V0czIRCAISDWRlc2VydGNhcnQuaW5YjqwgYAE",
+     "input_type": "link"
+    }
+   ]
+  }
+ ]
+}

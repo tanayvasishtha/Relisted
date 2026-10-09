@@ -1,0 +1,1322 @@
+{
+ "search_metadata": {
+  "id": "6ac89cefde1f33b83b78b738",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/zGITBdH02TOFmeQ7SYJt1pgDBmKZX2CJKksg_gM7Z4Q/6ac89cefde1f33b83b78b738.json",
+  "markdown_endpoint": "https://serpapi.com/searches/zGITBdH02TOFmeQ7SYJt1pgDBmKZX2CJKksg_gM7Z4Q/6ac89cefde1f33b83b78b738.md",
+  "created_at": "2026-10-09 07:51:11 UTC",
+  "processed_at": "2026-10-09 07:51:11 UTC",
+  "google_shopping_url": "https://www.google.com/search?udm=28&q=Happiness+Light+LED+Lights&hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/zGITBdH02TOFmeQ7SYJt1pgDBmKZX2CJKksg_gM7Z4Q/6ac89cefde1f33b83b78b738.html",
+  "total_time_taken": 5.5
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Happiness Light LED Lights",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Happiness Light LED Lights",
+  "shopping_results_state": "Results for exact spelling"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "LEDHOLYTNight Light for Kids, Cute Silicone Nursery Pear Lamp for Baby and Toddler",
+   "product_id": "14704399011424087732",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:14704399011424087732,productid:5403909669292937904,headlineOfferDocid:2574639227449630762,imageDocid:12311732728965540944,gpcid:9927589214876429115,mid:576462808316157441,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹3,469",
+   "extracted_price": 3469,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSv5x4oHqeK-pBRmfqjRHnFhkjuikKbzUYa-4YF-IcbhF1RxmWtsjUj4NAEoJADK37atXO-1mIoQd9JfQRR5SFl4lS8eXxOrPyYHwYIoONjcZkh7AG0P0Bd",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/6NNqaHicDcnbDoIgAADQLyJ12cy21nBlXjZNXCt6U9AQL2BQWR_V__Q3dV7P98O0lmplGNVAbi-pKwp0OZizq9KFbsiMiN5QTEjZDNfNuP7fCibU3ZP8sZhsEYxVDKSH-nrkKBh81vJ708bl-4gLYGMfhKRkvoWm_qQVP3I7gTsRwW08dwp9ToHVhyKjblRnCC1yv7O7fFmdp_R2eOHgiUORJpxcWubAvXkwPfoDRls9zQ",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 2,
+   "title": "Vipulgraphics Premium Customized Round Shape Photo Led Night Lamp",
+   "product_id": "11547138912316409044",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:11547138912316409044,productid:8209941321328603002,headlineOfferDocid:9987720247787986341,imageDocid:3426219822109022169,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcExQPOv___9AJ-r_______________________9MNutGL-s4Gurp5_3QzPnBvPfd2vtqW-6DePCWjPJaSOz6-v-up_WnoPQK2PBhAAAACnRSTlMA____T6XLFJPrH4xwKAAAATlJREFUOI2Nk1m2hCAMRJXYDhBmh_3v9IkkgLbn9KsfEQIpbkLXVQ3zuAixjPPQvWj6iEaf6bk-i4fm-_bluX6mag6Zyqwzxmj-mZ7r1iMkoT_0LSKfr3uQfZZU6FPI0vpzyMuX0BWnOcEGvJs-1Ua-_67SLMC6KgTVy0g8zoA88udOeSUWmzt6NGT85NsExHJdu9FgYIQh5VbBFggF6Ciqh2QCfSzbT40EQWzIF5QSMJSDlo5HpuUgcef5EiC0B9WAshzQ1NHFHkDRQcApxptpbfagLqhgyCR3SmUgbEqlLF2TQGlcTYmAGjAw6l1J8BmTvqCByx65WGtCrVKxILdFLueHy-2YE8OAnGHihnGqYZDWA1msLXdA6bgTZCQIt6a1AUiRSvHV1kK_t_3vh_P76f3j8Sa9Pv8_2TEOw1l-JCgAAAAASUVORK5CYII.png",
+   "price": "₹294",
+   "extracted_price": 294,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWJaMleCI4SOIktHjTnpyjSGotyiocVqsG1XAsbLCK1sK-AidiBJg8e3JkBcSnWSizRu1CAzZd9jUlEqgLALHv37Nf1eH6E3MViAw5Yt9LW-idb00-uddi",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qypfpHicDclLDoIwFADAEyE0-MPEmEIMiICJVVB30lZ8qKXYpwYP5X28jc52vp8zojYT25aK3zuNUlhYKtKrDB4ReI83N9ucG61BVbN2-r8JzYQXclbEx_Qqg0WfrRYXjOqN0l3NwgY7aHjempDsqCmTYEnM0qIgwI-rsXTji8-ZKhi81w8S0PdBePX2Om-rhCbR0x1lJyKj4dxNc6CvwR69pLBAlI5jPYSAH02jPbk",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 3,
+   "title": "CrazyDeal New Colours Romantic LED Mushroom Dream Night Light Bed Lamp genial comfortable",
+   "product_id": "16961793315991226902",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:16961793315991226902,headlineOfferDocid:16961793315991226902,imageDocid:3260168524162358130,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹736.67",
+   "extracted_price": 736.67,
+   "alternative_price": {
+    "price": "AED 28",
+    "extracted_price": 28,
+    "currency": "AED"
+   },
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHCITUhv_vy1fIce8CDe-xjAyfIZze3xjPPRk9E9vRSbHFeJyafa4JPScqOwusmfPSXrOLcdu0Dob7Hg4XS-Jv2Qyzpw5LYHSz8Q3Tr3lK8v8eBA_vXU08wg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/xQ4dXnicDcnbEkJAAADQL5JKTctM04gKmVw2M-rFsHbpxsZa1lf1O_1Nndfz_ZSM0VaTZVyhRlCGc4ll1XxStCxlNzRB9Utuy5rSW1Vs3uv_afopVw8IWoZ9jkqecDEjNsLAMLE03HVB7OuIleHu--FD3ak8hJm1x45ISbpwfIjeXt-1L-LDuPFclHdTs85WVrGIoeTweSBG2i_diwVHECjnRnkeAQd4qyc8jqagL37bXD8k",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "Omniverse Happy Birth Day Cake Fancy Night Lamp 234 Night Lamp",
+   "product_id": "2671375329242515507",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:2671375329242515507,productid:8327029861842549104,headlineOfferDocid:4679065229096686534,imageDocid:2976521144448056948,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/B8XDvTaphzAREtaFgH1An7mO8pNrM1Dz7LOYpjDJSRY.png",
+   "price": "₹138",
+   "extracted_price": 138,
+   "old_price": "72% off₹499",
+   "extracted_old_price": 72,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvNvM87uM3Rzba0KMQlYDf2c8BuWExVITRmhwyiECk6coBMk8YkbDJdLT1x4b8DcjVcLbXZpAua0rKWxgE0amiytepHZ_OuSrPLqupPbdvfjBldVWxsiO5",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Y97xCHicDcnbEkJAAADQLwrdZaZpiOnmFg3x0thdlyUsdkUf1f_0N3Vez_eTUUo6iefjCrYjoTGaUFAJXNrRiGLIwbrku6wmBFfprtn-T5JNtDlAtzd7Q1wzY-68QSRcjOszUJMZFBXma4N3ujll9hqxti9WsFaMQgwKoJ6RfpsOCyCqMPegDu4hkVkktBd_SDUhKvFIY3IMHxZzW1tvGLEB6pNceSLPHzpsLX9FNj-R",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 5,
+   "title": "Sensor Led Night Light Color Changing Plug-in Led Mushroom Dream Bed Lamp",
+   "product_id": "7059117861926215184",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:7059117861926215184,productid:2153346874517711775,headlineOfferDocid:13429958795222045601,imageDocid:3260168524162358130,gpcid:7977079667355098243,mid:576462808315357743,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹1,365",
+   "extracted_price": 1365,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHCITUhv_vy1fIce8CDe-xjAyfIZze3xjPPRk9E9vRSbHFeJyafa4JPScqOwusmfPSXrOLcdu0Dob7Hg4XS-Jv2Qyzpw5LYHSz8Q3Tr3lK8v8eBA_vXU08wg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/xQ4dXnicDcnbEkJAAADQL5JKTctM04gKmVw2M-rFsHbpxsZa1lf1O_1Nndfz_ZSM0VaTZVyhRlCGc4ll1XxStCxlNzRB9Utuy5rSW1Vs3uv_afopVw8IWoZ9jkqecDEjNsLAMLE03HVB7OuIleHu--FD3ak8hJm1x45ISbpwfIjeXt-1L-LDuPFclHdTs85WVrGIoeTweSBG2i_diwVHECjnRnkeAQd4qyc8jqagL37bXD8k",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 6,
+   "title": "Wifton Xvi-919-tgstar Decoration Lamp Usb Car Ceiling Light Romantic Night Light Portable Iox-usbsly8-tg-263 Led Light",
+   "product_id": "1705577979669662070",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:1705577979669662070,productid:151560358901733747,headlineOfferDocid:9372457900620322425,imageDocid:18027997087485659216,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/B8XDvTaphzAREtaFgH1An1dexogtNa_qTKRc9D5Wd_Y.png",
+   "price": "₹436",
+   "extracted_price": 436,
+   "old_price": "56% off₹999",
+   "extracted_old_price": 56,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpB-3003T2lYRa1Tse-Yq1vU2Vj6aWfmX8RSPsRaEWJfqqEQqV31PE8dpAB6Hhbgk6UwJBfaqXQKW8MrbJFLIpz3241qun08afD4HWnG8d",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/VpGQ_3icDclJDoIwAADAFwFlCakkxkBEEJewF45lR6W0tGr0Of7K3-hc5_sZhKDcUpSW1MuLiraRREWA3HOBxVjL9TwpfJgpHUm_Yev_Wfa5WXl1Qh1JB0BPtVsZYzXlrVQy9ZFp-cXEqJsKGCchj7GLgo4xN2K5roYubKjtmP5Q9VczewZOh1kRHRA8LVWwO-7pW9cMld0JgLjbGj4iHmx-3i44Fw",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 7,
+   "title": "Nl Traders Love Couple & Tree Night Light With 7 Color Changing Night Lamp",
+   "product_id": "13915890728267376365",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:13915890728267376365,productid:17468735546964925382,headlineOfferDocid:11161951305470099190,imageDocid:791350324790794048,gpcid:5465916653106904901,mid:576462568159251889,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/B8XDvTaphzAREtaFgH1An1KHNfhuXfPtflBHNCyd1LY.png",
+   "price": "₹220",
+   "extracted_price": 220,
+   "old_price": "56% off₹499",
+   "extracted_old_price": 56,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT7_uTq2CQBwLlF9C18d7tk_8EcnR8C3UjhTVkiMR9Vqs5jCN_vF1eIGG1JQUsdInvHZBjFl7HOvae_pNLPQQ1dsa-oI1jK1T9yt0fahBYlkBzj0Gcu-LJN",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qLk8EHicDcnbCoIwAADQL_KyIrxAREpOzSxDhXoR25Y6bc42Dfuo_qe_qfN6vp9aSi5sTSMMPWcuCVbkjelqJWQpG6Si_qGJuue8YdVmWP_P3sbYgig1ijEdFm7ivKLOs1xgYkO2hblD7Gy6y4zWad42h7OVD2JF3biYPEACCEGYZAIHbPKvDvU6wz9OJSl4HJ2SBGBRKn0A6B6k1iz1e1k7l6513lSHaFSiMP4B2p09AA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 8,
+   "title": "Ausaye 2 Pack Sensor Led Night Light Plug-in Wall Lamp Color Changing Mushroom Night Light for Kids Adults NightLight Bedroom,Bathroom,Toilet",
+   "product_id": "17823928115678517843",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:17823928115678517843,productid:5545428255383153531,headlineOfferDocid:3173200128194031092,imageDocid:1388838013944758897,gpcid:11036961496687299679,mid:576462380462174342,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹1,545",
+   "extracted_price": 1545,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTa22RXdHm4D37oAcwdXAXpE0Q4zRiJPXqKe8n0IZvHkE3J27Tth-pv_p7QGK4znsOaUauCwWA46xmZ_s0WzRl6yMo6gzA1sOx1ECUlcB8",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/gLYDLHicDcnbCoIwAADQL8o7akLEMtGUMkVRfBHbRCXdZlve_qbP6m_qvJ7vp-WcMksUawxfK-U12vEHloWG8Yp3UIBkEFlLKO1wcxwP_7PADe1dmFSKEufIG7SzahAAZ5SDnDpSpG1x59_zMahNLF2KyXs6qq8YCW93dCqpEbmBtmEWVmn1tucMaPoyFCWTsi3u9fVK9GYDMgsX2bHTHp7MH9S7ONs"
+  },
+  {
+   "position": 9,
+   "title": "Circadian Optics Lumine Light Therapy Desk Lamp",
+   "product_id": "8180730929488480727",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:8180730929488480727,productid:1420383833163436515,headlineOfferDocid:18076809561518025269,imageDocid:3264239636120786662,rds:PC_8633116698569980709|PROD_PC_8633116698569980709,gpcid:8633116698569980709,mid:576462700128959587,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹15,627.87",
+   "extracted_price": 15627.87,
+   "alternative_price": {
+    "price": "AED 594",
+    "extracted_price": 594,
+    "currency": "AED"
+   },
+   "rating": 3.4,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT2B1pAq976cAl_OGatQ4gwSfqOw82Ff6fJ3SP4oWGsh1aemx9Dd-1q6PkhiguvHKYOEtMKrhdu63mgmcOCZnMf5s2fKxpOARWvgbvjDHnYJbCJ1yHAG44D",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Liw5tXicDcltDoIgAADQE5nDjLKtNcrS6Qr72Jz9aQoCViIGmV6q-3Sben_f9yOMUXpu26Ukz0GZklqmkM6Ia5ObioxIU9taNEpVki_bxf_maE-9gJydFVCo9aaQoMcVB7k5uPx9Yi1-z5wtgywanxK3SQMtQF7WvedTC7QwuYuKv7owzvDG7OKnoC84rnlN8Poid2yiHRb3CqNj2vGiu_mhzKJiHYEhRIHr-j_3oz14",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "Circadian Optics Lumine Light Therapy Desk Lamp",
+   "product_id": "8180730929488480727",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:8180730929488480727,productid:1420383833163436515,headlineOfferDocid:15683902170801031806,imageDocid:3264239636120786662,rds:PC_8633116698569980709|PROD_PC_8633116698569980709,gpcid:8633116698569980709,mid:576462700128959587,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹8,807",
+   "extracted_price": 8807,
+   "rating": 3.4,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT2B1pAq976cAl_OGatQ4gwSfqOw82Ff6fJ3SP4oWGsh1aemx9Dd-1q6PkhiguvHKYOEtMKrhdu63mgmcOCZnMf5s2fKxpOARWvgbvjDHnYJbCJ1yHAG44D",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Liw5tXicDcltDoIgAADQE5nDjLKtNcrS6Qr72Jz9aQoCViIGmV6q-3Sben_f9yOMUXpu26Ukz0GZklqmkM6Ia5ObioxIU9taNEpVki_bxf_maE-9gJydFVCo9aaQoMcVB7k5uPx9Yi1-z5wtgywanxK3SQMtQF7WvedTC7QwuYuKv7owzvDG7OKnoC84rnlN8Poid2yiHRb3CqNj2vGiu_mhzKJiHYEhRIHr-j_3oz14",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 11,
+   "title": "USB Intelligent Voice Control Night Light 3 Color Temperatures Voice Activated Ambient Light",
+   "product_id": "7729620651265599110",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:7729620651265599110,productid:6974361355098753944,headlineOfferDocid:414924765219000831,imageDocid:8977531625913848103,rds:PC_16686888783460763941|PROD_PC_16686888783460763941,gpcid:16686888783460763941,mid:576462542884163543,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹399",
+   "extracted_price": 399,
+   "rating": 4.6,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTEjIc-HNHhGkruQsL75GlJY3KRvvkslFKDcs9wmzwq-y769tO95AYgVGAT2qi54dTZ1_2Ep68BYLOCcmXRueI8pzFhMx7w",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/HL5lxHicDcltD0JAAADgX4RFXs7W2lUcEcuspS-tjjl5O-4QP6T_1r-p5-vz_RDOKTMlKWtwP1OepQJ_NoqYM_7gBRZxW0uMtJQWTb7tNv8zYZAChGPr5WLBCRyCyn44M19XUXVMFC8ax5JVtnfADEz1MnXCrGuAh0CFSX5BMJa7Ql2n8W11ly2qGbvED_e4vkZD5hp0scnprU8_kCI1QQ"
+  },
+  {
+   "position": 12,
+   "title": "GoHigh Dream 12 Volt Smart Strip Light",
+   "product_id": "17638630245708653396",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:17638630245708653396,productid:2435147965420828640,headlineOfferDocid:14711153483954781777,imageDocid:2463296964479993938,gpcid:1959432130606057091,mid:576462874576266196,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "GoHigh",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAqFBMVEUAAADiPfReG90tB0dWDHQTEHAeGrkAAAAoHtJsGdX_-_9GG885F7XiGvvIF_RkEZvm5uaObJHgL_ThJffmTPdvEq3qXfu9FuX5pv_UFe6DGuUiDWemGOvxcP2zGO6PGeebGen1if390P5aPV3Bd8gHBisXFpn_5__19fXKStevr6-kE8kOAxBKCFePE7n9vv-_vL-hR6vzf_85HDx5cnrSlNi-n8D_IFQTCdCDAAAAOHRSTlPO________________________________________________________________________zlx1oPkAAACrSURBVCiR3c9JEoIwEAXQAEICYUYEREVGJ5yH-x9NCKWykPRa_66rX1X_RpgfhP4elDIAZAUAVQUAAoCYAB0UUnKBTpqOw0CitL3wAdfzRnC9KNgdfMuyfFUUqY57oEjnk7HgGpEZLGbLZKqqItu_wD1ML63wDMM0OxHjHnCOYZGzuZb2oybSu0sHsszB9feyDNxWj8FnGThpOR_Y2uC-A5oNgPUWALz8BngCOjwgyEx3xGYAAAAASUVORK5CYII.png",
+   "multiple_sources": true,
+   "price": "₹11,990",
+   "extracted_price": 11990,
+   "old_price": "Usually ₹13,120",
+   "extracted_old_price": 13120,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShrRKJERGDagJTIHSKz1ljxbb_MNGe3JCa70n7m6LIQpyIrzM_-veTtf_ID7q4oYDt5ho1JnpcyA62zTf_IkRwSHlmBWeR4MbtXEPsNoeDdLABEiRB8S1r5A",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/IBbwZHicDcnxDoFAHADgJ1KihM2sXEtR464Nf7W6Thd1d-o31FN5HW_D9-_3_XAA1S11nQna9gpYMYJcTLSygwwqqlHZ6B2XSlWiXD9W_1s6cbHwKeEt3oUe9lFWhkmwJbvBqG_vPE-j2GfTcJPZY2E3s31wVH3QDlE6erIErmmA7IcpLwgsLo1QKNo7s8mQ_OOOX2RbN-6JYTPK4ewdulgyVOwd16uwOydGazk_nJc-SA",
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 13,
+   "title": "One94Store Plastic Ganesh LED Diwali Lights 114 LED 3 Meter String Lights Window Led Lights for Decoration with 8 Flashing Mode for Festival Home- (6+",
+   "product_id": "11151848030512534538",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:11151848030512534538,headlineOfferDocid:11151848030512534538,imageDocid:11952336630178806185,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹284",
+   "extracted_price": 284,
+   "old_price": "Was ₹499",
+   "extracted_old_price": 499,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSnMdTsjMDmjP52PQY4vrQqIFY1lgA07pBUFL0gnsjiB-nl0SZE0w-xM3FoaCX1_YwpnISR_-GiuO5_xpeGr4I6lms-jV6OgEBS89HzfwY",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/lv4S7HicDcnhDkJAAADgJzpOodhao5AtIdXSH9PRceNc7op6mx6rt6nv7_f9VEIwbspySVH_YqIsgLhSRcJc5KJGEupamVcdYzXFy_vif6a1KwwPJTQoDpwE65ZE2iSKU_XZx3ffTZUGW3DG7KO7hZhyUtuANjC5OHAAYzB1u3x1VrJ0YNRP9hnw6keoZSMrvV719ablgJz0EDt2Mjc279uQ_gDyYTjz",
+   "tag": "43% OFF",
+   "extensions": [
+    "43% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "PHILIPS HUE Gradient White & Colour Ambiance Smart LED Lightstrip",
+   "product_id": "8358203859854740547",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:8358203859854740547,productid:5973688427748825598,headlineOfferDocid:5219233550690366122,imageDocid:8612486949672469442,rds:PC_6769104467489726692|PROD_PC_6769104467489726692,gpcid:18023148743228133759,mid:576462914939003855,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹12,281",
+   "extracted_price": 12281,
+   "old_price": "Was ₹17,246",
+   "extracted_old_price": 17246,
+   "rating": 5.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7a_A6bIPELHRP_fPZ3UyNCuQTVkkczlF7R-cJGM3LLvk6ULYwvkYkIxdyJB5v51pfkwn1hwM94rYXutBuU5cFIHw1NsmWitLrWpaObw2sX_LObJka5NVS",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ObJcMHicDcnbEkJAAADQL5JBNJlpGpoUsy7JtRfDImbDZpdNH9X_9Dd1Xs_301CKicrzVQ_HBdOq5GjRi6s7oTlt4QoOHU-aAeO2v--fu_-pmlNuTzDY5JmmFKZ3BGffy2rvJoWLc5guQYQQfD-Mjc9B62RLAMxICUHKZpQi81Uuli7PsoBrxHqhYfZ2PabJRPUplKFhnpngkC5uKRhjnLsFE0mSAbewUC470fUHH28-iA",
+   "tag": "28% OFF",
+   "extensions": [
+    "28% OFF"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "ENORMITY 6 Pcs Blue & Red Rice Shape String Lights(Onesize)by Myntra",
+   "product_id": "14667310687313075738",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:14667310687313075738,productid:9415896620917922110,headlineOfferDocid:11393422175533161298,imageDocid:10725778010901849167,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Myntra",
+   "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyM3Nzc3Nzc3NzU3Nzc3Nzc3NzcyNzA3Nzc0Nzc3Nzc3Nzc1NzU3Nzc3Nzc1MSw4Nzc4Mf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAADAAMAAAAAAAAAAAAAAAAAAwYCBAf_xAAnEAABAwIFBAIDAAAAAAAAAAABAgMRAAQGEiExQRNRYZEFFGJxof_EABoBAQACAwEAAAAAAAAAAAAAAAADBQECBgT_xAAsEQABAgMFBQkAAAAAAAAAAAAAAQIDBBEFITEy8BNBYXGBEiJCUZGhwdHh_9oADAMBAAIRAxEAPwDthVFAGvJ9UASeD7oACpoBYOp9VkEq1ipT2Irhhsj6FusMqMbkyCufBBH6BPIjzzkR0q6Ersr69MKF0tlKko2Iudb6cPLXI17HGLj2KPrOZR8Y-rosHLqFjZU85p24lPmZZV6TMJ72-FadKJfrcSRbH7EntEzpeqcPz7LInUeq3KEU4VdNYbMLIOU-aGW0qlcCT-Owq7aYZetFOIN86ouFQnKDEAd4j-k1HajEnW0bdTAvY9rtiTiRETuJd811uF32EHV4etre2cbTfsuF3qGQCpUSJieE6_iK3s1qSjOw6-uOvY2g2y1Jtz3ouzclKctL6llJMTvuayc-YE0AZj2oAzHtQADFAf_Z.jpeg",
+   "price": "₹497",
+   "extracted_price": 497,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRe7vZPl8mi17LhD0dmY6L7UIEKSCT62QUsqorFxTeUMhB0_ZXONf8RZ_urQgQKtxfdoLzt8Pac2eaE-iW3InzmNtLXP8lg9KaNURi5zbw0FtqgaeRH8SxZ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/AMtej3icDcndEkJAGADQJwoxscw0TT9UQ0JMcmPW2tbO-PdV8lC9T29T5_Z8PwVAOxiiSGvSv1ug-QyyWhHYABg4EUhTiUPRtC2v2apb_s9Yu7m-JwHVnolXoorPNafYSXl1Ux0tOpr2ZRuqsh8NXdNbY0ijU7GR0iQ-u3cUJOmj95lvw3jPG2cC5GEiU2zO-FU51lPlghN7qGS6jd0o4Ispe0kWdAzT4IAuY_IDDeI-Qw",
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 16,
+   "title": "Murphy 3w Aura Led Deep Junction Box Light, Color Changing Red/Blue/Pink, Pack Of 25 Ceiling Light Ceiling Lamp",
+   "product_id": "10667738328363682647",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:10667738328363682647,headlineOfferDocid:10667738328363682647,imageDocid:4530559098466180577,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/B8XDvTaphzAREtaFgH1An0izdmoD9IlNrRzsVitiMXQ.png",
+   "price": "₹2,199",
+   "extracted_price": 2199,
+   "old_price": "64% off₹6,125",
+   "extracted_old_price": 64,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTZHlmHMAEuPwgj_r_FnrE1xsaxPB3d1yba-KR55gz8GX9tHwNXAkBJyoAKZa7SCHCcSdi9bcBXY6xjH_7eEDgOBO4mtAEnmuBso0J2Zh4VvL6wjIoLpjyu",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/CcgXv3icDcnbDoIgAADQL0qzm9nWGphFapdla-aLU3SoJZBgSh_V__Q3dV7P91NIycVC13OKG8Vlng1kSg2NCJnIEmuY1booGOclJavn8n8LcMisLb5E6FGjPXDaU0equIk3tHGMXiT9CY4zQ6XJwDtPp-Q934aWRN0hBHfoKga8KDEDG9k4yEorxTC8zfoKxWburMkRHie1BA6tWyjY0B1FxeT68mddtWM-r1T7AzO6Pko",
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 17,
+   "title": "Solhice Color Changing 20 Photo Clips String Lights 10ft, RGB Pictures Display Hangers LED Fairy Lights USB Powered, Remote Control with Timer for",
+   "product_id": "4251788013746841795",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:4251788013746841795,productid:17974401139710402358,headlineOfferDocid:11698314457399182742,imageDocid:7812401889826357475,rds:PC_3573002244430398261|PROD_PC_3573002244430398261,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹967",
+   "extracted_price": 967,
+   "old_price": "Was ₹1,642",
+   "extracted_old_price": 1642,
+   "rating": 5.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2Tdy_atrZENwQBw5G8QaaM7DMfjWxTCGMIZSbIuUVyPtr2N4V3R_LkgQ0GeBKHW6Of7eoqErdfcZYxVdBKEYiJtxbnR5OKx0pKT4lWqM",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/58GeFHicDcnbEkJAGADgJwrjkDLTNCmzSYjEcGPYderAWn-Dx-mxepv6br_vpwagg8bzRYvZTKEgC8hbiasGyKDBHO5e_FB3lDZtte03_9N2DlkjfBUDMqcZsMRwRk8fFbTyssxWD3Z5j6Zgj2wzuebm-xbOF2CiI4eSn54flSegQreO0dIt1aLrDUZKnMRTSHTLiJsTTHnrK641CdQK5GfU2z8V-Tm2",
+   "tag": "41% OFF",
+   "extensions": [
+    "41% OFF"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Silver Buffalo Peanuts Snoopy 20ct Decorative String Lights",
+   "product_id": "10238438850126109985",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:10238438850126109985,productid:904212669856139892,headlineOfferDocid:176222674051705361,imageDocid:12640184369675011005,gpcid:5689931940191141646,mid:576462459380261077,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹3,323",
+   "extracted_price": 3323,
+   "old_price": "Usually ₹4,000",
+   "extracted_old_price": 4000,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQsD2dBHfUaiMe1Xj4yGfE-o72V-X2mJSPpYgK-sQxr0gdUo_wFu0R8BhPoBL9OsMb83GKl-O5b1WtoP-Fgf3CQo6H2CbqR_x2uUP9RC5g",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/A1AhXHicDclJDoIwAADAF5WliAKJMYICEZHFoHgilKVghBZaIjzHZ_kbnet8Pw3nlBmiWPXFuFBelYCjXhYw4zlvC6EgncgaQmnb492w_Z-xv5S6U0TsAEvTrZO89Ss5fa4Wpz4CsoE3kMLudA3pA3uARfMo4TIh2duepFgzm5CYZz1gPtIUx3uBQEXynZMQ2LhWrIisXWihIc5mOCWhHlsq_gHESzfI",
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 19,
+   "title": "Gesto 45 Meter LED String Lights –Multicolor 8mm Big Led Fairy Lights for Decoration with 8 Modes | 360° Glow Waterproof Lights for Home Decor Balcony",
+   "product_id": "16367428497329754843",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:16367428497329754843,headlineOfferDocid:16367428497329754843,imageDocid:10619750734362697028,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹349",
+   "extracted_price": 349,
+   "old_price": "Was ₹449",
+   "extracted_old_price": 449,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSUEB9eyieDHtVSxdeePJgAZd2HC99mWvghp9SXAST3Opj3iDVo1chyQlZXyKGU5ls1oObgs9fk7q9RmYUQPC5EvAzVBz1X",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/OMcylHicDcltDoIgAADQE6VZcw231vBjutpSI838l0BAqWAwlx6ku3Wben_f98ONUdqzbdrj16QMJQvT9EuLaXMzAltYdrbmUinRs92w_Z8HjwTEGBWRD-gkaJiYEr0JpdmewZqskgCA7jIyrgCqIDqvU_VYi7CUDuZT3tbVdIgLt9WOTBumwf25GcCpuxZ5FrjRCOfSn53qB7ADNek",
+   "tag": "22% OFF",
+   "extensions": [
+    "22% OFF"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Motivational Neon Sign Led Sign Lights Neon Signs for Wall Decor",
+   "product_id": "3259546853197976561",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:3259546853197976561,headlineOfferDocid:3259546853197976561,imageDocid:17914348823180426881,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹1,663",
+   "extracted_price": 1663,
+   "old_price": "Was ₹4,205",
+   "extracted_old_price": 4205,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQiIUhlzvpMW21EwIbSXYgSUo0IBm6MG3UVd6XPMB9xZKtxGTCDF3AdzD2JyGIXsmkWnP4S8zYiJxur1cI--R_H4vVKiT2fIh7MSXQI8ug",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/IeEzc3icDcnbEkJAAADQL0IuI8w0DSktoyG31UuTJXYKG0v4mz6rv6nzer6filLSaxxXNKibCS1yhmYNz5Y9vVGMWNTWXF-1hOCm3L42_9P0U65ayMcgqp7LSNxE4PdvkAUwLYOoXQGjll1LjOJchp5rqNPFoZMV7syDqOeLKdizBWBfP5LGkwJlSbE9DR2PAMOcr0dpjB0cCndQrd0A-kAZyh_1Mzi0",
+   "tag": "60% OFF",
+   "extensions": [
+    "60% OFF"
+   ]
+  },
+  {
+   "position": 21,
+   "title": "3D क्रिस्टल रोटेटिंग महादेव गॉड बॉल स्पेस डेकोर लैम्प | स्टैंड के साथ नाइट लाइट | Dimmable वार्म LED लाइट | बेडरूम-लिविंगरूम-होम डेकोर | जन्मदिन",
+   "product_id": "7978397187026054119",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:7978397187026054119,headlineOfferDocid:7978397187026054119,imageDocid:12394066271616203371,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹599",
+   "extracted_price": 599,
+   "old_price": "Was ₹1,599",
+   "extracted_old_price": 1599,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRMWJgw8azbC-4Dwy4p3UWFuBWRN7w2JsMC9R36mfCMz4XG1bh6Sv57ZeqQjl5VosfvAYLlUrXj-uZcm4fzXBhMqlbZ-I9nJETfF8uuowWIH4pn7P1kGfjH",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/uiaI0HicDcnbEkJAAADQL5KRdZ1pGlQuk6aUyBvLusRa7WLyUf1Pf1Pn9Xw_FWOE6jxfYPh6E1bkHMuwuCopS1kNV7DveFr1hNS43A6b_-nGKddsGPiRV85qumQWB3bzGxAxjA6jGQUnZV571Le0QJQ7ZPkLiG0hq-TrJClJMVyaVrr3FE3G49iGr7jhxgR2AC2xWflDmyWcq2Fvf0MHdRz7OXIdQLByFp42apwf-TQ9sw",
+   "tag": "62% OFF",
+   "extensions": [
+    "62% OFF"
+   ]
+  },
+  {
+   "position": 22,
+   "title": "Poov string Light - Pink",
+   "product_id": "1241621875868385012",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:1241621875868385012,headlineOfferDocid:1241621875868385012,imageDocid:3513876271000256080,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Pacha Life",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAUVBMVEXReADPdwDPdgDQdwDOdgDNcgDWiybdn0zNbgDTgRPViCDThBnWjzDjwJPisnLkuoLep1_epVnmwY_New3DhTTGk1DIjT_LhCXQoGHNeQnLfRY9qV8tAAAAxklEQVQ4jdWS2w6CQAxEabsIeENdROH_P9S2tAVj1BdjwiQUtpzMTheKYg2iL_qBAyAr4VsV_gBRlkqJAQIA9uICpnklDknvgNJFfb1AHTA8SljpFtaWAFRqDArOAbmo3FR1A_V2J0tjkm8hKveHY3s6V5e2QQ3CoRQgs8PcXfuuv937gQFhUABCnwmHnPOYh3EMU51iCukzWt8nSg7whpI_8dGx0E4DZwdCmI-HoiPAlCH6WilWOsXLB3p6ZofP-scvtwY9ANDeBz-2DG4YAAAAAElFTkSuQmCC.png",
+   "price": "₹699",
+   "extracted_price": 699,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSCdEYrfl7tlUKU5Z1XzHR9IdAtJILczVhZOkTOe5Uv71cYwnjKaO-TmDEf-GSrwOTNk2c_GRkKfkXzZFDS7BspSQbcVycT8_317Q7s-lwiW-SLRgTJsvut3w",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/eUoqjnicDcndEoFAGADQJ1pJYxYzxiBCpka7oW4MX79KrfZjp57K63gbzu35fjJEISeaFlfQtALjiOCt6vdSiVfMoQf1Q5NZLURepbPn9H-TuRONLWDLaBU0SUmx9G1_GOrnbuONt9Ecd9s9dMcsdAvuxkP_TXUIVHW3ry7hD3OVEIs1yuVOMYCL5RV2Upy7cG0yupCCHW5wbIGPLoZOD1SSUuUnwvZeynfy_UJD_QChDD7G"
+  },
+  {
+   "position": 23,
+   "title": "Colorful Artificial Flower Lights Outdoor Light Hanging Fiber Optic Lights",
+   "product_id": "757543877349959529",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:757543877349959529,headlineOfferDocid:757543877349959529,imageDocid:14483032412892236585,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹926",
+   "extracted_price": 926,
+   "old_price": "Was ₹2,454",
+   "extracted_old_price": 2454,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTYL-Vu4jIoBh9OdDJ1HdoHtCNlrwsdGmC2AQqh_lCCl4Y3bITIxRVqJHAs7dbh50FTtPjseu83N0NkwAq3Sh4NGcgJPs2zXoW-JuOVV8iY",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/iXQK-XicDclJDoIwFADQEzFjBBJjsEaGmIJKqqyMtISCQIF-4nAcb-Vt9G3f98MBBulpWtnT6TVAyRQoekOtJNygpioVnSa5GIa6r9bj6n-ej5kb0CzfK2S2m0hsuJuwbWyETISAcDs9JAs6ZPqHkV9bhFo7t4ooi55HMsahL5es4At9l0HayHJ2LKzj-8MfrRO3cUCrOJXm-yLOSjwnhDh1_gMvMTlc",
+   "tag": "62% OFF",
+   "extensions": [
+    "62% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 24,
+   "title": "Daily Needs Shop Diwali Decoration / Festival Light 138 RGB LED 1... more",
+   "product_id": "1486325601124724087",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:1486325601124724087,headlineOfferDocid:1486325601124724087,imageDocid:4546707708150729871,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/B8XDvTaphzAREtaFgH1Anw1ZEEd5DK5Ki0i7duCRfH8.png",
+   "price": "₹623",
+   "extracted_price": 623,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTWMhLBbMXZysTD2okhbyznhsgiiJXGxX_wZ3MQKLRHmWLFypLKdu5_g7q7EmwFtRk7AsNIdUzJlbPOCMpb0fq8F6zpRRENDQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/rrUXAnicDcnbCoIwAADQL0ojKUuIsLyUt1IMxRdpm23DnLMtbH5Jv9bf1Hk93w-RkgtL1xsGn4rLBs0kYIaGhbxJCjXYd7ogPeeU4d2w_Z9lJ2jjw7yISbQHcVkpkTuLviVATYwITGlQ-u-yHisjTsMoO3ZF5Ckehei1rLE5mG43ejJrTVskJ3Sdgge4nA8xB_P7sPZWE88yN3HSH2hIN4I"
+  },
+  {
+   "position": 25,
+   "title": "Neon Attack Our Happy Place Neon Sign Neon Signs Neon Light Neon board",
+   "product_id": "7632061175666724475",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:7632061175666724475,productid:16933481848733190250,headlineOfferDocid:16208039909745197508,imageDocid:11750921329354739280,rds:PC_13161351131511320604|PROD_PC_13161351131511320604,gpcid:13161351131511320604,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Neon Attack",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACYklEQVQ4jZWUTUhUURTHf3feG5-jTk5NLoKcPizGPhRaZApaEYFQRIuCEDRxMdDHomBsoHZtkhYRU4ltJqKCoIJWGRU2ZGRQEQQhWhgttA8mKWdK1OfMbfGecuc1MzQHDpzDPef3_ue9c5-QUrJgQoge4LudVgEvgH6ybTVwHJgABDAlpby2cKg7iv8AvXbsA84Cv4AhpaYe-KLU-VWAywFMAKbtCeAc0OFomgZ-KHWBQkBnPg7cA04WqDMLAXLZADAJtNu58zUVVJTPLgENWB9ktBC0ELBUiTPAZSyVq7AUFw3cCdxX8o_AU6CvKIW6rhMIBNA0bRxrFw8px0PAQ2BdXhlSykUHjjU2NnI7-ZbDz85XbWxtqga6gVZHW4kSb1EZ_yjcsXsXbd9uccP3MjTcE_SWGMZF4ACwUimb-9-R3VpDNcwn27zlm0xRUTnc0r4vDVwHwnnHzAc0DCP1Ya2oRIjmMqH1LnF5GOhexp5TXUNY63K0KODd-IPBR8bYkVJ9aV8GOe0RRodbqzjT36U3BYI1V4H1QIuDIdUkCxhe8appJmN-8mme94ArTeaxX_fWImd1__YNABeATqBGactaoSzgmDm5ze_2BdMyU4-1zPvTMvMEl_F8a-dehBATWAt-QvHWvEC_VhZOy7QGLMe6ZrXATdCYrvESCoUA3gER4I7tV_ICgVngDdaeHWThn-cqYdRMEI1GqaurA5gBvto-pQJyXaFy4LQ9zhiA22Xw2fzJb_c88XicSCRCKpXCMAyCwWBWcy7gZuA1MLj4BOEmMZ9kZC5Bs38NsVgsR5tlfwGhCrIRdSEaVgAAAABJRU5ErkJggg.png",
+   "price": "₹4,419.35",
+   "extracted_price": 4419.35,
+   "old_price": "₹6,799",
+   "extracted_old_price": 6799,
+   "rating": 5.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTH00NB-XkNdrbdqpoNl3o62VxT741QOjv_IGXlrW1piB-zbl-4AKnzy-4LOTHnXZssSJVHjC64ZrwVE8_0b7m78lovofI5Fku8EHjL_mw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/2H2_5HicDclJDoIwAADAF5VFKyCJMWAQUAIxEiRciCyylbbQCuJvfJa_0bnO91NzTpkuiiXOx4XysgA8w5JQMX7nTS7kpBdZTShtcLUfdv_TDb_Y2nnoSJJvgrjzizErBkp8tCbKKnqFKpQvQTulrh2j8SbTxgTvDAFonPF7AdALQgfHCWPXU-S0BwUm4xxZWiplaq9qiEzk4W6O3VOznNZL-_kH3JA47A",
+   "tag": "35% OFF",
+   "extensions": [
+    "35% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 26,
+   "title": "Omshree Happy Diwali Acrylic Stylish Decor 8 Inch Night Table Lamp For Home Decoration Night Lamp",
+   "product_id": "6282555800859011242",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:6282555800859011242,productid:10855361111201615682,headlineOfferDocid:14217394042563294736,imageDocid:904772568587400086,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/B8XDvTaphzAREtaFgH1An-UtY67Qs7Ls0wc-CyOzA7A.png",
+   "price": "₹439",
+   "extracted_price": 439,
+   "old_price": "56% off₹1,000",
+   "extracted_old_price": 56,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_mPwmuzp9GF53sZFdc-9r7clXzkjWZCyT9CSi1XnVdwCFOc6p-vMspzvfgaCc1ukObAFdr9QKQU4ccrfhsO_dBF0Q21vmnpt3eZdEu6CLDwC-9DHrWt-8wA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Vi9gtHicDclJDoIwFADQExXEAa2JMVgsJg5IHMOGwC-TSq1tgcipvI630bd930-htVBT00w5yLfQKUM64X0jVzrWJRjwrExVPIUoeT5_zf43dXYMexBE1b6t6k5gj44GKqQMEJZjeFy7--0SkvcRk0NpXfmZtYT6YAvUbJXomiyPCVj13U8cyiQO1sFpCCCzQvkRW9Be0Leaigs9SEO2rG2ycVuCsLuSF40mrfMD7Uk_Fw",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 27,
+   "title": "One94Store Ocean Wave LED Night Light with Bluetooth Speaker – RGB Ambient Light, Soothing Sleep Sounds, Wireless Music Lamp with Timer for Bedroom &",
+   "product_id": "11154132731595574320",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:11154132731595574320,headlineOfferDocid:11154132731595574320,imageDocid:9440004238393966858,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹1,439",
+   "extracted_price": 1439,
+   "old_price": "Was ₹1,799",
+   "extracted_old_price": 1799,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTec_DuphzcqUAuhsVsiwb18Y0sDhsSU3Qy__OHd1O5TTRtfE0AyniNjWes9l92sK-WEZQWbTSczAuV3kZDZOpelLq20Jr9VccLrgqwAZr4",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/dKvjD3icDclbCoJAFADQFfkuSCFiQClKFPNF8yN5nRzLdPSOiC6nXbWbOr_n--FSCnQ0jXUwLkKySpFlZ6o1yrtsQIX-rSHvhWi6-jDs_-eQoLKPkDAo3EnwFYaUTBwzbObS2N10dDnGqRUtRRGeKiPcJslVPjydLF0TPHOGdmubeFFyj0Z5mcSwkimzXtSloWCtP5j6ebQzAH-sh5nQcfMDoWg67A",
+   "tag": "20% OFF",
+   "extensions": [
+    "20% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 28,
+   "title": "XERGY 10m Multicolor More than 360 LEDs Rice Shape String Lights (Onesize) by Myntra",
+   "product_id": "11466707726576390687",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:11466707726576390687,productid:15523895513872971285,headlineOfferDocid:7265431880253883821,imageDocid:199808845261347134,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Myntra",
+   "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyM3Nzc3Nzc3NzU3Nzc3Nzc3NzcyNzA3Nzc0Nzc3Nzc3Nzc1NzU3Nzc3Nzc1MSw4Nzc4Mf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAADAAMAAAAAAAAAAAAAAAAAAwYCBAf_xAAnEAABAwIFBAIDAAAAAAAAAAABAgMRAAQGEiExQRNRYZEFFGJxof_EABoBAQACAwEAAAAAAAAAAAAAAAADBQECBgT_xAAsEQABAgMFBQkAAAAAAAAAAAAAAQIDBBEFITEy8BNBYXGBEiJCUZGhwdHh_9oADAMBAAIRAxEAPwDthVFAGvJ9UASeD7oACpoBYOp9VkEq1ipT2Irhhsj6FusMqMbkyCufBBH6BPIjzzkR0q6Ersr69MKF0tlKko2Iudb6cPLXI17HGLj2KPrOZR8Y-rosHLqFjZU85p24lPmZZV6TMJ72-FadKJfrcSRbH7EntEzpeqcPz7LInUeq3KEU4VdNYbMLIOU-aGW0qlcCT-Owq7aYZetFOIN86ouFQnKDEAd4j-k1HajEnW0bdTAvY9rtiTiRETuJd811uF32EHV4etre2cbTfsuF3qGQCpUSJieE6_iK3s1qSjOw6-uOvY2g2y1Jtz3ouzclKctL6llJMTvuayc-YE0AZj2oAzHtQADFAf_Z.jpeg",
+   "price": "₹299",
+   "extracted_price": 299,
+   "old_price": "70% off₹999",
+   "extracted_old_price": 70,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR89dbuo0Ol25qcUA3Vh2Cg8a0euQodDuRCC4QhbHKTA5sBm3VBepSg20U4SVQtDwhxeBnhnJ2lj-7IFj-7O5IaYroauyrXvn6V9wX9-Jc-DtmvYn5KOwi6",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/71EFZ3icDcnbDkMwAADQL3JJXYZkWVyyDckE0_BINWqhLYr5qf3P_mZ7OS_n-yFC8MVRFEzRfHCBW0k0FMjdImrRIxmxUVkI47yn3WU6_89xH619Q5llt83K1GQAxoQKV4ME-J1Vq3hNWRusme_rKWnu8dM1Fm_UoId53gG10HOYimAnb-xRQiMwvKRTeP2TGGFdzaxej7ncqAntvbSlCEmBGLeKGnGy9-YPz2Y9Dg",
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 29,
+   "title": "Happy Birthday Neon Light Sign",
+   "product_id": "12146829977125163153",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:12146829977125163153,productid:9348181488162138272,headlineOfferDocid:5523791719396460108,imageDocid:6396082916082532618,gpcid:12577188990637493651,mid:576462913635318447,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Neon Attack",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACYklEQVQ4jZWUTUhUURTHf3feG5-jTk5NLoKcPizGPhRaZApaEYFQRIuCEDRxMdDHomBsoHZtkhYRU4ltJqKCoIJWGRU2ZGRQEQQhWhgttA8mKWdK1OfMbfGecuc1MzQHDpzDPef3_ue9c5-QUrJgQoge4LudVgEvgH6ybTVwHJgABDAlpby2cKg7iv8AvXbsA84Cv4AhpaYe-KLU-VWAywFMAKbtCeAc0OFomgZ-KHWBQkBnPg7cA04WqDMLAXLZADAJtNu58zUVVJTPLgENWB9ktBC0ELBUiTPAZSyVq7AUFw3cCdxX8o_AU6CvKIW6rhMIBNA0bRxrFw8px0PAQ2BdXhlSykUHjjU2NnI7-ZbDz85XbWxtqga6gVZHW4kSb1EZ_yjcsXsXbd9uccP3MjTcE_SWGMZF4ACwUimb-9-R3VpDNcwn27zlm0xRUTnc0r4vDVwHwnnHzAc0DCP1Ya2oRIjmMqH1LnF5GOhexp5TXUNY63K0KODd-IPBR8bYkVJ9aV8GOe0RRodbqzjT36U3BYI1V4H1QIuDIdUkCxhe8appJmN-8mme94ArTeaxX_fWImd1__YNABeATqBGactaoSzgmDm5ze_2BdMyU4-1zPvTMvMEl_F8a-dehBATWAt-QvHWvEC_VhZOy7QGLMe6ZrXATdCYrvESCoUA3gER4I7tV_ICgVngDdaeHWThn-cqYdRMEI1GqaurA5gBvto-pQJyXaFy4LQ9zhiA22Xw2fzJb_c88XicSCRCKpXCMAyCwWBWcy7gZuA1MLj4BOEmMZ9kZC5Bs38NsVgsR5tlfwGhCrIRdSEaVgAAAABJRU5ErkJggg.png",
+   "price": "₹7,150",
+   "extracted_price": 7150,
+   "old_price": "₹11,000",
+   "extracted_old_price": 11000,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzpTk02tldSChMknFPEgvfL_4Fme3tCBWl4KBaqIpdz4QlulVHeZ1-qggyytFyz9QSxmGSYjigsshA_uHRwzNHfyY-THkJHHv3UBk7L4Aa",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/p9N_JXicDclJDoIwFADQEwEKJAYSY4AIVZHIoAY3BBkKlqHYD1qO4628jb7t-34qAMp0SSq67MkpFLkA904WMYMU6kzM-lZiVU9p3eHNsP6fbni55mTBTCOykKHJQ6s6ks4-bfFUuolqt4UClnlt1IOZDjuaz6rfjM0FFbelMGDMOdh81vzw3Tph_KgxY5WRjCh4zR4qeSxEiOwRmpSzSVauaqQ_prc7NQ",
+   "tag": "35% OFF",
+   "extensions": [
+    "35% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 30,
+   "title": "Smiley Neon Light Sign",
+   "product_id": "1238594932062065105",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:1238594932062065105,productid:7213435287123381943,headlineOfferDocid:14196670734187378649,imageDocid:2006423747482420257,gpcid:10979867206382221620,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Neon Attack",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACYklEQVQ4jZWUTUhUURTHf3feG5-jTk5NLoKcPizGPhRaZApaEYFQRIuCEDRxMdDHomBsoHZtkhYRU4ltJqKCoIJWGRU2ZGRQEQQhWhgttA8mKWdK1OfMbfGecuc1MzQHDpzDPef3_ue9c5-QUrJgQoge4LudVgEvgH6ybTVwHJgABDAlpby2cKg7iv8AvXbsA84Cv4AhpaYe-KLU-VWAywFMAKbtCeAc0OFomgZ-KHWBQkBnPg7cA04WqDMLAXLZADAJtNu58zUVVJTPLgENWB9ktBC0ELBUiTPAZSyVq7AUFw3cCdxX8o_AU6CvKIW6rhMIBNA0bRxrFw8px0PAQ2BdXhlSykUHjjU2NnI7-ZbDz85XbWxtqga6gVZHW4kSb1EZ_yjcsXsXbd9uccP3MjTcE_SWGMZF4ACwUimb-9-R3VpDNcwn27zlm0xRUTnc0r4vDVwHwnnHzAc0DCP1Ya2oRIjmMqH1LnF5GOhexp5TXUNY63K0KODd-IPBR8bYkVJ9aV8GOe0RRodbqzjT36U3BYI1V4H1QIuDIdUkCxhe8appJmN-8mme94ArTeaxX_fWImd1__YNABeATqBGactaoSzgmDm5ze_2BdMyU4-1zPvTMvMEl_F8a-dehBATWAt-QvHWvEC_VhZOy7QGLMe6ZrXATdCYrvESCoUA3gER4I7tV_ICgVngDdaeHWThn-cqYdRMEI1GqaurA5gBvto-pQJyXaFy4LQ9zhiA22Xw2fzJb_c88XicSCRCKpXCMAyCwWBWcy7gZuA1MLj4BOEmMZ9kZC5Bs38NsVgsR5tlfwGhCrIRdSEaVgAAAABJRU5ErkJggg.png",
+   "price": "₹5,434",
+   "extracted_price": 5434,
+   "old_price": "₹8,360",
+   "extracted_old_price": 8360,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWmrWKLlpJTYOUSpoTErTx0m3znhY2WqCx88-zS1mHwLDS-FbqMoRO_DBQvJ3pbKgM3l-34cfIJoAzg_PklLpY4stq3_L5dM2CN21d93FHGkO_cACAb8i3",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/F8oxZnicDcntDkJQAADQJ0JcbdhaEyEuKpr5ZbmE4X5wV_JQvU9vU-fv-X5azulsSFKN0fSmvK4EXmJZbGZ-5x0SERmluSWUdrjZs93_DDOqdBddsnHKAjhQP83jW0JJepzSZTOCFbe5kjFr0TRhTeTRe0E7EZySheQaF_bh8vQBLYMmBIMAVPQ4-cRcm-LcD5Dm6swZKOC2ChUrUuRKB47n9nGBTMsstQ78AClVPNw",
+   "tag": "35% OFF",
+   "extensions": [
+    "35% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 31,
+   "title": "Apka Mart The Online Shop हैंगिंग टी लाइट कैंडल होल्डर - हांडी डिज़ाइन - घर, टेबल, लिविंग रूम, डाइनिंग रूम, बेडरूम सजावट और उपहार के लिए - 8 इंच",
+   "product_id": "2990763782711428725",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:2990763782711428725,headlineOfferDocid:2990763782711428725,imageDocid:9937818366441175179,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹699",
+   "extracted_price": 699,
+   "old_price": "Was ₹2,500",
+   "extracted_old_price": 2500,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQXdzXy_A2oEK77_B9Eh4D7EtGWaqpihy6xIi-VU-gAjDnSh9amnBlJKw1lt95upB66-ThtzN55iz50UcfjeDHZv_Tq3FwiW4JpQFv68aGHB8sRGCqszEF-",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/x1aDOHicDclLDoIwFADAE1VU5GdiDMhPSEhUEOOGYEFaAqXYJwqH8j7eRmc73w8B4GItSSXDj5FDWSC4MXlWCciB4hnuWkmQjnPKqm2_-d_ajArDw4dLMV3GzFx2TqhpmWU4ZGVrDnhp3nNKRvW9p-icoMqsbXYiRt4yqwnC16IBQ3lyS1VRTGCKFIVOyjzB97q0_euQxb3svmi6CvjBHVQ993xLF0dv14vJcdEP_ls9KA",
+   "tag": "72% OFF",
+   "extensions": [
+    "72% OFF"
+   ]
+  },
+  {
+   "position": 32,
+   "title": "KTRS ENTERPRISE Table Lamp Flower LED Desk Lamp Dimmable Foldable Bedside Light USB Decorative Night Light Home Decor for Bedroom Study Room Office",
+   "product_id": "16178103015458990958",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:16178103015458990958,headlineOfferDocid:16178103015458990958,imageDocid:17305482967133951223,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹999",
+   "extracted_price": 999,
+   "old_price": "Was ₹1,498",
+   "extracted_old_price": 1498,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSsgQztIYt91fskxU5_nGlfZq21wwRfWdHrcC1E4xZs4EXkdEtLBg87YMUhe1ux_KEcsWNPc9soPcrnHe1LpaRGqLzKFN85Nw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/0NUppXicDcndCoIwGADQJ0pZKakQUbE0tGGGmN6IbfMHa073heaT9Gq9TZ3b8_3UAFI5us4FHd4SOFvAXay0SkEBDdVo99RV3UnZiGrbb_7n7AizXXpV1WWGUwo2KlU7xWYu3EeZ9Us0jlGZMG-gB4SNKVMGvrUMQ7CvrHV6jmuOXlPuY6oSElJbdSEdhMdRIIvI7YPZPxLLJOMPVhw3UQ",
+   "tag": "33% OFF",
+   "extensions": [
+    "33% OFF"
+   ]
+  },
+  {
+   "position": 33,
+   "title": "3200mAhBrass Table Lamp, 3 Colors+Dimmable+Touch Crystal Lamp LED Gold Lamp, Mood Lighting Mood Light, Brass Decor for",
+   "product_id": "18259566576515834784",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:18259566576515834784,headlineOfferDocid:18259566576515834784,imageDocid:11642909226587669058,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSjusvrdHJw8zQJadxaZGoFq5tkye1-z5pp-TJngYKnfQiG488ignuBcCK1wTkL93UfsW2meepddqXpmka4IXi5_9yUnPX1qQ",
+   "price": "₹3,314",
+   "extracted_price": 3314,
+   "old_price": "Was ₹4,788",
+   "extracted_old_price": 4788,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSQBe2wTwV0QlD99ufjpp9Cs-LWCndTOcZcIntQolbaZg6cIfVsfkgb-u-9RdzdGYEV0CAkn3dMicUsPYMKyQAoSVVD8eFDkN_kCp-95ho",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/oNo7z3icDcltCoIwAADQE03FKJoQYVoipWXaQv-EbvOj2bbaROw2Havb1Pv7vp9Wa6kc06QcvyapKQG64rbRKF3qDhtYPEzVCik73qyfq_85bkxggNNkQ-0xG5GV9D6EQ32XEnoKHK4eJ9kRFzjkOhF9VRbNAoc1UjVrKjAAeCZvEuRbZHku4zMSdfiiTnm0nxJXpAj5S7rzWXxjngRw3oofLUA5vA",
+   "tag": "30% OFF",
+   "extensions": [
+    "30% OFF"
+   ]
+  },
+  {
+   "position": 34,
+   "title": "Light Up Letters Glitter LED Letter Lights 18 Color Changing Diamond Alphabet Sign Night Light with Remote Control for Girls Gifts Birthday Bar",
+   "product_id": "2366781134815769170",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:2366781134815769170,productid:8171105305275340124,headlineOfferDocid:13141365910261987045,imageDocid:989546020325825830,gpcid:3269973087479503651,mid:576462808320130588,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSjusvrdHJw8zQJadxaZGoFq5tkye1-z5pp-TJngYKnfQiG488ignuBcCK1wTkL93UfsW2meepddqXpmka4IXi5_9yUnPX1qQ",
+   "price": "₹1,368",
+   "extracted_price": 1368,
+   "old_price": "₹1,460",
+   "extracted_old_price": 1460,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQXCHrJj257bt1xxBWAcxHDAahS1XeMcv2ZP6AixB1JnThFaJ7s8ivJ_dmCE2kaFAArp-7rAs4cDQJwGzIxwn5MOw18v3F7DrxmEX5x4GU",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ZBrcu3icDcltCoIwAADQE6lsaTMhYn43sJKKpD-hU9TCubahq9t0rG5T7-_7fjqluPQsq2FUvLhqakNVDJqtVKXqqUnHwZLdyHnP2s1z_T8P7-pVQvMiSAW5QwdVCmjtXzDVaYjL7giKJqMTvB6WuNc-IOzUxSVB0u0ncquHIIKPMsZYcAMJLG0a5mRO3ls9Myfbz8CdFjEKhR6iwtF2cv4B37E4mw"
+  },
+  {
+   "position": 35,
+   "title": "Neon Attack Our Happy Place Neon Sign Neon Signs Neon Light Neon board",
+   "product_id": "7818700924556098237",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:7818700924556098237,productid:1951703803066539575,headlineOfferDocid:18069082456092109115,imageDocid:11750921329354739280,rds:PC_6384642738854468651|PROD_PC_6384642738854468651,gpcid:6384642738854468651,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Neon Attack",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQfPVsrKlq-r9m6zifdbMwCT9xJFnPAw0t_4Ak7-_IbE_yqAZUc8u5tGvTaL7AdfbRRroUqco2zxHtDkLQ_GBmmE-dGpSh5d7f0BDQ",
+   "price": "₹4,419.35",
+   "extracted_price": 4419.35,
+   "old_price": "₹6,799",
+   "extracted_old_price": 6799,
+   "rating": 5.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTH00NB-XkNdrbdqpoNl3o62VxT741QOjv_IGXlrW1piB-zbl-4AKnzy-4LOTHnXZssSJVHjC64ZrwVE8_0b7m78lovofI5Fku8EHjL_mw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/2H2_5HicDclJDoIwAADAF5VFKyCJMWAQUAIxEiRciCyylbbQCuJvfJa_0bnO91NzTpkuiiXOx4XysgA8w5JQMX7nTS7kpBdZTShtcLUfdv_TDb_Y2nnoSJJvgrjzizErBkp8tCbKKnqFKpQvQTulrh2j8SbTxgTvDAFonPF7AdALQgfHCWPXU-S0BwUm4xxZWiplaq9qiEzk4W6O3VOznNZL-_kH3JA47A",
+   "tag": "35% OFF",
+   "extensions": [
+    "35% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "The Purple Tree LED क्रिसमस स्टार हिरण हैंगिंग परदा प्लास्टिक LED लाइट (2.5 मीटर 1 का पैक) क्रिसमस के लिए पर्दा लाइट इंडोर आउटडोर सजावट वेडिंग (",
+   "product_id": "18140268531013956743",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:18140268531013956743,headlineOfferDocid:18140268531013956743,imageDocid:4372516259739572310,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹404",
+   "extracted_price": 404,
+   "old_price": "Was ₹570",
+   "extracted_old_price": 570,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRwEUaoCefyLQcPkuoc2s-pSzrDrpTZhlk8kCooukA8-RzpfCLnVivnQGPn3R7j8_WcqnTUFcgZVrvhEr8f5kDghGiyVDoypw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/rxt_LXicDclRCoIwGADgE6lgREuIEDVfJNTUwJeoqdtabb_bVOZJulq3qe_1-36oMaADz-sFVhZM3znmIXyXaHM3DLtYvj1NJQAT5Dge_heE526f4nJJ6ruM-sFmBc75JLGvHbisKlZQtfTFEY-knHiInHKFIcpEw2ZRpLnYlLsnul3xKKr6hEnbqJkmCg1bHhOaMtvE0sLyA4lXOOs",
+   "tag": "29% OFF",
+   "extensions": [
+    "29% OFF"
+   ]
+  },
+  {
+   "position": 37,
+   "title": "Mayko & Bayko 11 Leds 3 M Multicolor Color Changing Box Rice Lights",
+   "product_id": "10037199951869210099",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:10037199951869210099,productid:3990951772200547733,headlineOfferDocid:15935564590659873745,imageDocid:3599348964241719060,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4hS5KQ74135NIV7gSpRHEcA-FSw80nnO2HrOkt_HKvEquXvpAtLbPVBsoNERjkZs2OXcDS1miV7vv2t9yiuakYY3VTuDUPT0",
+   "price": "₹289",
+   "extracted_price": 289,
+   "old_price": "59% off₹699",
+   "extracted_old_price": 59,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTxQV6ZkwZONbOCOYWk0AiheKgBwD9wv3OmEYp11gGLvwZ5sC4hCUfdbC_XAhfjWlpgowvQg2m4u3EHZSfbqMqWXZMzG0-DUfJXI3mjRccjJthIyti34Eo-yw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/L9l2PXicDcltEkJAAADQE_mKmmGmaYQRhVEJ-6fJYhdhZbPpVF2n29T7-74fTCkZNUEoOviYCS1yjmadyKOR3mgFedi3woh7QqoObYb1_zTdz1Ubnl_hZQUaBgI_C4wgjRtRr3CxR1tmqmySg9ZKiSQh-zAxsBwNBRtRmWfGNdFxWcd3gno2hWjRKk_Z2oFTmQ3eECfAe9siZ0almzhyWx8hrF2KnZlWsmL13Mx-y0s_ew",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 38,
+   "title": "LED आइस क्यूब शेप लाइट्स दोबारा इस्तेमाल होने योग्य लिक्विड सेंसर ग्लोइंग लाइट अप आइस क्यूब्स फॉर ड्रिंक्स बार पार्टी वेडिंग डेकोरेशन (12पीस)",
+   "product_id": "8993284811492545497",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:8993284811492545497,headlineOfferDocid:8993284811492545497,imageDocid:7148049583663142985,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹2,076",
+   "extracted_price": 2076,
+   "old_price": "Was ₹2,708",
+   "extracted_old_price": 2708,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnJKaBjRMYaPHuXDfbMDM3WJMQ2k3JSD4bEpr4b20zEZJlTgrW3qeBAcsLQ-MYIfHWKJBY9HSoQLPNBbMog4xjbaRUaEEcBeiQss5QaU2QyS1k_p5le-_q0A",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Dvs4MnicDcnbDoIgAADQLzKvPdjWmkyWYbjQmtlLA8Rbpii0VV_V7_Q3dV7P99NoLdXKNMXA55fUojQ0G-xFrTTVLV_w8W6qZpSyHerNtP7fKkhKf8vTAcUUdCku6CF6nMOK4RC7OcLEubkoCz0G5ewxx3rDC-qP9Zy7kwABV3ti4GJXRXmMQOFH2Uj2hwQwPNbes2M0PVEIORAtUWpJ6Mkhr8y-XeWyF8Z1soIfSZc9cA",
+   "tag": "23% OFF",
+   "extensions": [
+    "23% OFF"
+   ]
+  },
+  {
+   "position": 39,
+   "title": "Philips Green & Red 16 Millions Colors Rice Shaped LED String Lights (Onesize) by Myntra",
+   "product_id": "637691096801239155",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:637691096801239155,headlineOfferDocid:637691096801239155,imageDocid:17219548077170428449,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Myntra",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8Ga1T65e8aViYTKoSXGkiQXHDlMPubeKprtw1b9NpJ5eNupqAW_lH4HPLb8DSjS-yqUsWberax8EJwl_D7t6jEm7hrrtWOw",
+   "price": "₹4,059",
+   "extracted_price": 4059,
+   "old_price": "42% off₹6,999",
+   "extracted_old_price": 42,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQMuN6-h0wjZ9kWnssaufKG3iqx0FVSluSfdodI3hROROU5T1-7vnph6GEx5pOhDXCD5daOvQnwkEyUKpUClBaYzhaIdOkm-sjJYZc9AqE1jnvhcsdUmnF2",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/iVOMAnicDclJDoIwAADAFxVEggYTY1CWINEGEBdutQXKVootKD7K__gbnet8P1RKLlaqmjH8mLjMCJB3pimFkEiWWMFdqwracV6yYtOv_7eyjsT0cHgYjgtAZ88qNesLEwINeeDpZf-auee4GeKcdMTXaQQjmBgnDSxHxunCc14Gh9S-7myDIDiG7Fk7UxLwZNds0e1NkU9g3QJR7W8pNq3e0So2UixI0jJ3_gNPSD8E",
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 40,
+   "title": "Happy Birthday Neon Light Sign",
+   "product_id": "12146829977125163153",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:12146829977125163153,productid:9348181488162138272,headlineOfferDocid:2715648471313495718,imageDocid:6396082916082532618,gpcid:12577188990637493651,mid:576462913635318447,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Neon Attack",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQfPVsrKlq-r9m6zifdbMwCT9xJFnPAw0t_4Ak7-_IbE_yqAZUc8u5tGvTaL7AdfbRRroUqco2zxHtDkLQ_GBmmE-dGpSh5d7f0BDQ",
+   "price": "₹7,150",
+   "extracted_price": 7150,
+   "old_price": "₹11,000",
+   "extracted_old_price": 11000,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzpTk02tldSChMknFPEgvfL_4Fme3tCBWl4KBaqIpdz4QlulVHeZ1-qggyytFyz9QSxmGSYjigsshA_uHRwzNHfyY-THkJHHv3UBk7L4Aa",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/p9N_JXicDclJDoIwFADQEwEKJAYSY4AIVZHIoAY3BBkKlqHYD1qO4628jb7t-34qAMp0SSq67MkpFLkA904WMYMU6kzM-lZiVU9p3eHNsP6fbni55mTBTCOykKHJQ6s6ks4-bfFUuolqt4UClnlt1IOZDjuaz6rfjM0FFbelMGDMOdh81vzw3Tph_KgxY5WRjCh4zR4qeSxEiOwRmpSzSVauaqQ_prc7NQ",
+   "tag": "35% OFF",
+   "extensions": [
+    "35% OFF"
+   ],
+   "delivery": "Free delivery"
+  }
+ ],
+ "categorized_shopping_results": [
+  {
+   "title": "₹4,000–₹8,000",
+   "shopping_results": [
+    {
+     "position": 1,
+     "title": "Verilux HappyLight Lumi Plus Light Therapy Lamp with 10,000 Lux",
+     "product_id": "14965212537992873288",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:14965212537992873288,productid:12431207594910949227,headlineOfferDocid:12270407370579923882,imageDocid:9564984440943326735,rds:PC_1580249887620849980|PROD_PC_1580249887620849980,gpcid:1580249887620849980,mid:576462502800168351,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹8,548",
+     "extracted_price": 8548,
+     "rating": 5.0,
+     "reviews": 339,
+     "thumbnail": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/8AkWfXMDzLicEwKd2rcH8Hh8Y45tnAubVGC-ahDyOX8-mTwAXmEdzNEFYz7-9mvnWZ_zITg872P-2UHaTvU88g.webp",
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 2,
+     "title": "TrueCartLED Happy Mood Lamp, 10000lx SAD Therapy Lamp for Office Use European regulations",
+     "product_id": "12473432215510609270",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:12473432215510609270,headlineOfferDocid:12473432215510609270,imageDocid:3701003599698672320,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹6,807.90",
+     "extracted_price": 6807.9,
+     "thumbnail": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/8AkWfXMDzLicEwKd2rcH8Hh8Y45tnAubVGC-ahDyOX8-mTwAXmEdzNEFYz7-9mvnqQ7lz7k90KjDYewddp6KTw.webp"
+    },
+    {
+     "position": 3,
+     "title": "Verilux HappyLight Touch Plus UV-Free LED Bright White Light Therapy Lamp with 10,000 Lux, Adjustable Brightness, Color, and Countdown Timer",
+     "product_id": "16737221387407020953",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:16737221387407020953,productid:756079341391814405,headlineOfferDocid:3601444701531514953,imageDocid:3626180089599470069,rds:PC_3053839041447002204|PROD_PC_3053839041447002204,gpcid:3053839041447002204,mid:576462808308869233,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹9,397",
+     "extracted_price": 9397,
+     "rating": 3.5,
+     "reviews": 149,
+     "thumbnail": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/8AkWfXMDzLicEwKd2rcH8Hh8Y45tnAubVGC-ahDyOX8-mTwAXmEdzNEFYz7-9mvn__hNNbqGfNZZLSp8lYM_VQ.webp",
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 4,
+     "title": "Verilux HappyLight Alba LED Light Therapy Lamp",
+     "product_id": "5620377389791370997",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:5620377389791370997,productid:15225729250341760442,headlineOfferDocid:11590376772910714692,imageDocid:4731418749540992888,rds:PC_18440955560217697727|PROD_PC_18440955560217697727,gpcid:18440955560217697727,mid:576462533281919204,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹9,297",
+     "extracted_price": 9297,
+     "rating": 5.0,
+     "reviews": 137,
+     "thumbnail": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/8AkWfXMDzLicEwKd2rcH8Hh8Y45tnAubVGC-ahDyOX8-mTwAXmEdzNEFYz7-9mvnDhrFoMnE2RqNTTIxwxnDLg.webp",
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 5,
+     "title": "SUXIO HappyLight-1 10,000 Lux LED Daylight Therapy Lamp, 3 Timers, Touch Control, Portable, White",
+     "product_id": "14837185320364465280",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:14837185320364465280,headlineOfferDocid:14837185320364465280,imageDocid:8976892970688288029,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹6,125",
+     "extracted_price": 6125,
+     "thumbnail": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/8AkWfXMDzLicEwKd2rcH8Hh8Y45tnAubVGC-ahDyOX8-mTwAXmEdzNEFYz7-9mvnp7lytF7VMt6pTQAUpDGJ0A.webp",
+     "delivery": "Free delivery"
+    }
+   ]
+  },
+  {
+   "title": "Over ₹8,000",
+   "shopping_results": [
+    {
+     "position": 1,
+     "title": "Verilux HappyLight Duo 2-in-1 Light Therapy & Task Floor Lamp",
+     "product_id": "7029595701139551588",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:7029595701139551588,productid:225126488279823542,headlineOfferDocid:8988542427758982734,imageDocid:15551565360282066134,rds:PC_5884621975432347907|PROD_PC_5884621975432347907,gpcid:5884621975432347907,mid:576462700850232190,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "ubuy.co.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹15,945",
+     "extracted_price": 15945,
+     "old_price": "Usually ₹22,072",
+     "extracted_old_price": 22072,
+     "rating": 5.0,
+     "reviews": 111,
+     "thumbnail": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/8AkWfXMDzLicEwKd2rcH8EADpfGYrzCp-cS2cni5tBwk3QnhWlYwL9i0FP2xkub42RNGeqr4vofmONQ-HMgzHw.webp",
+     "tag": "LOW PRICE",
+     "extensions": [
+      "LOW PRICE"
+     ]
+    },
+    {
+     "position": 2,
+     "title": "Verilux HappyLight Lucent 10,000 Lux LED Bright White Light Therapy Lamp",
+     "product_id": "16057322630545329140",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=productid:16057322630545329140,headlineOfferDocid:16057322630545329140,imageDocid:5366854321153989270,rds:PC_5601793361245935347|PROD_PC_5601793361245935347,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹8,644",
+     "extracted_price": 8644,
+     "rating": 4.0,
+     "reviews": 592,
+     "thumbnail": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/8AkWfXMDzLicEwKd2rcH8EADpfGYrzCp-cS2cni5tBwk3QnhWlYwL9i0FP2xkub4Wcyh2LOHj7oxKd4U2xpA-Q.webp"
+    },
+    {
+     "position": 3,
+     "title": "Verilux HappyLight Touch Plus UV-Free LED Bright White Light Therapy Lamp with 10,000 Lux, Adjustable Brightness, Color, and Countdown Timer",
+     "product_id": "16737221387407020953",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:16737221387407020953,productid:756079341391814405,headlineOfferDocid:3601444701531514953,imageDocid:3626180089599470069,rds:PC_3053839041447002204|PROD_PC_3053839041447002204,gpcid:3053839041447002204,mid:576462808308869233,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹9,397",
+     "extracted_price": 9397,
+     "rating": 3.5,
+     "reviews": 149,
+     "thumbnail": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/8AkWfXMDzLicEwKd2rcH8EADpfGYrzCp-cS2cni5tBwk3QnhWlYwL9i0FP2xkub4emX_gLmgVlaz40yUWrlHog.webp",
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 4,
+     "title": "Verilux HappyLight Alba LED Light Therapy Lamp",
+     "product_id": "5620377389791370997",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:5620377389791370997,productid:15225729250341760442,headlineOfferDocid:11590376772910714692,imageDocid:4731418749540992888,rds:PC_18440955560217697727|PROD_PC_18440955560217697727,gpcid:18440955560217697727,mid:576462533281919204,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹9,297",
+     "extracted_price": 9297,
+     "rating": 5.0,
+     "reviews": 137,
+     "thumbnail": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/8AkWfXMDzLicEwKd2rcH8EADpfGYrzCp-cS2cni5tBwk3QnhWlYwL9i0FP2xkub4ebbz-NZzLwQ2MdZR5lChGQ.webp",
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 5,
+     "title": "Verilux HappyLight Lumi Plus Light Therapy Lamp with 10,000 Lux",
+     "product_id": "14965212537992873288",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Happiness Light LED Lights&prds=catalogid:14965212537992873288,productid:12431207594910949227,headlineOfferDocid:12270407370579923882,imageDocid:9564984440943326735,rds:PC_1580249887620849980|PROD_PC_1580249887620849980,gpcid:1580249887620849980,mid:576462502800168351,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹8,548",
+     "extracted_price": 8548,
+     "rating": 5.0,
+     "reviews": 339,
+     "thumbnail": "https://serpapi.com/searches/6ac89cefde1f33b83b78b738/images/8AkWfXMDzLicEwKd2rcH8EADpfGYrzCp-cS2cni5tBwk3QnhWlYwL9i0FP2xkub4b7PFx5wpFvX3UGeKUeredw.webp",
+     "delivery": "Free delivery"
+    }
+   ]
+  }
+ ],
+ "filters": [
+  {
+   "input_type": "link_with_icon",
+   "options": [
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDAgDEgZOZWFyYnkYAliw0CBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Happiness+Light+LED+Lights+nearby&shoprs=CAEYAyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDAgDEgZOZWFyYnkYAliw0CBgAg"
+    },
+    {
+     "text": "On sale",
+     "shoprs": "CAESBEoCCAEYBioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEwgGEgdPbiBzYWxlGAIiBEoCCAFYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Happiness+Light+LED+Lights+sale&shoprs=CAESBEoCCAEYBioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEwgGEgdPbiBzYWxlGAIiBEoCCAFYsNAgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Sort by",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Relevance",
+     "shoprs": "CAEYFyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCggXKgQQARgBUARgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=happiness+light+led+lights&shoprs=CAEYFyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCggXKgQQARgBUARgAg"
+    },
+    {
+     "text": "Price: low to high",
+     "shoprs": "CAEYFyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHggXEhJQcmljZTogbG93IHRvIGhpZ2gqBBABGAFQAWACiAEB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=happiness+light+led+lights&shoprs=CAEYFyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHggXEhJQcmljZTogbG93IHRvIGhpZ2gqBBABGAFQAWACiAEB"
+    },
+    {
+     "text": "Price: high to low",
+     "shoprs": "CAEYFyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHggXEhJQcmljZTogaGlnaCB0byBsb3cqBBABGAFQAmACiAEC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=happiness+light+led+lights&shoprs=CAEYFyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHggXEhJQcmljZTogaGlnaCB0byBsb3cqBBABGAFQAmACiAEC"
+    },
+    {
+     "text": "Rating: High to low",
+     "shoprs": "CAEYFyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHwgXEhNSYXRpbmc6IEhpZ2ggdG8gbG93KgQQARgBUANgAogBAw",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=happiness+light+led+lights&shoprs=CAEYFyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHwgXEhNSYXRpbmc6IEhpZ2ggdG8gbG93KgQQARgBUANgAogBAw"
+    }
+   ]
+  },
+  {
+   "type": "Type",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Strip",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFQgBEgVTdHJpcDoKCKaRLhDUmDowAliw0CBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=strip+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFQgBEgVTdHJpcDoKCKaRLhDUmDowAliw0CBgAg"
+    },
+    {
+     "text": "Rope",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgRSb3BlOgoIppEuEKeRLjACWLDQIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=rope+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgRSb3BlOgoIppEuEKeRLjACWLDQIGAC"
+    },
+    {
+     "text": "String",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFggBEgZTdHJpbmc6CgimkS4QqJEuMAJYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=string+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFggBEgZTdHJpbmc6CgimkS4QqJEuMAJYsNAgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Product rating",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "4 and up",
+     "shoprs": "CAESBWIDCJADGB4qGmhhcHBpbmVzcyBsaWdodCBsZWQgbGlnaHRzMhUIHhIINCBhbmQgdXAiBWIDCJADQARgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Happiness+Light+LED+Lights&shoprs=CAESBWIDCJADGB4qGmhhcHBpbmVzcyBsaWdodCBsZWQgbGlnaHRzMhUIHhIINCBhbmQgdXAiBWIDCJADQARgAg"
+    }
+   ]
+  },
+  {
+   "type": "Category",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Wall Lamps & Sconces",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGAgJEhRXYWxsIExhbXBzICYgU2NvbmNlc2AC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=wall+lamps+%26+sconces+happiness+light+led+lights&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGAgJEhRXYWxsIExhbXBzICYgU2NvbmNlc2AC"
+    },
+    {
+     "text": "Ceiling Lights",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEggJEg5DZWlsaW5nIExpZ2h0c2AC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=ceiling+lights+happiness+light+led&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEggJEg5DZWlsaW5nIExpZ2h0c2AC"
+    },
+    {
+     "text": "Light Bulbs",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDwgJEgtMaWdodCBCdWxic2AC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=light+bulbs+happiness+led+lights&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDwgJEgtMaWdodCBCdWxic2AC"
+    },
+    {
+     "text": "Decorative Signs",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgJEhBEZWNvcmF0aXZlIFNpZ25zYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=decorative+signs+happiness+light+led+lights&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgJEhBEZWNvcmF0aXZlIFNpZ25zYAI"
+    }
+   ]
+  },
+  {
+   "type": "Features",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Neon",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgROZW9uOgoIn8FsEKDBbDADWLDQIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=neon+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgROZW9uOgoIn8FsEKDBbDADWLDQIGAC"
+    }
+   ]
+  },
+  {
+   "type": "Price",
+   "input_type": "price_range",
+   "options": [
+    {
+     "text": "Under ₹1,500",
+     "shoprs": "CAESDRILEQAAAMALWtZBGAEYBSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyJwgFEg5VbmRlciDigrkxLDUwMBgCIg0SCxEAAADAC1rWQRgBKgIYAViw0CBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Happiness+Light+LED+Lights+under+1500&shoprs=CAESDRILEQAAAMALWtZBGAEYBSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyJwgFEg5VbmRlciDigrkxLDUwMBgCIg0SCxEAAADAC1rWQRgBKgIYAViw0CBgAg"
+    },
+    {
+     "text": "₹1,500 - ₹4,000",
+     "shoprs": "CAESFhIUCQAAAMALWtZBEQAAAABlze1BGAEYBSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyNQgFEhPigrkxLDUwMCAtIOKCuTQsMDAwGAIiFhIUCQAAAMALWtZBEQAAAABlze1BGAEqAhgBWLDQIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Happiness+Light+LED+Lights+between+1500+and+4000&shoprs=CAESFhIUCQAAAMALWtZBEQAAAABlze1BGAEYBSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyNQgFEhPigrkxLDUwMCAtIOKCuTQsMDAwGAIiFhIUCQAAAMALWtZBEQAAAABlze1BGAEqAhgBWLDQIGAC"
+    },
+    {
+     "text": "₹4,000 - ₹8,000",
+     "shoprs": "CAESFhIUCQAAAABlze1BEQAAAOBkzf1BGAEYBSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyNQgFEhPigrk0LDAwMCAtIOKCuTgsMDAwGAIiFhIUCQAAAABlze1BEQAAAOBkzf1BGAEqAhgBWLDQIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Happiness+Light+LED+Lights+between+4000+and+8000&shoprs=CAESFhIUCQAAAABlze1BEQAAAOBkzf1BGAEYBSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyNQgFEhPigrk0LDAwMCAtIOKCuTgsMDAwGAIiFhIUCQAAAABlze1BEQAAAOBkzf1BGAEqAhgBWLDQIGAC"
+    },
+    {
+     "text": "Over ₹8,000",
+     "shoprs": "CAESDRILCQAAAOBkzf1BGAEYBSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyJggFEg1PdmVyIOKCuTgsMDAwGAIiDRILCQAAAOBkzf1BGAEqAhgBWLDQIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Happiness+Light+LED+Lights+over+8000&shoprs=CAESDRILCQAAAOBkzf1BGAEYBSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyJggFEg1PdmVyIOKCuTgsMDAwGAIiDRILCQAAAOBkzf1BGAEqAhgBWLDQIGAC"
+    }
+   ]
+  },
+  {
+   "type": "Colour",
+   "input_type": "color",
+   "options": [
+    {
+     "text": "White",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFQgBEgVXaGl0ZToKCMKZOhDDmTowAFiw0CBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=white+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFQgBEgVXaGl0ZToKCMKZOhDDmTowAFiw0CBgAg"
+    },
+    {
+     "text": "Blue",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgRCbHVlOgoIwpk6EMWZOjAAWLDQIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=blue+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgRCbHVlOgoIwpk6EMWZOjAAWLDQIGAC"
+    },
+    {
+     "text": "Red",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEwgBEgNSZWQ6CgjCmToQxJk6MABYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=red+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEwgBEgNSZWQ6CgjCmToQxJk6MABYsNAgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Shops",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDAgCEghGbGlwa2FydFiw0CBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+happiness+light+led+lights&shoprs=CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDAgCEghGbGlwa2FydFiw0CBgAg"
+    },
+    {
+     "text": "Meesho",
+     "shoprs": "CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCggCEgZNZWVzaG9YsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=meesho+happiness+light+led+lights&shoprs=CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCggCEgZNZWVzaG9YsNAgYAI"
+    },
+    {
+     "text": "JioMart",
+     "shoprs": "CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCwgCEgdKaW9NYXJ0WLDQIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=jiomart+happiness+light+led+lights&shoprs=CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCwgCEgdKaW9NYXJ0WLDQIGAC"
+    },
+    {
+     "text": "Myntra",
+     "shoprs": "CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCggCEgZNeW50cmFYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=myntra+happiness+light+led+lights&shoprs=CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCggCEgZNeW50cmFYsNAgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Brand",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Philips",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFwgBEgdQaGlsaXBzOgoIg_M8EN_lPTABWLDQIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=philips+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFwgBEgdQaGlsaXBzOgoIg_M8EN_lPTABWLDQIGAC"
+    },
+    {
+     "text": "Neon Collection",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyIQgBEg9OZW9uIENvbGxlY3Rpb246DAiD8zwQtL34yQUwAViw0CBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=neon+collection+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyIQgBEg9OZW9uIENvbGxlY3Rpb246DAiD8zwQtL34yQUwAViw0CBgAg"
+    },
+    {
+     "text": "Sparky Neon",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHQgBEgtTcGFya3kgTmVvbjoMCIPzPBCF0fbJBTABWLDQIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=sparky+neon+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHQgBEgtTcGFya3kgTmVvbjoMCIPzPBCF0fbJBTABWLDQIGAC"
+    },
+    {
+     "text": "Custom Neon",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHAgBEgtDdXN0b20gTmVvbjoLCIPzPBDF0aMCMAFYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=custom+neon+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHAgBEgtDdXN0b20gTmVvbjoLCIPzPBDF0aMCMAFYsNAgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Special Occasion",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Wedding",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGAgBEgdXZWRkaW5nOgsI5tBrEK23ggEwAFiw0CBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=wedding+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGAgBEgdXZWRkaW5nOgsI5tBrEK23ggEwAFiw0CBgAg"
+    },
+    {
+     "text": "Valentine's Day",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHwgBEg9WYWxlbnRpbmUncyBEYXk6Cgjm0GsQ-qpsMABYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=valentine%27s+day+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHwgBEg9WYWxlbnRpbmUncyBEYXk6Cgjm0GsQ-qpsMABYsNAgYAI"
+    },
+    {
+     "text": "Thanksgiving",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHAgBEgxUaGFua3NnaXZpbmc6Cgjm0GsQ6NBrMABYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=thanksgiving+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHAgBEgxUaGFua3NnaXZpbmc6Cgjm0GsQ6NBrMABYsNAgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Season",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Spring",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFggBEgZTcHJpbmc6Cgj1qmwQ9qpsMABYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=spring+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFggBEgZTcHJpbmc6Cgj1qmwQ9qpsMABYsNAgYAI"
+    },
+    {
+     "text": "Winter",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFggBEgZXaW50ZXI6Cgj1qmwQ-apsMABYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=winter+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFggBEgZXaW50ZXI6Cgj1qmwQ-apsMABYsNAgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Location",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Kitchen",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGQgBEgdLaXRjaGVuOgwI7oCBARDvgIEBMABYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=kitchen+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGQgBEgdLaXRjaGVuOgwI7oCBARDvgIEBMABYsNAgYAI"
+    },
+    {
+     "text": "Outdoor",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGQgBEgdPdXRkb29yOgwI7oCBARDzgIEBMABYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=outdoor+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGQgBEgdPdXRkb29yOgwI7oCBARDzgIEBMABYsNAgYAI"
+    },
+    {
+     "text": "Bathroom",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGggBEghCYXRocm9vbToMCO6AgQEQ8YCBATAAWLDQIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=bathroom+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGggBEghCYXRocm9vbToMCO6AgQEQ8YCBATAAWLDQIGAC"
+    },
+    {
+     "text": "Garage",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGAgBEgZHYXJhZ2U6DAjugIEBEPSAgQEwAFiw0CBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=garage+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGAgBEgZHYXJhZ2U6DAjugIEBEPSAgQEwAFiw0CBgAg"
+    }
+   ]
+  },
+  {
+   "type": "Assistant Support",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Amazon Alexa",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHggBEgxBbWF6b24gQWxleGE6DAi7vJ4BEL28ngEwAFiw0CBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=amazon+alexa+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHggBEgxBbWF6b24gQWxleGE6DAi7vJ4BEL28ngEwAFiw0CBgAg"
+    },
+    {
+     "text": "Google Assistant",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyIggBEhBHb29nbGUgQXNzaXN0YW50OgwIu7yeARC8vJ4BMABYsNAgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=google+assistant+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyIggBEhBHb29nbGUgQXNzaXN0YW50OgwIu7yeARC8vJ4BMABYsNAgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Carousel Filters",
+   "options": [
+    {
+     "text": "Strip",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFQgBEgVTdHJpcDoKCKaRLhDUmDowAliw0CBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=strip+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFQgBEgVTdHJpcDoKCKaRLhDUmDowAliw0CBgAQ",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Wall Lamps & Sconces",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGAgJEhRXYWxsIExhbXBzICYgU2NvbmNlc2AB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=wall+lamps+%26+sconces+happiness+light+led+lights&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGAgJEhRXYWxsIExhbXBzICYgU2NvbmNlc2AB",
+     "input_type": "link"
+    },
+    {
+     "text": "Ceiling Lights",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEggJEg5DZWlsaW5nIExpZ2h0c2AB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=ceiling+lights+happiness+light+led&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEggJEg5DZWlsaW5nIExpZ2h0c2AB",
+     "input_type": "link"
+    },
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDAgCEghGbGlwa2FydFiw0CBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+happiness+light+led+lights&shoprs=CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDAgCEghGbGlwa2FydFiw0CBgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Light Bulbs",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDwgJEgtMaWdodCBCdWxic2AB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=light+bulbs+happiness+led+lights&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDwgJEgtMaWdodCBCdWxic2AB",
+     "input_type": "link"
+    },
+    {
+     "text": "Rope",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgRSb3BlOgoIppEuEKeRLjACWLDQIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=rope+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgRSb3BlOgoIppEuEKeRLjACWLDQIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDAgDEgZOZWFyYnkYAliw0CBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Happiness+Light+LED+Lights+nearby&shoprs=CAEYAyoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDAgDEgZOZWFyYnkYAliw0CBgAQ",
+     "input_type": "link_with_icon"
+    },
+    {
+     "text": "String",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFggBEgZTdHJpbmc6CgimkS4QqJEuMAJYsNAgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=string+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFggBEgZTdHJpbmc6CgimkS4QqJEuMAJYsNAgYAE",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Battery Powered",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHwgBEg9CYXR0ZXJ5IFBvd2VyZWQ6CgitkS4Qr5EuMABYsNAgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=battery+powered+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyHwgBEg9CYXR0ZXJ5IFBvd2VyZWQ6CgitkS4Qr5EuMABYsNAgYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Outdoor",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFwgBEgdPdXRkb29yOgoIupEuELuRLjADWLDQIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=outdoor+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFwgBEgdPdXRkb29yOgoIupEuELuRLjADWLDQIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Meesho",
+     "shoprs": "CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCggCEgZNZWVzaG9YsNAgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=meesho+happiness+light+led+lights&shoprs=CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCggCEgZNZWVzaG9YsNAgYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Philips",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFwgBEgdQaGlsaXBzOgoIg_M8EN_lPTABWLDQIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=philips+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFwgBEgdQaGlsaXBzOgoIg_M8EN_lPTABWLDQIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "White",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFQgBEgVXaGl0ZToKCMKZOhDDmTowAFiw0CBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=white+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFQgBEgVXaGl0ZToKCMKZOhDDmTowAFiw0CBgAQ",
+     "input_type": "color"
+    },
+    {
+     "text": "Blue",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgRCbHVlOgoIwpk6EMWZOjAAWLDQIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=blue+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgRCbHVlOgoIwpk6EMWZOjAAWLDQIGAB",
+     "input_type": "color"
+    },
+    {
+     "text": "Under ₹1,500",
+     "shoprs": "CAESDRILEQAAAMALWtZBGAEYBSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyJwgFEg5VbmRlciDigrkxLDUwMBgCIg0SCxEAAADAC1rWQRgBKgIYAViw0CBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Happiness+Light+LED+Lights+under+1500&shoprs=CAESDRILEQAAAMALWtZBGAEYBSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyJwgFEg5VbmRlciDigrkxLDUwMBgCIg0SCxEAAADAC1rWQRgBKgIYAViw0CBgAQ",
+     "input_type": "price_range"
+    },
+    {
+     "text": "Pendant",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFwgBEgdQZW5kYW50OgoI2uktENvpLTACWLDQIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=pendant+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFwgBEgdQZW5kYW50OgoI2uktENvpLTACWLDQIGAB",
+     "input_type": "link"
+    },
+    {
+     "text": "Decorative Signs",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgJEhBEZWNvcmF0aXZlIFNpZ25zYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=decorative+signs+happiness+light+led+lights&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgJEhBEZWNvcmF0aXZlIFNpZ25zYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Neon",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgROZW9uOgoIn8FsEKDBbDADWLDQIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=neon+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyFAgBEgROZW9uOgoIn8FsEKDBbDADWLDQIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Candles",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCwgJEgdDYW5kbGVzYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=candles+happiness+light+led+lights&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCwgJEgdDYW5kbGVzYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "On sale",
+     "shoprs": "CAESBEoCCAEYBioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEwgGEgdPbiBzYWxlGAIiBEoCCAFYsNAgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Happiness+Light+LED+Lights+sale&shoprs=CAESBEoCCAEYBioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEwgGEgdPbiBzYWxlGAIiBEoCCAFYsNAgYAE",
+     "input_type": "link_with_icon"
+    },
+    {
+     "text": "Red",
+     "shoprs": "CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEwgBEgNSZWQ6CgjCmToQxJk6MABYsNAgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=red+happiness+light+led+lights&shoprs=CAEYASoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEwgBEgNSZWQ6CgjCmToQxJk6MABYsNAgYAE",
+     "input_type": "color"
+    },
+    {
+     "text": "Lamps",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCQgJEgVMYW1wc2AB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=lamps+happiness+light+led+lights&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCQgJEgVMYW1wc2AB",
+     "input_type": "link"
+    },
+    {
+     "text": "Night Lights",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEAgJEgxOaWdodCBMaWdodHNgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=night+lights+happiness+light+led&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEAgJEgxOaWdodCBMaWdodHNgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Under-cabinet Lighting",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGggJEhZVbmRlci1jYWJpbmV0IExpZ2h0aW5nYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=under-cabinet+lighting+happiness+light+led+lights&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyGggJEhZVbmRlci1jYWJpbmV0IExpZ2h0aW5nYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "JioMart",
+     "shoprs": "CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCwgCEgdKaW9NYXJ0WLDQIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=jiomart+happiness+light+led+lights&shoprs=CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCwgCEgdKaW9NYXJ0WLDQIGAB",
+     "input_type": "link"
+    },
+    {
+     "text": "Picture Frames",
+     "shoprs": "CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEggJEg5QaWN0dXJlIEZyYW1lc2AB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=picture+frames+happiness+light+led+lights&shoprs=CAEYCSoaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyEggJEg5QaWN0dXJlIEZyYW1lc2AB",
+     "input_type": "link"
+    },
+    {
+     "text": "Myntra",
+     "shoprs": "CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCggCEgZNeW50cmFYsNAgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=myntra+happiness+light+led+lights&shoprs=CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyCggCEgZNeW50cmFYsNAgYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Amazon.in",
+     "shoprs": "CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDQgCEglBbWF6b24uaW5YsNAgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=amazon.in+happiness+light+led+lights&shoprs=CAEYAioaaGFwcGluZXNzIGxpZ2h0IGxlZCBsaWdodHMyDQgCEglBbWF6b24uaW5YsNAgYAE",
+     "input_type": "link"
+    }
+   ]
+  }
+ ]
+}

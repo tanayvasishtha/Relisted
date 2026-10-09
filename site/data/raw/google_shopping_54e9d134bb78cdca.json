@@ -1,0 +1,1377 @@
+{
+ "search_metadata": {
+  "id": "6ac89d01d6eb72ce4467d9de",
+  "status": "Success",
+  "created_at": "2026-10-09 07:51:29 UTC",
+  "processed_at": "2026-10-09 07:51:29 UTC",
+  "google_shopping_url": "https://www.google.com/search?udm=28&q=Multi-Purpose+Helmets&hl=en&gl=in",
+  "total_time_taken": 6.42
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Multi-Purpose Helmets",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Multi-Purpose Helmets",
+  "shopping_results_state": "Results for exact spelling"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "OTO2EYE Open Face Cap/Half Cap with Strap All Purpose Size M",
+   "product_id": "6410400744161923148",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:6410400744161923148,headlineOfferDocid:6410400744161923148,imageDocid:1552405609618194947,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹185",
+   "extracted_price": 185,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRGm5Jyo0tj7-VzTH1LUN-_In_NDa3bPivCM6JCbAp16bwnYU-YFl3ln-6bJdNHpfEsIpPoXdS0m-0AS6oRfZN5ji5Ln1J_pOx7QLK0prwI8MR1x50UCyNR",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/TF_1_XicDclLDoIwFADAExVKCKAkxhBUPmJVECNuCOVPpH1Co-KhvI-30dnO99MIAaMpyyXLhwlEWSBBmSrVo8hEm0s57-Wx4QAtq5f3xf9MixRzJw-dXvMnjkVnoPP75CpBTFDqsZSsMpUe2oe9032bWqDo9MmSGCWbm3pjSKd-QVyo1qMHB34pItwjbEU6D6sr0bpWC5jip7B_Gcdgi2F4erNdqLw0HNsTCX_BBTwy",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 2,
+   "title": "Yamaha Retro Half Face Helmet (Size XL, Desert) QLHRETHFDCXL",
+   "product_id": "10153060502005178065",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:10153060502005178065,headlineOfferDocid:10153060502005178065,imageDocid:16658495815642736049,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,199",
+   "extracted_price": 2199,
+   "old_price": "₹2,499",
+   "extracted_old_price": 2499,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSHqcOBQY3zA1_FqTSm5zEiv9_-FbZ_gHKhnuwfUm_MF_n7r9e4DJO8S1eRXKRvYrQXpN4BVZi6cDRTWLPGurN4KceLYWJ80UzhfbQjOKgEdeCGyHFN4Wo",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Xqqh6XicDcnhDkJAAADgJypZV9HWWsoxipDEn1vOxbU55xwtD9X79Db1_f2-n0pK3q0VhTAs3lySYiJzpk7LTt4lxVPc1EpXNZxTVm7bzf_WO6_QLRxGdot9I0jn405FsL1E9WI06aCjCcwzVNpuxfrXI67RCSK2EjoBB8fXIpWENzccUhHcuAeMa0aX-BBekuPZ6oUHXEyOaeJos3isHnnw9N3SLMjeetvQA0nzAxIoPYY",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 3,
+   "title": "Yamaha Retro Half Face Helmet (Size L, Desert) QLHRETHFDC0L",
+   "product_id": "9516630388106126531",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:9516630388106126531,headlineOfferDocid:9516630388106126531,imageDocid:16658495815642736049,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,199",
+   "extracted_price": 2199,
+   "old_price": "₹2,499",
+   "extracted_old_price": 2499,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSHqcOBQY3zA1_FqTSm5zEiv9_-FbZ_gHKhnuwfUm_MF_n7r9e4DJO8S1eRXKRvYrQXpN4BVZi6cDRTWLPGurN4KceLYWJ80UzhfbQjOKgEdeCGyHFN4Wo",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Xqqh6XicDcnhDkJAAADgJypZV9HWWsoxipDEn1vOxbU55xwtD9X79Db1_f2-n0pK3q0VhTAs3lySYiJzpk7LTt4lxVPc1EpXNZxTVm7bzf_WO6_QLRxGdot9I0jn405FsL1E9WI06aCjCcwzVNpuxfrXI67RCSK2EjoBB8fXIpWENzccUhHcuAeMa0aX-BBekuPZ6oUHXEyOaeJos3isHnnw9N3SLMjeetvQA0nzAxIoPYY",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "Cairbull Cycling Helmet Road Bike Helmet With Goggle/Visor/Lamp Three Uses 54-61 cm Adjustable",
+   "product_id": "9496025464326082250",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:9496025464326082250,productid:18128782284014780165,headlineOfferDocid:14293126278976564477,imageDocid:18084631993308203812,rds:PC_12450416804446726456|PROD_PC_12450416804446726456,gpcid:12450416804446726456,mid:576462854577333791,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹7,261.44",
+   "extracted_price": 7261.44,
+   "alternative_price": {
+    "price": "AED 276",
+    "extracted_price": 276,
+    "currency": "AED"
+   },
+   "rating": 5.0,
+   "reviews": 831,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROxdA_B7tUjUXnYEPweMxMKBI63Tnl3BOeUR8E2N4FTfC8Tw-fxCj9k5kWGr9JR7FsTj-Tcp5heHVLXy8erw4ew_XNTnfCLju_TWTgTudVS5ZPRuPKw-G8",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/0yCsDnicDcndEkJAGADQJ5ImFM00DQaV_Mz2KXVjai2i1saa1Uv1Pr1Nndvz_VScs34py4Ti7s04ySV-o9NJ2fMrv-MJbp9yX7WM3Wm5fq3-tzTD3PAwisbczKwFT-okpWcnFiQYA9_azhWgD8WKSIJ0ZxaqLhS2DkIqRrs2Gq05eZ2xQwu3h1oCzLSKbI779K2TTqhEZGkItLD39ZDBCUoY8uNBu8RoiH0hefoP7xI9aA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 5,
+   "title": "Strauss Adjustable Cycling Helmet",
+   "product_id": "11076809396231810419",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:11076809396231810419,productid:2663407581182949786,headlineOfferDocid:9185070135279483794,imageDocid:6112378789184021155,rds:PC_4992268272383589751|PROD_PC_4992268272383589751,gpcid:4992268272383589751,mid:576462897659332707,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Bicycle Kart",
+   "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgBBgkBBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kHC0sJCYxJx8fLT0tNTUrOjo6Fys_PTUsQyg9LjcBCgoKDQENGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzctNzc3Nzc3NzE3Nzc3Ny03Nzc1Nzc3KzU3Nzc1N__AABEIABAAEAMBEQACEQEDEQH_xAAVAAEBAAAAAAAAAAAAAAAAAAAFBv_EACQQAAEDAwQBBQAAAAAAAAAAAAECAwQGESEABQdBoRIiMTJR_8QAFwEAAwEAAAAAAAAAAAAAAAAABAUGAf_EACoRAAECBAMGBwAAAAAAAAAAAAECAwAEBTEHESEGEkFRcfAIQlKBocHx_9oADAMBAAIRAxEAPwCt3LcnuLKhhcepILD6LLScAZPu1F06lM-IajTD50W2cwfax70MbMzS8PpxtsWUPuGI77NetCqY7iXGzgKSbg5zqcmJd3BRwtvJKVDgYZNuI20TvIOYg3edqTyhJjczAFS4_wBm7AhxPYt--NO6PWVeHph2UOgcsr0q4Hp8i4gGckxiAtLtynhzHKDqSgTaIfkV04hcWItR9EZd736-cjGL96cbWVGSxbaaZQoOOpAzWLdNL58rCA6TLvbJrUsjdSfKe_2P_9k.jpeg",
+   "multiple_sources": true,
+   "price": "₹1,000",
+   "extracted_price": 1000,
+   "rating": 5.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTyi-Nq8LEw6MjuDMlipLJK634J7HkzCfpGgmUffszalemiEvlzq5RWtl6ozXN5Tnk7q4lkLN4tyGkDIP-5jdvDzib20cdIfabjk1eAoD7zqUaKMpzc2ng7Lg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Be5-R3icDcnbCoIwAADQL1LLvJQQISnmlQilXufUOTfnlstwX9Xv9Dd1Xs_300vJZ88wWgafK5dto8ma7XQ0SyAx1OE0GnM_cY4ZOonj_zy_aA4RLFesFWKfhW8nH15BTjHPktTZWYl7Ierc8QiNVdfNCtB2xOFClbBvd0mdST0Ku2TEFRYlWWHJNSJBfNXsoVkChWtzA5u4A_VAtq0_Ba4SFUhzrqDJkJuhH_DRQAQ",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 6,
+   "title": "JJ Jonex Adjustable Cycling & Skating Helmet with Detachable Visor | Light Weight | Adjustable Strap with Comfortable Chin Padding | (Multicolor,",
+   "product_id": "8366622597906322646",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:8366622597906322646,headlineOfferDocid:8366622597906322646,imageDocid:12525831158231033170,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹899",
+   "extracted_price": 899,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTXe-pg6ekqABHAw4NAKd-MIrH-nw60hMxoqzw8arUr6LdaFKA409BcgbsDccQcXUW-9HrmWiN53dr8pL-LKU3NQSlQeKEd-3OEB1wNX0rri4w8woE7fAAVVA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qc2y23icDcltDoIgAADQE6GWZtrWGi7LptJc-fFXgdCVgsBGdaqu023q_X3fT6-1UBvbphOWL6EpAbqblhZTutUDtjAfbdVzIYaJ7ebt_zYQkfCIrw0Fgvn0PsMogcZDMCUgP8kETMZ3-vzJ57cJWllKPyPtIYWeE0aYdWqPcYGbsgZhIsd6QCuXyEBkIEtLFxWXR0HTmAD3HEcLgxpHysEzgeHx-gZhVcEfW6g9Aw",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 7,
+   "title": "FABSPORTS Light weight Bicycle / Bike Helmet with flexible padding",
+   "product_id": "3954230796237579828",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:3954230796237579828,productid:15207666569915922585,headlineOfferDocid:8971714650975701993,imageDocid:14557694867054098744,gpcid:1488121642817824516,mid:576462887200321244,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹899",
+   "extracted_price": 899,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROhJfw7O9Q1x5p_ahhRLEfFPQ1vamPy2Fwv8BoazXvyvH8ITJ21ptx4QbVvoOuxVZCpeH7DBV3HiEDSLUSWR8XvJIESCvbXSFRam7RCBKftXzzeR52BPZ5OQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qX5FnHicDclJDoIwAADAFwmCEpbEGNkEJJYWRcLFlLUcgCq1Aq_yO_5G5zrfD2GMjoYoVn3xnCmryhXL-7XQjAyzthCKoRNHMlDa9s3-sfufcTiX-rFAgAT1WwU6lCaF3jEhKHRqN4ISx100y-6ba-aAl5TP3NP8SyBLlE1bmCd8AK8pySxaeaptJhuvdew4vMY3pKU88J3Y4nkauwh3KrLMU83SZamQIptRpgD4A7ItPlc",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 8,
+   "title": "Stargaze Multi-Sport Kids Helmet 55cm Medium Size for Boys & Girls (Red) | Bicycle, Skating & Scootering, Adjustable Safety Gear",
+   "product_id": "8425485607443784309",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:8425485607443784309,headlineOfferDocid:8425485607443784309,imageDocid:15198524637864002352,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹283.45",
+   "extracted_price": 283.45,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTwk8zUuLWIrD0PmUlTLgHPWlrGcofE8Z8VtkHvbn5CwQSwVi5Q_xHeyDo331lkcQF5j9sKDO_S5covhd8LzYKTeqpMr8rH70P_ocK_RBz6rHw8Zom2qJCl5QE",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/jXGt13icDcnhEoEwAADgJ6LoxurOOYRRaCqOPx0rlWpba0q9lcfxNnx_v-8nkZJXhqJElIiWyyjsyTtV-3ElbzIlfcIKpUoY5ymNp-Xkf8ZsH-pr4jUZ7PyXfd4IU3UKP_fsGDnnXKwJeyzhFZ5khuo7BYsGu80pBTh4o6g1maYN8ozgFXjqlWUeAhcQVichtLuL5UUl3wko0Fh1Akas4DjvRgI18MqKYbld5AAvfyeOP6I",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 9,
+   "title": "Lifelong Llfah04 Adjustable Mountain Bike Cycle Helmet With Padding & Detachable Visor Cycling Helmet",
+   "product_id": "12280089986329372156",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:12280089986329372156,productid:4730193315818521055,headlineOfferDocid:16796518899038263993,imageDocid:3588927673768687533,gpcid:17900362065145757375,mid:576462855079411584,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹2,972.98",
+   "extracted_price": 2972.98,
+   "alternative_price": {
+    "price": "AED 113",
+    "extracted_price": 113,
+    "currency": "AED"
+   },
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS1rsZ_DlfewIpX5ORMRbEjQrXlmgrswUXQDWKz66HfbGO23ACE0SuWXisb4WlerzfafM6tXpWXuR-fA7cKfb_XcpXhTVb7wY2YAtSj5kbv1CJMlqUPe5IZsw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/n2Z30HicDclJDoIwAADAFyGCApHEGAIElyACKsWLoaVlEaG01UZf5Xf8jc51vp9aCMptVcU9Yi8qcKkI2GuTiotCNGiChrvK64HSpq9W4_J_trMvFwFKNcYvV68jWG4oMKIkTKDfxgx094pxeQKxl-3eprkmMIj0meP60_SRgYbDedZh9iYFCU0BaAYeiUIcC-0IvAJEQX08Q0vmeu6ItDVu8Km527AbTwdsbC5c_gDtKz-9",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "Strauss Adjustable Cycling Helmet",
+   "product_id": "11076809396231810419",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:11076809396231810419,productid:2663407581182949786,headlineOfferDocid:10658375098332463440,imageDocid:6112378789184021155,rds:PC_4992268272383589751|PROD_PC_4992268272383589751,gpcid:4992268272383589751,mid:576462897659332707,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/deB6Nuu-zfgtRvvvYLdZqW-ss9ngsFQ8Xi9Vkn0fG_c.png",
+   "multiple_sources": true,
+   "price": "₹1,199",
+   "extracted_price": 1199,
+   "rating": 5.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTyi-Nq8LEw6MjuDMlipLJK634J7HkzCfpGgmUffszalemiEvlzq5RWtl6ozXN5Tnk7q4lkLN4tyGkDIP-5jdvDzib20cdIfabjk1eAoD7zqUaKMpzc2ng7Lg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Be5-R3icDcnbCoIwAADQL1LLvJQQISnmlQilXufUOTfnlstwX9Xv9Dd1Xs_300vJZ88wWgafK5dto8ma7XQ0SyAx1OE0GnM_cY4ZOonj_zy_aA4RLFesFWKfhW8nH15BTjHPktTZWYl7Ierc8QiNVdfNCtB2xOFClbBvd0mdST0Ku2TEFRYlWWHJNSJBfNXsoVkChWtzA5u4A_VAtq0_Ba4SFUhzrqDJkJuhH_DRQAQ",
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 11,
+   "title": "Bike Helmet with Camera, 1080P HD Smart Urban Bicycle Helmet with Front LED Light Taillight, Rechargeable Night Riding Helmet for Adults Men Women",
+   "product_id": "889622674131690403",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:889622674131690403,headlineOfferDocid:889622674131690403,imageDocid:7917048130374409250,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹22,479",
+   "extracted_price": 22479,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJWb_DqKHunqtnw4ifA9XOAkAL1RuBkPBdsZZyZIwG9TTOS-aEkkJaSh4OxirMxxeaU8vCH9Q1X_BrmsWqj1R99T_W2c9qOHXelssnJI1eRk4UVKIaI6rr-g",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/RWgeEnicDclJDoIwAADAFyGBEGNJjAE1bCrKIoQLKaUCVgtdEPyV3_E3Otf5flopB2GqKqaIvweJa0VWVF80QkLZoQXqn6po-2HoaLNh6_-Z1qkGDor9rCp3LHBHyiSdjO5mgTy0iHXQotEmZ7sWRfEuvMkBSRLGCtwT4sO4NcK548d5xjBdvbYuuGh5afOnyNhdiwBIykxHgIVujh9CUN_TcESM9Bp40FtyrjQ_0ss-_w"
+  },
+  {
+   "position": 12,
+   "title": "Smart Bike Helmet with Camera, 1080P HD Smart Urban Bicycle Helmet with Front LED Light Taillight, Rechargeable Night Riding Helmet for Adults Men",
+   "product_id": "9442144054030517215",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:9442144054030517215,headlineOfferDocid:9442144054030517215,imageDocid:7917048130374409250,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹19,260.75",
+   "extracted_price": 19260.75,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJWb_DqKHunqtnw4ifA9XOAkAL1RuBkPBdsZZyZIwG9TTOS-aEkkJaSh4OxirMxxeaU8vCH9Q1X_BrmsWqj1R99T_W2c9qOHXelssnJI1eRk4UVKIaI6rr-g",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/RWgeEnicDclJDoIwAADAFyGBEGNJjAE1bCrKIoQLKaUCVgtdEPyV3_E3Otf5flopB2GqKqaIvweJa0VWVF80QkLZoQXqn6po-2HoaLNh6_-Z1qkGDor9rCp3LHBHyiSdjO5mgTy0iHXQotEmZ7sWRfEuvMkBSRLGCtwT4sO4NcK548d5xjBdvbYuuGh5afOnyNhdiwBIykxHgIVujh9CUN_TcESM9Bp40FtyrjQ_0ss-_w"
+  },
+  {
+   "position": 13,
+   "title": "VGEBY Bike Helmet, 1080p Smart Bike Helmet with Camera Front LED Light Taillight Adjustable Head Circumference for Adults Men Women Cycling",
+   "product_id": "11990208082735215450",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:11990208082735215450,headlineOfferDocid:11990208082735215450,imageDocid:15833263007911785379,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹16,075.13",
+   "extracted_price": 16075.13,
+   "alternative_price": {
+    "price": "AED 611",
+    "extracted_price": 611,
+    "currency": "AED"
+   },
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSkrtzNOsWTZokRn7a5a5n2Mpl6CQhTXRdRqNIshtu3OASMEa8JIRhtledA-36ERaTdrqaREiNADBwzo4hyOtQ77SrsT1cWUwuvYtPROgJNmsh1mZSqVfIGzg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/PmEj83icDcndDoIgGADQJ0pnlpZba1au6RYm0u8dgYErEeUrp0_V6_Q2dW7P9yMBtAlsu1Cs7TUUfAQ35VrCAIWSWayubCNrrUslls3if0GI-HzL8kcLA0rNiVzrB1Y-ndKpGu_001tnkpwxxw2KjYSXm4b5LqKzJMYSngUPR64XYUp421AclSjcrLqhnsg-hcz389YQh50O3et9gT1ORYIqI53qmjfHe7wdxA_n5z_-",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "FABSPORTS Light weight Bicycle / Bike Helmet with flexible padding",
+   "product_id": "3954230796237579828",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:3954230796237579828,productid:15207666569915922585,headlineOfferDocid:2484978874301565796,imageDocid:14557694867054098744,gpcid:1488121642817824516,mid:576462887200321244,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/deB6Nuu-zfgtRvvvYLdZqVdyZqsL-SETLFZ8FcrjXWg.png",
+   "multiple_sources": true,
+   "price": "₹920",
+   "extracted_price": 920,
+   "old_price": "39% off₹1,499",
+   "extracted_old_price": 39,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROhJfw7O9Q1x5p_ahhRLEfFPQ1vamPy2Fwv8BoazXvyvH8ITJ21ptx4QbVvoOuxVZCpeH7DBV3HiEDSLUSWR8XvJIESCvbXSFRam7RCBKftXzzeR52BPZ5OQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qX5FnHicDclJDoIwAADAFwmCEpbEGNkEJJYWRcLFlLUcgCq1Aq_yO_5G5zrfD2GMjoYoVn3xnCmryhXL-7XQjAyzthCKoRNHMlDa9s3-sfufcTiX-rFAgAT1WwU6lCaF3jEhKHRqN4ISx100y-6ba-aAl5TP3NP8SyBLlE1bmCd8AK8pySxaeaptJhuvdew4vMY3pKU88J3Y4nkauwh3KrLMU83SZamQIptRpgD4A7ItPlc",
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 15,
+   "title": "JERN Adjustable Cycling and Skating Helmet with Detachable Visor, Lightweight with Superior Ventilation, Comfortable Chin Padding (Black)",
+   "product_id": "3953752612518932302",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:3953752612518932302,headlineOfferDocid:3953752612518932302,imageDocid:1155314125957134841,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹937",
+   "extracted_price": 937,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRojxHU5T82CagQklp1d5AsflVdR2zS33uu89fh6DnDjWeBPLay5RLaS7qerRsNcqBwf4o0pI7Px8R0iz7nlP8RmMqNrYFSd864VDyXfhjAEPlbqPmwbFDz",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/6Ru5-XicDcnbDoIgAADQL0rLK7W1ZtltK0dYVo8KKpoiCC71o_qf_qbO6_l-qFJcLnQ9ZbgduErJRCVspuVSxarAGm5qXdKG84LlK7H838ILyHyPUVP2h5t9BcYmzi-vis-I7cmsiggyxtA0uw7MM-r4zC_v6Rqe4sFGpzh0RdoiGWCxfmdWM-VHF_YATYvRZRUEqD6LoH3uQgIcK_KHR0ZLbwurRMD6nez88Qchbj5D",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 16,
+   "title": "Cairbull Cycling Helmet Road Bike Helmet With Goggle/Visor/Lamp Three Uses 54-61 cm Adjustable",
+   "product_id": "9496025464326082250",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:9496025464326082250,productid:18128782284014780165,headlineOfferDocid:9277249679667708154,imageDocid:18084631993308203812,rds:PC_12450416804446726456|PROD_PC_12450416804446726456,gpcid:12450416804446726456,mid:576462854577333791,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹2,627",
+   "extracted_price": 2627,
+   "rating": 5.0,
+   "reviews": 831,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROxdA_B7tUjUXnYEPweMxMKBI63Tnl3BOeUR8E2N4FTfC8Tw-fxCj9k5kWGr9JR7FsTj-Tcp5heHVLXy8erw4ew_XNTnfCLju_TWTgTudVS5ZPRuPKw-G8",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/0yCsDnicDcndEkJAGADQJ5ImFM00DQaV_Mz2KXVjai2i1saa1Uv1Pr1Nndvz_VScs34py4Ti7s04ySV-o9NJ2fMrv-MJbp9yX7WM3Wm5fq3-tzTD3PAwisbczKwFT-okpWcnFiQYA9_azhWgD8WKSIJ0ZxaqLhS2DkIqRrs2Gq05eZ2xQwu3h1oCzLSKbI779K2TTqhEZGkItLD39ZDBCUoY8uNBu8RoiH0hefoP7xI9aA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 17,
+   "title": "FABSPORTS Light Weight Bicycle/Bike Helmet with Flexible Padding for Kids and Adults, Adjustable Size for Road & Mountain Cycling/Skating (Black, One",
+   "product_id": "2755501663238432199",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:2755501663238432199,headlineOfferDocid:2755501663238432199,imageDocid:2117374604186601530,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.com.sa",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹4,217.90",
+   "extracted_price": 4217.9,
+   "alternative_price": {
+    "price": "SAR 164",
+    "extracted_price": 164,
+    "currency": "SAR"
+   },
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTbUzWXAXKI_dOFB-nPXXbXL_vGrjppvRYqXn-Q4g38lv7oap3VX8_i67TESi2ZCcGq0GTAr-nB1aWxuLsKPdvbP5XxpIGLIU5obwmzOV6b8qFcnAM__GtypQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/hNhyk3icDcnxDoFAHADgJ0qUkjazMt2aqCiOf27dZcm4ftU51VN5HW_D9-_3_dyEgNZW1StnTQ_imiuCcm1UtCITJRux6qm2twqg5MWyXvzPdnb5HLGEpsMJO3jjkzz0XIVHGFMcEImaO4Dcn2vMlXha6NZDzqoM9CO2SGnOkvWh1C4rhuoxSpxG4e4kO3WvoN1EuaSRgTvwUeCnRkXfzyE8mtSqPcadLSFI9BD_AKmSPwY",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 18,
+   "title": "Lifelong Llfah04 Adjustable Mountain Bike Cycle Helmet With Padding & Detachable Visor Cycling Helmet",
+   "product_id": "12280089986329372156",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:12280089986329372156,productid:4730193315818521055,headlineOfferDocid:1902902135614425818,imageDocid:3588927673768687533,gpcid:17900362065145757375,mid:576462855079411584,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹599",
+   "extracted_price": 599,
+   "old_price": "Was ₹879",
+   "extracted_old_price": 879,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS1rsZ_DlfewIpX5ORMRbEjQrXlmgrswUXQDWKz66HfbGO23ACE0SuWXisb4WlerzfafM6tXpWXuR-fA7cKfb_XcpXhTVb7wY2YAtSj5kbv1CJMlqUPe5IZsw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/n2Z30HicDclJDoIwAADAFyGCApHEGAIElyACKsWLoaVlEaG01UZf5Xf8jc51vp9aCMptVcU9Yi8qcKkI2GuTiotCNGiChrvK64HSpq9W4_J_trMvFwFKNcYvV68jWG4oMKIkTKDfxgx094pxeQKxl-3eprkmMIj0meP60_SRgYbDedZh9iYFCU0BaAYeiUIcC-0IvAJEQX08Q0vmeu6ItDVu8Km527AbTwdsbC5c_gDtKz-9",
+   "tag": "31% OFF",
+   "extensions": [
+    "31% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 19,
+   "title": "Strauss Adjustable Cycling Helmet",
+   "product_id": "11076809396231810419",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:11076809396231810419,productid:2663407581182949786,headlineOfferDocid:14225597328812209328,imageDocid:6112378789184021155,rds:PC_4992268272383589751|PROD_PC_4992268272383589751,gpcid:4992268272383589751,mid:576462897659332707,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/deB6Nuu-zfgtRvvvYLdZqUb-YQy1-iZ28C2BU57jgR8.png",
+   "multiple_sources": true,
+   "price": "₹854",
+   "extracted_price": 854,
+   "old_price": "57% off₹1,999",
+   "extracted_old_price": 57,
+   "rating": 5.0,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTyi-Nq8LEw6MjuDMlipLJK634J7HkzCfpGgmUffszalemiEvlzq5RWtl6ozXN5Tnk7q4lkLN4tyGkDIP-5jdvDzib20cdIfabjk1eAoD7zqUaKMpzc2ng7Lg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Be5-R3icDcnbCoIwAADQL1LLvJQQISnmlQilXufUOTfnlstwX9Xv9Dd1Xs_300vJZ88wWgafK5dto8ma7XQ0SyAx1OE0GnM_cY4ZOonj_zy_aA4RLFesFWKfhW8nH15BTjHPktTZWYl7Ierc8QiNVdfNCtB2xOFClbBvd0mdST0Ku2TEFRYlWWHJNSJBfNXsoVkChWtzA5u4A_VAtq0_Ba4SFUhzrqDJkJuhH_DRQAQ",
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 20,
+   "title": "FABSPORTS Light weight Bicycle / Bike Helmet with flexible padding",
+   "product_id": "3954230796237579828",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:3954230796237579828,productid:15207666569915922585,headlineOfferDocid:11494415711933466026,imageDocid:14557694867054098744,gpcid:1488121642817824516,mid:576462887200321244,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹799",
+   "extracted_price": 799,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROhJfw7O9Q1x5p_ahhRLEfFPQ1vamPy2Fwv8BoazXvyvH8ITJ21ptx4QbVvoOuxVZCpeH7DBV3HiEDSLUSWR8XvJIESCvbXSFRam7RCBKftXzzeR52BPZ5OQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qX5FnHicDclJDoIwAADAFwmCEpbEGNkEJJYWRcLFlLUcgCq1Aq_yO_5G5zrfD2GMjoYoVn3xnCmryhXL-7XQjAyzthCKoRNHMlDa9s3-sfufcTiX-rFAgAT1WwU6lCaF3jEhKHRqN4ISx100y-6ba-aAl5TP3NP8SyBLlE1bmCd8AK8pySxaeaptJhuvdew4vMY3pKU88J3Y4nkauwh3KrLMU83SZamQIptRpgD4A7ItPlc"
+  },
+  {
+   "position": 21,
+   "title": "Jaspo Urban Rider Plus Cycling Helmet with Adjustable Spin Dial (Upto 5cm) | Quick-Release Buckle for Effortless Wearing | Padded Chin Strap | Ideal",
+   "product_id": "16475299157421117190",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:16475299157421117190,productid:15057645132913045458,headlineOfferDocid:6450341925729017457,imageDocid:299522172869106114,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹779",
+   "extracted_price": 779,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmgj1S9IPG5px0htdR1s2M2Js5rc-DIOJpeBupCXVqCoSAwNtsNheTJE_07c0JwElVrb6C4LuJXIs_tisMGVwdJY55ps3SxJr2Cty7g6UikYNS3eYYkNpjRA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/abuKunicDclbCoJAFADQFeWrLAoizEQccgqnRL8kx0HtoVfvDXVXbafd1Pk9309FBLjRddXIfgJSxYzyxtJKpBvVUpPtS8eqBaibctdt_7dxeLH2pXiVd1Osg7Nvw2hUVEQmWqHF0O7l7BCcGKj9G9wk7txWOAMn5JW6MC8zVtJgg_eM-3zpLo5vlgSYUY2hHw8FS20bcC5G1lsuTatyea0fKRdzlaYPDvfI-QGJ0T6a",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 22,
+   "title": "FABSPORTS Light weight Bicycle / Bike Helmet with flexible padding",
+   "product_id": "3954230796237579828",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:3954230796237579828,productid:15207666569915922585,headlineOfferDocid:12132501710336782931,imageDocid:14557694867054098744,gpcid:1488121642817824516,mid:576462887200321244,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/deB6Nuu-zfgtRvvvYLdZqbmnrhFtjNoPyoJXqLd73CY.png",
+   "multiple_sources": true,
+   "price": "₹896",
+   "extracted_price": 896,
+   "old_price": "40% off₹1,499",
+   "extracted_old_price": 40,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROhJfw7O9Q1x5p_ahhRLEfFPQ1vamPy2Fwv8BoazXvyvH8ITJ21ptx4QbVvoOuxVZCpeH7DBV3HiEDSLUSWR8XvJIESCvbXSFRam7RCBKftXzzeR52BPZ5OQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qX5FnHicDclJDoIwAADAFwmCEpbEGNkEJJYWRcLFlLUcgCq1Aq_yO_5G5zrfD2GMjoYoVn3xnCmryhXL-7XQjAyzthCKoRNHMlDa9s3-sfufcTiX-rFAgAT1WwU6lCaF3jEhKHRqN4ISx100y-6ba-aAl5TP3NP8SyBLlE1bmCd8AK8pySxaeaptJhuvdew4vMY3pKU88J3Y4nkauwh3KrLMU83SZamQIptRpgD4A7ItPlc",
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 23,
+   "title": "Cairbull Cycling Helmet Road Bike Helmet With Goggle/Visor/Lamp Three Uses 54-61 cm Adjustable",
+   "product_id": "9496025464326082250",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:9496025464326082250,productid:18128782284014780165,headlineOfferDocid:16266029591947496080,imageDocid:18084631993308203812,rds:PC_12450416804446726456|PROD_PC_12450416804446726456,gpcid:12450416804446726456,mid:576462854577333791,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹2,599",
+   "extracted_price": 2599,
+   "rating": 5.0,
+   "reviews": 831,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROxdA_B7tUjUXnYEPweMxMKBI63Tnl3BOeUR8E2N4FTfC8Tw-fxCj9k5kWGr9JR7FsTj-Tcp5heHVLXy8erw4ew_XNTnfCLju_TWTgTudVS5ZPRuPKw-G8",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/0yCsDnicDcndEkJAGADQJ5ImFM00DQaV_Mz2KXVjai2i1saa1Uv1Pr1Nndvz_VScs34py4Ti7s04ySV-o9NJ2fMrv-MJbp9yX7WM3Wm5fq3-tzTD3PAwisbczKwFT-okpWcnFiQYA9_azhWgD8WKSIJ0ZxaqLhS2DkIqRrs2Gq05eZ2xQwu3h1oCzLSKbI779K2TTqhEZGkItLD39ZDBCUoY8uNBu8RoiH0hefoP7xI9aA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 24,
+   "title": "Cairbull Cycling Helmet Road Bike Helmet With Goggle/Visor/Lamp Three Uses 54-61 cm Adjustable",
+   "product_id": "9496025464326082250",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:9496025464326082250,productid:18128782284014780165,headlineOfferDocid:2783758911517065600,imageDocid:18084631993308203812,rds:PC_12450416804446726456|PROD_PC_12450416804446726456,gpcid:12450416804446726456,mid:576462854577333791,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Super Biker",
+   "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/deB6Nuu-zfgtRvvvYLdZqUU-ye9AXn93lMtK1P7i6zY.png",
+   "multiple_sources": true,
+   "price": "₹2,222.30",
+   "extracted_price": 2222.3,
+   "alternative_price": {
+    "price": "$23",
+    "extracted_price": 23,
+    "currency": "$"
+   },
+   "rating": 5.0,
+   "reviews": 831,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROxdA_B7tUjUXnYEPweMxMKBI63Tnl3BOeUR8E2N4FTfC8Tw-fxCj9k5kWGr9JR7FsTj-Tcp5heHVLXy8erw4ew_XNTnfCLju_TWTgTudVS5ZPRuPKw-G8",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/0yCsDnicDcndEkJAGADQJ5ImFM00DQaV_Mz2KXVjai2i1saa1Uv1Pr1Nndvz_VScs34py4Ti7s04ySV-o9NJ2fMrv-MJbp9yX7WM3Wm5fq3-tzTD3PAwisbczKwFT-okpWcnFiQYA9_azhWgD8WKSIJ0ZxaqLhS2DkIqRrs2Gq05eZ2xQwu3h1oCzLSKbI779K2TTqhEZGkItLD39ZDBCUoY8uNBu8RoiH0hefoP7xI9aA"
+  },
+  {
+   "position": 25,
+   "title": "FABSPORTS Light weight Bicycle / Bike Helmet with flexible padding",
+   "product_id": "3954230796237579828",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:3954230796237579828,productid:15207666569915922585,headlineOfferDocid:17446860442225516170,imageDocid:14557694867054098744,gpcid:1488121642817824516,mid:576462887200321244,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Fabsports 2026",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA6lBMVEX-_v7____9_f38_PzMzMwRDQwLBwYAAAAGAgE8OTgQDAvs7Ozo5-cUEA34-__BwcT29vbU1NPGxcUvLSwmIyOdnJuKiIhXVVVZSytRTk4jIB4EAQZkVjIhICRBPjxFQkKvrq0vKhuEdUMtKB5pZ2YdGRNqYT1IPyFWUDQwLBhHQitOSkJ3dXZdVjgiHhdHQifTzrfKvY_DroGxo4o5NSM3LhRKOxo4OT3HxbrgzHX-5oDz2XfUsFTKwa5sXjfTunr13oPEu5c2JgolHxDAro3DmELZu2fIun86NSwtKiR6eXOhoaOOiGp3akP-JeFqAAABW0lEQVQ4jZWS61uCMBjF2biKTBkGolle8IKmkCVeosyyzLT-_3-nEfrERuHT-bAv57zn3X7POO4fgjwt1uchoMXOAx0LSRl5AJPzQMhJCalKiQpAoJ3JSFXFo1TRADxVYBIfIRGh-JAtyieBsiIiW1JiSXIFQvoGWlU6r9UuLnOx6pgtaChSs-VgoB8gUPNRoC13ur0yOLLgaEwQ5EuK6_YbUQHHEvouMOTBwL_SAXELkVIbhp2R55esobUTrsfj8c2tTlPiczaadP1gKs3mi7swvH9gMdu9juN4ztIrPoarVfhUAPQG6znwR67srq2X181m8aZRBWSFYe5n_abj13UBYzxnfCLy_srUs6s4BsGxPsGibYPe2gQHjL-AKE7coAxS3-wnYPq1dy0rsGs193_7EBQ-lhkLou_wuU2_LRkQUCOjIELZzvLJHaysBQQkr6XhMR0n_FPzGfoCuD0cuWuOfVEAAAAASUVORK5CYII.png",
+   "multiple_sources": true,
+   "price": "₹899",
+   "extracted_price": 899,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcROhJfw7O9Q1x5p_ahhRLEfFPQ1vamPy2Fwv8BoazXvyvH8ITJ21ptx4QbVvoOuxVZCpeH7DBV3HiEDSLUSWR8XvJIESCvbXSFRam7RCBKftXzzeR52BPZ5OQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qX5FnHicDclJDoIwAADAFwmCEpbEGNkEJJYWRcLFlLUcgCq1Aq_yO_5G5zrfD2GMjoYoVn3xnCmryhXL-7XQjAyzthCKoRNHMlDa9s3-sfufcTiX-rFAgAT1WwU6lCaF3jEhKHRqN4ISx100y-6ba-aAl5TP3NP8SyBLlE1bmCd8AK8pySxaeaptJhuvdew4vMY3pKU88J3Y4nkauwh3KrLMU83SZamQIptRpgD4A7ItPlc",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 26,
+   "title": "Lifelong Adjustable Cycling Helmet With Detachable Visor",
+   "product_id": "9160826601765647874",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:9160826601765647874,productid:17492289319519034900,headlineOfferDocid:12436065018675623319,imageDocid:17045413388241648054,gpcid:14142218699627941074,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹849",
+   "extracted_price": 849,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDjigLEQUsVwrzCS5qg4vDWha4_1kI_0o7WI5UMYO7wjUqVXDzP_ss_uTud2JFdDH0FFyDbdqngMznf8k2YSBB7YZ8G--JwmODjeYUSEKTr0Na48osIXfJ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/kGStHnicDcnbEkJAAADQLxIZhsw0TVqK7iH0ssMu6zLWZbdMPqr_6W_qvJ7vp-C8Y4YoZhQN745nWOAplWeE8YSXaIbaRmRF23UlJat--T9jfcKLLbqBqiQH6xqw-zhMG0_tifICYZEocF47UGq10FGDY3zWxiro7xGYLpAx-PSfWHZtDHaSbb9BintKjhPN9VqOPdPU4oe-FQR3bM6gyuLAs_b-IJ0SRW-ZE-XuDzkDPbU",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 27,
+   "title": "Cairbull ALLROAD Adult All road Bike Helmet Rear LED Light Magnetic Sun Visor M/L (54-61cm) / Helmet + Visors x2",
+   "product_id": "10277695330057231151",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:10277695330057231151,headlineOfferDocid:10277695330057231151,imageDocid:12232166595180533933,rds:PC_12450416804446726456|PROD_PC_12450416804446726456,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Super Biker",
+   "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/deB6Nuu-zfgtRvvvYLdZqTYyaouKmmIpTmmPe9J9VcQ.png",
+   "price": "₹3,671.63",
+   "extracted_price": 3671.63,
+   "alternative_price": {
+    "price": "$38",
+    "extracted_price": 38,
+    "currency": "$"
+   },
+   "rating": 5.0,
+   "reviews": 864,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0Pad-vYyXuSybLbmYiu_yoInw0l5N12uZNhy1ANWp62ncldi5kAUQB76wMreMA-tqIHTcFGjJG-gYHu0qdsU-2yCZheZmID5zQc_9OV0AaEYuOh_fAJ8rhw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/BH_VlnicDclJDoIwAADAF1WWBBUSY-rGEgGNuMCFQIsUhVKgldRX-R1_o3Od74dwzgZLUQqKesl4gQHPqTYpB57xCk1Q2ygDaRmraLnsFv-zYIBNG0XqIcPgFcubOMl8nzdxJVLZunRUayPQdJEERGowuLKpTlGNK-MJz8fVbDr6feFDwDvXidDOfng2KGNHqB0ezkCX64QUSeNujPcRpWZ4UWG2jUVI0jv05j0Zf8tcPtM"
+  },
+  {
+   "position": 28,
+   "title": "Boldfit Cycling Helmet For Men Women Adjustable Bicycle Helmet For Men Helmet For Cycle Cycling Helmet",
+   "product_id": "6246208496926305517",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:6246208496926305517,productid:5449156769535095581,headlineOfferDocid:6857938400774407272,imageDocid:11702421180562931666,gpcid:1205650155568644981,mid:576462802359281564,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/deB6Nuu-zfgtRvvvYLdZqRgIBugBkg-fz_jEbiWkqZs.png",
+   "multiple_sources": true,
+   "price": "₹616",
+   "extracted_price": 616,
+   "old_price": "64% off₹1,699",
+   "extracted_old_price": 64,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4tStcwjkGCePIKLRnVf0U8bIYTdygQS0pKsgfWtRNUI8AZgUJarRT4D0DhqXu0yZgBsDlMhjPDLvE1kdoMiSpH_DP0wFBHU742ztS3FwfWraRy1jfUY11",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Pur_s3icDcndEoFAGADQJ6ItzfiZMUZWpDJprdSNyVbbD7XajyYP5X28Def2fD85gJAzRUlr1vYC0mQA11obcgkxFGzImrsi80aIouaLx_x_s-U-mW4Y0YEA68pqs0o9y3b8-pQhOrla4THp-YEgYUueBeDvqTVZRpzu4tY_6hjh_HF-oj7ihsQ3Ny897LzWapU0bkHE9oI91JnGlo517Q1kZHZZ0MZ-r5YZDVX1B0ESPfk",
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 29,
+   "title": "Jaspo Robust Cycling Helmet| Detahcable Visor| Adjustable53-58cm With Smart Airflow Cycling Helmet",
+   "product_id": "2907931960719669088",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:2907931960719669088,headlineOfferDocid:2907931960719669088,imageDocid:16362628710682235960,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/deB6Nuu-zfgtRvvvYLdZqWwjEoJgVS9OTSrI0Mx4j-I.png",
+   "price": "₹799",
+   "extracted_price": 799,
+   "old_price": "56% off₹1,799",
+   "extracted_old_price": 56,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSEhCT6G5f2M11l_DBqRLJQ07z9_O2JEeJKYVhVP74gI-1VNkDrX_3OxeAmMylI_EujOawzu4o4kcBJxnQFFTnYI0L3ntXhy2Ei00Th7Z-8sW2Z79Qmmivr3A",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/CI28l3icDcnbEoFAAADQL0rbFqkZY6LLlC6iCb00bGlD22U31Ff5HX_DeT3fD2asoSrP5wR1Q8PyjGMXAiYFZWdWogmqK57iumlKUizbxf9Uzc8UC-0NvI5m1vQKPUF4pPqq3blOCORRSQPoGLmzOcU43spSYXNC7N_17piKwTvXKm942KnR34Lza-ylWrqjlfMmoWlG5GQDVyTsiAdolABEWE64OT3ARFbCqiqfnaj9AAetPNE",
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 30,
+   "title": "Jaspo Robust Plus Cycling and Skating Helmet for Kids & Adults",
+   "product_id": "7484543209164409572",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:7484543209164409572,productid:7820931435195324782,headlineOfferDocid:5458317380326282447,imageDocid:5392257049721827698,gpcid:6597797547815229227,mid:576462563950729699,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹759",
+   "extracted_price": 759,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFrFiLhVXLJnhV58g2wmTZcF6cBllC5Zx6FGgwxoYvVC-a__ISWZwB-KJAdaAPT86NYnOL2AKIciO4BgjbK8YxWGZAep_P8ySOLsKja2esywbaWb2KZoU6",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qBTA3nicDclRDkMwAADQEyFpRkyyLLWEUEHGmP5IlRShOm2GS-0-u832ft_30yslpGMYHafrIVTXaqrhQGdSETVQnS6zIftFiIGz6-vyPwfG7dmnd2_1hqgvnlHI-8K0GdjmHFPPou403Uy8W57Ptn2p3sVNI3UdZCXeXA2FsCUwzW0rrngSAYgCOiQnl40Nsqu99DHsRJ3aR5ZEEo0EdPLYGlI2AOHlYf0ABco9mQ",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 31,
+   "title": "Jaspo Robust Plus Cycling and Skating Helmet for Kids & Adults",
+   "product_id": "7484543209164409572",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:7484543209164409572,productid:7820931435195324782,headlineOfferDocid:7134635366416928709,imageDocid:5392257049721827698,gpcid:6597797547815229227,mid:576462563950729699,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+   "multiple_sources": true,
+   "price": "₹759",
+   "extracted_price": 759,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFrFiLhVXLJnhV58g2wmTZcF6cBllC5Zx6FGgwxoYvVC-a__ISWZwB-KJAdaAPT86NYnOL2AKIciO4BgjbK8YxWGZAep_P8ySOLsKja2esywbaWb2KZoU6",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qBTA3nicDclRDkMwAADQEyFpRkyyLLWEUEHGmP5IlRShOm2GS-0-u832ft_30yslpGMYHafrIVTXaqrhQGdSETVQnS6zIftFiIGz6-vyPwfG7dmnd2_1hqgvnlHI-8K0GdjmHFPPou403Uy8W57Ptn2p3sVNI3UdZCXeXA2FsCUwzW0rrngSAYgCOiQnl40Nsqu99DHsRJ3aR5ZEEo0EdPLYGlI2AOHlYf0ABco9mQ",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 32,
+   "title": "Lifelong Adjustable Cycling Helmet With Detachable Visor",
+   "product_id": "5676982933282973546",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:5676982933282973546,productid:9412985824269742522,headlineOfferDocid:486412544188756279,imageDocid:2017161406032256567,gpcid:10931836003340299622,mid:576462694524828729,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+   "multiple_sources": true,
+   "price": "₹633",
+   "extracted_price": 633,
+   "old_price": "Was ₹798",
+   "extracted_old_price": 798,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSoatAgAEFwkZRbkk_l7uZ6Vu8TIpUFWcnwrat78uFSPUt2XuT1_dBvTAgkggT7UvVIP4lE49egykz5qOGVCoOioRp2p7ZooOoENd8nDpJjSqQeOr04zZHJ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/sn9RmnicDcndEkJAGADQJ4qS8jPTNCqUC5SfGjeGZZa2dhcfhofqfXqbOrfn-6kAeKeLYklRO3EoiwXkdC3gDjKokYDYW-wqxnlN8b7Z_U833EKzUcAyMLBhWiNJbjkh6Uvpk23cq-GFR9Yd0bHNQFF7K_AjkB59uEqLwxAamGAcKtEQX3z5ZcpaiScybxrPjo_Mq9mNS1xJGPOY6RYqPXHnGTTX0muX8pycnR-Afz8h",
+   "tag": "20% OFF",
+   "extensions": [
+    "20% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 33,
+   "title": "Vault- Helmet Medium",
+   "product_id": "6534436368039035552",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:6534436368039035552,headlineOfferDocid:6534436368039035552,imageDocid:11699964589892411148,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Jaspo Sporting",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTiY28QPbiTPrMj0tmDL1nqnxHNRJF7X2wOQbps7HdQ04q_29Eq8CrcTjbkTsfzyFyly9EU6z7FtlZ4x7IZoP_fEt08yQ",
+   "price": "₹849",
+   "extracted_price": 849,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTXftlQrk6nKU9hoxAuvpltDwHyTXFkq5nMNFcTGfvgAQTtYZfpYNEo1mNIXPHjQtC5hkb0ls6b8IXS9N9seA3XPlKwkvOydPnNIKmLNwZYVjUAMcmZMX78Dw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/x3MlCXicDclJDoIwFADQEwkYowKJMY3KEKRCBFPYSZmHUugX5FZex9vo277vpwTgQpfljNFx4ZClK0iYIhUCnlBRifadLMqe84oVx-HwPx3hVDNpQHJo_bHZMSfUyv6NXhNv4TxbS0CMZtgyFxs0MPOpQH4AUZzzCF_6dYdt4lm1D6dt2SRKK3aJapO7hjWRoQ3xWmduptuSegzbTnfFcxw96hC5tItdslfP8w8qxUAL",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 34,
+   "title": "Vault- Helmet Large",
+   "product_id": "1509133892567804473",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:1509133892567804473,headlineOfferDocid:1509133892567804473,imageDocid:11699964589892411148,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Jaspo Sporting",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTiY28QPbiTPrMj0tmDL1nqnxHNRJF7X2wOQbps7HdQ04q_29Eq8CrcTjbkTsfzyFyly9EU6z7FtlZ4x7IZoP_fEt08yQ",
+   "price": "₹849",
+   "extracted_price": 849,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTXftlQrk6nKU9hoxAuvpltDwHyTXFkq5nMNFcTGfvgAQTtYZfpYNEo1mNIXPHjQtC5hkb0ls6b8IXS9N9seA3XPlKwkvOydPnNIKmLNwZYVjUAMcmZMX78Dw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/x3MlCXicDclJDoIwFADQEwkYowKJMY3KEKRCBFPYSZmHUugX5FZex9vo277vpwTgQpfljNFx4ZClK0iYIhUCnlBRifadLMqe84oVx-HwPx3hVDNpQHJo_bHZMSfUyv6NXhNv4TxbS0CMZtgyFxs0MPOpQH4AUZzzCF_6dYdt4lm1D6dt2SRKK3aJapO7hjWRoQ3xWmduptuSegzbTnfFcxw96hC5tItdslfP8w8qxUAL",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "ASR Champ Kids Helmet | ISI Approved | High-Impact ABS Shell | Scratch & UV Resistant Wide-View Visor | Boys & Girls | Age 6-14 Years | Cycle &",
+   "product_id": "10051144568154958379",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:10051144568154958379,headlineOfferDocid:10051144568154958379,imageDocid:2274379677903758618,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+   "price": "₹879",
+   "extracted_price": 879,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT_VsMW-YP7Q0hmbVjGBMwRlMebN173MRdZ8zIJEt0sKMABAk2_9omZQ6KpaYWQiitP3H0mxLo0uzomHk64q5n0BqCpbAbPg0TNTtJOLW2c0VZyUzRp_37O",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qqvyTXicDcndCoIwGADQJ0qXlpYQoRGVNf8wRW_ETVGrudm-qHyo3qe3qXN7vp8WQEhLVeue3t8C6moCpNeURkIJHVUoZ6psuRBd36yH1f8s26uWOxoXicTpJAvMELWMJJedg5_RDdfEm5o6jqp8MR7cLSB5xLZjX7ViyVkeGkdRZmnYdRDoe8ReJ44eI2f7qzEb5j1yho0gNgkaFHsxuP4p1ShK8vd5jEShm_4P5P89CA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "Sage Square Ladies Multi-Purpose Helmet (Pink Glossy Sticker Design 1) (Non-Motorized)",
+   "product_id": "4745014865234418007",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:4745014865234418007,headlineOfferDocid:4745014865234418007,imageDocid:12628656013504741544,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+   "price": "₹452",
+   "extracted_price": 452,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRqXt1QigtiQ_7W9tfLt0PSCGw6zkdFaG3z5hs2InAkihb2_gFHN1KpzTIWGRaHQa8lWmFtFEzvnVhk4AWj6IuftcJpM5cxFxUCDhwzurctF8NEONyF7g38Dw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/_aaPUXicDcnbEoFAGADgJ9IRxYwxTWzlEOWQO5NNuyttS3_SPpXX8TZ8t9_3QwFEPVbVK8fPTsA168GFawqpIQWGFVyVak0rIRgn08fkf2MnzEYejh8n0CNGgEVnKxlBvgJtu3O9diiLDKWeKQe0NgLuFIxejDNBfqgvhdwHiRenfpTa96REgObyxY-06DvJbRg0OeCFWA_wG70P7oy2snliQHY434Qdsohpz9of1bc_cQ",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 37,
+   "title": "Sage Square Multipurpose Half Helmet for Men and Women (Large, Metallic Blue Glossy)",
+   "product_id": "132505959847996221",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:132505959847996221,headlineOfferDocid:132505959847996221,imageDocid:14161424465714440095,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+   "price": "₹459",
+   "extracted_price": 459,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfJDCM-VMCRfSEmzaJAiGHMCfQwf06ryvEekU4Ll--Gi3hGqGRhHdxcnnE7s41AYOZ7tPDyNiU-EKAh5LcdaTtrYsiJeFUqfrDum1iw-zx5Wx2I3aX1bzzOg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/5CD9UXicDclJDoIwAADAFxVEQCKJMQSwiuCCoOINC6WNUpZWWV7ld_yNznW-HyJEzU1Zzhlqh1rkGRB3pkoFF6mgSEJVKXNS1TVlxbJZ_M-0dtkcogh7jh2Ac2CH-OSWY-pZFK4DGx87PJm1w9vNH7HmPwGAVCWwgSFZZz1izDW4pljJ_maIgzPsaAzcrUV0H2VpJNqEUy9fxQ1unVep0A6MvX7ppxs1vSr3cdwXP3K-Pps",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 38,
+   "title": "Vega Off Road D/V Motorbike Helmet",
+   "product_id": "3838593847624562486",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:3838593847624562486,productid:9341251969463199468,headlineOfferDocid:1218876163141870747,imageDocid:15174270915859785961,gpcid:8012008219746100384,mid:576462845520793842,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ4hS5KQ74135NIV7gSpRHEcA-FSw80nnO2HrOkt_HKvEquXvpAtLbPVBsoNERjkZs2OXcDS1miV7vv2t9yiuakYY3VTuDUPT0",
+   "multiple_sources": true,
+   "price": "₹1,309",
+   "extracted_price": 1309,
+   "old_price": "30% off₹1,871",
+   "extracted_old_price": 30,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRd3FKYYXw-1pZ52N5Tcewfz2lK1vWt9TskGnKzYzja1wTE0klY8DPKjfB6-993dC3f4VQsNNh4NvXppcld1aPE3axiPk2VulhhQKkyCj9aQYgC8qLx_6AcLg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/XEORT3icDcldDoIgAADgE5mh5qKttbLyAce0OZNeGoGKPykGaXmqrtNt6nv9vh-htVQr08xa9nhLnXFD31owK5SmumQz1t1NJTopy7bY9Ov_rbaYQ5-duH1EhKSjAeRlYeFFzLIxn6wGgeGsYaxqv0UTmSoKxvgwrxuy3IeoyneuAaHNPTt3kkhhLBw8pFKyhgMaHmz6KsPaSp6NEBGq314FaUQKb9kHr6u7ZUHxA3VkPlA",
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 39,
+   "title": "Casco ROADster Plus with Carbonic Speedmask",
+   "product_id": "15661274199440453345",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:15661274199440453345,productid:14024780933567848936,headlineOfferDocid:14187530132115247781,imageDocid:1975687448392938577,rds:PC_12573860350638937273|PROD_PC_12573860350638937273,gpcid:9916680844917657116,mid:576462574797152771,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Wings On Wheels",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSX71Uf90cbuzNyzHPVrlr2TKKu_iLl0m7d_kNWudZCF_l34FqNMUq2epx5K84HJbe7JQDKt-bnIjU42lGo7ppfMZpr6MBvyrcf",
+   "multiple_sources": true,
+   "price": "₹10,950",
+   "extracted_price": 10950,
+   "old_price": "Usually ₹21,900",
+   "extracted_old_price": 21900,
+   "rating": 5.0,
+   "reviews": 94,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuSLOcXbvTYtYV-KiKq-F-CuxVVlVflNGCkqCuFiH8G_gZsNegabFSBJh8MsbqllNQusplnQf-qbmZP2ZyUV2v-B5Ckh2-TpCqRAp4F7Vu2HkijoSfKvH6",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/M9duinicDcltDoIgAADQE6HL9WFurSWbuizLNJb-aUGKJCoEuLpU9-k29f6-76fRWijPtquePN9CV3egcT-xqNI3zYhFhs5WzSAE6-larv7nbZL7MiSpyXYHcsFjXugCgZjFEgQAmhdCHNU8CWEroQlY5IZXWqqkojccZP62cfcKS86T1CjB-7QGEnfl0SnfZ-SMwJ_BtnFALqA8bcQ0WCDjRC17DFkdj9H8B2MnPpE",
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 40,
+   "title": "Steelbird SBH-57 Fighter F4 ISI and DOT Certified Full Face Helmet for Men and Women with Inner Silver Sun Shield",
+   "product_id": "13639360086272385687",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:13639360086272385687,productid:10560351186904338919,headlineOfferDocid:7625164257171882511,imageDocid:4984604040247945051,gpcid:3028818070942233619,mid:576462897992187757,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Myntra",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ8Ga1T65e8aViYTKoSXGkiQXHDlMPubeKprtw1b9NpJ5eNupqAW_lH4HPLb8DSjS-yqUsWberax8EJwl_D7t6jEm7hrrtWOw",
+   "multiple_sources": true,
+   "price": "₹2,699",
+   "extracted_price": 2699,
+   "old_price": "₹3,699",
+   "extracted_old_price": 3699,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToymvCKkmIT2RnQasadupL3HQuWwQ0pRJ_MJDY0P_c7obGzy2aLRJ9Tb5LNBYCQZTCGuzA-Ro2Q6COS-WArFvUldqmzm86tOgeX6OOEZYh1RGW28uwHvuUeg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/FDspo3icDcnhDkJAAADgJxJpCVtrUinJdReT_jSOYXXucMd4ql6nt6nv7_f9lJyzzpTlvMbtyHieSTytF7Oi4wmv8AxTInclZayqi02z_p9p-Znh4ICOpLfPL3IKVFTDpEsywbzFEYpogApD7vPi7mLl-sQrmjrTqCYeco0gXXr-NrbhI7AdMVkSoirUbHCTIqs99OE7a8hEdI2DIr9rAOwfcTlHTqTqYjj2IsyLH7X3Ppg",
+   "delivery": "Free delivery by Wed"
+  }
+ ],
+ "categorized_shopping_results": [
+  {
+   "title": "Deals",
+   "shopping_results": [
+    {
+     "position": 1,
+     "title": "Steelbird Sbh-57 Carbon Fighter Isi and Dot Certified Full Face Helmet for Men and Women Motorbike Helmet",
+     "product_id": "13131638976894798794",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:13131638976894798794,productid:10112255558107534260,headlineOfferDocid:1971435712282374714,imageDocid:10143879046847806288,gpcid:12357643294437145386,mid:576462894459899307,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹2,879",
+     "extracted_price": 2879,
+     "old_price": "Usually ₹3,119",
+     "extracted_old_price": 3119,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2Vba5SEEMP55r1pEZ-tSb8KVIA440YUw29tWpbwAEhOeSn1bGFF3wj-wzG12ddpIzYUw.webp",
+     "tag": "LOW PRICE",
+     "extensions": [
+      "LOW PRICE"
+     ],
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 2,
+     "title": "Steelbird Sbh-17 Terminator Full Face Graphic Motorbike Helmet",
+     "product_id": "14251956444587589827",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:14251956444587589827,productid:268766191655220296,headlineOfferDocid:13422283760152661985,imageDocid:16500116421242954865,rds:PC_5671842732074096905|PROD_PC_5671842732074096905,gpcid:5671842732074096905,mid:576462763523426021,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Myntra",
+     "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyM3Nzc3Nzc3NzU3Nzc3Nzc3NzcyNzA3Nzc0Nzc3Nzc3Nzc1NzU3Nzc3Nzc1MSw4Nzc4Mf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAADAAMAAAAAAAAAAAAAAAAAAwYCBAf_xAAnEAABAwIFBAIDAAAAAAAAAAABAgMRAAQGEiExQRNRYZEFFGJxof_EABoBAQACAwEAAAAAAAAAAAAAAAADBQECBgT_xAAsEQABAgMFBQkAAAAAAAAAAAAAAQIDBBEFITEy8BNBYXGBEiJCUZGhwdHh_9oADAMBAAIRAxEAPwDthVFAGvJ9UASeD7oACpoBYOp9VkEq1ipT2Irhhsj6FusMqMbkyCufBBH6BPIjzzkR0q6Ersr69MKF0tlKko2Iudb6cPLXI17HGLj2KPrOZR8Y-rosHLqFjZU85p24lPmZZV6TMJ72-FadKJfrcSRbH7EntEzpeqcPz7LInUeq3KEU4VdNYbMLIOU-aGW0qlcCT-Owq7aYZetFOIN86ouFQnKDEAd4j-k1HajEnW0bdTAvY9rtiTiRETuJd811uF32EHV4etre2cbTfsuF3qGQCpUSJieE6_iK3s1qSjOw6-uOvY2g2y1Jtz3ouzclKctL6llJMTvuayc-YE0AZj2oAzHtQADFAf_Z.jpeg",
+     "multiple_sources": true,
+     "price": "₹1,850",
+     "extracted_price": 1850,
+     "old_price": "Usually ₹2,199",
+     "extracted_old_price": 2199,
+     "rating": 4.3,
+     "reviews": 1,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2Vba5SEEMP55r1pEZ-tSb8KVIA440YUw29tWpbwAEhOeSn02wgvcgImg3eux7amdiFgQ.webp",
+     "tag": "LOW PRICE",
+     "extensions": [
+      "LOW PRICE"
+     ],
+     "delivery": "Free delivery by Wed"
+    },
+    {
+     "position": 3,
+     "title": "TVS Racing SuperPose Smoked Dual Visor Flip Up Modular Helmet for Men and Women, ISI DOT Certified, ABS Shell, Quick Release Visor, Lightweight,",
+     "product_id": "4319119153880119901",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:4319119153880119901,productid:10473042300476796247,headlineOfferDocid:15396014425242865584,imageDocid:17906892678692224381,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹1,999",
+     "extracted_price": 1999,
+     "old_price": "Usually ₹2,199",
+     "extracted_old_price": 2199,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2Vba5SEEMP55r1pEZ-tSb8KVIA440YUw29tWpbwAEhOeSnFAhVTwFJ6VmEblrAG-MFEw.webp",
+     "tag": "LOW PRICE",
+     "extensions": [
+      "LOW PRICE"
+     ],
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 4,
+     "title": "Scorpion ADX-2 Helmet",
+     "product_id": "8482208502315122575",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:8482208502315122575,productid:3363927080438782726,headlineOfferDocid:2620488155869115565,imageDocid:13247434754302129015,rds:PC_14960982607908419575|PROD_PC_14960982607908419575,gpcid:17610599074886702178,mid:576462914907710641,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Motostorm",
+     "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2Vba5SEEMP55r1pEZ-tSb8KVIA440YUw29tWpbwAEhOeSnDNeDNGB6-UPwZAi9q6DwEQ.png",
+     "multiple_sources": true,
+     "price": "₹22,357",
+     "extracted_price": 22357,
+     "old_price": "Usually ₹24,902",
+     "extracted_old_price": 24902,
+     "rating": 5.0,
+     "reviews": 1,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2Vba5SEEMP55r1pEZ-tSb8KVIA440YUw29tWpbwAEhOeSn9HdozjYD5E6enlHpuLxu9g.webp",
+     "tag": "LOW PRICE",
+     "extensions": [
+      "LOW PRICE"
+     ]
+    },
+    {
+     "position": 5,
+     "title": "Studds Helios Isi and Dot Certified Full Face Helmet with Antifog 100 Lens",
+     "product_id": "9738165735351222911",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:9738165735351222911,productid:1940986366974450985,headlineOfferDocid:9464351673863135043,imageDocid:399316043425895756,gpcid:43966792452830731,mid:576462890274574942,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹2,696",
+     "extracted_price": 2696,
+     "old_price": "Usually ₹2,966",
+     "extracted_old_price": 2966,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2Vba5SEEMP55r1pEZ-tSb8KVIA440YUw29tWpbwAEhOeSn33srSpbER1HuA5uV7rONoQ.webp",
+     "tag": "LOW PRICE",
+     "extensions": [
+      "LOW PRICE"
+     ],
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 6,
+     "title": "Steelbird Bluetooth Flip Up ISI Certified Helmet for Men and Women with Inner Smoke Sun Shield",
+     "product_id": "3217762302590303778",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:3217762302590303778,productid:1433619412438377582,headlineOfferDocid:4421863002819159769,imageDocid:10930739253844960667,gpcid:137506525994568404,mid:576462853339162036,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Myntra",
+     "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyM3Nzc3Nzc3NzU3Nzc3Nzc3NzcyNzA3Nzc0Nzc3Nzc3Nzc1NzU3Nzc3Nzc1MSw4Nzc4Mf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAADAAMAAAAAAAAAAAAAAAAAAwYCBAf_xAAnEAABAwIFBAIDAAAAAAAAAAABAgMRAAQGEiExQRNRYZEFFGJxof_EABoBAQACAwEAAAAAAAAAAAAAAAADBQECBgT_xAAsEQABAgMFBQkAAAAAAAAAAAAAAQIDBBEFITEy8BNBYXGBEiJCUZGhwdHh_9oADAMBAAIRAxEAPwDthVFAGvJ9UASeD7oACpoBYOp9VkEq1ipT2Irhhsj6FusMqMbkyCufBBH6BPIjzzkR0q6Ersr69MKF0tlKko2Iudb6cPLXI17HGLj2KPrOZR8Y-rosHLqFjZU85p24lPmZZV6TMJ72-FadKJfrcSRbH7EntEzpeqcPz7LInUeq3KEU4VdNYbMLIOU-aGW0qlcCT-Owq7aYZetFOIN86ouFQnKDEAd4j-k1HajEnW0bdTAvY9rtiTiRETuJd811uF32EHV4etre2cbTfsuF3qGQCpUSJieE6_iK3s1qSjOw6-uOvY2g2y1Jtz3ouzclKctL6llJMTvuayc-YE0AZj2oAzHtQADFAf_Z.jpeg",
+     "multiple_sources": true,
+     "price": "₹3,399",
+     "extracted_price": 3399,
+     "old_price": "Usually ₹3,999",
+     "extracted_old_price": 3999,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2Vba5SEEMP55r1pEZ-tSb8KVIA440YUw29tWpbwAEhOeSnfzeZbNW2KYe0CW310z8E7A.webp",
+     "tag": "LOW PRICE",
+     "extensions": [
+      "LOW PRICE"
+     ],
+     "delivery": "Free delivery by Wed"
+    }
+   ]
+  },
+  {
+   "title": "Under ₹4,500",
+   "shopping_results": [
+    {
+     "position": 1,
+     "title": "Steelbird SBA-20 Draco ISI Certified Flip-Up Helmet for Men and Women",
+     "product_id": "7890750749260537873",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:7890750749260537873,productid:2103490084014555043,headlineOfferDocid:1114019204159767594,imageDocid:2177811638342992346,gpcid:133520024551866496,mid:576462881099001657,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Flipkart",
+     "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbfDeCQzTtVJbnGKqE2XpPRWNwReC_pXzmAJgDS2xLr1r9fyE0z7HpOwJuMOozwRHLg.png",
+     "multiple_sources": true,
+     "price": "₹1,903",
+     "extracted_price": 1903,
+     "old_price": "32% off₹2,799",
+     "extracted_old_price": 32,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbfDeCQzTtVJbnGKqE2XpPRWNwReC_pXzmAJgDS2xLr1rx7oix5HuO3RnMYip9rKhKw.webp",
+     "delivery": "Free delivery by Wed"
+    },
+    {
+     "position": 2,
+     "title": "Royal Enfield Stealth Modular Flip-up Dual Visor",
+     "product_id": "6886414725861636797",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:6886414725861636797,productid:4745207309719696524,headlineOfferDocid:11993878508637447448,imageDocid:11566692384525563106,gpcid:16923128775762360373,mid:576462889272485719,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹2,347",
+     "extracted_price": 2347,
+     "old_price": "₹3,500",
+     "extracted_old_price": 3500,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbfDeCQzTtVJbnGKqE2XpPRWNwReC_pXzmAJgDS2xLr1rrMxyB9YFhxhhEuGTyCPXLg.webp",
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 3,
+     "title": "TVS Racing SuperPose Smoked Dual Visor Flip Up Modular Helmet for Men and Women, ISI DOT Certified, ABS Shell, Quick Release Visor, Lightweight,",
+     "product_id": "730414142045855151",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:730414142045855151,productid:6515342259457493178,headlineOfferDocid:2936296562581977203,imageDocid:13527234687504709455,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "TVS Motors Accessories",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEVHcEzvNELuNUPuNUPuNUPvNELuNUPvNELuNUPuNUPuNUPuNUPuNUPuNUPuNUPuNUMuDZTYAAAAD3RSTlMAATWzlSHVDoDoo3Ro8VhvQ-ZkAAAAr0lEQVQ4je2RSQ7DIAxF8cgM979tndAktBWr7KI-CRDfA1_GuT9rAOBeA8xExa_jvveYqMwVCO-nbTmssbVEOllqRGhpMm6swt0I7nLqtauGFrI4KUWihVV7OjPAeYuh6crWvW714Jm-vO36SfiZBPdPVKbgZn2oR5taN5cXEmtgzugxM6WcCiKGSvuwQEztCY5BTIRqzwBSIsb9g8CNY-TZVtgf-gIYa5ly99cfxAvT1gb0xH7ZgQAAAABJRU5ErkJggg.png",
+     "price": "₹1,999",
+     "extracted_price": 1999,
+     "old_price": "₹2,399",
+     "extracted_old_price": 2399,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbfDeCQzTtVJbnGKqE2XpPRWNwReC_pXzmAJgDS2xLr1rEjd-zxcbjPEKdMn7hrhJXA.webp",
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 4,
+     "title": "Steelbird SBA-20 Draco Bluetooth ISI Certified Full Face Helmet for Men and Women with Inner Smoke Sun Shield",
+     "product_id": "13873874388826932356",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:13873874388826932356,productid:14180584653592275641,headlineOfferDocid:13990678163506774705,imageDocid:7557020228060251943,gpcid:17033393974798106221,mid:576462555681571707,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Myntra",
+     "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyM3Nzc3Nzc3NzU3Nzc3Nzc3NzcyNzA3Nzc0Nzc3Nzc3Nzc1NzU3Nzc3Nzc1MSw4Nzc4Mf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAADAAMAAAAAAAAAAAAAAAAAAwYCBAf_xAAnEAABAwIFBAIDAAAAAAAAAAABAgMRAAQGEiExQRNRYZEFFGJxof_EABoBAQACAwEAAAAAAAAAAAAAAAADBQECBgT_xAAsEQABAgMFBQkAAAAAAAAAAAAAAQIDBBEFITEy8BNBYXGBEiJCUZGhwdHh_9oADAMBAAIRAxEAPwDthVFAGvJ9UASeD7oACpoBYOp9VkEq1ipT2Irhhsj6FusMqMbkyCufBBH6BPIjzzkR0q6Ersr69MKF0tlKko2Iudb6cPLXI17HGLj2KPrOZR8Y-rosHLqFjZU85p24lPmZZV6TMJ72-FadKJfrcSRbH7EntEzpeqcPz7LInUeq3KEU4VdNYbMLIOU-aGW0qlcCT-Owq7aYZetFOIN86ouFQnKDEAd4j-k1HajEnW0bdTAvY9rtiTiRETuJd811uF32EHV4etre2cbTfsuF3qGQCpUSJieE6_iK3s1qSjOw6-uOvY2g2y1Jtz3ouzclKctL6llJMTvuayc-YE0AZj2oAzHtQADFAf_Z.jpeg",
+     "multiple_sources": true,
+     "price": "₹3,709",
+     "extracted_price": 3709,
+     "old_price": "₹4,999",
+     "extracted_old_price": 4999,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbfDeCQzTtVJbnGKqE2XpPRWNwReC_pXzmAJgDS2xLr1rwgvK-UHVnMwdU6ViYqMl9w.webp",
+     "delivery": "Free delivery by Wed"
+    },
+    {
+     "position": 5,
+     "title": "Sage Square Multipurpose Half Helmet for Men and Women (Large, Metallic Blue Glossy)",
+     "product_id": "132505959847996221",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:132505959847996221,headlineOfferDocid:132505959847996221,imageDocid:14161424465714440095,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹459",
+     "extracted_price": 459,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbfDeCQzTtVJbnGKqE2XpPRWNwReC_pXzmAJgDS2xLr1rh3-1y-d9LXYUfrT13Gomig.webp",
+     "delivery": "Free delivery"
+    }
+   ]
+  },
+  {
+   "title": "₹4,500–₹15,000",
+   "shopping_results": [
+    {
+     "position": 1,
+     "title": "SMK Gullwing Solid White Modular Helmet",
+     "product_id": "14904440402233474718",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:14904440402233474718,headlineOfferDocid:14904440402233474718,imageDocid:2123106053469436307,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Helmet Racing",
+     "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbYhmVO9QPuypTwEjbZNOzfsoq7adKvQ95fZPsTmjHoxP7bUgb2QQfltnO5yLgAJKNA.png",
+     "price": "₹6,350",
+     "extracted_price": 6350,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbYhmVO9QPuypTwEjbZNOzfsoq7adKvQ95fZPsTmjHoxPFo1quTVnwaAsvSkT9q1Abg.webp",
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 2,
+     "title": "Dual Visor Helmet – Axor X-Cross Dual Sport | ₹7,406 WHITE / M",
+     "product_id": "13875958391482708097",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:13875958391482708097,headlineOfferDocid:13875958391482708097,imageDocid:601296243892987321,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Axor Helmets",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAh1BMVEX____-_v7-_____v79___9-_v6___tHSb7-vrsHiftGyTqFR7rChPtERv46en009TqUVf78vL23Nv0srfyl5vwhInuZ23tmp3tdXnrOT7qAArpQkn12dr0x8j37e_rLDTsO0P0zM3vj5HtfYHvoqTqS1L14uPrWF3nISvtiY71vb_xqazrq6zvkF9tAAABuUlEQVQ4jZ1Ta1fCMAxt06TrWspjTGFuyENFQP__7zNp65BzOHqOgX1Y781Ncpsp9d_QSqf_feQacD1TemQoBZqITHnJSiNFXoGISagXJAdGK5MiazIBCW2zbB8eVy7J8QlIGNHkRxM26y5MnvrGOpWaHTbDcYFgkgLjsz6GOsyfkUAIRm26artb7y2TDTic7WJdx_kUqTRJsNlGH6vWagMkeFUJ7kwhAMG-i7UPB4sOhz5WPuVDHoxrcNl9F5jx4IDxOudDtkFxb-wLzEQjvnB_pX4yRhhG5tOkpLT325JPxcaswMzcnJfI-eqH-8Ll9mHoQiX9yfxi8DXAALeBnycRSAapn9lcg_Wcfa0FzhbclJAmDeOV518y6e1YmtRJPV2AXXkvVh3nMqYw9DikrIddhYRbmL4Lo2_Q5UUBsUHbNrA-49wqM6IPzCDOzDeh7eEbFz-eV--n-LTdJ4N4QRg_h4r1z5zPkqRwMVw-DpeyiwYTHkMr-bJyxGsCiGgyAdx6Mpn4_iPly_JCXtHiFdnP-eNLu5S5TDZn_CjKNkwXhHz1pG9u5zZM_kru4loW6kbzLucX9b_iCzfeFvBKDVhHAAAAAElFTkSuQmCC.png",
+     "price": "₹7,406",
+     "extracted_price": 7406,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbYhmVO9QPuypTwEjbZNOzfsoq7adKvQ95fZPsTmjHoxPs9LSzr0vqyB4mSjFJmtJ9A.webp",
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 3,
+     "title": "Korda Icon Solid Gloss Black Helmet | Helmet with D-Ring Fastener Gloss Black / L",
+     "product_id": "5829662765760503724",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=productid:5829662765760503724,headlineOfferDocid:5829662765760503724,imageDocid:11403959987964399170,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Powersports International",
+     "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tPT43Ljo6Jis_OD8uNyg8OjwBCgoKDQwNGg8PGjclHyUrODc3Nzc3NzcuNzc3Kys3Nzc3Kzc3OC03Nzc3Kys3Nys3Kys1KysrKzcrNystKy03K__AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAACBgMEBwX_xAApEAABBAEEAQMDBQAAAAAAAAABAgMEEQUAEiExBgdRcSJBgRMjMkKh_8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECBQMG_8QAJREAAgEBCAIDAQAAAAAAAAAAAAECBAMFERIhQZHwMVEicbEU_9oADAMBAAIRAxEAPwDEto9hpiJmIjr6SptAKQaskDnVKLYNhpgPkEhCaBq9w0ZGLEqqFA9agYaElxSUpFkmhpgNOAxKshkIuOZf2BxVLWaAQntSr-P91FXbqlsJWnr9FFYse5PgWCMliExkJR3je7--39DQ_HZNAfk685G-qzI5SivXh-e6nXIhH9QcHgsBJYhYmQ-_IKd75W6lSUD-o4A5--tO7amoqYudqkltoS0kH6er8ZivSJfkshAITsZZUhagb_kr6R7cV86Ly_sklGmX29ONeQWG45Rs94EZUl11bKWyoJabDLhsC7XVdkqPwNZsrK9cqUW8d9Vx3cr4nTUz47AxMrJZXDPJSbdLa4rgCE8bUX0DwOb7Ot6mhOFlGNo8ZbvvBLMQyMpU2ZIkrQlBdWV7EdJvofAHGu5JACPcaALWMmiBkI8sstSP0FhYadvaog8XRvvmtADJ5X6g5PyaAmDJZjx2AvesMbrcI6uyeL5r30AKCjx9tAH_2Q.jpeg",
+     "price": "₹8,850",
+     "extracted_price": 8850,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbYhmVO9QPuypTwEjbZNOzfsoq7adKvQ95fZPsTmjHoxP2M3yI1H6jTulonhdJYA6kw.webp",
+     "delivery": "Free delivery"
+    },
+    {
+     "position": 4,
+     "title": "Camp Armour Helmet",
+     "product_id": "16616080968983709293",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:16616080968983709293,productid:15635152448329735052,headlineOfferDocid:4102981464131325653,imageDocid:6835667544590964967,rds:PC_319214764870793513|PROD_PC_319214764870793513,gpcid:319214764870793513,mid:576462380991455221,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹13,792",
+     "extracted_price": 13792,
+     "rating": 3.6,
+     "reviews": 1,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbYhmVO9QPuypTwEjbZNOzfsoq7adKvQ95fZPsTmjHoxPWjn9ovLJ1kVp6UOb51k-Kg.webp"
+    },
+    {
+     "position": 5,
+     "title": "SMK Gullwing Navigator helmet",
+     "product_id": "8519988820212781077",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Multi-Purpose Helmets&prds=catalogid:8519988820212781077,productid:7274076815875856088,headlineOfferDocid:7680506063204636520,imageDocid:7751424257650515587,rds:PC_2809089424109049444|PROD_PC_2809089424109049444,gpcid:2809089424109049444,mid:576462784935528230,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "The Rider Hub",
+     "source_icon": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbYhmVO9QPuypTwEjbZNOzfsoq7adKvQ95fZPsTmjHoxPHRZgKXUy_Tv7fcRJctN2Gg.png",
+     "multiple_sources": true,
+     "price": "₹6,300",
+     "extracted_price": 6300,
+     "rating": 5.0,
+     "reviews": 1,
+     "thumbnail": "https://serpapi.com/searches/6ac89d01d6eb72ce4467d9de/images/wqK0urKMdsjcfxGGkf2VbYhmVO9QPuypTwEjbZNOzfsoq7adKvQ95fZPsTmjHoxP6faSTuV4LqHWffFp34ejJA.webp",
+     "delivery": "Free delivery"
+    }
+   ]
+  }
+ ],
+ "filters": [
+  {
+   "input_type": "link_with_icon",
+   "options": [
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgwIAxIGTmVhcmJ5GAJY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+nearby&shoprs=CAEYAyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgwIAxIGTmVhcmJ5GAJY5q0gYAI"
+    },
+    {
+     "text": "On sale",
+     "shoprs": "CAESBEoCCAEYBioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIBhIHT24gc2FsZRgCIgRKAggBWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+sale&shoprs=CAESBEoCCAEYBioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIBhIHT24gc2FsZRgCIgRKAggBWOatIGAC"
+    }
+   ]
+  },
+  {
+   "type": "Sort by",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Relevance",
+     "shoprs": "CAEYFyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgoIFyoEEAEYAVAEYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=multi+purpose+helmets&shoprs=CAEYFyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgoIFyoEEAEYAVAEYAI"
+    },
+    {
+     "text": "Price: low to high",
+     "shoprs": "CAEYFyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh4IFxISUHJpY2U6IGxvdyB0byBoaWdoKgQQARgBUAFgAogBAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=multi+purpose+helmets&shoprs=CAEYFyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh4IFxISUHJpY2U6IGxvdyB0byBoaWdoKgQQARgBUAFgAogBAQ"
+    },
+    {
+     "text": "Price: high to low",
+     "shoprs": "CAEYFyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh4IFxISUHJpY2U6IGhpZ2ggdG8gbG93KgQQARgBUAJgAogBAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=multi+purpose+helmets&shoprs=CAEYFyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh4IFxISUHJpY2U6IGhpZ2ggdG8gbG93KgQQARgBUAJgAogBAg"
+    },
+    {
+     "text": "Rating: High to low",
+     "shoprs": "CAEYFyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh8IFxITUmF0aW5nOiBIaWdoIHRvIGxvdyoEEAEYAVADYAKIAQM",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=multi+purpose+helmets&shoprs=CAEYFyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh8IFxITUmF0aW5nOiBIaWdoIHRvIGxvdyoEEAEYAVADYAKIAQM"
+    }
+   ]
+  },
+  {
+   "type": "Product rating",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "4 and up",
+     "shoprs": "CAESBWIDCJADGB4qFW11bHRpIHB1cnBvc2UgaGVsbWV0czIVCB4SCDQgYW5kIHVwIgViAwiQA0AEYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets&shoprs=CAESBWIDCJADGB4qFW11bHRpIHB1cnBvc2UgaGVsbWV0czIVCB4SCDQgYW5kIHVwIgViAwiQA0AEYAI"
+    }
+   ]
+  },
+  {
+   "type": "Price",
+   "input_type": "price_range",
+   "options": [
+    {
+     "text": "Under ₹4,500",
+     "shoprs": "CAESDRILEQAAAMCIw_BBGAEYBSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMicIBRIOVW5kZXIg4oK5NCw1MDAYAiINEgsRAAAAwIjD8EEYASoCGAFY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+under+4500&shoprs=CAESDRILEQAAAMCIw_BBGAEYBSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMicIBRIOVW5kZXIg4oK5NCw1MDAYAiINEgsRAAAAwIjD8EEYASoCGAFY5q0gYAI"
+    },
+    {
+     "text": "₹4,500 - ₹15,000",
+     "shoprs": "CAESFhIUCQAAAMCIw_BBEQAAAICO8AtCGAEYBSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMjYIBRIU4oK5NCw1MDAgLSDigrkxNSwwMDAYAiIWEhQJAAAAwIjD8EERAAAAgI7wC0IYASoCGAFY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+between+4500+and+15000&shoprs=CAESFhIUCQAAAMCIw_BBEQAAAICO8AtCGAEYBSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMjYIBRIU4oK5NCw1MDAgLSDigrkxNSwwMDAYAiIWEhQJAAAAwIjD8EERAAAAgI7wC0IYASoCGAFY5q0gYAI"
+    },
+    {
+     "text": "₹15,000 - ₹45,000",
+     "shoprs": "CAESFhIUCQAAAICO8AtCEQAAAOBq9CRCGAEYBSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMjcIBRIV4oK5MTUsMDAwIC0g4oK5NDUsMDAwGAIiFhIUCQAAAICO8AtCEQAAAOBq9CRCGAEqAhgBWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+between+15000+and+45000&shoprs=CAESFhIUCQAAAICO8AtCEQAAAOBq9CRCGAEYBSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMjcIBRIV4oK5MTUsMDAwIC0g4oK5NDUsMDAwGAIiFhIUCQAAAICO8AtCEQAAAOBq9CRCGAEqAhgBWOatIGAC"
+    },
+    {
+     "text": "Over ₹45,000",
+     "shoprs": "CAESDRILCQAAAOBq9CRCGAEYBSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMicIBRIOT3ZlciDigrk0NSwwMDAYAiINEgsJAAAA4Gr0JEIYASoCGAFY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+over+45000&shoprs=CAESDRILCQAAAOBq9CRCGAEYBSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMicIBRIOT3ZlciDigrk0NSwwMDAYAiINEgsJAAAA4Gr0JEIYASoCGAFY5q0gYAI"
+    }
+   ]
+  },
+  {
+   "type": "Style",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Half Head",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJSGFsZiBIZWFkOgoIsLstELO7LTACWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=half+head+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJSGFsZiBIZWFkOgoIsLstELO7LTACWOatIGAC"
+    },
+    {
+     "text": "Open Face",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJT3BlbiBGYWNlOgoIsLstELK7LTACWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=open+face+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJT3BlbiBGYWNlOgoIsLstELK7LTACWOatIGAC"
+    },
+    {
+     "text": "Full Face",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJRnVsbCBGYWNlOgoIsLstELG7LTACWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=full+face+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJRnVsbCBGYWNlOgoIsLstELG7LTACWOatIGAC"
+    },
+    {
+     "text": "Off-road",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhgIARIIT2ZmLXJvYWQ6Cgiwuy0Q9LwtMAJY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=off-road+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhgIARIIT2ZmLXJvYWQ6Cgiwuy0Q9LwtMAJY5q0gYAI"
+    }
+   ]
+  },
+  {
+   "type": "Department",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Women's",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIARIHV29tZW4nczoKCOm8LRDrvC0wAljmrSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=women%27s+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIARIHV29tZW4nczoKCOm8LRDrvC0wAljmrSBgAg"
+    },
+    {
+     "text": "Men's",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhUIARIFTWVuJ3M6CgjpvC0Q6rwtMAJY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=men%27s+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhUIARIFTWVuJ3M6CgjpvC0Q6rwtMAJY5q0gYAI"
+    }
+   ]
+  },
+  {
+   "type": "Features",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Bluetooth",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJQmx1ZXRvb3RoOgoI3bwtEN68LTADWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=bluetooth+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJQmx1ZXRvb3RoOgoI3bwtEN68LTADWOatIGAC"
+    },
+    {
+     "text": "Flip-up",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIARIHRmxpcC11cDoKCMadOhDDkTowA1jmrSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flip-up+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIARIHRmxpcC11cDoKCMadOhDDkTowA1jmrSBgAg"
+    },
+    {
+     "text": "DOT-certified",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh0IARINRE9ULWNlcnRpZmllZDoKCIK9LRCDvS0wA1jmrSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=dot-certified+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh0IARINRE9ULWNlcnRpZmllZDoKCIK9LRCDvS0wA1jmrSBgAg"
+    }
+   ]
+  },
+  {
+   "type": "Brand",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Steelbird",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJU3RlZWxiaXJkOgoIg_M8EMuoUzABWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=steelbird+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJU3RlZWxiaXJkOgoIg_M8EMuoUzABWOatIGAC"
+    },
+    {
+     "text": "AGV",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIARIDQUdWOgoIg_M8EI-3QDABWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=agv+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIARIDQUdWOgoIg_M8EI-3QDABWOatIGAC"
+    },
+    {
+     "text": "VEGA",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQIARIEVkVHQToKCIPzPBDY5T4wAVjmrSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=vega+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQIARIEVkVHQToKCIPzPBDY5T4wAVjmrSBgAg"
+    },
+    {
+     "text": "LS2",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIARIDTFMyOgoIg_M8EM6aQDABWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=ls2+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIARIDTFMyOgoIg_M8EM6aQDABWOatIGAC"
+    }
+   ]
+  },
+  {
+   "type": "Category",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Welding Helmets",
+     "shoprs": "CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMICRIPV2VsZGluZyBIZWxtZXRzYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=welding+helmets+multi+purpose&shoprs=CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMICRIPV2VsZGluZyBIZWxtZXRzYAI"
+    },
+    {
+     "text": "Motorcycle Helmets",
+     "shoprs": "CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhYICRISTW90b3JjeWNsZSBIZWxtZXRzYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=motorcycle+helmets+multi+purpose&shoprs=CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhYICRISTW90b3JjeWNsZSBIZWxtZXRzYAI"
+    },
+    {
+     "text": "Work Safety Gear",
+     "shoprs": "CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQICRIQV29yayBTYWZldHkgR2VhcmAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=work+safety+gear+multi+purpose+helmets&shoprs=CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQICRIQV29yayBTYWZldHkgR2VhcmAC"
+    },
+    {
+     "text": "Riding Helmets",
+     "shoprs": "CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhIICRIOUmlkaW5nIEhlbG1ldHNgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=riding+helmets+multi+purpose&shoprs=CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhIICRIOUmlkaW5nIEhlbG1ldHNgAg"
+    },
+    {
+     "text": "Safety Masks & Respirators",
+     "shoprs": "CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh4ICRIaU2FmZXR5IE1hc2tzICYgUmVzcGlyYXRvcnNgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=safety+masks+%26+respirators+multi+purpose+helmets&shoprs=CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh4ICRIaU2FmZXR5IE1hc2tzICYgUmVzcGlyYXRvcnNgAg"
+    }
+   ]
+  },
+  {
+   "type": "Shops",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgwIAhIIRmxpcGthcnRY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+multi+purpose+helmets&shoprs=CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgwIAhIIRmxpcGthcnRY5q0gYAI"
+    },
+    {
+     "text": "JioMart",
+     "shoprs": "CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgsIAhIHSmlvTWFydFjmrSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=jiomart+multi+purpose+helmets&shoprs=CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgsIAhIHSmlvTWFydFjmrSBgAg"
+    },
+    {
+     "text": "Tradeindia.com",
+     "shoprs": "CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhIIAhIOVHJhZGVpbmRpYS5jb21Y5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=tradeindia.com+multi+purpose+helmets&shoprs=CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhIIAhIOVHJhZGVpbmRpYS5jb21Y5q0gYAI"
+    },
+    {
+     "text": "Shopsy By Flipkart",
+     "shoprs": "CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhYIAhISU2hvcHN5IEJ5IEZsaXBrYXJ0WOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=shopsy+by+flipkart+multi+purpose+helmets&shoprs=CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhYIAhISU2hvcHN5IEJ5IEZsaXBrYXJ0WOatIGAC"
+    }
+   ]
+  },
+  {
+   "type": "Free delivery",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Free delivery",
+     "shoprs": "CAESBFICEAEYGSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIGRINRnJlZSBkZWxpdmVyeSIEUgIQAWAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+free+delivery&shoprs=CAESBFICEAEYGSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIGRINRnJlZSBkZWxpdmVyeSIEUgIQAWAC"
+    }
+   ]
+  },
+  {
+   "type": "Type",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Multi-sport",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhsIARILTXVsdGktc3BvcnQ6CgjKkS4Qz5EuMAJY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=multi-sport+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhsIARILTXVsdGktc3BvcnQ6CgjKkS4Qz5EuMAJY5q0gYAI"
+    },
+    {
+     "text": "Road Racing",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhsIARILUm9hZCBSYWNpbmc6CgjKkS4QtcU5MAJY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=road+racing+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhsIARILUm9hZCBSYWNpbmc6CgjKkS4QtcU5MAJY5q0gYAI"
+    },
+    {
+     "text": "Commuter",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIIQ29tbXV0ZXI6CwjKkS4Q25nOATACWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=commuter+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIIQ29tbXV0ZXI6CwjKkS4Q25nOATACWOatIGAC"
+    }
+   ]
+  },
+  {
+   "type": "Size",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "XS",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQIARICWFM6DAiHkrUCEIiStQIwAFjmrSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=xs+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQIARICWFM6DAiHkrUCEIiStQIwAFjmrSBgAg"
+    },
+    {
+     "text": "L",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIARIBTDoMCIeStQIQi5K1AjAAWOatIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=l+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIARIBTDoMCIeStQIQi5K1AjAAWOatIGAC"
+    },
+    {
+     "text": "XL",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQIARICWEw6DAiHkrUCEIyStQIwAFjmrSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=xl+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQIARICWEw6DAiHkrUCEIyStQIwAFjmrSBgAg"
+    },
+    {
+     "text": "2XL",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhUIARIDMlhMOgwIh5K1AhCNkrUCMABY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=2xl+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhUIARIDMlhMOgwIh5K1AhCNkrUCMABY5q0gYAI"
+    },
+    {
+     "text": "3XL",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhUIARIDM1hMOgwIh5K1AhCenbUCMABY5q0gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=3xl+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhUIARIDM1hMOgwIh5K1AhCenbUCMABY5q0gYAI"
+    }
+   ]
+  },
+  {
+   "type": "Carousel Filters",
+   "options": [
+    {
+     "text": "Steelbird",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJU3RlZWxiaXJkOgoIg_M8EMuoUzABWOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=steelbird+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJU3RlZWxiaXJkOgoIg_M8EMuoUzABWOatIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Under ₹4,500",
+     "shoprs": "CAESDRILEQAAAMCIw_BBGAEYBSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMicIBRIOVW5kZXIg4oK5NCw1MDAYAiINEgsRAAAAwIjD8EEYASoCGAFY5q0gYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+under+4500&shoprs=CAESDRILEQAAAMCIw_BBGAEYBSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMicIBRIOVW5kZXIg4oK5NCw1MDAYAiINEgsRAAAAwIjD8EEYASoCGAFY5q0gYAE",
+     "input_type": "price_range"
+    },
+    {
+     "text": "AGV",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIARIDQUdWOgoIg_M8EI-3QDABWOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=agv+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIARIDQUdWOgoIg_M8EI-3QDABWOatIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Half Head",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJSGFsZiBIZWFkOgoIsLstELO7LTACWOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=half+head+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJSGFsZiBIZWFkOgoIsLstELO7LTACWOatIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Open Face",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJT3BlbiBGYWNlOgoIsLstELK7LTACWOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=open+face+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJT3BlbiBGYWNlOgoIsLstELK7LTACWOatIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "VEGA",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQIARIEVkVHQToKCIPzPBDY5T4wAVjmrSBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=vega+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQIARIEVkVHQToKCIPzPBDY5T4wAVjmrSBgAQ",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Full Face",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJRnVsbCBGYWNlOgoIsLstELG7LTACWOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=full+face+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJRnVsbCBGYWNlOgoIsLstELG7LTACWOatIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgwIAxIGTmVhcmJ5GAJY5q0gYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+nearby&shoprs=CAEYAyoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgwIAxIGTmVhcmJ5GAJY5q0gYAE",
+     "input_type": "link_with_icon"
+    },
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgwIAhIIRmxpcGthcnRY5q0gYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+multi+purpose+helmets&shoprs=CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgwIAhIIRmxpcGthcnRY5q0gYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Women's",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIARIHV29tZW4nczoKCOm8LRDrvC0wAljmrSBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=women%27s+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIARIHV29tZW4nczoKCOm8LRDrvC0wAljmrSBgAQ",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "LS2",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIARIDTFMyOgoIg_M8EM6aQDABWOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=ls2+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIARIDTFMyOgoIg_M8EM6aQDABWOatIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Men's",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhUIARIFTWVuJ3M6CgjpvC0Q6rwtMAJY5q0gYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=men%27s+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhUIARIFTWVuJ3M6CgjpvC0Q6rwtMAJY5q0gYAE",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Bluetooth",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJQmx1ZXRvb3RoOgoI3bwtEN68LTADWOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=bluetooth+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhkIARIJQmx1ZXRvb3RoOgoI3bwtEN68LTADWOatIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Studds",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhYIARIGU3R1ZGRzOgoIg_M8EL7xUjABWOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=studds+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhYIARIGU3R1ZGRzOgoIg_M8EL7xUjABWOatIGAB",
+     "input_type": "link"
+    },
+    {
+     "text": "Flip-up",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIARIHRmxpcC11cDoKCMadOhDDkTowA1jmrSBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flip-up+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIARIHRmxpcC11cDoKCMadOhDDkTowA1jmrSBgAQ",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Off-road",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhgIARIIT2ZmLXJvYWQ6Cgiwuy0Q9LwtMAJY5q0gYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=off-road+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhgIARIIT2ZmLXJvYWQ6Cgiwuy0Q9LwtMAJY5q0gYAE",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Welding Helmets",
+     "shoprs": "CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMICRIPV2VsZGluZyBIZWxtZXRzYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=welding+helmets+multi+purpose&shoprs=CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMICRIPV2VsZGluZyBIZWxtZXRzYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "On sale",
+     "shoprs": "CAESBEoCCAEYBioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIBhIHT24gc2FsZRgCIgRKAggBWOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+sale&shoprs=CAESBEoCCAEYBioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhMIBhIHT24gc2FsZRgCIgRKAggBWOatIGAB",
+     "input_type": "link_with_icon"
+    },
+    {
+     "text": "Motorcycle Helmets",
+     "shoprs": "CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhYICRISTW90b3JjeWNsZSBIZWxtZXRzYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=motorcycle+helmets+multi+purpose&shoprs=CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhYICRISTW90b3JjeWNsZSBIZWxtZXRzYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "DOT-certified",
+     "shoprs": "CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh0IARINRE9ULWNlcnRpZmllZDoKCIK9LRCDvS0wA1jmrSBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=dot-certified+multi+purpose+helmets&shoprs=CAEYASoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh0IARINRE9ULWNlcnRpZmllZDoKCIK9LRCDvS0wA1jmrSBgAQ",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "Work Safety Gear",
+     "shoprs": "CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQICRIQV29yayBTYWZldHkgR2VhcmAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=work+safety+gear+multi+purpose+helmets&shoprs=CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhQICRIQV29yayBTYWZldHkgR2VhcmAB",
+     "input_type": "link"
+    },
+    {
+     "text": "Riding Helmets",
+     "shoprs": "CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhIICRIOUmlkaW5nIEhlbG1ldHNgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=riding+helmets+multi+purpose&shoprs=CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhIICRIOUmlkaW5nIEhlbG1ldHNgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Safety Masks & Respirators",
+     "shoprs": "CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh4ICRIaU2FmZXR5IE1hc2tzICYgUmVzcGlyYXRvcnNgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=safety+masks+%26+respirators+multi+purpose+helmets&shoprs=CAEYCSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMh4ICRIaU2FmZXR5IE1hc2tzICYgUmVzcGlyYXRvcnNgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "JioMart",
+     "shoprs": "CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgsIAhIHSmlvTWFydFjmrSBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=jiomart+multi+purpose+helmets&shoprs=CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgsIAhIHSmlvTWFydFjmrSBgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Tradeindia.com",
+     "shoprs": "CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhIIAhIOVHJhZGVpbmRpYS5jb21Y5q0gYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=tradeindia.com+multi+purpose+helmets&shoprs=CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhIIAhIOVHJhZGVpbmRpYS5jb21Y5q0gYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Shopsy By Flipkart",
+     "shoprs": "CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhYIAhISU2hvcHN5IEJ5IEZsaXBrYXJ0WOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=shopsy+by+flipkart+multi+purpose+helmets&shoprs=CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhYIAhISU2hvcHN5IEJ5IEZsaXBrYXJ0WOatIGAB",
+     "input_type": "link"
+    },
+    {
+     "text": "Myntra",
+     "shoprs": "CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgoIAhIGTXludHJhWOatIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=myntra+multi+purpose+helmets&shoprs=CAEYAioVbXVsdGkgcHVycG9zZSBoZWxtZXRzMgoIAhIGTXludHJhWOatIGAB",
+     "input_type": "link"
+    },
+    {
+     "text": "Free delivery",
+     "shoprs": "CAESBFICEAEYGSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIGRINRnJlZSBkZWxpdmVyeSIEUgIQAWAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Multi-Purpose+Helmets+free+delivery&shoprs=CAESBFICEAEYGSoVbXVsdGkgcHVycG9zZSBoZWxtZXRzMhcIGRINRnJlZSBkZWxpdmVyeSIEUgIQAWAB",
+     "input_type": "link"
+    }
+   ]
+  }
+ ]
+}

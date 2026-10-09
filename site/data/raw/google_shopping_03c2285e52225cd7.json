@@ -1,0 +1,1152 @@
+{
+ "search_metadata": {
+  "id": "6ac89d083d06ea54a2e93f0c",
+  "status": "Success",
+  "created_at": "2026-10-09 07:51:36 UTC",
+  "processed_at": "2026-10-09 07:51:36 UTC",
+  "google_shopping_url": "https://www.google.com/search?udm=28&q=Various+Battery-operated+Light+Up+Toys&hl=en&gl=in",
+  "total_time_taken": 1.07
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Various Battery-operated Light Up Toys",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Various Battery-operated Light Up Toys",
+  "shopping_results_state": "Results for exact spelling"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Battery Operated Stunt Car Toy with Music & Action Car Toy for Kids/Babies/Girls/Boys with Light (Orange)",
+   "product_id": "16528599806742027479",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:16528599806742027479,headlineOfferDocid:16528599806742027479,imageDocid:9611860586696876820,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹299",
+   "extracted_price": 299,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1t69Ffq6RBxHSF1jdR5v8HsxrmCHbw2kExNr0B_3nEZir8BwKZxcW3aEpqfScm3CBA_JJADw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/xwejVHicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDjYsMbN0Sys0C3Kq8Ah2M8xKCTIts_AorijKdfZIKjfKdq3wKzJwijfOc43KLLJwKveOqkgON050LShMC07ONXZ2coz38nJ0KQcAZUIuQQ"
+  },
+  {
+   "position": 2,
+   "title": "Electric Universal Deformation Tank Deformation Car Music Light Deformation Toy",
+   "product_id": "6538234377647659630",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:6538234377647659630,productid:3689872017640145821,headlineOfferDocid:1035053687513382584,imageDocid:1072265707147235081,rds:PC_11767410526033022432|PROD_PC_11767410526033022432,gpcid:11767410526033022432,mid:576462542882704041,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹649",
+   "extracted_price": 649,
+   "rating": 4.9,
+   "reviews": 407,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQkhe-en42gYDv1CZ1o3gn2M8unCFJsnmriIo1dx-JY2XQ_fR6HRarDVdNPKAbJBzNxMnAvbPu6",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/3Uorv3icu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDszOSNVNzTMxSo90KTN0jjLMN07PM_K1KM1zdvMqzsstyvTMN0yp0PWKNIoIjE8LMvMISixyCUvxC_B2TPJyqvKr8M1zLEsKKDUDAJgOLr0"
+  },
+  {
+   "position": 3,
+   "title": "Pink Unicorn Walking Toy for Kids 3+ Years | Battery Operated Musical Unicorn with LED Flashing Lights, Automatic Walking Action, Sound Effects | Inte",
+   "product_id": "3129888917523969971",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:3129888917523969971,headlineOfferDocid:3129888917523969971,imageDocid:15991992448694438343,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Kidoyz",
+   "source_icon": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/pzcKaPxr-IrDVvZVgzpi5zQOP1UApUcif_e1rVZXVeE.png",
+   "price": "₹699",
+   "extracted_price": 699,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-52DqM0zyEeX9lx9OUik9eN4P_0vRuBJ-gROmyBBLoFqLfrKt8UkHAwX_dLMLAOuiWZF7zdn9",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/RCir7nicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDtI1NXIp9DWoqnRNjbDMqbD0D83Mtkz1MwmINygLKnXy0k0P8s-tdHLyyXcr9Ekr8i6xCM32cCyPiE_x8fVx9C_NDI9yM69KybMEAIvHLqs",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "Children Multifunction Electronic Luminous Toy Universal Mechanical Battery Operated Shark Toy - Multi Color",
+   "product_id": "5851157123749187902",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:5851157123749187902,headlineOfferDocid:5851157123749187902,imageDocid:14310067008428417006,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹680",
+   "extracted_price": 680,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTtDOGaiGlQSPvfkp1q6f2BYwVZpdiLD6NGQSNr21mPtEmpfbBPXeAtzVrmlXthvxVCXWW2k4",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/TX9dMHicDcndCoIwGADQJ0pxhJAQoSm7CdOMad3pNt3Q6ef8sJ-7HrO3qXN7vh-FCEvgunLk9gUoxQabkTjdgjVq7vDJuIuaAPTYHeb9_4IwFTvKL1eMz7TWdMiLbG178Ga_JdHtwe4g9Cn2U5oXqSWeyTAx0DZRVskQ38yaoUK1PtmxKkvSb3-O4y9y"
+  },
+  {
+   "position": 5,
+   "title": "WEofferwhatYOUwant Electronic Dancing Robot Toy for Children",
+   "product_id": "8081793078442616635",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:8081793078442616635,productid:5161708520008086805,headlineOfferDocid:17100169475547124466,imageDocid:10572527207903050306,gpcid:1470803775996467878,mid:576462311614718624,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "sams toy world",
+   "source_icon": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/pzcKaPxr-IrDVvZVgzpi585wSKpceCDOmvBeaNgMNUw.png",
+   "price": "₹299",
+   "extracted_price": 299,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4W1THpyMBSwJ-UjRksPxoyrJpiJmEACSsjKbL9BO7GHiDImTumkhk1g4ajhLyd_ggvXJ5BL0p",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/9eujpXicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDjQJNwzxKKj0dQou99INzQrKLg6oyK8s8irI9Mp1dXQOLs7yTvKxdPI3d_fIdPHMDSnNzc7INkw3SczK8KlMiU9PL4vwMnXyMSgAALdOL3A"
+  },
+  {
+   "position": 6,
+   "title": "Mirana Vande Bharat Bullet Train",
+   "product_id": "253155646086942249",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:253155646086942249,productid:12300100239374666330,headlineOfferDocid:10189981243999722789,imageDocid:8203136897349026806,gpcid:1248194982699972528,mid:576462866693419364,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹549",
+   "extracted_price": 549,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSvfZ-E72m3xrK5-jttSEwyoCV6U44c4hL8twqxV7Lzw44EoCNw-HTlKvBLsg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/IkYuGnicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDi5Li9J1NTfKNa4o8jbVzSopCXYtr8x3DjMLNTFJNsnwsSgpL6wIM_epKjcxcc139ivX9QjJ8S5z8ilOBwAkYin_",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 7,
+   "title": "Wembley Rechargeable Crawling Octopus Musical Toy",
+   "product_id": "4430822490564426245",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:4430822490564426245,productid:625471845686704881,headlineOfferDocid:11588449679154361756,imageDocid:12671349094244950013,gpcid:14801488516780649804,mid:576462536720855493,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "FirstCry India",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABY0lEQVRYhdWXTW7CMBCFp5aVRhFl0Qv0Dl0hRA9Bs2IRsaAn6EF6gmaBItQVcIhGqKsehgVCKGq7imWHsTMTbIW-VSYZ53v-m8QAPetGDz6f338pjSbrhRGXac6CPm1eFFddUOBNsA8Togu8THPYzZZsqK6aKbkNa-jPqTLirhKUpLr3l8I6GwipVgMhe08yEFq9G2DvgjZxi5QXAzKJYFRkTkM2I16mwAbHjDQlsaSuK343W6oC5YJaDbgayiSC6nBy5upwAFpHyFMwKjIQsfc1a45A0_Hj2xSSh3sVj1dzdf2VFeiIcOUcge_XrfWZvLu9GA7A3IZX-THSTYmIv0a8luLxx7w9iWuAMux6DraFRSxhsl7gz1rfTsiWw9iImyB995y15fDlIIZqfzy7X-2PUKa5AaZUQbYBDK6rngoMbptK_6XNAcPU-w_J_zJAXVhsA_pZDVOIEmwczSgmQsCvQn-RYHpAGmaqIwAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹669.33",
+   "extracted_price": 669.33,
+   "old_price": "33% off₹999",
+   "extracted_old_price": 33,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAbUmX7naaeZwUVYRi3BD9X7RSpuXQi7JUnWhilabW5TfRL4V9QXKkGNLXNws",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/bHKAiHicu1maUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDnJMCs2NMM9LTEyNKg8NiwzKNHZysYwwDwouKI0IzDT3Cs0Lz8jMSUwKNw1JC_IxCbMMjPDOdvfzifArLwYAXKUqhg",
+   "delivery": "Free delivery on ₹699+"
+  },
+  {
+   "position": 8,
+   "title": "Jack Royal Rabbit Music Toy - Electric Light up Walking Toys for Kids,Cute Children Blinking Toy, Cartoon Rabbit Toys for Kindergarten, Nursery, Home,",
+   "product_id": "8435659070034296102",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:8435659070034296102,headlineOfferDocid:8435659070034296102,imageDocid:9682067655563709755,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹598",
+   "extracted_price": 598,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTUOm4ipctAJit6sI99Ktl0SDWCH1vOLcQAz5j8vctKvrixtfw5Sl1P_DgsKwHtd9hJ_xWKd24",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/JQNy_3icDcnRCoIwFADQL0qzNJoQMRIyF1lY-Ch1Z9tC53KXab31mf1Nndfz_UhEY2PfrzX0L4M1n-BNzz1h8YoKPOha38rOGKXF-rn6X0wPnGzhfMnbUBlAmilc2B0hDJtpkZSbNHD5Hk70HT2WDpC5Xo14H6KiCY5VIiwbUuREZtVYMj4Lf4djLx8"
+  },
+  {
+   "position": 9,
+   "title": "Toyshine Battery Operated Cute Interactive Walking Rabbit With Light & Sound",
+   "product_id": "3551501169969769810",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:3551501169969769810,productid:981890489439432580,headlineOfferDocid:9464616242563559576,imageDocid:2695960547007593187,gpcid:6304322934448096633,mid:576462567990311447,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Zepto",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEU7EVtAEl1FE189EVxIFGFDE15MFWJQFWRVF2Y6EVpbGGYzDlD_Mmn-TV7_WVn_d06pJGX-Q2LgLmi6UFb_aFRnG2aPKWJ-ImT-OmXjSF6ROFvGOWKrM2K_R1rUU1jSWlXkPmLyU1vIxBjFAAABN0lEQVQ4jYWT23aEIAxFvQaMxVangtd25v9_sgkgska6PA_z4N6GyCRZ27ZN02SJ0GOCGXP_pOTk_BMUFk6ch5xKm_n3La6PBIWo50yLEKs4wwnM6Xnlw4o3zvcjTkYdjJOPX1EMxEbJXA4fIdM0GT6ljHiBQ4T7XhenwUJVgR58CPcrciNOoA6oPwCBiCNlI_4c7be4LnwBEEJKiVITn40ACCW84DiaZ6-UFkIkBeZKqQ3lRfAnjCvxFSULkBCQ-TzKhOCO2JTqZoOuwrUHoYm_NPOUAMLMXfdaJB4nnAJfVAUj8W5DG2kL-IvyJXAn3v1QfimP6KpdiUIT_uZ82izF299Z6xhboY7mgQxY9n1_HFkgMVI8awDcPjcYje3N0Iaxzf8b-8Ti5PHi3K7e-_KWl-W9Wf8_yfcYeUR9F-UAAAAASUVORK5CYII.png",
+   "price": "₹219",
+   "extracted_price": 219,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0Wa104ZOzHfOQGr6lXTSaeyr0YdsQRcX0SNytj5syCAzTL5GTf-iowp5ific",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/hhbUo3icu1maUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDjIITzQ0MInyr_JI8w90LzLLiQgJTkytLDKITCkODEqOMAj2qyzJMi2udHasCvExdQ9J083MLy8wzUzLTAYAT-0q0A",
+   "delivery": "Free 10 min delivery"
+  },
+  {
+   "position": 10,
+   "title": "One94Store Cute Snail Shape Silicone Electronic Toy for Kids, 7 Color Changing LED Squishy Soft Touch USB 1200mAh Rechargeable Toy, Ideal for Bedroom,",
+   "product_id": "8467768001100166136",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:8467768001100166136,headlineOfferDocid:8467768001100166136,imageDocid:2598300646920539549,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹284",
+   "extracted_price": 284,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUPzTYuFBCdSQBE6HcH16V8XINvosRUvT1z4l-senCOiKH0DlzgkydCJ-A_ZQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ogXXsnicu1maUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDgwNqAqJLHVzck4JDnRyNfNI9jA0C7OI8PQryy8OCi0LMawyydEtTs1z9s_09jBwyalKz65McfbSdYyPCgQARZkqCA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 11,
+   "title": "Play & Smile Gear Lizard Play Toy (Multicolor) | Musical Toy For Kids | Battery Operated Sound & Light Toy | Musical Toys",
+   "product_id": "14762269902273885599",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:14762269902273885599,headlineOfferDocid:14762269902273885599,imageDocid:7052320893229416318,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "PinkNBlu",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAhFBMVEVHcEz_____________________________________AG__A3kAa_8FdP_7-P3p8___3e3_6_UAZf__qMv_UZz_1Aluqv9Olf__bKz_-uD_KYb_h7eYwv8sg___0eWtzP_K4P__kb7_v9n_OY2Csv__3kb_8bjX5___7Jm81f-92P9HcExqhqEoAAAALHRSTlMALoL_e9fg9PAH____________________________________________ACPeQGEAAAFvSURBVCiRjZOHcqtADEXJu06xtheWjsFgp_z_B0Zgx5M3ExfNsEVHjR0py7Lt5vn1L3nebDOWpzdck9cn9r6O2WCbbW5g4F_2cpO_ZDcx8AB3TVmWo8YYLPqT1lkL6354LAVR44gCRADGxo4UMdXuzOtIMZaWqHeCGkwUApUjX8_52b0Mek_CWhIUa-oDCcHRfjhHA1i32Cxk2YWY9JkHqnlteG0oNozQk6iFqPWJ74m4lEgTRxqxFxFci-25lBO3orZsFfaAZhcX4KaoYS_v4x54vyqv3q_wajkcD9ortpi7ltN0hUHB38oPH8g_jhi8YsXsZ-DdSwPlhxPP80N-BHa-40vrExZTjU7uVl4xzjlHkgUWK16_Fq4uvDquXMnUmsF3xnD8eZZyuNS_lKgKVXBNUilvlJJSdfp3f5gidUolSOn98Cl5-_yvf0ybUuJ_S-1u0DC71jzYX7f5vf6-Nx_35uvefK7z_faXrPP9DUntInwIafbtAAAAAElFTkSuQmCC.png",
+   "price": "₹439",
+   "extracted_price": 439,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ-u871H-TptV5TYXAY06J7Mr0Dlb511dSEgdXeUhqoB_SpUmZsOrMj741Tzw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/G87Hgnicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDtQttTA39NANKSgJMw2JjHCMNDDzMvctMnDJSTI1NEwJdk1PiUgNzSjMd4oPLgjNjSr2L_LNMjcxDKkqBwD25ylC",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 12,
+   "title": "Lattice Battery Operated Musical, Light Up Universal Lizard Toy for Kids (Orange)",
+   "product_id": "8453483368380186888",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:8453483368380186888,headlineOfferDocid:8453483368380186888,imageDocid:4886540789962815926,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹749",
+   "extracted_price": 749,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBWyr7f0nIX40i9_dPEzNpJi8gdseOJ-JdIBGwCp4rn-w7rwbG-xBuiaD_ong_2bHnOinHl6c",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/EjylWXicDcnBDoIgGADgJ0Kcc5luraU1lIO2LnVjCoRs9UNAI7v1mL1Nfdfv-5lDsL7CWAJ3iw1SoDBBligfxqB5ws0d-9lYq0FtH5v_VbtelISf6vPiimsK3SVPdcnE8fDuLdVrJbwcKKKiq0lsbO4AxcLFiaBX_dTjnhlQLJtaGDS0txX_AXRdLuk"
+  },
+  {
+   "position": 13,
+   "title": "Walking Unicorn Toy with Lights & Music – Cute Moving Unicorn Toy for Kids-Battery Operated (Girls & Boys)",
+   "product_id": "14849829256458049551",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:14849829256458049551,headlineOfferDocid:14849829256458049551,imageDocid:15134404448912300195,rds:PC_1634619908492561701|PROD_PC_1634619908492561701,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "99wholesale",
+   "source_icon": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/pzcKaPxr-IrDVvZVgzpi5zJFgPNI4gy3alwLbESZgBg.png",
+   "price": "₹349",
+   "extracted_price": 349,
+   "rating": 5.0,
+   "reviews": 2,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_U5LQw9VAElO9_pKg2QKz2q770IDJWVnC4Ijd55tU1bv5dJGg_iph1V_ihoED2BORbB16Eore",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/IKpp8nicDcnRCoIwFADQL0qbtUQhQnOIGomC-jhyk21R23SXoh77y_6mzuv5fiSAdbHvT5otLwsTX8GoN55wcAHFPGbuvpPGWqXFYd7_L07OPMpZSzt8ap5Rn5BbHVFbiaCp3sEchusiK4deH7fFlWMMHRofmJe5oMpK1FMlDcmCtG7HFO2IWaYfbrotpA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "Cute Rabbit Musical Toy for Kids with LED Lights | Jumping & Rotating Dancing Bunny | Battery Operated Sound & Light Toy (3+ Years",
+   "product_id": "8434354428654083775",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:8434354428654083775,headlineOfferDocid:8434354428654083775,imageDocid:18332421689140885297,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹299",
+   "extracted_price": 299,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcReYhWvAXEmSxqrjl5GdpID_pCzrLUMig_kxKaIwvwFcFr7hT_4kx7IK2o-M1cLULmgPDXGRZKX",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/kdWJ73icu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDkqNzAgvc4xwzQ2uKCzKyjF1TynwdIkvcK4q8gn1zUyPz67wTvQsLyt3S3YrMs8IiTfJrjD39DbK1_U1TPYJ9clND3CJcA-K8o4AAOcwL8g"
+  },
+  {
+   "position": 15,
+   "title": "Battery Operated 3D Flash Drum Toy with Flash Light & Music Effects | Dynamic Musical Instrument Toy with 2 Mallets for Toddlers",
+   "product_id": "17859480346488443369",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:17859480346488443369,headlineOfferDocid:17859480346488443369,imageDocid:16190810378345801938,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Kidsinfy",
+   "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6IzczRD84SjRFLj0BCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzU3Nzc3Ny03NTc3NzE3KzctNS01MSs1ODUtLf_AABEIACAAIAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAABAMFBwH_xAAqEAACAQMBBgUFAAAAAAAAAAABAgMABBESBRMhQVFhBhQiMcEjMnGBkf_EABgBAQEBAQEAAAAAAAAAAAAAAAAEAwIB_8QAKREAAQMCBAQHAQAAAAAAAAAAAQACEQMSBCExQRRRYYEicZGhwdHwE__aAAwDAQACEQMRAD8A3GiIoiKIiiJCe-VElUId8mcIxwD3zyGONQDHNdUNEN8c6c-_v0WppQLyclKb61RQXniXLaMax93T81a1zXTaZhZsaak2iY16JTZu3rDaPm9zOg8rK0b6jj25jt3rS13JcsN825rsm27FJt0kolbUi_TIYZZymP0Rx6VyIOYWVesKD7KgIOW3MwFNPYRzmYuxzKCpK8PSVxj5qSnhRTxPEg-KZ7REeW_OVU6pdT_nt-zSU-wRJCyLdyLJqDJLpGpOJ9j19R41tTpBj3OnX7J-d0wT-GeXRcDsfVJSeDbV4rmPzMqb-7kuSUVQVLgDSO2Af6asp1ywzC8wr-HLi0a5p208O2tqbDQzlbIuyBjnUzcyfj2qZjQxtoXGNnGYgV6moV3XSIoiKIiiL__Z.jpeg",
+   "price": "₹295",
+   "extracted_price": 295,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSFOYJYPv5-D0YX04Z6r8a0CvqoOQh4iBo1162qRvLULHdAFIOPYGAFTq2X0xx_F1o22eP6n8u7",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/q3v9N3icu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDnbzj_SKDCgz1XUxiIwwMIkyK7JINHAuK8z3D8wwyXTKNzQ0MyoMKvMJ9fFIcXTz9A-IdHd0Cyk0ijCoqIh3M8w3MkoNMMuzKDUHAFM5LNA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 16,
+   "title": "Musical Walking Elephant Toy for Kids | Electric Dancing Animal Toy with Colorful LED Lights, Music & Sounds | Battery Operated Interactive Toy for",
+   "product_id": "646782421281375648",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:646782421281375648,headlineOfferDocid:646782421281375648,imageDocid:13380964727733258228,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹389",
+   "extracted_price": 389,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8IKFbm8Vg9UvLY5V9vw7ULZrSRF5D9Y_xt1FxuhH8qnlNSLb7WdHFqNL78HOzC4OaldXqyiE0",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/-MQV-Hicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDrHw9HZLyrUIS7cMLfOJNA2zLCs3D_WJKgoOcjN1sYyMrygxdKsozfCwKMzL8Qv2STIPT_FwK_TzMbfw8K9yNvFPzEmJKKzMdDUAAIpmLmk"
+  },
+  {
+   "position": 17,
+   "title": "Cute Kids Night Light Night Lamp Night Lights for Kids Bedroom Toddler Baby Portable Silicone Battery Led Nightlight Nursery",
+   "product_id": "14091061940975564085",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:14091061940975564085,productid:6639450039190851274,headlineOfferDocid:269501089611948538,imageDocid:5687326162443257664,rds:PC_15698901708589112118|PROD_PC_15698901708589112118,gpcid:15698901708589112118,mid:576462543134552592,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Toyworld",
+   "source_icon": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/pzcKaPxr-IrDVvZVgzpi54ybzkB0AwRXwq6LSVwRzaM.png",
+   "multiple_sources": true,
+   "price": "₹599",
+   "extracted_price": 599,
+   "rating": 5.0,
+   "reviews": 13,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTUgCbA7geO2ikbQFvHw8XYhhYU9gnhEXWiAidlwLWRuQyiEtlKTno9D-xfGTY",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/p7zrunicu1maUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDglNd05yNE9P9TfKzE4KdCvzKLeIiMzIiAy1TM_LcI0Iz3TMTMkp9wkPKg2szHQtyfEOycu3dNGtSHMPiQQAbA4rTA"
+  },
+  {
+   "position": 18,
+   "title": "360° Rotating Musical Light Car Toy for Kids | Automatic Bump & Go LED Projection Car | Colorful Disco Light Vehicle with Music | Battery Operated Toy",
+   "product_id": "12056427260011087229",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:12056427260011087229,headlineOfferDocid:12056427260011087229,imageDocid:11790275734317074754,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹419",
+   "extracted_price": 419,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJ57_HuiKZjRLwUIeP8B773yvwIcnGFWHsfb__0ZT1MRr4xQy5VFSk-Kb_coADDj6x3m9xSGHh",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/oWukPnicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDvIyNY_3KM30jsoK8ikP9UwNsHAyNzeuLCv3TM5zdwv3KE5Lio83iAox9A0qMqkIrDQNcwvO1vVOik_Od3RxyTKrMM61rAh298gAAJISLmo"
+  },
+  {
+   "position": 19,
+   "title": "Dancing Jellyfish Toy with Music & LED Lights for Kids | 360° Rotating Bump-and-Go Interactive Toy with Smart Obstacle Sensor | Battery Operated Light",
+   "product_id": "12792446402875057459",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:12792446402875057459,headlineOfferDocid:12792446402875057459,imageDocid:5476125216172389674,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Digihaat",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAw1BMVEX___8ddrwQrU_7iwsAbbjM2-z7hAAAqED-38oAaLb7iQDL6NPy-fSZtdcAcLkQcroApzzw-f7g8v3l6_TU4O_-49DO6dXo9exFuvHn9P17pdH-3sj7fAD_xp81uGwAoivJ6PqO0_j7jyC45Mqg1rAis_D_0Kyg1_e85v1tmsv_oFKV2raav-T_wY3y5dMAq0pOunJwxvM-gsD_9-__toFsy5ZcwvTAz-S41fH_rWba6daAypb_mjr_378msVkAX7Pt4cw-89T2AAAA7klEQVQ4je2R15LCIBSGSUAIRGOaJfbuFruuvb3_U8mBkL1wZme997ti5mc--M9B6M1LBGGUk8RwdpySJO-WJRVzoZoQgNcQqjcopY1my2eMtfNp3ukWPAvgEeoJjEWvz2zbZgMjGAZc5RaJRxRjTOu2wuTjj8-ivsAR5OLrGwS-mwmiVOBNpkowg3y-MPkyXOncKq6VYPMzB4GpkGx3JP3B_iBAcPRBcMoqBl4qWM3UA6MWCJjJs4oWD89_VvRqF13xCg9cnysSJMRvxbJZwjC-EU04VUO-t-WM_axiEsQ5jdyCIylVXMAs4c0_eQAr8hLLfpG5LAAAAABJRU5ErkJggg.png",
+   "price": "₹419",
+   "extracted_price": 419,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxy_N-EBZJvxY9cavTZmnZw3EhDj8ZXQbt010TVYIzc9sPznKTKOuTtrJ6bg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/DcGxx3icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDqyojPfTdXWK8iqriLRMTiwLicrNiyo3ds1wybKIighMKjEwNAgJi_SsSrYsDqjK8w7x9i8NKSnyMktKBwA_zSq1",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 20,
+   "title": "Walking Dinosaur Toy with Multicolour LED Lights, Battery Operated, Brachiosaurus Figure for Kids",
+   "product_id": "9411373640343938916",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:9411373640343938916,headlineOfferDocid:9411373640343938916,imageDocid:2183331695679739991,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹320",
+   "extracted_price": 320,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT6lTrIJbbtcWsEHF2qbiTYvqt4fNJrIPk4KHbtARH2jy-PpoCubrZM555UnOZwli-a_VjXfcKf",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/FWbRh3icu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDjHLCSny9EpKKkkOL3b1cDMqTMoMiSwrLDFJ8_Mq8gzINvH2SCpxDPIwyqrUDSjIdy5NKoryNTU1Dc3zjyrPydRNjA_LikhL9k4DAL88L5I"
+  },
+  {
+   "position": 21,
+   "title": "Musical Light-Up Camel Toy – Battery Operated Animal Toy with LED Lights for Kids",
+   "product_id": "14482079932812948366",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:14482079932812948366,headlineOfferDocid:14482079932812948366,imageDocid:12207516403563179534,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "99wholesale",
+   "source_icon": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/pzcKaPxr-IrDVvZVgzpi53kePyqbpmjV-DDvdcn-1Po.png",
+   "price": "₹249",
+   "extracted_price": 249,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSpUngkILkwFip1fTnsqPOvaTNVnpjJ3Mqg4BwZb8-H1k7PvHtKPG8EmGuCw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/jypsy3icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDg4uCM1Lz_b0yS53yywwTAvJKy4M8C9LDPELyyvI8jL2LUw3cSqPSrLQ9TDMNg8o8yjxDnC3cM11L3UuBwBSviqv",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 22,
+   "title": "Dancing Robot Musical and Colorful Flashing Lights Kids Fun",
+   "product_id": "3453876674778282836",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:3453876674778282836,productid:11833201152627345007,headlineOfferDocid:5050681599689186801,imageDocid:17246809559369187860,rds:PC_17176350331553542641|PROD_PC_17176350331553542641,gpcid:17176350331553542641,mid:576462882240953428,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹999",
+   "extracted_price": 999,
+   "rating": 4.6,
+   "reviews": 18,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQDmIaYchEUsjTIJs0fl3dTlyeHpVNv6it_AWYPBmK3br3q8op9SeYNzs6VMxlRTbdIWL9kvBg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/kNb3lXicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDnTJ9UyMTM5wDS3OCvH0KjZIyzFOCcmpTPUoCPMrM8ssiXcMjwxwyvU2TioyLrTIL7AMTo30qyo2C_OtyAkKSUrxDPexzC5zSgcAl2QvbQ"
+  },
+  {
+   "position": 23,
+   "title": "Musical Bunny with Guitar | Dancing, Flashing Light & Sound for Kids | Electric Rabbit Toy for Boys & Girls | Battery Op",
+   "product_id": "5986311290871977730",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:5986311290871977730,headlineOfferDocid:5986311290871977730,imageDocid:14955600881958718441,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "kidland.co.in",
+   "source_icon": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/pzcKaPxr-IrDVvZVgzpi5xHJvMvDxnblQxckPGkJaSk.png",
+   "price": "₹470",
+   "extracted_price": 470,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNvFMDC4GiPGgA16bZgNcqebtWI7NHrU_dXzeIKUfcrMpEMtCn",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/e5ikq3icu5mVUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDvIrc_N1cTZxzwxwT3c0NEuKSvdLLkxNKgn3NPfzKAqNT4moSvX0Dk1LLvItcPUtcc4DAIjWJuE",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 24,
+   "title": "Electric Shark Toy for Kids, Battery Operated Walking Shark with Flashing LED Light-Up Fins, Moving Ocean Animal Toy, Interactive Marine Sea Creature",
+   "product_id": "10636714769626618632",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:10636714769626618632,headlineOfferDocid:10636714769626618632,imageDocid:9300096403908198150,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹499",
+   "extracted_price": 499,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTZJQvo1XTrZto5AgpOEdnjka04GjEP4hlDavVdtoPO1G4DP9Bu4DMac0XJRsrYyIdsmeOJpsR",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/bMnvTHicDcndCoIwGADQJ8qfWBcKEcZkJJRrSJh3cxtOy21tX4K3vWVvU-f2fD8awIU8jpURfnWg5AZ6s42GABxGEQk7x0Fb50YzHF77_-XFRWZEsKarrotN28Z3YHfF4OpSmunBE0SmkiL9xHy5SbC0TgnCNDu-ET5zkbQVC_6-nmSYVV25wH6wyS9M"
+  },
+  {
+   "position": 25,
+   "title": "Dancing Bear — Light-Up Musical Toy for Toddlers",
+   "product_id": "12910865665938297396",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:12910865665938297396,headlineOfferDocid:12910865665938297396,imageDocid:194034101818002661,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tukoy",
+   "source_icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDSUUFRAWIB0eIiAdHx8kKD4gHSYlJx8fITUhMS0rLi4uHSUzODMsNygtLisBCgoKDgwNFw8QFTElHSUtMC0rLS0tLS0tLS0tNC4rLS0tLTcrKzctNy0rODcrLTcrNzctKy0rKysrNysrKysrK__AABEIACAAIAMBEQACEQEDEQH_xAAaAAACAgMAAAAAAAAAAAAAAAAABAMHAQIF_8QAJRAAAgEEAQIHAQAAAAAAAAAAAQIDAAQFESESMRMWIjJRYbEG_8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP_xAAfEQACAwEAAgMBAAAAAAAAAAAAAQIDERITITFRYUH_2gAMAwEAAhEDEQA_ALs_K5Nb7GxIDxWTMgrRXXtmwN6ov8M1onfZGGxZFlDFn30hRvdK5Y8HhU7F0hHzFZ6QpFcsHbpUiPje9a710lHlaTTvSfJLPnbWG1e4KymNOW9HIqau_wAlvjRTXDpDGNycGREogEgaIgOrrrRPIquyrxyxi5jM5DHRX5jMrODGdqVOtVxlHp6PXb41iE0_nbNF6VknChupV8T2n5FPKXSwmnSpy6ZtLgLSS2ktpGleOQ7YF-571PXUqbe0UVy5RNi8XBi0lEDSHxnDMXbZJHFWTsdktYu6zofQrluegZ_QGhyTQzPYN6-Ao59hYd634H4P_9k.jpeg",
+   "price": "₹699",
+   "extracted_price": 699,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAVyVvaPbsYqamGCRXLZHyXxSDho0oKQ9y5IL11ZwplpojUecEjogjDnZi9OnoHC3lMF9pw8E",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/pd33f3icu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDnIMqwwrSwxIKo4sTMx1dw6K8InyqIyoCHbJyDfI9w60rDT19DE0jCovyCnIzwpNTXbNyk_PcsmLyrT0z8v3cDbO8XWzLCi3cAUAo_UvbA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 26,
+   "title": "Bump & Go Musical Light Car Toy for Kids | 4D Multi-Color LED Rotating Gear Car with Music, 360° Wheels, Automatic Obstacle Avoidance | Battery",
+   "product_id": "13578639290832819997",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:13578639290832819997,headlineOfferDocid:13578639290832819997,imageDocid:1332775724781080748,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹570",
+   "extracted_price": 570,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVg1AmUiJNAQPOJ0ma9e36WIQRMaW2St8msfLU5cas1urn0mw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/l8jMfXicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDglLN3TMDc308nMMDPD3MshNtEw1Ngv3DAzyTQw3Ci6xyC1O8wk1TU4sNiwtyjPILQcAVcYmCw"
+  },
+  {
+   "position": 27,
+   "title": "Goyal's DJ Robot Toy for Kids with LED Lights Musical Toys for Kids",
+   "product_id": "6818196072283552714",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:6818196072283552714,productid:14851643926884125127,headlineOfferDocid:7002343593153278105,imageDocid:10140886823941804489,gpcid:2026441235761156324,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Goyal's",
+   "source_icon": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/pzcKaPxr-IrDVvZVgzpi50wQfzPUjVavk_Ybi9lm1Es.png",
+   "multiple_sources": true,
+   "price": "₹449",
+   "extracted_price": 449,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTuRIUQFYKSa8enHJmZ-BInP4jqOWIjCw_d3_AAXK1qOtjchNFFzQ4j19t7VCwHGnTu687xLsnv",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/XIi5Tnicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDikN8gwNdIv0Dk60SM3z8MqN0nXyzAswySr0D_fMci6PTzGOd3SM8DYs9C_JSs7wc3OrCjTJMrQsMQ9zLvdwzwspNbMwr_ApzisDAJRHLp8",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 28,
+   "title": "Kids Interactive Toy Set - Dancing Cactus with LED Lights and Music, 32.5 cm & Moon Ball (Style 3 - Cactus & Moon Ball)",
+   "product_id": "12557380755507468764",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:12557380755507468764,headlineOfferDocid:12557380755507468764,imageDocid:8876766950981725845,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹399",
+   "extracted_price": 399,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRGBrC3JZGmQMAB2mfO09yi3RCDj3cj0BbgvfGCpBShYj7P260tU-kWrBUxC5zvTSsw_a8V1wZe",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/kz5XEnicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDnJ3KnI29opyzw30dXQyyk3zN7CszDQOcnbJMk7OMnBKSi9Lc3cucArOiMwyDzAyMygJ1c0OL3IKrXA2rSoLCS4uj0-0CDMsj0oFAG51LiE"
+  },
+  {
+   "position": 29,
+   "title": "KIDS FUN Toys Battery Operated School Bus Toy with Moving Wheel Light and Sound-Light Green",
+   "product_id": "13165080505952703588",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:13165080505952703588,headlineOfferDocid:13165080505952703588,imageDocid:9751998871613294215,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "firstcry.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABY0lEQVRYhdWXTW7CMBCFp5aVRhFl0Qv0Dl0hRA9Bs2IRsaAn6EF6gmaBItQVcIhGqKsehgVCKGq7imWHsTMTbIW-VSYZ53v-m8QAPetGDz6f338pjSbrhRGXac6CPm1eFFddUOBNsA8Togu8THPYzZZsqK6aKbkNa-jPqTLirhKUpLr3l8I6GwipVgMhe08yEFq9G2DvgjZxi5QXAzKJYFRkTkM2I16mwAbHjDQlsaSuK343W6oC5YJaDbgayiSC6nBy5upwAFpHyFMwKjIQsfc1a45A0_Hj2xSSh3sVj1dzdf2VFeiIcOUcge_XrfWZvLu9GA7A3IZX-THSTYmIv0a8luLxx7w9iWuAMux6DraFRSxhsl7gz1rfTsiWw9iImyB995y15fDlIIZqfzy7X-2PUKa5AaZUQbYBDK6rngoMbptK_6XNAcPU-w_J_zJAXVhsA_pZDVOIEmwczSgmQsCvQn-RYHpAGmaqIwAAAABJRU5ErkJggg.png",
+   "price": "₹342.86",
+   "extracted_price": 342.86,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTYboJYQS4abN4IdWXdaPIZA2WQKZLceBa0nkc1XicFraAWS32oiPIX3y-4E5q4LabpkmzWYBA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/syYPOHicDcnBCoIwGADgJ1JL1yEhYoLFSkQxmHr79090iNt0u9itx-xt6rt-38_kvXVpFA0at936QQZe6CQcnQevMESzRG4y1io9XtfL_1JayvMdX50wj65uCIiSMMlbCRXraczrZ1_gkMFBz3hsFd42oLxJYqMq1iZ7QPLTSgoQdl7evMvoD16qLeY"
+  },
+  {
+   "position": 30,
+   "title": "Gooyo GY-947 Projection Strike Gun Toy with 3D Vibrant Light & Sound Effects | Projection Toy Gun | Musical Toy Gun for Kids | Blue | 3xAA Battery (",
+   "product_id": "16343871152675167866",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:16343871152675167866,headlineOfferDocid:16343871152675167866,imageDocid:7916292009682476179,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹196",
+   "extracted_price": 196,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSWFWPWnsn7GW8Yc8oHxN6k4pEvdUyBt_9Yrc-iq13AlPtzyokxJT-0df5R-pYv2O7ciLKeJqSP",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/96Obr3icu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDg53Cw8IzyvOM3cPt4hMtsj3qPAzyzYpcC1LCa10Kom3jCxK1s0sNDR2zAkoqarMz67wCtE1SEkzDdItiCwz8jdPzvTxTvUqDA4AALIWLxs",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 31,
+   "title": "Magical Light-Up Fairy Wand for Kids Handheld Musical Pretend Play Toy (Diamond)",
+   "product_id": "14319583526528043982",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:14319583526528043982,headlineOfferDocid:14319583526528043982,imageDocid:4280039066822177520,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cots and Cuddles",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS3K6yul2DPqBnCMK7jcgov-xT2aPaoTOQtDvmTOOX7U8MKfGMRMI5Fea6OWv1No8vE7Cp3laRm-sOyeSVPiZcLwIuiLkbdRCI04KK1H0AS",
+   "price": "₹499",
+   "extracted_price": 499,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS8tUHR_WLkgBZESD50PBbbkHrQITiguuvHnIgbx74JXHycHngC99dCEwTBWrCcwK22aS3Triix",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/4C36TXicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDrYoCfUIig_3yU53inINdjE1CHBKSsr2KAr0DMlMLy0t88jzTE-qMDfxivCoTPbIS3e2tExxdi0PcQovck4u9zYySgw2DinKzKwAAKC7Lvg"
+  },
+  {
+   "position": 32,
+   "title": "Toyshine Concept Musical and 3D Lights Kids Transparent Car, Toy for 2-5 Year Kids Baby Toy (Battery Included)",
+   "product_id": "11674780292596446923",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:11674780292596446923,headlineOfferDocid:11674780292596446923,imageDocid:3535809335511126871,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+   "price": "₹317",
+   "extracted_price": 317,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRQ58ddX8hSNl7NFUxMiQId1Mv3nSZrsqDQ0q8ChE3zSDggj_7ZL518zGjD9cY",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/faXd5Hicu1maUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDgo0tUhJibDICPbLMfdzC63wzQz0TDH0LTPOC44qKi50CTQotHDOcDWuCnZJT8-KN4_yMTW0qHLPcrFMjgQARbYpxw",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 33,
+   "title": "Dancing Jellyfish Toy for Kids with Music, LED Lights & 360° Bump-and-Go Action – Battery Operated Cartoon Jellyfish Robot - 1. Dancing Jellyfish Toy",
+   "product_id": "1565313190070848608",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:1565313190070848608,headlineOfferDocid:1565313190070848608,imageDocid:9459002966706170250,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "aapkaessentials.in",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRFt3c4HWk8L-4lqbQjKJ3LV41xxZW5JyPvyg9mxAHDSHAIL5lA7b5OwqM80iYYfmq5oMimsJoBwb_2aS0s-O6uxiAppr6Qi8PONy8",
+   "price": "₹640",
+   "extracted_price": 640,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9OHu-t92hf0yS31REpxRabH_1XNSWFkr3Esi0BYhFJd3JsRNKpLMnhkp78dWC_qD_uuklslk",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/_TXXXXicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDrH09yjVLbE0ykgzqAw2NgxyLagISkzyiDeM8AsOd8suMnYtzjRwisxw80ox9ioO8vMu8PHNy8guMLdICXeOL3SJLy3NzinOyQYAVKwupg"
+  },
+  {
+   "position": 34,
+   "title": "Bnf Kids Children Funny Led Electric Excavator Digging Engineering Car for Boys",
+   "product_id": "7750015388569300102",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:7750015388569300102,headlineOfferDocid:7750015388569300102,imageDocid:9586242389465854956,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹1,445",
+   "extracted_price": 1445,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRQ0Vjxhsm6N4PHE88T0zh1vkHIV_8GwUPfLCqSgQiW6dHAe7WDh_qVyYwLblWrst08e1EYd0g",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/1of-iXicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDgo0CMuqyCjONfMzCfBwtbAIMajKMCzL9vAMi7dwLw8NSPNxLgxOD8wMN0vxcEw1D3fJiC8Mq4ws90nKCS8qLjGwSDV0jUwxSAcAZpkuaw"
+  },
+  {
+   "position": 35,
+   "title": "Musical Walking Elephant Drummer with Blowing Ball Toy - Yellow| Flashing LED Lights and Music| Battery Operated| Bump and Go| Beatin - Girls & Boys",
+   "product_id": "1881481609939109656",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:1881481609939109656,headlineOfferDocid:1881481609939109656,imageDocid:14838748713106827481,rds:LO_1881481609939109656|PROD_LO_1881481609939109656,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "FirstCry India",
+   "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRjc_ZGOw_aICNAS430tOcXlpjvK6cwVk-Oenb6tRrjtcqzdrrCPXNbDmQumzp4fGU9v2ai462FB12JOfjDAUlXd57seUvUP2I",
+   "price": "₹488.97",
+   "extracted_price": 488.97,
+   "old_price": "69% off₹1,599",
+   "extracted_old_price": 69,
+   "rating": 4.0,
+   "reviews": 12,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTuKAOY5jHdcFvY5svPoG9Hvy9jri9kp2IEiMJwnJSXcjS_bB6Qd5bqQt24pCixDwbBz9Utevvf",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/AEZ_QHicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDin1dvSPNM3ySEl2K4s0LS4LyHe39CirtMwqyrTMLjDydM309SrP8wqOSM4Kjk9yMgtMMU0qDCwxMilwzqxwKU9yqrIMLUktK0sDALvBL-A",
+   "delivery": "Free delivery on ₹699+"
+  },
+  {
+   "position": 36,
+   "title": "Walking Deer Toy for Kids with LED Lights, Music & Walking Action | Battery Operated Musical Animal Toy for Boys & Girls 3+ Years | Glowing Eyes,",
+   "product_id": "10201155590375719987",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:10201155590375719987,headlineOfferDocid:10201155590375719987,imageDocid:11306551028567982960,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹345",
+   "extracted_price": 345,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSN-Py8uCwdz_hxPALtV4Amc-fJ4TvXjz8S52BFHDwwjmt8V5qbszgOoEEGnTM7vJ8WrYEa5YE",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/yU1B63icu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDvbTDai0KHUuT6mKz6gIcPQpCTNxzE3WTfMyCSmLyKqyCDY1cnLzcCkvz8otsQgzLUwqrkr3z3d1dc8L8TUv87IIL4p0TTSNdAUAgVEupg"
+  },
+  {
+   "position": 37,
+   "title": "Toyshine Battery Operated Triceratops Dinosaur Toy with Lights-Sound | Age - 3+ | Multi",
+   "product_id": "294021411604810409",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:294021411604810409,headlineOfferDocid:294021411604810409,imageDocid:13114634230527963771,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Zepto",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS_V2UQdcBLwDfc93rqMjm9bc79vLTszUeZNRy2Nm6UA2sMdtljvjLu0tRJLV2s4F_L1isESPkaHfLsINpZxu3WtZduSgdC",
+   "price": "₹719",
+   "extracted_price": 719,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS5A5GkieNVc19fTf3HT8Iid2WC5hjEz9f53Wb5vC-j-G5vTTRUo2dr1TkHa47R3qlMU8Sk17rm",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/OyRTm3icDclLDoIwFADAEwGB-sInMYYQAy5kAUXW0AItlbbAC4kuvaW30dnO9yMQ7Z543qDZ9rI4cAd7Tdxpxw4lc5lZvF0Ya6WeLuv5f0la8jhnNaSQKzmUD-bHIx1JQaOb5EGbgZiv73gE0vZwZM7s5HBQWjUm4JtPVdGdwoqsz3sT1coPt-UHXNQtKA",
+   "delivery": "Free 10 min delivery"
+  },
+  {
+   "position": 38,
+   "title": "Cute Rabbit Battery Operated Bunny Toy",
+   "product_id": "7284559121359132333",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:7284559121359132333,headlineOfferDocid:7284559121359132333,imageDocid:6758661019050361935,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹249",
+   "extracted_price": 249,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfuanpRInZcadg9FkvRjAmo_8nnLb6wfieHBlE7Y6T0C1bv7iUpIiD1gKiEZy3O9z3cI1-Wek",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/m0lPHnicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDkwrTcwrCPLMi0pOTEm3dMsuC8pyzM2Pt8jL80kyK0_LTPVwynE1jzQLMXA2TCozzwwt8Mx0MUz3znSNqjT2t6wyTvY01A1PzQYAoikuuw"
+  },
+  {
+   "position": 39,
+   "title": "ATORSE LED Light Up Sword with Sound Effects for Costume War Fighters Warriors Toy 2pcs",
+   "product_id": "16975115530282263596",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:16975115530282263596,headlineOfferDocid:16975115530282263596,imageDocid:7193366231265114841,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+   "price": "₹1,592",
+   "extracted_price": 1592,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSkQW0r4ekKFrGKdsnsXOfg61s3AuyuZwW-Qek8DRCFze2hEyVrhVXZ0KvHGgArUdN1HgAzfRI",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/9IOfRnicDcnBCoIwAADQL9JpRZQQMSxnDAyNVLzVNjcZzbXNYt76zP6m3vV9P8I5bRMAmCLGa8do4O4qDrl1NzeQkIwPYMWo9aD4_rn7XwILukXkIssmMismcWYQplbZ9tzzdWyXcPJT926CksnNoUqzmS3E0ddG1G0X4VeOODRXWsQ5h3NfnX6KqC7v"
+  },
+  {
+   "position": 40,
+   "title": "Chigy Wooh LED Flying Bird Toy with Flapping Wings | LED Lights, USB Rechargeable Bionic Bird Glider, Hand Launch Outdoor Flying Toy | Gift for Kids (",
+   "product_id": "16739880174668212492",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:16739880174668212492,headlineOfferDocid:16739880174668212492,imageDocid:9555522194277536397,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "addmecart",
+   "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTjZw9iyOWWulKyhv73OZN3t-pTkKcpligE4-I6nmNC7WJwXIVfLnwAPqM7r7GmfTH5RqbfWgn-3CrrO267IvaWvQdaZi7InG5Y6w",
+   "price": "₹999",
+   "extracted_price": 999,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRxkzJaBB__1xRnNCWbdZ-NbRuz0Z6-IEXwtkk_TqCVwoDXu6V6OziYjklCHgoJqVX0qwD-dvfYEQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/thSxnHicu9mSUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDqrIrvJKdHKKjzesCMrzcw5PSonS9UsKKq0yiDLT9XSNKC_Jzo4PKXQOK893iSg1CzPzr8qMzMrOcfZIz_cqDIswKCx30U0pS4t0DQQAJ4swfg",
+   "delivery": "Free delivery"
+  }
+ ],
+ "categorized_shopping_results": [
+  {
+   "title": "Toy Cars & Trucks",
+   "shopping_results": [
+    {
+     "position": 1,
+     "title": "Battery Operated Stunt Car Toy with Music & Action Car Toy for Kids/Babies/Girls/Boys with Light (Orange)",
+     "product_id": "16528599806742027479",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:16528599806742027479,headlineOfferDocid:16528599806742027479,imageDocid:9611860586696876820,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹299",
+     "extracted_price": 299,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eENaRjYMwZNtAxGgjNoJFOSBamhMkPy_sxFul8ocrAUUs8Jc6Rzkkb4afRlHbYbq1Q.jpeg"
+    },
+    {
+     "position": 2,
+     "title": "360° Rotating Musical Light Car Toy for Kids | Automatic Bump & Go LED Projection Car | Colorful Disco Light Vehicle with Music | Battery Operated Toy",
+     "product_id": "12056427260011087229",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:12056427260011087229,headlineOfferDocid:12056427260011087229,imageDocid:11790275734317074754,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹419",
+     "extracted_price": 419,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eENaRjYMwZNtAxGgjNoJFOSBamhMkPy_sxFul8ocrAUUfpD8ujjh1Qj19-_rXvRbdA.jpeg"
+    },
+    {
+     "position": 3,
+     "title": "Bump & Go Musical Light Car Toy for Kids | 4D Multi-Color LED Rotating Gear Car with Music, 360° Wheels, Automatic Obstacle Avoidance | Battery",
+     "product_id": "13578639290832819997",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:13578639290832819997,headlineOfferDocid:13578639290832819997,imageDocid:1332775724781080748,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹570",
+     "extracted_price": 570,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eENaRjYMwZNtAxGgjNoJFOSBamhMkPy_sxFul8ocrAUUQIb6kl-8cSF9jp6XeRclcw.jpeg"
+    },
+    {
+     "position": 4,
+     "title": "Toyshine Concept Musical and 3D Lights Kids Transparent Car, Toy for 2-5 Year Kids Baby Toy (Battery Included)",
+     "product_id": "11674780292596446923",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:11674780292596446923,headlineOfferDocid:11674780292596446923,imageDocid:3535809335511126871,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹317",
+     "extracted_price": 317,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eENaRjYMwZNtAxGgjNoJFOSBamhMkPy_sxFul8ocrAUU_6EMeP904bFyS292uTgJUg.jpeg"
+    },
+    {
+     "position": 5,
+     "title": "SHAKTISM Battery Operated Toy Car for Kids with Colorful LED Lights & Music | Universal Bump & Go Electric Mini CarToy | Luminous Racing Car for Boys",
+     "product_id": "6136368360820247406",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:6136368360820247406,headlineOfferDocid:6136368360820247406,imageDocid:9809040323715264002,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹399",
+     "extracted_price": 399,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eENaRjYMwZNtAxGgjNoJFOSBamhMkPy_sxFul8ocrAUUABG3QEY4eFOpTrHaVRz2Hg.jpeg"
+    },
+    {
+     "position": 6,
+     "title": "Battery Operated Musical Bump and Go Toy Car with Colorful Rotating Led Dome Light for Kids and Toddlers",
+     "product_id": "9602330312515954784",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:9602330312515954784,headlineOfferDocid:9602330312515954784,imageDocid:11930030794623293924,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹430",
+     "extracted_price": 430,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eENaRjYMwZNtAxGgjNoJFOSBamhMkPy_sxFul8ocrAUUhBHb5VjqW1-XKOGq3o3j0g.jpeg"
+    },
+    {
+     "position": 7,
+     "title": "Zest 4 Toyz Stunt Car 360 Degree Rotating Stunt Car Bump and Go Toy with 4D Lights & Sounds Musical Car Battery Operated Toy for Kids - Assorted (Pack",
+     "product_id": "14550565732935838348",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:14550565732935838348,headlineOfferDocid:14550565732935838348,imageDocid:12126988359288610477,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+     "price": "₹303",
+     "extracted_price": 303,
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRMvwkF0tIvPycG2Wk4RT98kyhtQj-adT9V-bO-T3mGPb7mUirQ2LY7H2-B93s",
+     "serpapi_thumbnail": "https://serpapi.com/images/url/gCBjY3icu1maUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDvItK892MyjxLAuoTHY3Cs82CQqxtMiuzCgJzNJNTAmxDNNN8tcNMc51D0gyzw3NLAo08ok09zDSdbI0LgYAVqUpgQ"
+    },
+    {
+     "position": 8,
+     "title": "VikriDA Friction Powered School Bus Toy for Kids | Battery Operated Toy Vehicle with Light & Sound | LED Effects | Pretend Play Toy for Boys & Girls",
+     "product_id": "6455002800983262810",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:6455002800983262810,headlineOfferDocid:6455002800983262810,imageDocid:9000465837456010640,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSiabj7e5KTBsQlGr71-b-jwFGAtDp2OyXWRNORs7mtl3LfaiZQBqCi7gY0-aPD657m7I5ZssuBtViXcUGcAmd7pH3i8SJV",
+     "price": "₹309",
+     "extracted_price": 309,
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ3PUd_G1PEGop9SCmA_WbBpMsY_XlRIAopBS0c4TXh3xdT5FEDqP-Jy5v63w-d_CDn9nzOEG91",
+     "serpapi_thumbnail": "https://serpapi.com/images/url/DduMBnicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDjQOCE2JdzcMcHXPL7AMds51jA9PcirwLY6Mj8gJ8nTML3AKNkg2CYnIMK5ICTF1c3UpDND1qjQtMzMu102Jd3bJs8yr8nd1tzQEAIKyLbM"
+    },
+    {
+     "position": 9,
+     "title": "KIDS FUN Toys Battery Operated School Bus Toy with Moving Wheel Light and Sound-Light Green",
+     "product_id": "13165080505952703588",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:13165080505952703588,headlineOfferDocid:13165080505952703588,imageDocid:9751998871613294215,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "firstcry.com",
+     "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRhORXcxBUlJQU3AIt4FLRr8RigYlEYyklOqlPNrOtPllqQTLsz4aUkLfZdG3ERJlLXe4dBhUpfxFoM_raLZlX9TpDA_ME",
+     "price": "₹342.86",
+     "extracted_price": 342.86,
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQk1OBK8iZUaYXAN2CSAL7f2d-NDLxvvhu6IQPjND4IBSOAgkUZglAc4oA-SYl19MJs5tiyv4o",
+     "serpapi_thumbnail": "https://serpapi.com/images/url/w7wQhXicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDsw29HfytsiMCk2MjHD0M3IOdvQxTzNK0fVz8akoK8soNfMMDMjyczHxdAr2d0zPDo1Kz3FMNsl31A2OzDG09PUqNi3JrCwzyQcAPB8tfw"
+    },
+    {
+     "position": 10,
+     "title": "Azhari Battery Operated Dinosaur Stunt Car Toy With Light And Music for kids - Color May Vary - Girls & Boys",
+     "product_id": "4743234277855817994",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:4743234277855817994,headlineOfferDocid:4743234277855817994,imageDocid:15614728389321364889,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "FirstCry India",
+     "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRjc_ZGOw_aICNAS430tOcXlpjvK6cwVk-Oenb6tRrjtcqzdrrCPXNbDmQumzp4fGU9v2ai462FB12JOfjDAUlXd57seUvUP2I",
+     "price": "₹1,323.58",
+     "extracted_price": 1323.58,
+     "old_price": "54% off₹2,868",
+     "extracted_old_price": 54,
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSlFIqL5ODYY2tQnDtcUFXzMNOxvELLMh2Oe2Hg1ksPmfv-oGpivWGOPCo1IzYt4TbxcJap_KY",
+     "serpapi_thumbnail": "https://serpapi.com/images/url/aJbSpXicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnqJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDs5x8yz0MfV3iYw0KgnMcylJDnWLqPL1868oc_Xx8c0w8k818kg3zC4OyE0r0813L8gsC3f3D3DON_SsiiwxCUmqSPZKLIj3jgQAeuYvCA"
+    }
+   ]
+  },
+  {
+   "title": "Interactive & Robotic Toys",
+   "shopping_results": [
+    {
+     "position": 1,
+     "title": "Children Multifunction Electronic Luminous Toy Universal Mechanical Battery Operated Shark Toy - Multi Color",
+     "product_id": "5851157123749187902",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:5851157123749187902,headlineOfferDocid:5851157123749187902,imageDocid:14310067008428417006,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹680",
+     "extracted_price": 680,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eNYJ0Q8Hq6WXza-uyNsrbaCf_UwTOVzaLpjQQk4g-pfZpfYOoyQlG-Arq1rnLCKzvA.jpeg"
+    },
+    {
+     "position": 2,
+     "title": "Cute Rabbit Musical Toy for Kids with LED Lights | Jumping & Rotating Dancing Bunny | Battery Operated Sound & Light Toy (3+ Years",
+     "product_id": "8434354428654083775",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:8434354428654083775,headlineOfferDocid:8434354428654083775,imageDocid:18332421689140885297,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹299",
+     "extracted_price": 299,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eNYJ0Q8Hq6WXza-uyNsrbaCf_UwTOVzaLpjQQk4g-pfZaZh1PHOekwrMDMbW3pt9Jg.jpeg"
+    },
+    {
+     "position": 3,
+     "title": "Musical Walking Elephant Toy for Kids | Electric Dancing Animal Toy with Colorful LED Lights, Music & Sounds | Battery Operated Interactive Toy for",
+     "product_id": "646782421281375648",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:646782421281375648,headlineOfferDocid:646782421281375648,imageDocid:13380964727733258228,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹389",
+     "extracted_price": 389,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eNYJ0Q8Hq6WXza-uyNsrbaCf_UwTOVzaLpjQQk4g-pfZJASqB0RzOXcOsnjAGe6C5g.jpeg"
+    },
+    {
+     "position": 4,
+     "title": "Walking Dinosaur Toy with Multicolour LED Lights, Battery Operated, Brachiosaurus Figure for Kids",
+     "product_id": "9411373640343938916",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:9411373640343938916,headlineOfferDocid:9411373640343938916,imageDocid:2183331695679739991,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹320",
+     "extracted_price": 320,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eNYJ0Q8Hq6WXza-uyNsrbaCf_UwTOVzaLpjQQk4g-pfZr-3TbyHiXzO0CncjeC6i0A.jpeg"
+    },
+    {
+     "position": 5,
+     "title": "Dancing Robot Musical and Colorful Flashing Lights Kids Fun",
+     "product_id": "3453876674778282836",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:3453876674778282836,productid:11833201152627345007,headlineOfferDocid:5050681599689186801,imageDocid:17246809559369187860,rds:PC_17176350331553542641|PROD_PC_17176350331553542641,gpcid:17176350331553542641,mid:576462882240953428,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "multiple_sources": true,
+     "price": "₹999",
+     "extracted_price": 999,
+     "rating": 4.6,
+     "reviews": 18,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eNYJ0Q8Hq6WXza-uyNsrbaCf_UwTOVzaLpjQQk4g-pfZz0h5ri-Q5j1pI8SlfGhAVg.jpeg"
+    },
+    {
+     "position": 6,
+     "title": "Electric Shark Toy for Kids, Battery Operated Walking Shark with Flashing LED Light-Up Fins, Moving Ocean Animal Toy, Interactive Marine Sea Creature",
+     "product_id": "10636714769626618632",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:10636714769626618632,headlineOfferDocid:10636714769626618632,imageDocid:9300096403908198150,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹499",
+     "extracted_price": 499,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eNYJ0Q8Hq6WXza-uyNsrbaCf_UwTOVzaLpjQQk4g-pfZ0zxozs8SrHfM1h9e5ai80A.jpeg"
+    },
+    {
+     "position": 7,
+     "title": "Kids Interactive Toy Set - Dancing Cactus with LED Lights and Music, 32.5 cm & Moon Ball (Style 3 - Cactus & Moon Ball)",
+     "product_id": "12557380755507468764",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:12557380755507468764,headlineOfferDocid:12557380755507468764,imageDocid:8876766950981725845,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+     "price": "₹399",
+     "extracted_price": 399,
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQquj_JOXbh-bp3fDKYY9gsugVkhdnPWN_wiLZiSs3mkcs4vtmMs6bzOlc4Lr3csoGDCyadMjzZ",
+     "serpapi_thumbnail": "https://serpapi.com/images/url/zUkB7HicDcndCoIwFADgJ1IJJVCIiASh_CmCSm_Endk2zTk9x0Ive8vepr7b7_uRRAYDx6k1jLOhmlvE9MoWSBUpsKHvHJS9MUqL7bD5X7BLuR_BeZia8pDdmbSYcR_hMc99gZO4tpLr0y0t3you1AXdrgX0XtQluGZL9gQvHl3APgr3c8WTZil-674w3Q"
+    },
+    {
+     "position": 8,
+     "title": "Walking Deer Toy for Kids with LED Lights, Music & Walking Action | Battery Operated Musical Animal Toy for Boys & Girls 3+ Years | Glowing Eyes,",
+     "product_id": "10201155590375719987",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:10201155590375719987,headlineOfferDocid:10201155590375719987,imageDocid:11306551028567982960,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+     "price": "₹345",
+     "extracted_price": 345,
+     "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbR4E70iArz0Rg1K-mQCgjClZoBvlqnWTwX7GxSsihvSKEMxDY861s_7oDgG3LK5XPlBL0FgA",
+     "serpapi_thumbnail": "https://serpapi.com/images/url/9sqpr3icu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDkwKMnE1N8h0LKoyCEo39NbNDXROz3LOicp3KsspzAsPKY8wd68ILs7MKAv2dvWtcIm0MDMsjjfPd0l3N_bxNo0IyHHyMXBLdwQAZ5Ut2w"
+    },
+    {
+     "position": 9,
+     "title": "Cute Rabbit Battery Operated Bunny Toy",
+     "product_id": "7284559121359132333",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:7284559121359132333,headlineOfferDocid:7284559121359132333,imageDocid:6758661019050361935,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+     "price": "₹249",
+     "extracted_price": 249,
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVOICuwMCzovDZr2s5xLfWqOmpb1Qg4SbE24IN2qCt7LDHh_-mcw89FqOBgYhw7GpBmWiEuZY",
+     "serpapi_thumbnail": "https://serpapi.com/images/url/5mjKcXicu9mYUVJSUGylr5-al1xUWVCSmqJbkpRnrJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDg7z93QuLfd1rsovc4kqMio2rfBJCy_0zy1IMgxMNwlOcjUy8fQzKnQuMfdx8ciI181NLrewdCv0d0qPzCg3dy9wyg3PdC2NigQAfjUunQ"
+    },
+    {
+     "position": 10,
+     "title": "Rotating Hula Hoop Panda Musical Toy - Electric Dancing and Twisting Panda Toy with LED Lights and Music, Battery Operated Early Learning Toy for",
+     "product_id": "15348612864486131329",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:15348612864486131329,headlineOfferDocid:15348612864486131329,imageDocid:6104848610068385110,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSrKuA91018QTE4ifv8IvEAunHfQuoIdXdkeW9dXFBjF_2dbK5_LDocKJ_eh3Ww8-YXMgcsHqoEt518Hhyoi0iVVlU",
+     "price": "₹247",
+     "extracted_price": 247,
+     "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_ulDfPe2GvAs2zA66KexjIocQvUPvs8bORoxCyRQrhJWUMD-Z2FItq0aCz6H5Weogp1Xxq1Un",
+     "serpapi_thumbnail": "https://serpapi.com/images/url/PKZRYnicu9mUUVJSUGylr5-al1xUWVCSmqJbkpRnpJdeXJJYkpmsl5yfq1-ckV9QkJmXbl9oC5SzcvRLsXRPDo4vzXFJC0g1ci9zLDaqcjQz806tyPLMTw4sCw0oK7ZI8g_Kr3CuDAosyvAKD_V10Y0ycvMsKTRIdK4y8zANT81PLzCMqCg0DM0DAL66L2I"
+    }
+   ]
+  },
+  {
+   "title": "Under ₹400",
+   "shopping_results": [
+    {
+     "position": 1,
+     "title": "Battery Operated Stunt Car Toy with Music & Action Car Toy for Kids/Babies/Girls/Boys with Light (Orange)",
+     "product_id": "16528599806742027479",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:16528599806742027479,headlineOfferDocid:16528599806742027479,imageDocid:9611860586696876820,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹299",
+     "extracted_price": 299,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eBZqxWvp2PQ4lR5VnJt6MkBbip21Qh6-JctnsFxdmfr7hN4J0XDsoQZtS3eN9dR-2g.jpeg"
+    },
+    {
+     "position": 2,
+     "title": "One94Store Cute Snail Shape Silicone Electronic Toy for Kids, 7 Color Changing LED Squishy Soft Touch USB 1200mAh Rechargeable Toy, Ideal for Bedroom,",
+     "product_id": "8467768001100166136",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:8467768001100166136,headlineOfferDocid:8467768001100166136,imageDocid:2598300646920539549,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹284",
+     "extracted_price": 284,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eBZqxWvp2PQ4lR5VnJt6MkBbip21Qh6-JctnsFxdmfr74iCmezgVq5NmHas4_DB05g.jpeg"
+    },
+    {
+     "position": 3,
+     "title": "WEofferwhatYOUwant Electronic Dancing Robot Toy for Children",
+     "product_id": "8081793078442616635",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:8081793078442616635,productid:5161708520008086805,headlineOfferDocid:17100169475547124466,imageDocid:10572527207903050306,gpcid:1470803775996467878,mid:576462311614718624,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "sams toy world",
+     "source_icon": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eBZqxWvp2PQ4lR5VnJt6MkBbip21Qh6-JctnsFxdmfr7HJIck4xud3auf-rXyzPMfg.png",
+     "price": "₹299",
+     "extracted_price": 299,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eBZqxWvp2PQ4lR5VnJt6MkBbip21Qh6-JctnsFxdmfr74SUw6dx4dwx5iaxjFJCswg.jpeg"
+    },
+    {
+     "position": 4,
+     "title": "Cute Rabbit Musical Toy for Kids with LED Lights | Jumping & Rotating Dancing Bunny | Battery Operated Sound & Light Toy (3+ Years",
+     "product_id": "8434354428654083775",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=productid:8434354428654083775,headlineOfferDocid:8434354428654083775,imageDocid:18332421689140885297,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "amazon.in",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+     "price": "₹299",
+     "extracted_price": 299,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eBZqxWvp2PQ4lR5VnJt6MkBbip21Qh6-JctnsFxdmfr7B2ixnYTMCevF7FssHz2ujw.jpeg"
+    },
+    {
+     "position": 5,
+     "title": "Toyshine Battery Operated Cute Interactive Walking Rabbit With Light & Sound",
+     "product_id": "3551501169969769810",
+     "product_link": "https://www.google.com/search?ibp=oshop&q=Various Battery-operated Light Up Toys&prds=catalogid:3551501169969769810,productid:981890489439432580,headlineOfferDocid:9464616242563559576,imageDocid:2695960547007593187,gpcid:6304322934448096633,mid:576462567990311447,pvt:hg&hl=en&gl=in&udm=28",
+     "source": "Zepto",
+     "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEU7EVtAEl1FE189EVxIFGFDE15MFWJQFWRVF2Y6EVpbGGYzDlD_Mmn-TV7_WVn_d06pJGX-Q2LgLmi6UFb_aFRnG2aPKWJ-ImT-OmXjSF6ROFvGOWKrM2K_R1rUU1jSWlXkPmLyU1vIxBjFAAABN0lEQVQ4jYWT23aEIAxFvQaMxVangtd25v9_sgkgska6PA_z4N6GyCRZ27ZN02SJ0GOCGXP_pOTk_BMUFk6ch5xKm_n3La6PBIWo50yLEKs4wwnM6Xnlw4o3zvcjTkYdjJOPX1EMxEbJXA4fIdM0GT6ljHiBQ4T7XhenwUJVgR58CPcrciNOoA6oPwCBiCNlI_4c7be4LnwBEEJKiVITn40ACCW84DiaZ6-UFkIkBeZKqQ3lRfAnjCvxFSULkBCQ-TzKhOCO2JTqZoOuwrUHoYm_NPOUAMLMXfdaJB4nnAJfVAUj8W5DG2kL-IvyJXAn3v1QfimP6KpdiUIT_uZ82izF299Z6xhboY7mgQxY9n1_HFkgMVI8awDcPjcYje3N0Iaxzf8b-8Ti5PHi3K7e-_KWl-W9Wf8_yfcYeUR9F-UAAAAASUVORK5CYII.png",
+     "price": "₹219",
+     "extracted_price": 219,
+     "thumbnail": "https://serpapi.com/searches/6ac89d083d06ea54a2e93f0c/images/8pBPwBjH2BBp8_RkMI66eBZqxWvp2PQ4lR5VnJt6MkBbip21Qh6-JctnsFxdmfr7PqBz84Xc-hRkjGix8h6bgA.jpeg"
+    }
+   ]
+  }
+ ],
+ "filters": [
+  {
+   "input_type": "link_with_icon",
+   "options": [
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDAgDEgZOZWFyYnkYAljTqSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+nearby&shoprs=CAEYAyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDAgDEgZOZWFyYnkYAljTqSBgAg"
+    },
+    {
+     "text": "On sale",
+     "shoprs": "CAESBEoCCAEYBiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEwgGEgdPbiBzYWxlGAIiBEoCCAFY06kgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+sale&shoprs=CAESBEoCCAEYBiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEwgGEgdPbiBzYWxlGAIiBEoCCAFY06kgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Sort by",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Relevance",
+     "shoprs": "CAEYFyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyCggXKgQQARgBUARgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=various+battery+operated+light+up+toys&shoprs=CAEYFyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyCggXKgQQARgBUARgAg"
+    },
+    {
+     "text": "Price: low to high",
+     "shoprs": "CAEYFyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHggXEhJQcmljZTogbG93IHRvIGhpZ2gqBBABGAFQAWACiAEB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=various+battery+operated+light+up+toys&shoprs=CAEYFyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHggXEhJQcmljZTogbG93IHRvIGhpZ2gqBBABGAFQAWACiAEB"
+    },
+    {
+     "text": "Price: high to low",
+     "shoprs": "CAEYFyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHggXEhJQcmljZTogaGlnaCB0byBsb3cqBBABGAFQAmACiAEC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=various+battery+operated+light+up+toys&shoprs=CAEYFyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHggXEhJQcmljZTogaGlnaCB0byBsb3cqBBABGAFQAmACiAEC"
+    },
+    {
+     "text": "Rating: High to low",
+     "shoprs": "CAEYFyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHwgXEhNSYXRpbmc6IEhpZ2ggdG8gbG93KgQQARgBUANgAogBAw",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=various+battery+operated+light+up+toys&shoprs=CAEYFyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHwgXEhNSYXRpbmc6IEhpZ2ggdG8gbG93KgQQARgBUANgAogBAw"
+    }
+   ]
+  },
+  {
+   "type": "Price",
+   "input_type": "price_range",
+   "options": [
+    {
+     "text": "Under ₹400",
+     "shoprs": "CAESDRILEQAAAACE17dBGAEYBSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyJQgFEgxVbmRlciDigrk0MDAYAiINEgsRAAAAAITXt0EYASoCGAFY06kgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+under+400&shoprs=CAESDRILEQAAAACE17dBGAEYBSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyJQgFEgxVbmRlciDigrk0MDAYAiINEgsRAAAAAITXt0EYASoCGAFY06kgYAI"
+    },
+    {
+     "text": "₹400 - ₹700",
+     "shoprs": "CAESFhIUCQAAAACE17dBEQAAAICT3MRBGAEYBSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyMQgFEg_igrk0MDAgLSDigrk3MDAYAiIWEhQJAAAAAITXt0ERAAAAgJPcxEEYASoCGAFY06kgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+between+400+and+700&shoprs=CAESFhIUCQAAAACE17dBEQAAAICT3MRBGAEYBSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyMQgFEg_igrk0MDAgLSDigrk3MDAYAiIWEhQJAAAAAITXt0ERAAAAgJPcxEEYASoCGAFY06kgYAI"
+    },
+    {
+     "text": "₹700 - ₹1,500",
+     "shoprs": "CAESFhIUCQAAAICT3MRBEQAAAMALWtZBGAEYBSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyMwgFEhHigrk3MDAgLSDigrkxLDUwMBgCIhYSFAkAAACAk9zEQREAAADAC1rWQRgBKgIYAVjTqSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+between+700+and+1500&shoprs=CAESFhIUCQAAAICT3MRBEQAAAMALWtZBGAEYBSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyMwgFEhHigrk3MDAgLSDigrkxLDUwMBgCIhYSFAkAAACAk9zEQREAAADAC1rWQRgBKgIYAVjTqSBgAg"
+    },
+    {
+     "text": "Over ₹1,500",
+     "shoprs": "CAESDRILCQAAAMALWtZBGAEYBSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyJggFEg1PdmVyIOKCuTEsNTAwGAIiDRILCQAAAMALWtZBGAEqAhgBWNOpIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+over+1500&shoprs=CAESDRILCQAAAMALWtZBGAEYBSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyJggFEg1PdmVyIOKCuTEsNTAwGAIiDRILCQAAAMALWtZBGAEqAhgBWNOpIGAC"
+    }
+   ]
+  },
+  {
+   "type": "Category",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Remote Control Cars & Trucks",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyIAgJEhxSZW1vdGUgQ29udHJvbCBDYXJzICYgVHJ1Y2tzYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=remote+control+cars+%26+trucks+various+battery+operated+light+up+toys&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyIAgJEhxSZW1vdGUgQ29udHJvbCBDYXJzICYgVHJ1Y2tzYAI"
+    },
+    {
+     "text": "Toy Cars & Trucks",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFQgJEhFUb3kgQ2FycyAmIFRydWNrc2AC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=toy+cars+%26+trucks+various+battery+operated+light+up+toys&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFQgJEhFUb3kgQ2FycyAmIFRydWNrc2AC"
+    },
+    {
+     "text": "Powered Ride-on Toys",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGAgJEhRQb3dlcmVkIFJpZGUtb24gVG95c2AC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=powered+ride-on+toys+various+battery+operated+light+up&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGAgJEhRQb3dlcmVkIFJpZGUtb24gVG95c2AC"
+    },
+    {
+     "text": "Interactive & Robotic Toys",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHggJEhpJbnRlcmFjdGl2ZSAmIFJvYm90aWMgVG95c2AC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=interactive+%26+robotic+toys+various+battery+operated+light+up&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHggJEhpJbnRlcmFjdGl2ZSAmIFJvYm90aWMgVG95c2AC"
+    }
+   ]
+  },
+  {
+   "type": "Type",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Train Sets",
+     "shoprs": "CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGggBEgpUcmFpbiBTZXRzOgoI37g-EOG4PjACWNOpIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=train+sets+various+battery+operated+light+up+toys&shoprs=CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGggBEgpUcmFpbiBTZXRzOgoI37g-EOG4PjACWNOpIGAC"
+    },
+    {
+     "text": "Trains",
+     "shoprs": "CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFggBEgZUcmFpbnM6CgjfuD4Q4Lg-MAJY06kgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=trains+various+battery+operated+light+up+toys&shoprs=CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFggBEgZUcmFpbnM6CgjfuD4Q4Lg-MAJY06kgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Shops",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDAgCEghGbGlwa2FydFjTqSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+various+battery+operated+light+up+toys&shoprs=CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDAgCEghGbGlwa2FydFjTqSBgAg"
+    },
+    {
+     "text": "Meesho",
+     "shoprs": "CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyCggCEgZNZWVzaG9Y06kgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=meesho+various+battery+operated+light+up+toys&shoprs=CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyCggCEgZNZWVzaG9Y06kgYAI"
+    },
+    {
+     "text": "FirstCry India",
+     "shoprs": "CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEggCEg5GaXJzdENyeSBJbmRpYVjTqSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=firstcry+india+various+battery+operated+light+up+toys&shoprs=CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEggCEg5GaXJzdENyeSBJbmRpYVjTqSBgAg"
+    },
+    {
+     "text": "Amazon.in",
+     "shoprs": "CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDQgCEglBbWF6b24uaW5Y06kgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=amazon.in+various+battery+operated+light+up+toys&shoprs=CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDQgCEglBbWF6b24uaW5Y06kgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Free delivery",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Free delivery",
+     "shoprs": "CAESBFICEAEYGSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFwgZEg1GcmVlIGRlbGl2ZXJ5IgRSAhABYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+free+delivery&shoprs=CAESBFICEAEYGSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFwgZEg1GcmVlIGRlbGl2ZXJ5IgRSAhABYAI"
+    }
+   ]
+  },
+  {
+   "type": "Brand",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Keerthi Gifts & Toys",
+     "shoprs": "CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyJggBEhRLZWVydGhpIEdpZnRzICYgVG95czoMCIPzPBCaof3JBTABWNOpIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=keerthi+gifts+%26+toys+various+battery+operated+light+up&shoprs=CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyJggBEhRLZWVydGhpIEdpZnRzICYgVG95czoMCIPzPBCaof3JBTABWNOpIGAC"
+    },
+    {
+     "text": "Wembley",
+     "shoprs": "CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGAgBEgdXZW1ibGV5OgsIg_M8EKPI5AEwAVjTqSBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=wembley+various+battery+operated+light+up+toys&shoprs=CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGAgBEgdXZW1ibGV5OgsIg_M8EKPI5AEwAVjTqSBgAg"
+    },
+    {
+     "text": "euphoria",
+     "shoprs": "CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGggBEghldXBob3JpYToMCIPzPBDy0vrdAzABWNOpIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=euphoria+various+battery+operated+light+up+toys&shoprs=CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGggBEghldXBob3JpYToMCIPzPBDy0vrdAzABWNOpIGAC"
+    },
+    {
+     "text": "Tiny Tales",
+     "shoprs": "CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHAgBEgpUaW55IFRhbGVzOgwIg_M8EKaDj8kFMAFY06kgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=tiny+tales+various+battery+operated+light+up+toys&shoprs=CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHAgBEgpUaW55IFRhbGVzOgwIg_M8EKaDj8kFMAFY06kgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Carousel Filters",
+   "options": [
+    {
+     "text": "Under ₹400",
+     "shoprs": "CAESDRILEQAAAACE17dBGAEYBSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyJQgFEgxVbmRlciDigrk0MDAYAiINEgsRAAAAAITXt0EYASoCGAFY06kgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+under+400&shoprs=CAESDRILEQAAAACE17dBGAEYBSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyJQgFEgxVbmRlciDigrk0MDAYAiINEgsRAAAAAITXt0EYASoCGAFY06kgYAE",
+     "input_type": "price_range"
+    },
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDAgCEghGbGlwa2FydFjTqSBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+various+battery+operated+light+up+toys&shoprs=CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDAgCEghGbGlwa2FydFjTqSBgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDAgDEgZOZWFyYnkYAljTqSBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+nearby&shoprs=CAEYAyomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDAgDEgZOZWFyYnkYAljTqSBgAQ",
+     "input_type": "link_with_icon"
+    },
+    {
+     "text": "On sale",
+     "shoprs": "CAESBEoCCAEYBiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEwgGEgdPbiBzYWxlGAIiBEoCCAFY06kgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+sale&shoprs=CAESBEoCCAEYBiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEwgGEgdPbiBzYWxlGAIiBEoCCAFY06kgYAE",
+     "input_type": "link_with_icon"
+    },
+    {
+     "text": "Meesho",
+     "shoprs": "CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyCggCEgZNZWVzaG9Y06kgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=meesho+various+battery+operated+light+up+toys&shoprs=CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyCggCEgZNZWVzaG9Y06kgYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Remote Control Cars & Trucks",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyIAgJEhxSZW1vdGUgQ29udHJvbCBDYXJzICYgVHJ1Y2tzYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=remote+control+cars+%26+trucks+various+battery+operated+light+up+toys&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyIAgJEhxSZW1vdGUgQ29udHJvbCBDYXJzICYgVHJ1Y2tzYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Toy Cars & Trucks",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFQgJEhFUb3kgQ2FycyAmIFRydWNrc2AB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=toy+cars+%26+trucks+various+battery+operated+light+up+toys&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFQgJEhFUb3kgQ2FycyAmIFRydWNrc2AB",
+     "input_type": "link"
+    },
+    {
+     "text": "Train Sets",
+     "shoprs": "CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGggBEgpUcmFpbiBTZXRzOgoI37g-EOG4PjACWNOpIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=train+sets+various+battery+operated+light+up+toys&shoprs=CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGggBEgpUcmFpbiBTZXRzOgoI37g-EOG4PjACWNOpIGAB",
+     "input_type": "checkbox"
+    },
+    {
+     "text": "FirstCry India",
+     "shoprs": "CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEggCEg5GaXJzdENyeSBJbmRpYVjTqSBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=firstcry+india+various+battery+operated+light+up+toys&shoprs=CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEggCEg5GaXJzdENyeSBJbmRpYVjTqSBgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "LED",
+     "shoprs": "CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFQgBEgNMRUQ6DAiKo7ICEI6jsgIwAljTqSBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=led+various+battery+operated+light+up+toys&shoprs=CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFQgBEgNMRUQ6DAiKo7ICEI6jsgIwAljTqSBgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Powered Ride-on Toys",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGAgJEhRQb3dlcmVkIFJpZGUtb24gVG95c2AB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=powered+ride-on+toys+various+battery+operated+light+up&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGAgJEhRQb3dlcmVkIFJpZGUtb24gVG95c2AB",
+     "input_type": "link"
+    },
+    {
+     "text": "Interactive & Robotic Toys",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHggJEhpJbnRlcmFjdGl2ZSAmIFJvYm90aWMgVG95c2AB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=interactive+%26+robotic+toys+various+battery+operated+light+up&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyHggJEhpJbnRlcmFjdGl2ZSAmIFJvYm90aWMgVG95c2AB",
+     "input_type": "link"
+    },
+    {
+     "text": "Gun",
+     "shoprs": "CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEwgBEgNHdW46CgizsDwQ7rA8MAJY06kgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=gun+various+battery+operated+light+up+toys&shoprs=CAEYASomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEwgBEgNHdW46CgizsDwQ7rA8MAJY06kgYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Bath Toys",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDQgJEglCYXRoIFRveXNgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=bath+toys+various+battery+operated+light+up&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDQgJEglCYXRoIFRveXNgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Rope & String Lights",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGAgJEhRSb3BlICYgU3RyaW5nIExpZ2h0c2AB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=rope+%26+string+lights+various+battery+operated+light+up+toys&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyGAgJEhRSb3BlICYgU3RyaW5nIExpZ2h0c2AB",
+     "input_type": "link"
+    },
+    {
+     "text": "Stuffed Animals",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEwgJEg9TdHVmZmVkIEFuaW1hbHNgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=stuffed+animals+various+battery+operated+light+up+toys&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyEwgJEg9TdHVmZmVkIEFuaW1hbHNgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Remote Control Toys",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFwgJEhNSZW1vdGUgQ29udHJvbCBUb3lzYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=remote+control+toys+various+battery+operated+light+up&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFwgJEhNSZW1vdGUgQ29udHJvbCBUb3lzYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Amazon.in",
+     "shoprs": "CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDQgCEglBbWF6b24uaW5Y06kgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=amazon.in+various+battery+operated+light+up+toys&shoprs=CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyDQgCEglBbWF6b24uaW5Y06kgYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Shopsy By Flipkart",
+     "shoprs": "CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFggCEhJTaG9wc3kgQnkgRmxpcGthcnRY06kgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=shopsy+by+flipkart+various+battery+operated+light+up+toys&shoprs=CAEYAiomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFggCEhJTaG9wc3kgQnkgRmxpcGthcnRY06kgYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Drones",
+     "shoprs": "CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyCggJEgZEcm9uZXNgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=drones+various+battery+operated+light+up+toys&shoprs=CAEYCSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyCggJEgZEcm9uZXNgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Free delivery",
+     "shoprs": "CAESBFICEAEYGSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFwgZEg1GcmVlIGRlbGl2ZXJ5IgRSAhABYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Various+Battery-operated+Light+Up+Toys+free+delivery&shoprs=CAESBFICEAEYGSomdmFyaW91cyBiYXR0ZXJ5IG9wZXJhdGVkIGxpZ2h0IHVwIHRveXMyFwgZEg1GcmVlIGRlbGl2ZXJ5IgRSAhABYAE",
+     "input_type": "link"
+    }
+   ]
+  }
+ ]
+}

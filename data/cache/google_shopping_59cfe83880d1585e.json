@@ -1,0 +1,325 @@
+{
+ "search_metadata": {
+  "id": "6ac89ce6b9fc5fbbd4b529c4",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Nc3ygpgFJgjaYu4yqsAwFpmyvL-o6B1R3iLbbQo74JE/6ac89ce6b9fc5fbbd4b529c4.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Nc3ygpgFJgjaYu4yqsAwFpmyvL-o6B1R3iLbbQo74JE/6ac89ce6b9fc5fbbd4b529c4.md",
+  "created_at": "2026-10-09 07:51:02 UTC",
+  "processed_at": "2026-10-09 07:51:02 UTC",
+  "google_shopping_url": "https://www.google.com/search?udm=28&q=Organic+Zing+Birch+Oil+Bottles&hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/Nc3ygpgFJgjaYu4yqsAwFpmyvL-o6B1R3iLbbQo74JE/6ac89ce6b9fc5fbbd4b529c4.html",
+  "total_time_taken": 7.82
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Organic Zing Birch Oil Bottles",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Organic Zing Birch Oil Bottles",
+  "shopping_results_state": "Results for exact spelling"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Organic Zing Tea Tree (Melaleuca Alternifolia) Oil | Pure & Natural Essential Oil for Aroma, Diffusers, Skincare & Haircare - 30ml/1.01fl oz",
+   "product_id": "1057322996566408395",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:1057322996566408395,headlineOfferDocid:1057322996566408395,imageDocid:5189502653832214709,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹2,236.31",
+   "extracted_price": 2236.31,
+   "alternative_price": {
+    "price": "AED 85",
+    "extracted_price": 85,
+    "currency": "AED"
+   },
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSw8JmuFtC1bj6FGuNqmpGnrAjP7BvGuBtdwgqjZL-xtfswURTZF602bDrPRNUMCNSeTnWGvejpkVNyeDpGsXxx9adCfCAUdXRRnd2wZxcrGcrJ4kR-MItL",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/onoUQXicDcndCoIwGADQJ1JTwkqIMMWR1JCVFd7pNn9xze3zp5fqfXqbOrfn-6kBpPYsiwuq3hI4M6AQtllpyKGhJn31lq5fUjaiOgz7_3k-ZjtEr_M27scIArto3QiNeOglEspvk81xQuMR2FwNbXY2Fij1nJJbFrkrpwhVQnB6CfCV38QDTbyV3R2_eSiRfi7LLmdBGfgpexIimDNnC1WIqnjdEeNygvMPiVI_ig",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 2,
+   "title": "Organic Zing Pine (Pinus) Oil | Pure & Natural Essential Oil for Aroma, Skincare & Massage - 118ml/3.99fl oz",
+   "product_id": "6007860042891452827",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:6007860042891452827,headlineOfferDocid:6007860042891452827,imageDocid:6372488689955168401,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹601",
+   "extracted_price": 601,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRGqoQlfQWT0mtWHweZXnq1pTUxgcaowkaH8JBFkN9hPknmfY38trKik7lTwy8YQ6TVsof7mwtfRHbdt7Ma5YqwuLMUBkLe3c7NREnYKEd5thawJ7dY_pvC",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/RRn90nicDcndCoIwGADQJyoTsakQUVFJqaRotm5ibf4x3aZ-tXqp3qe3qXN7vp8aQI2eYRSCDm8FBZvAXZjTagQCDZ1S2RljLZVqRLXsF__zVhFz9zTZ9zJuyzhPZx3kvi6uF9GbKs1eFSVSc-I7h_WOR2594qIrseXAcGw4alP9dnA8T8-jLFGnoUz8OwMUEhv3-hGE2ZoHhUVRlGwFPm6ZDTXRB8TwTT03P7AiP9w"
+  },
+  {
+   "position": 3,
+   "title": "Organic Zing Tea Tree Oil 118 ml (3.99 fl oz) – Medicinal Aromatic Oil for Skincare, Haircare, DIY Formulations, Soaps & Cream Blends",
+   "product_id": "12319515785502211553",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:12319515785502211553,headlineOfferDocid:12319515785502211553,imageDocid:8340912694508629280,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹926",
+   "extracted_price": 926,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTnLkdNYjOHrtwjvTixUe_PAUcZcE1OkJSfAh0ztkGPWTRyG27f-o3mz7hcjUpNqnNXxLYhmYoc1u1dGjYEaSbRt5aE5HZLBBsKoMwTlJs6TjJxY5buxm0UjQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/IKpn83icDclhCoIwGADQE5VaWBREKMjCzMomtf6Ebuqcua32ldapuk63qff3fT8cQJu5ZRWS3l8aCjaAXNrDykAGNR1S1VqGK61rWS1vi__NvZjNEMUyalhMxHZ1h048cd2nxWXnpfRMA2fbhIfS4_YbGrQ74uSFRtNyoMbte8qpSHV8k_GpjwhviaLOw2FIkCA75Am4WeCuzpHvm7XadPgamgkWYU_c_NG3dir2PxnqQDE"
+  },
+  {
+   "position": 4,
+   "title": "Birch Essential Oil - 4 oz - GC/MS Tested - Supplied in 4 oz. Amber Glass Bottle with Child Resistant Cap and Safety Sealed Cap",
+   "product_id": "16485121425609642164",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:16485121425609642164,headlineOfferDocid:16485121425609642164,imageDocid:16845072885497469784,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etsy",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEXxZB769vP30b3549n0m273v6P1rYjziFPydjn57eX2tpb0pHv3yLH55NjybSvzf0f52su8k95XAAAAgklEQVQ4jd2RSQ7EIAwEaRazhuT_rx2ENEomJvZ5UuKARAmatjEvIrobhRnVAc5PagAav8QD4bsnWFnoWRFMEIV9rCoJeeenV8EjysKG9CRsdpDxLBxEVCygZGhahqgJxmnCfKfLQlz85HcWC6HinHHiZfkyCkKjSeBldXtjEfKf-QDJGgNcEP3HywAAAABJRU5ErkJggg.png",
+   "price": "₹4,210",
+   "extracted_price": 4210,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRC-mhtpsz_1JAr_CkXwbmhBOuE9U0oyCaKWfeqas2KAMR7AzCrPj5M3W4QWyHQjfp8c-xncOadSU-zMMay1uR_SUFtlKciBtXw2m1uCWTkRDbYIJGGz_S6og",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/uKSNVnicDcvbEkJAAADQL3LtykzTsJViJGToyax1FxZrZL-q3-lv8nzm_L45IXiQOS5pUD9jksQMiRqezQYCSYFY1NbckLcYF0127A6Lyco9ljTkAKbOl0pDQVf6EFTBFNW5ao1nyePbGUDDT5MODqKhmM5OoaB_lBtz5a9tf77aZYr3iPk0yIKx6zHUNOEsjE7oehfyNlChkmASa2EE_rNyTtHrpmsaDd1tm_0B2LM_Xg"
+  },
+  {
+   "position": 5,
+   "title": "Artizen 30ml Oils Birch Essential Oil",
+   "product_id": "1622738732141865072",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=catalogid:1622738732141865072,productid:17321438916249315844,headlineOfferDocid:4732080986910938380,imageDocid:10092152688377658128,gpcid:9622099084381466209,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "iBhejo.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAAArlBMVEX____-_v4AAAD9uJX_YgAAMXj5-fn8__-W2aL-n2YtVIoAqwDR0dGKiorn5-doaGj8omf9m17h5exFRUW6uroVFRUqKirw8PBfX18hISEvLy8PDw_b4uP-7uH9o27-ml3_sn2rq6v9bgD9WgD8t4_-1cJVVVUdHR2enp7U2-Ph4eGfscgAHGwAIHWxu9IdTojGx8h2dXWh4K2O2JuE05He9OIArxz0__ai3qyAgIDB0-jhAAABIklEQVQokX2T7VaDMAyG06jFaSkyGIzpnCgymB8D3dTd_42ZFugG4_ThB_TkbdK8DQBWmDUqpF3hIgqrIEB0rYJwFkmLgCIxt53Bfn4KM7uCDd5jEh5L3mU7i_J5Ei2S-1gvHHqGOA-CbPKaxdJ_vFNMCH_iK1arJxCIaVvs-fKMlwxCxLhN95pdDMmWMMfc2me8xsK0Kqc9yrKUqsLGCN7er_p8fIKHATcCvt3e9JlSBddYRgqNo2n2VGpYWq-dsWupcUEVRNpq4Ou7YdewjxOsyfDIjNzu9pSfX7KxAvAKc53761P-VJMSXO9Ykg2-Noh5XvPj1DAHioSSQjoLtUYcDlXTYQdf6NtdYzDqPCmrWlkrPNu_0iUcUzAV1MPHBoJ_Ws0VbdMnURIAAAAASUVORK5CYII.png",
+   "multiple_sources": true,
+   "price": "₹3,243.60",
+   "extracted_price": 3243.6,
+   "old_price": "₹3,604",
+   "extracted_old_price": 3604,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSMtBc3HAa4Wl2gzQhb7kcDASKqMIQaux3PZtpaSWSE8fefqhfchLbph4rws3tb5Rb092XSHFWNNjKwt8eaccrtU-E2wjrFEQpKQZVmBCoE5Rp0YKF-csNZ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/J_XiIHicDclJDoIwFADQEzGEIaKJMaggBiVCoyi79jMUVCj0G9RDeR9vo2_7vh-OKORM04oWhpfAIleQtbpaSaRYgwrdXZO8E6Juq0U__9_MjfLpBsgel2AGLrXSm1G9Y84mV1i7JOz325g-nuYhQ0FJSjynLMqel8B3THBrGKWJzE6YPjXOJPDTKGrCEZ2CAgx4VDxjbAbfi0UYZ6f7ctV5diL0S-grIKPsBz8EPiM",
+   "tag": "10% OFF",
+   "extensions": [
+    "10% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 6,
+   "title": "Esslux Birch Essential Oil for Diffuser & DIY | 100% Pure Birch Oil for Massage, Aromatherapy, Candles & Soap Making | Crisp & Refreshing Scent, 30 ML",
+   "product_id": "8251028471273080210",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:8251028471273080210,headlineOfferDocid:8251028471273080210,imageDocid:14882715605858760602,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹300",
+   "extracted_price": 300,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRMuPLBihcujV2kTK9mkjb1ZDkXb4sSm61-okKR_euqxX66lXVIgkQ7rBi_NHzQ5qISwZhDDZnv4Zdpa7_cs9V2EY63ZksxWMtgtAp5PQZhWbPgZxVGl9uZ-g",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/RrD7NnicDcnbCoIwAADQLzLJajEhIjEqTPESanuRNmWzeZluK-ur-p3-ps7r-X6YUkLapll1ZHwJVZWGwp01o1LdVE1mpG9NyXoh6o5uh83_7F1QwgOJfR2enZoRfU8tfvFgy-94jlye46VMWjA3eu7FRaWHKQegydMT5dF6dOoiOL6j1XBKnoi5LuoeS1SK27ogEqbW_goWiMsp8xVVO7EKI8QyHFI0pYcGamTQH9d0P40"
+  },
+  {
+   "position": 7,
+   "title": "Organic Zing चाय के पेड़ का तेल 118 मिलीलीटर (3.99 fl oz) - स्किनकेयर, हेयरकेयर, DIY फॉर्मूलेशन, साबुन और क्रीम मिश्रण के लिए औषधीय सुगंधित तेल",
+   "product_id": "5884859818687477928",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:5884859818687477928,headlineOfferDocid:5884859818687477928,imageDocid:8340912694508629280,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹926",
+   "extracted_price": 926,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTnLkdNYjOHrtwjvTixUe_PAUcZcE1OkJSfAh0ztkGPWTRyG27f-o3mz7hcjUpNqnNXxLYhmYoc1u1dGjYEaSbRt5aE5HZLBBsKoMwTlJs6TjJxY5buxm0UjQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/IKpn83icDclhCoIwGADQE5VaWBREKMjCzMomtf6Ebuqcua32ldapuk63qff3fT8cQJu5ZRWS3l8aCjaAXNrDykAGNR1S1VqGK61rWS1vi__NvZjNEMUyalhMxHZ1h048cd2nxWXnpfRMA2fbhIfS4_YbGrQ74uSFRtNyoMbte8qpSHV8k_GpjwhviaLOw2FIkCA75Am4WeCuzpHvm7XadPgamgkWYU_c_NG3dir2PxnqQDE"
+  },
+  {
+   "position": 8,
+   "title": "Allin Exporters Birch Oil 100% Pure Therapeutic Grade Essential Oil",
+   "product_id": "13160567145657939947",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=catalogid:13160567145657939947,productid:9845499288116804951,headlineOfferDocid:10525324759420947687,imageDocid:18041123118632596556,gpcid:7383110915540604062,mid:576462549175846910,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹5,340",
+   "extracted_price": 5340,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRF4kvwdmnRBon5jtrXwfm8SFFwTwiY9wsyKCT4m4vunmuVKJ8ScKVMaH5_J-2WNPDr6gJHMFHVvjiJXA0Qg-2J7KdjmyGGgGUKt_04sIofGXZvS8O0zx8",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/gBeXDXicDcltDoIgAADQE_mxpqVtrVlNDJaVmll_nKGSNtAEJbtTB-o29f6-7-cuRMvnmlYw3I2tKHJF3JiuEi4yUWEVN1Tj96ZtK0aWz8X_5o6f2wAHrvEYZE5ZsGqYWYsukSW1QteVkawutuQjWkcGNYae0T5G0AoxineZZ6ZQmZz9w6abEujtXC8e6gomjn4kygTOUF7TEQACTkikusG3TQmS6xBae_39sn4pSz25"
+  },
+  {
+   "position": 9,
+   "title": "Organic Zing Cypress Oil 30 ml (1.01 fl oz) – Fresh Woody Aromatic Oil for Candles, Soap Making & DIY Blends",
+   "product_id": "1341564287671741679",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:1341564287671741679,headlineOfferDocid:1341564287671741679,imageDocid:7145597340752056753,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹475",
+   "extracted_price": 475,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtibuWTwHqIFRb2cQBKujkTTBl6hKsW2xE87EIVKmwiZqs1Q2ca80Ont9cmI7HjhcvuQvH3TYz_zhSypp92lVNF6KS6WUwu6q1ZPF6a8g0jWqwVoSXuN9bKg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/MrweqHicDcnbCoIwAADQL8pbMC8QkaApA8s0LV9CpzjNy9Y2Tb-q3-lv6rye7wdzTpgly9WAXgvhVbnhxaBKNeM5b5CExl5meCSkGeo93f3POgSleUQhbwqRxrNHffdSaCi0oWifcWx3AEOWam_H0B0_gf3cZJSpoYZyQzkN3ES9r3stRpMIJ28b39fHiqOFEFPrksAFMALpdRaAqtnZBblRK21K52SMbiIwC1j_ANItPzo"
+  },
+  {
+   "position": 10,
+   "title": "Organic Zing वेनिला तेल 30 मिलीलीटर (1.01 fl oz) - मोमबत्तियों, साबुन बनाने और DIY मिश्रणों के लिए गर्म मीठा सुगंधित तेल",
+   "product_id": "14594809480665672456",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:14594809480665672456,headlineOfferDocid:14594809480665672456,imageDocid:18364299876553680411,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹604",
+   "extracted_price": 604,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR9Gp2BXNgQluWUHp-n5u8kDghOGJksfIh3Shhas9EMNBi7CcepR3M6TK9Ze-RoBxax-JOKG7AJCfP3x9T6TAQu8Axb7v7Jekl30UXN1mxRiOKYbRecXJnSZA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/vwCuJHicDclRDoIgAADQE6kVK8OtNbRm4dIkXeafEoqzkAIb3arrdJt6v-_74VpL5TkOE_T5lppdLV0LYLdKV7qjNh3ujuKDlJ1o14_V_zwUX2FICQzlzC_iNr2N53wnLTEfl_2m5UmIe9XsOThxXim4PcR-5waUSQIOiyyCJbPI4JvKWDiJQhfhoDkCA7NFhtJxiUztvlzM-huY5EU8vRvSJdGlJowWWJxK9ANUVj1H"
+  },
+  {
+   "position": 11,
+   "title": "Organic Zing ग्रीन कॉफी बीन तेल 30 मिलीलीटर (1.01 fl oz) - स्किनकेयर, सीरम और DIY फॉर्मूलेशन के लिए लाइटवेट बॉटनिकल ऑयल",
+   "product_id": "11806974816842436769",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:11806974816842436769,headlineOfferDocid:11806974816842436769,imageDocid:12079596762335670676,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹514",
+   "extracted_price": 514,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTdKcafBHsNM7gDKbfKwHCbCeJ9VAfUrW3lXK3P7LAJEPjZSWOUeNpqYmY61489_8gqOHplOAba1uTTkBXrnhCSRY_g4apTbE9mJlmooYkBzEozeHfYD5bZ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/yQMazXicDcnbCoIwAADQL0oTKy8Q4Y1ES6MsWy-yzTlN3aYuoj6q_-lv6rye76eWUky2qhKGx5eQpJxJxOYKnSSUDVYw79Wp5kI0jG6G9f9sJymtLc7KGMPKDadkb1A_RlX8DD3kkci6ONV5zPXuGusHY-dEweF-O-XpmSRiAD1YaQvTKkw6pKHoUgdB7ZFlrXsdWe2djqCgCygyFFh91PWcg9Z9B_xNwgr4S3T7AfHdPdk"
+  },
+  {
+   "position": 12,
+   "title": "Organic Zing एलो वेरा ऑयल 118 ml (3.99 fl oz) - चेहरे, बालों और DIY स्किनकेयर फॉर्मूलेशन के लिए लाइटवेट कोल्ड प्रेस्ड कैरियर ऑयल",
+   "product_id": "2525055575629870760",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:2525055575629870760,headlineOfferDocid:2525055575629870760,imageDocid:3137756087820611109,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹711",
+   "extracted_price": 711,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmuDL4q2mPh2OlCsbfSCSxRHt01dpKoHUWreQ0KSw1jIju7i3XickslxmFAz3OHirfiTSBVLHP00QAebj2hRH-RNQ_UgtNyg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/bot8hXicDcnbCoIwAADQL1KnBpEQYUYtFG_r9hY55zZzOt0k7Uv6tf6mzuv5fpjWUnmWRVo8zFKT0tBFa5tU6Yfm2MSdsBTrpOQt3fTr_3l-XK4OOBPjLlr0jkiZkzSBKioUoCmHGtilDDt4vg4kAyF62fWxHpfcvXH8VM0k9v7bTSAfKn5C20sEUwAynxS1w3Jo5HF2P1Mdz_QHIP82qw"
+  },
+  {
+   "position": 13,
+   "title": "Organic Zing सागर बकथॉर्न तेल 118 मिलीलीटर (3.99 fl oz) - स्किनकेयर, हेयरकेयर, DIY फॉर्मूलेशन, साबुन और क्रीम मिश्रण के लिए वाइब्रेंट ऑरेंज बॉटनिकल",
+   "product_id": "12430633477754524288",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:12430633477754524288,headlineOfferDocid:12430633477754524288,imageDocid:8285690450131061952,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹1,353",
+   "extracted_price": 1353,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRDQ_Qb5hTmWqlFrTq9Na3q6MbFlel2uBJD_YvlYrgL28KSrNqvaLrVK7Znhe7q8qLB8kscKtiYCvCME5P5M2fnPJ6tB3PbtFPUm4BFA7cXAdIqohQWQsHAnA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/54f8ZHicDclJDoIwFADQEwkGRNDEmCLiwBBwQtwYWiolQqHtl8RbeR1vo2_7vh8G0Ku5rlNO5LsHWo4A87FWKSigJhrpWl2xru9rXi3F4n9zFJezDTl46T3FFju1mWh8eRKzuDDFNMJ-Qxvj5e69ez40uaxCwwmOMhZDEcpLYN84o7ZwROg6T0UCqPPVsIrWVmJFxoMn-ym4ZoLBT87txPWRTa6o3ImOpVmqtoijH7JTPmA"
+  },
+  {
+   "position": 14,
+   "title": "Organic Zing राइस ब्रान (Oryza Sativa L.) ऑयल | मालिश, स्किनकेयर और हेयरकेयर के लिए शुद्ध और प्राकृतिक कैरियर ऑयल - 118ml/3.99fl oz",
+   "product_id": "457168477849898716",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:457168477849898716,headlineOfferDocid:457168477849898716,imageDocid:6939836172229310912,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹601",
+   "extracted_price": 601,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS0EecwuZvadRA-hwZvPllTf_STqgNtGRpqOajjdLHL1frGAFoy4CALRXGb6hvWOEcD2XFf_PG2TH7gVUoxp4HnZ2lXmzjFi_-O6iPzvUWGYT8A7XTaYuu1",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/7GPtcHicDclZDkNAAADQE1kjtJKmmbSMD0EYtfwIY49lMCiH6n16m_b9vu-nppQsKscVA54PQoucodnAs9VCU9pgFo89t9QjIc1Q3afb_1Rg5VeIPV4r8L7GW5q7gKn3eHO6DpWJh6bKotAlk522bW4aplDOEOjjIT2A6YYwk-stsDX8FEO9TBwoIkOpXv74JpIxxGIX9merNwljy41zbn4AI3QBSojSaF2FH24UPoM"
+  },
+  {
+   "position": 15,
+   "title": "Organic Zing सरू तेल 118 मिलीलीटर (3.99 fl oz) – मोमबत्तियों, साबुन बनाने और DIY मिश्रणों के लिए ताजा वुडी सुगंधित तेल",
+   "product_id": "1696410141883588286",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Organic Zing Birch Oil Bottles&prds=productid:1696410141883588286,headlineOfferDocid:1696410141883588286,imageDocid:11291924666807696096,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹502",
+   "extracted_price": 502,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQzO3nsUKtCRRThUK9_kOXsuA-Lez8eT5JJQsNvSdR4yfI1FMqew-EmDlTpdrJTfBWvQiaug2aNpxld52fiNdbvcgMjXIm_4w",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/-dKcF3icDcnbDkMwAADQL8JmJCNZFrsGU2Fk3oS2qptLaTG-ZL-2v9nO6_l-SiEYNxUFN7CfmcBIEnmzkgkXmaBQhm2t8LJljDZk3-3-Z1oAGVcYLP6m4bErjmEYlbFrpC8_4YMl3fCyxZHuOAEH4x2F2lzY64vX4Uk616cqYqh3ouLwGAOaDUTNAHtXSFcLClA-QuI9E7tOtekHMvQ3mw"
+  }
+ ],
+ "filters": [
+  {
+   "input_type": "link_with_icon",
+   "options": [
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMgwIAxIGTmVhcmJ5GAJYns8gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Organic+Zing+Birch+Oil+Bottles+nearby&shoprs=CAEYAyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMgwIAxIGTmVhcmJ5GAJYns8gYAI"
+    }
+   ]
+  },
+  {
+   "type": "Sort by",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Relevance",
+     "shoprs": "CAEYFyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMgoIFyoEEAEYAVAEYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=organic+zing+birch+oil+bottles&shoprs=CAEYFyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMgoIFyoEEAEYAVAEYAI"
+    },
+    {
+     "text": "Price: low to high",
+     "shoprs": "CAEYFyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMh4IFxISUHJpY2U6IGxvdyB0byBoaWdoKgQQARgBUAFgAogBAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=organic+zing+birch+oil+bottles&shoprs=CAEYFyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMh4IFxISUHJpY2U6IGxvdyB0byBoaWdoKgQQARgBUAFgAogBAQ"
+    },
+    {
+     "text": "Price: high to low",
+     "shoprs": "CAEYFyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMh4IFxISUHJpY2U6IGhpZ2ggdG8gbG93KgQQARgBUAJgAogBAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=organic+zing+birch+oil+bottles&shoprs=CAEYFyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMh4IFxISUHJpY2U6IGhpZ2ggdG8gbG93KgQQARgBUAJgAogBAg"
+    },
+    {
+     "text": "Rating: High to low",
+     "shoprs": "CAEYFyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMh8IFxITUmF0aW5nOiBIaWdoIHRvIGxvdyoEEAEYAVADYAKIAQM",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=organic+zing+birch+oil+bottles&shoprs=CAEYFyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMh8IFxITUmF0aW5nOiBIaWdoIHRvIGxvdyoEEAEYAVADYAKIAQM"
+    }
+   ]
+  },
+  {
+   "type": "Price",
+   "input_type": "price_range",
+   "options": [
+    {
+     "text": "Under ₹800",
+     "shoprs": "CAESDRILEQAAAACE18dBGAEYBSoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMiUIBRIMVW5kZXIg4oK5ODAwGAIiDRILEQAAAACE18dBGAEqAhgBWJ7PIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Organic+Zing+Birch+Oil+Bottles+under+800&shoprs=CAESDRILEQAAAACE18dBGAEYBSoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMiUIBRIMVW5kZXIg4oK5ODAwGAIiDRILEQAAAACE18dBGAEqAhgBWJ7PIGAC"
+    },
+    {
+     "text": "₹800 - ₹1,500",
+     "shoprs": "CAESFhIUCQAAAACE18dBEQAAAMALWtZBGAEYBSoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMjMIBRIR4oK5ODAwIC0g4oK5MSw1MDAYAiIWEhQJAAAAAITXx0ERAAAAwAta1kEYASoCGAFYns8gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Organic+Zing+Birch+Oil+Bottles+between+800+and+1500&shoprs=CAESFhIUCQAAAACE18dBEQAAAMALWtZBGAEYBSoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMjMIBRIR4oK5ODAwIC0g4oK5MSw1MDAYAiIWEhQJAAAAAITXx0ERAAAAwAta1kEYASoCGAFYns8gYAI"
+    },
+    {
+     "text": "Over ₹1,500",
+     "shoprs": "CAESDRILCQAAAMALWtZBGAEYBSoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMiYIBRINT3ZlciDigrkxLDUwMBgCIg0SCwkAAADAC1rWQRgBKgIYAViezyBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Organic+Zing+Birch+Oil+Bottles+over+1500&shoprs=CAESDRILCQAAAMALWtZBGAEYBSoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMiYIBRINT3ZlciDigrkxLDUwMBgCIg0SCwkAAADAC1rWQRgBKgIYAViezyBgAg"
+    }
+   ]
+  },
+  {
+   "type": "Brand",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Organiczing",
+     "shoprs": "CAEYASoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMhwIARILT3JnYW5pY3ppbmc6CwiD8zwQ26mIAzABWJ7PIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=organiczing+organic+zing+birch+oil+bottles&shoprs=CAEYASoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMhwIARILT3JnYW5pY3ppbmc6CwiD8zwQ26mIAzABWJ7PIGAC"
+    },
+    {
+     "text": "Healing Solutions",
+     "shoprs": "CAEYASoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMiMIARIRSGVhbGluZyBTb2x1dGlvbnM6DAiD8zwQqbX63QMwAViezyBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=healing+solutions+organic+zing+birch+oil+bottles&shoprs=CAEYASoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMiMIARIRSGVhbGluZyBTb2x1dGlvbnM6DAiD8zwQqbX63QMwAViezyBgAg"
+    },
+    {
+     "text": "Allin Exporters",
+     "shoprs": "CAEYASoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMiEIARIPQWxsaW4gRXhwb3J0ZXJzOgwIg_M8ENiR_90DMAFYns8gYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=allin+exporters+organic+zing+birch+oil+bottles&shoprs=CAEYASoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMiEIARIPQWxsaW4gRXhwb3J0ZXJzOgwIg_M8ENiR_90DMAFYns8gYAI"
+    }
+   ]
+  },
+  {
+   "type": "Carousel Filters",
+   "options": [
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMgwIAxIGTmVhcmJ5GAJYns8gYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Organic+Zing+Birch+Oil+Bottles+nearby&shoprs=CAEYAyoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMgwIAxIGTmVhcmJ5GAJYns8gYAE",
+     "input_type": "link_with_icon"
+    },
+    {
+     "text": "Essential & Fragrance Oils",
+     "shoprs": "CAEYCSoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMh4ICRIaRXNzZW50aWFsICYgRnJhZ3JhbmNlIE9pbHNgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=essential+%26+fragrance+oils+organic+zing+birch+oil+bottles&shoprs=CAEYCSoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMh4ICRIaRXNzZW50aWFsICYgRnJhZ3JhbmNlIE9pbHNgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Under ₹800",
+     "shoprs": "CAESDRILEQAAAACE18dBGAEYBSoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMiUIBRIMVW5kZXIg4oK5ODAwGAIiDRILEQAAAACE18dBGAEqAhgBWJ7PIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Organic+Zing+Birch+Oil+Bottles+under+800&shoprs=CAESDRILEQAAAACE18dBGAEYBSoeb3JnYW5pYyB6aW5nIGJpcmNoIG9pbCBib3R0bGVzMiUIBRIMVW5kZXIg4oK5ODAwGAIiDRILEQAAAACE18dBGAEqAhgBWJ7PIGAB",
+     "input_type": "price_range"
+    }
+   ]
+  }
+ ]
+}

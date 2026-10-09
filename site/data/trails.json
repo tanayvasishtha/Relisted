@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T12:47:37+0530",
+ "generated_at": "2026-10-09T13:22:39+0530",
  "lens_searches": 42,
  "credits_spent_this_run": 0,
  "trails": {
@@ -2970,10 +2970,6 @@
    },
    "countries": [
     [
-     "XX",
-     37
-    ],
-    [
      "CA",
      24
     ],
@@ -2984,6 +2980,10 @@
     [
      "IN",
      18
+    ],
+    [
+     "XX",
+     16
     ],
     [
      "MX",
@@ -2998,11 +2998,27 @@
      7
     ],
     [
+     "QA",
+     5
+    ],
+    [
      "PK",
      5
     ],
     [
+     "BN",
+     4
+    ],
+    [
      "ZA",
+     3
+    ],
+    [
+     "AO",
+     3
+    ],
+    [
+     "BH",
      3
     ],
     [
@@ -3018,7 +3034,11 @@
      2
     ],
     [
-     "BH",
+     "BZ",
+     2
+    ],
+    [
+     "BB",
      2
     ],
     [
@@ -3050,6 +3070,10 @@
      1
     ],
     [
+     "KM",
+     1
+    ],
+    [
      "NI",
      1
     ],
@@ -3058,15 +3082,15 @@
      1
     ],
     [
-     "QA",
-     1
-    ],
-    [
      "BE",
      1
     ],
     [
      "ZM",
+     1
+    ],
+    [
+     "FJ",
      1
     ],
     [
@@ -3079,6 +3103,10 @@
     ],
     [
      "MA",
+     1
+    ],
+    [
+     "JM",
      1
     ],
     [
@@ -3106,7 +3134,19 @@
      1
     ],
     [
+     "GD",
+     1
+    ],
+    [
+     "BW",
+     1
+    ],
+    [
      "SN",
+     1
+    ],
+    [
+     "CM",
      1
     ],
     [
@@ -3123,10 +3163,6 @@
     ],
     [
      "PE",
-     1
-    ],
-    [
-     "EU",
      1
     ],
     [
@@ -3172,7 +3208,7 @@
      "source": "Ubuy Comoros",
      "domain": "comoros.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "KM",
      "price": null,
      "thumbnail": "thumbs/16009fe3623507d1.jpg",
      "india": false,
@@ -3508,7 +3544,7 @@
      "source": "Desertcart Belize",
      "domain": "belize.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BZ",
      "price": null,
      "thumbnail": "thumbs/dea0a8d3677ab37d.jpg",
      "india": false,
@@ -3532,7 +3568,7 @@
      "source": "Desertcart Belize",
      "domain": "belize.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BZ",
      "price": null,
      "thumbnail": "thumbs/e8c9a490d6443f99.jpg",
      "india": false,
@@ -3544,7 +3580,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/48998b23f746e830.jpg",
      "india": false,
@@ -3580,7 +3616,7 @@
      "source": "Desertcart QATAR",
      "domain": "qatar.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "QA",
      "price": null,
      "thumbnail": "thumbs/3a91a3d8ae7a3656.jpg",
      "india": false,
@@ -3592,7 +3628,7 @@
      "source": "Desertcart Fiji",
      "domain": "fiji.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "FJ",
      "price": null,
      "thumbnail": "thumbs/dea0a8d3677ab37d.jpg",
      "india": false,
@@ -3628,7 +3664,7 @@
      "source": "Desertcart Angola",
      "domain": "angola.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "AO",
      "price": null,
      "thumbnail": "thumbs/5ed424838c253618.jpg",
      "india": false,
@@ -3676,7 +3712,7 @@
      "source": "Desertcart QATAR",
      "domain": "qatar.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "QA",
      "price": null,
      "thumbnail": "thumbs/bded085f1abe6d9b.jpg",
      "india": false,
@@ -3808,7 +3844,7 @@
      "source": "Desertcart Barbados",
      "domain": "barbados.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BB",
      "price": null,
      "thumbnail": "thumbs/528bafee8a03322e.jpg",
      "india": false,
@@ -3832,7 +3868,7 @@
      "source": "Desertcart Angola",
      "domain": "angola.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "AO",
      "price": null,
      "thumbnail": "thumbs/3a91a3d8ae7a3656.jpg",
      "india": false,
@@ -3868,7 +3904,7 @@
      "source": "Desertcart Jamaica",
      "domain": "jamaica.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "JM",
      "price": null,
      "thumbnail": "thumbs/c4452795ba93c84b.jpg",
      "india": false,
@@ -3940,7 +3976,7 @@
      "source": "Desertcart BAHRAIN",
      "domain": "bahrain.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BH",
      "price": null,
      "thumbnail": "thumbs/0dcb229595abe85c.jpg",
      "india": false,
@@ -3964,7 +4000,7 @@
      "source": "Desertcart Barbados",
      "domain": "barbados.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BB",
      "price": null,
      "thumbnail": "thumbs/107882110326fef4.jpg",
      "india": false,
@@ -4108,7 +4144,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/5ed424838c253618.jpg",
      "india": false,
@@ -4120,7 +4156,7 @@
      "source": "Desertcart QATAR",
      "domain": "qatar.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "QA",
      "price": null,
      "thumbnail": "thumbs/4cc8adf7c20d5a26.jpg",
      "india": false,
@@ -4192,7 +4228,7 @@
      "source": "Desertcart Grenada",
      "domain": "grenada.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "GD",
      "price": null,
      "thumbnail": "thumbs/48998b23f746e830.jpg",
      "india": false,
@@ -4216,7 +4252,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/8967d5704147dea9.jpg",
      "india": false,
@@ -4300,7 +4336,7 @@
      "source": "Desertcart Botswana",
      "domain": "botswana.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BW",
      "price": null,
      "thumbnail": "thumbs/8275bba6dff9c9b6.jpg",
      "india": false,
@@ -4324,7 +4360,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/b21340c3b1e1a772.jpg",
      "india": false,
@@ -4492,7 +4528,7 @@
      "source": "Desertcart Cameroon",
      "domain": "cameroon.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "CM",
      "price": null,
      "thumbnail": "thumbs/4b146ef49282cc56.jpg",
      "india": false,
@@ -4900,7 +4936,7 @@
      "source": "Desertcart Angola",
      "domain": "angola.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "AO",
      "price": null,
      "thumbnail": "thumbs/dea0a8d3677ab37d.jpg",
      "india": false,
@@ -4912,7 +4948,7 @@
      "source": "Paszkowka",
      "domain": "paszkowka.eu",
      "kind": "shop",
-     "country": "EU",
+     "country": "XX",
      "price": null,
      "thumbnail": "thumbs/eba0c09840a01518.jpg",
      "india": false,
@@ -5008,7 +5044,7 @@
      "source": "Desertcart QATAR",
      "domain": "qatar.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "QA",
      "price": null,
      "thumbnail": "thumbs/240ed4b10d049eba.jpg",
      "india": false,
@@ -5491,23 +5527,23 @@
    "india_shopping": {
     "query": "EEMB Lithium Battery Packs",
     "search_key": "google_shopping_837043c73d3c23bb",
-    "results": 40,
+    "results": 55,
     "stores": [
      [
       "Amazon.in",
-      7
+      11
+     ],
+     [
+      "desertcart.in",
+      11
+     ],
+     [
+      "ubuy.co.in",
+      6
      ],
      [
       "justdial.com",
       5
-     ],
-     [
-      "ubuy.co.in",
-      4
-     ],
-     [
-      "desertcart.in",
-      4
      ],
      [
       "Reliance Digital",
@@ -5564,10 +5600,18 @@
      [
       "Batteriescart.com",
       1
+     ],
+     [
+      "Befach.com",
+      1
+     ],
+     [
+      "desertcart.com.sa",
+      1
      ]
     ],
     "name": "EEMB",
-    "titled_with_name": 0,
+    "titled_with_name": 15,
     "raw_json": "data/raw/google_shopping_837043c73d3c23bb.json"
    }
   },
@@ -5633,7 +5677,7 @@
    "countries": [
     [
      "XX",
-     36
+     23
     ],
     [
      "MX",
@@ -5676,6 +5720,10 @@
      3
     ],
     [
+     "JM",
+     3
+    ],
+    [
      "SN",
      3
     ],
@@ -5684,8 +5732,16 @@
      3
     ],
     [
-     "EU",
+     "BH",
      3
+    ],
+    [
+     "AO",
+     3
+    ],
+    [
+     "BN",
+     2
     ],
     [
      "SV",
@@ -5708,7 +5764,7 @@
      2
     ],
     [
-     "AO",
+     "ZM",
      2
     ],
     [
@@ -5725,10 +5781,6 @@
     ],
     [
      "GP",
-     1
-    ],
-    [
-     "JM",
      1
     ],
     [
@@ -5760,6 +5812,14 @@
      1
     ],
     [
+     "AW",
+     1
+    ],
+    [
+     "TT",
+     1
+    ],
+    [
      "MV",
      1
     ],
@@ -5769,6 +5829,26 @@
     ],
     [
      "JO",
+     1
+    ],
+    [
+     "CM",
+     1
+    ],
+    [
+     "XK",
+     1
+    ],
+    [
+     "BS",
+     1
+    ],
+    [
+     "BZ",
+     1
+    ],
+    [
+     "GM",
      1
     ],
     [
@@ -5792,19 +5872,15 @@
      1
     ],
     [
-     "ZM",
-     1
-    ],
-    [
      "DO",
      1
     ],
     [
-     "NI",
+     "GD",
      1
     ],
     [
-     "BH",
+     "NI",
      1
     ],
     [
@@ -5857,8 +5933,8 @@
     ]
    ],
    "stores": 97,
-   "recalled_brand": "Magnetic",
-   "recalled_brand_listings": 126,
+   "recalled_brand": null,
+   "recalled_brand_listings": 0,
    "selling": [
     {
      "title": "2024 New Portable, Magnetic Chess Game, Intellectual Battle Game ...",
@@ -6046,7 +6122,7 @@
      "source": "Desertcart Aruba",
      "domain": "aruba.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "AW",
      "price": null,
      "thumbnail": "thumbs/1a71a76ba9a2351e.jpg",
      "india": false,
@@ -6058,7 +6134,7 @@
      "source": "Desertcart Jamaica",
      "domain": "jamaica.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "JM",
      "price": null,
      "thumbnail": "thumbs/1a71a76ba9a2351e.jpg",
      "india": false,
@@ -6070,7 +6146,7 @@
      "source": "Desertcart Trinidad and Tobago",
      "domain": "trinidad.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "TT",
      "price": null,
      "thumbnail": "thumbs/1a71a76ba9a2351e.jpg",
      "india": false,
@@ -6106,7 +6182,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/1a71a76ba9a2351e.jpg",
      "india": false,
@@ -6178,7 +6254,7 @@
      "source": "Desertcart Cameroon",
      "domain": "cameroon.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "CM",
      "price": null,
      "thumbnail": "thumbs/1a71a76ba9a2351e.jpg",
      "india": false,
@@ -6214,7 +6290,7 @@
      "source": "Ubuy Kosovo",
      "domain": "kosovo.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "XK",
      "price": null,
      "thumbnail": "thumbs/8724d024d80e03ee.jpg",
      "india": false,
@@ -6262,7 +6338,7 @@
      "source": "Desertcart BAHRAIN",
      "domain": "bahrain.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BH",
      "price": null,
      "thumbnail": "thumbs/1a71a76ba9a2351e.jpg",
      "india": false,
@@ -6274,7 +6350,7 @@
      "source": "Desertcart Bahamas",
      "domain": "bahamas.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BS",
      "price": null,
      "thumbnail": "thumbs/1a71a76ba9a2351e.jpg",
      "india": false,
@@ -6358,7 +6434,7 @@
      "source": "bahrain.whizzcart.com",
      "domain": "bahrain.whizzcart.com",
      "kind": "shop",
-     "country": "XX",
+     "country": "BH",
      "price": null,
      "thumbnail": "thumbs/4b792cd13ad6d1b8.jpg",
      "india": false,
@@ -6382,7 +6458,7 @@
      "source": "Desertcart Belize",
      "domain": "belize.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BZ",
      "price": null,
      "thumbnail": "thumbs/ae6267d6e6e78577.jpg",
      "india": false,
@@ -6454,7 +6530,7 @@
      "source": "Desertcart Zambia",
      "domain": "zambia.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "ZM",
      "price": null,
      "thumbnail": "thumbs/1a71a76ba9a2351e.jpg",
      "india": false,
@@ -6466,7 +6542,7 @@
      "source": "Desertcart Jamaica",
      "domain": "jamaica.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "JM",
      "price": null,
      "thumbnail": "thumbs/f7b9ffc9983b47b4.jpg",
      "india": false,
@@ -6478,7 +6554,7 @@
      "source": "Desertcart Angola",
      "domain": "angola.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "AO",
      "price": null,
      "thumbnail": "thumbs/6d7c2fef1ff49dd2.jpg",
      "india": false,
@@ -6490,7 +6566,7 @@
      "source": "Toystar.nl",
      "domain": "toynation.eu",
      "kind": "shop",
-     "country": "EU",
+     "country": "XX",
      "price": "€29.95",
      "thumbnail": "thumbs/9890e3efaa9bfc70.jpg",
      "india": false,
@@ -6526,7 +6602,7 @@
      "source": "Desertcart Gambia",
      "domain": "gambia.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "GM",
      "price": null,
      "thumbnail": "thumbs/147346fb0a5087ba.jpg",
      "india": false,
@@ -6634,7 +6710,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/67444cf87b19373a.jpg",
      "india": false,
@@ -6778,7 +6854,7 @@
      "source": "Desertcart Grenada",
      "domain": "grenada.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "GD",
      "price": null,
      "thumbnail": "thumbs/67444cf87b19373a.jpg",
      "india": false,
@@ -7006,7 +7082,7 @@
      "source": "toynation.eu",
      "domain": "toynation.eu",
      "kind": "shop",
-     "country": "EU",
+     "country": "XX",
      "price": null,
      "thumbnail": "thumbs/9890e3efaa9bfc70.jpg",
      "india": false,
@@ -7882,7 +7958,7 @@
      "source": "toynation.eu",
      "domain": "toynation.eu",
      "kind": "shop",
-     "country": "EU",
+     "country": "XX",
      "price": "€44.95",
      "thumbnail": "thumbs/9890e3efaa9bfc70.jpg",
      "india": false,
@@ -8065,11 +8141,11 @@
    "india_shopping": {
     "query": "Magnetic Chess Games",
     "search_key": "google_shopping_1e7485fefc3333ec",
-    "results": 40,
+    "results": 56,
     "stores": [
      [
       "Amazon.in",
-      18
+      30
      ],
      [
       "ubuy.co.in",
@@ -8077,10 +8153,14 @@
      ],
      [
       "Flipkart",
-      3
+      5
      ],
      [
       "Desertcart.ae",
+      2
+     ],
+     [
+      "Kuviyal",
       2
      ],
      [
@@ -8104,10 +8184,6 @@
       1
      ],
      [
-      "Kuviyal",
-      1
-     ],
-     [
       "Toy Street",
       1
      ],
@@ -8117,6 +8193,10 @@
      ],
      [
       "Pioneer Sports",
+      1
+     ],
+     [
+      "Novelika",
       1
      ]
     ],
@@ -8183,7 +8263,7 @@
    "countries": [
     [
      "XX",
-     57
+     45
     ],
     [
      "US",
@@ -8202,6 +8282,10 @@
      6
     ],
     [
+     "BH",
+     5
+    ],
+    [
      "MX",
      5
     ],
@@ -8214,6 +8298,14 @@
      4
     ],
     [
+     "JM",
+     3
+    ],
+    [
+     "MU",
+     3
+    ],
+    [
      "GB",
      3
     ],
@@ -8222,19 +8314,19 @@
      2
     ],
     [
-     "JM",
-     2
-    ],
-    [
      "DE",
      2
     ],
     [
-     "ZW",
+     "QA",
      2
     ],
     [
-     "MU",
+     "BN",
+     2
+    ],
+    [
+     "ZW",
      2
     ],
     [
@@ -8251,6 +8343,10 @@
     ],
     [
      "NL",
+     1
+    ],
+    [
+     "BW",
      1
     ],
     [
@@ -8286,6 +8382,10 @@
      1
     ],
     [
+     "BB",
+     1
+    ],
+    [
      "GH",
      1
     ],
@@ -8303,10 +8403,6 @@
     ],
     [
      "PS",
-     1
-    ],
-    [
-     "BH",
      1
     ],
     [
@@ -8556,7 +8652,7 @@
      "source": "Desertcart QATAR",
      "domain": "qatar.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "QA",
      "price": null,
      "thumbnail": "thumbs/ce28eef01e494c8d.jpg",
      "india": false,
@@ -8664,7 +8760,7 @@
      "source": "Desertcart Botswana",
      "domain": "botswana.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BW",
      "price": null,
      "thumbnail": "thumbs/ce28eef01e494c8d.jpg",
      "india": false,
@@ -8676,7 +8772,7 @@
      "source": "Desertcart Jamaica",
      "domain": "jamaica.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "JM",
      "price": null,
      "thumbnail": "thumbs/48bb6a57ec6645d1.jpg",
      "india": false,
@@ -8688,7 +8784,7 @@
      "source": "Desertcart QATAR",
      "domain": "qatar.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "QA",
      "price": null,
      "thumbnail": "thumbs/2e4128b0a0229dfa.jpg",
      "india": false,
@@ -8736,7 +8832,7 @@
      "source": "Desertcart Mauritius",
      "domain": "mauritius.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "MU",
      "price": "₹3,783.00",
      "thumbnail": "thumbs/ce28eef01e494c8d.jpg",
      "india": false,
@@ -8904,7 +9000,7 @@
      "source": "Desertcart Barbados",
      "domain": "barbados.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BB",
      "price": null,
      "thumbnail": "thumbs/99482ecae52671de.jpg",
      "india": false,
@@ -8928,7 +9024,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/367b40db3bf23e1a.jpg",
      "india": false,
@@ -9012,7 +9108,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/99482ecae52671de.jpg",
      "india": false,
@@ -9192,7 +9288,7 @@
      "source": "Desertcart BAHRAIN",
      "domain": "bahrain.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BH",
      "price": null,
      "thumbnail": "thumbs/367b40db3bf23e1a.jpg",
      "india": false,
@@ -9228,7 +9324,7 @@
      "source": "Desertcart BAHRAIN",
      "domain": "bahrain.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BH",
      "price": null,
      "thumbnail": "thumbs/367b40db3bf23e1a.jpg",
      "india": false,
@@ -9252,7 +9348,7 @@
      "source": "Desertcart BAHRAIN",
      "domain": "bahrain.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BH",
      "price": null,
      "thumbnail": "thumbs/367b40db3bf23e1a.jpg",
      "india": false,
@@ -9912,7 +10008,7 @@
      "source": "Desertcart BAHRAIN",
      "domain": "bahrain.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BH",
      "price": null,
      "thumbnail": "thumbs/367b40db3bf23e1a.jpg",
      "india": false,
@@ -10415,10 +10511,6 @@
    },
    "countries": [
     [
-     "XX",
-     26
-    ],
-    [
      "MX",
      22
     ],
@@ -10427,12 +10519,20 @@
      11
     ],
     [
+     "XX",
+     8
+    ],
+    [
      "US",
      6
     ],
     [
      "CL",
      6
+    ],
+    [
+     "BN",
+     4
     ],
     [
      "IN",
@@ -10459,6 +10559,22 @@
      3
     ],
     [
+     "JM",
+     2
+    ],
+    [
+     "AO",
+     2
+    ],
+    [
+     "KW",
+     2
+    ],
+    [
+     "MU",
+     2
+    ],
+    [
      "SG",
      2
     ],
@@ -10467,11 +10583,23 @@
      2
     ],
     [
+     "LR",
+     1
+    ],
+    [
      "NG",
      1
     ],
     [
      "GH",
+     1
+    ],
+    [
+     "BZ",
+     1
+    ],
+    [
+     "MV",
      1
     ],
     [
@@ -10483,7 +10611,7 @@
      1
     ],
     [
-     "AO",
+     "BB",
      1
     ],
     [
@@ -10507,6 +10635,18 @@
      1
     ],
     [
+     "BW",
+     1
+    ],
+    [
+     "TT",
+     1
+    ],
+    [
+     "GM",
+     1
+    ],
+    [
      "BH",
      1
     ],
@@ -10520,6 +10660,10 @@
     ],
     [
      "PS",
+     1
+    ],
+    [
+     "FJ",
      1
     ],
     [
@@ -10540,10 +10684,6 @@
     ],
     [
      "PE",
-     1
-    ],
-    [
-     "KW",
      1
     ],
     [
@@ -10597,7 +10737,7 @@
      "source": "Ubuy Liberia",
      "domain": "liberia.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "LR",
      "price": null,
      "thumbnail": "thumbs/961b77752295430b.jpg",
      "india": false,
@@ -10669,7 +10809,7 @@
      "source": "Desertcart Jamaica",
      "domain": "jamaica.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "JM",
      "price": null,
      "thumbnail": "thumbs/afa81ce0170a214b.jpg",
      "india": false,
@@ -10693,7 +10833,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/488ad1cc4e48c038.jpg",
      "india": false,
@@ -10717,7 +10857,7 @@
      "source": "Desertcart Belize",
      "domain": "belize.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BZ",
      "price": null,
      "thumbnail": "thumbs/b716666439abe19d.jpg",
      "india": false,
@@ -10729,7 +10869,7 @@
      "source": "Desertcart Maldives",
      "domain": "maldives.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "MV",
      "price": null,
      "thumbnail": "thumbs/b716666439abe19d.jpg",
      "india": false,
@@ -10789,7 +10929,7 @@
      "source": "Desertcart Barbados",
      "domain": "barbados.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BB",
      "price": null,
      "thumbnail": "thumbs/b716666439abe19d.jpg",
      "india": false,
@@ -10801,7 +10941,7 @@
      "source": "kuwait.whizzcart.com",
      "domain": "kuwait.whizzcart.com",
      "kind": "shop",
-     "country": "XX",
+     "country": "KW",
      "price": null,
      "thumbnail": "thumbs/458c696ec88f1c02.jpg",
      "india": false,
@@ -10813,7 +10953,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/b716666439abe19d.jpg",
      "india": false,
@@ -10981,7 +11121,7 @@
      "source": "Desertcart Mauritius",
      "domain": "mauritius.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "MU",
      "price": null,
      "thumbnail": "thumbs/b716666439abe19d.jpg",
      "india": false,
@@ -10993,7 +11133,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/b716666439abe19d.jpg",
      "india": false,
@@ -11053,7 +11193,7 @@
      "source": "Desertcart Jamaica",
      "domain": "jamaica.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "JM",
      "price": null,
      "thumbnail": "thumbs/4eb24d09e24b208a.jpg",
      "india": false,
@@ -11077,7 +11217,7 @@
      "source": "Desertcart Botswana",
      "domain": "botswana.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BW",
      "price": null,
      "thumbnail": "thumbs/458c696ec88f1c02.jpg",
      "india": false,
@@ -11101,7 +11241,7 @@
      "source": "Desertcart Trinidad and Tobago",
      "domain": "trinidad.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "TT",
      "price": null,
      "thumbnail": "thumbs/3ae40301eea04cd9.jpg",
      "india": false,
@@ -11125,7 +11265,7 @@
      "source": "Desertcart Gambia",
      "domain": "gambia.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "GM",
      "price": null,
      "thumbnail": "thumbs/458c696ec88f1c02.jpg",
      "india": false,
@@ -11173,7 +11313,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/458c696ec88f1c02.jpg",
      "india": false,
@@ -11185,7 +11325,7 @@
      "source": "Desertcart Angola",
      "domain": "angola.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "AO",
      "price": null,
      "thumbnail": "thumbs/b716666439abe19d.jpg",
      "india": false,
@@ -11233,7 +11373,7 @@
      "source": "Desertcart Fiji",
      "domain": "fiji.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "FJ",
      "price": null,
      "thumbnail": "thumbs/3ae40301eea04cd9.jpg",
      "india": false,
@@ -11401,7 +11541,7 @@
      "source": "Desertcart Mauritius",
      "domain": "mauritius.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "MU",
      "price": "₹922.00",
      "thumbnail": "thumbs/4eb24d09e24b208a.jpg",
      "india": false,
@@ -12210,7 +12350,7 @@
    "countries": [
     [
      "XX",
-     34
+     31
     ],
     [
      "MX",
@@ -12265,6 +12405,10 @@
      2
     ],
     [
+     "LR",
+     1
+    ],
+    [
      "DO",
      1
     ],
@@ -12274,6 +12418,14 @@
     ],
     [
      "NG",
+     1
+    ],
+    [
+     "JM",
+     1
+    ],
+    [
+     "TT",
      1
     ],
     [
@@ -12323,7 +12475,7 @@
      "source": "Ubuy Liberia",
      "domain": "liberia.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "LR",
      "price": null,
      "thumbnail": "thumbs/bc5212f9b31d7762.jpg",
      "india": false,
@@ -12551,7 +12703,7 @@
      "source": "Desertcart Jamaica",
      "domain": "jamaica.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "JM",
      "price": null,
      "thumbnail": "thumbs/8bcd8e7a4c8bbb83.jpg",
      "india": false,
@@ -12563,7 +12715,7 @@
      "source": "Desertcart Trinidad and Tobago",
      "domain": "trinidad.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "TT",
      "price": null,
      "thumbnail": "thumbs/8bcd8e7a4c8bbb83.jpg",
      "india": false,
@@ -13847,11 +13999,11 @@
    },
    "countries": [
     [
-     "XX",
-     13
+     "MX",
+     12
     ],
     [
-     "MX",
+     "XX",
      12
     ],
     [
@@ -13928,6 +14080,10 @@
     ],
     [
      "HN",
+     1
+    ],
+    [
+     "BM",
      1
     ],
     [
@@ -14129,7 +14285,7 @@
      "source": "Ubuy Bermuda",
      "domain": "bermuda.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BM",
      "price": null,
      "thumbnail": "thumbs/2e513f406bc6491c.jpg",
      "india": false,
@@ -15534,7 +15690,7 @@
     ],
     [
      "XX",
-     10
+     7
     ],
     [
      "CO",
@@ -15563,6 +15719,14 @@
     [
      "GB",
      2
+    ],
+    [
+     "LR",
+     1
+    ],
+    [
+     "BB",
+     1
     ],
     [
      "GE",
@@ -15630,6 +15794,10 @@
     ],
     [
      "BO",
+     1
+    ],
+    [
+     "GN",
      1
     ],
     [
@@ -15719,7 +15887,7 @@
      "source": "Ubuy Liberia",
      "domain": "liberia.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "LR",
      "price": null,
      "thumbnail": "thumbs/c0bc9086be0afc9d.jpg",
      "india": false,
@@ -15731,7 +15899,7 @@
      "source": "Ubuy Barbados",
      "domain": "barbabos.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BB",
      "price": null,
      "thumbnail": "thumbs/c0bc9086be0afc9d.jpg",
      "india": false,
@@ -16091,7 +16259,7 @@
      "source": "Ubuy Guinea",
      "domain": "guinea.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "GN",
      "price": null,
      "thumbnail": "thumbs/c0bc9086be0afc9d.jpg",
      "india": false,
@@ -17980,16 +18148,16 @@
    "kinds": {
     "listing": 56,
     "news": 15,
-    "spam": 187,
+    "spam": 188,
     "social": 18,
-    "store_page": 45,
+    "store_page": 44,
     "shop": 11,
     "other": 43
    },
    "countries": [
     [
      "XX",
-     12
+     9
     ],
     [
      "GB",
@@ -18032,7 +18200,19 @@
      2
     ],
     [
+     "BB",
+     1
+    ],
+    [
+     "OM",
+     1
+    ],
+    [
      "ZA",
+     1
+    ],
+    [
+     "XK",
      1
     ],
     [
@@ -18162,7 +18342,7 @@
      "source": "Ubuy Barbados",
      "domain": "barbabos.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BB",
      "price": null,
      "thumbnail": "thumbs/fc240c67fffeb982.jpg",
      "india": false,
@@ -18186,7 +18366,7 @@
      "source": "oman.whizzcart.com",
      "domain": "oman.whizzcart.com",
      "kind": "shop",
-     "country": "XX",
+     "country": "OM",
      "price": null,
      "thumbnail": "thumbs/3259513a8365428b.jpg",
      "india": false,
@@ -18246,7 +18426,7 @@
      "source": "Ubuy Kosovo",
      "domain": "kosovo.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "XK",
      "price": null,
      "thumbnail": "thumbs/9d59ed0accb813bd.jpg",
      "india": false,
@@ -19067,7 +19247,7 @@
    "countries": [
     [
      "XX",
-     18
+     15
     ],
     [
      "SA",
@@ -19102,7 +19282,15 @@
      1
     ],
     [
+     "KW",
+     1
+    ],
+    [
      "KE",
+     1
+    ],
+    [
+     "GN",
      1
     ],
     [
@@ -19119,6 +19307,10 @@
     ],
     [
      "MT",
+     1
+    ],
+    [
+     "BN",
      1
     ],
     [
@@ -19232,7 +19424,7 @@
      "source": "kuwait.whizzcart.com",
      "domain": "kuwait.whizzcart.com",
      "kind": "shop",
-     "country": "XX",
+     "country": "KW",
      "price": null,
      "thumbnail": "thumbs/c14a9e9d628210a8.jpg",
      "india": false,
@@ -19280,7 +19472,7 @@
      "source": "Ubuy Guinea",
      "domain": "guinea.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "GN",
      "price": null,
      "thumbnail": "thumbs/0d328633e99f2c64.jpg",
      "india": false,
@@ -19592,7 +19784,7 @@
      "source": "Desertcart Brunei",
      "domain": "brunei.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BN",
      "price": null,
      "thumbnail": "thumbs/bed6b010a92ef928.jpg",
      "india": false,
@@ -20938,7 +21130,7 @@
     ],
     [
      "XX",
-     9
+     8
     ],
     [
      "CL",
@@ -20959,6 +21151,10 @@
     [
      "CO",
      3
+    ],
+    [
+     "LR",
+     1
     ],
     [
      "ZA",
@@ -21071,7 +21267,7 @@
      "source": "Ubuy Liberia",
      "domain": "liberia.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "LR",
      "price": null,
      "thumbnail": "thumbs/53e07f95ac088088.jpg",
      "india": false,
@@ -21838,10 +22034,6 @@
      7
     ],
     [
-     "XX",
-     2
-    ],
-    [
      "KW",
      2
     ],
@@ -21875,6 +22067,14 @@
     ],
     [
      "NG",
+     1
+    ],
+    [
+     "BB",
+     1
+    ],
+    [
+     "XX",
      1
     ],
     [
@@ -21963,8 +22163,8 @@
     ]
    ],
    "stores": 35,
-   "recalled_brand": "Deli",
-   "recalled_brand_listings": 29,
+   "recalled_brand": null,
+   "recalled_brand_listings": 0,
    "selling": [
     {
      "title": "Deli Jerry Fuel Can,Metal Gas Can 5.3 Gallon / 20 L, Ireland | Ubuy",
@@ -22152,7 +22352,7 @@
      "source": "Ubuy Barbados",
      "domain": "barbabos.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "BB",
      "price": null,
      "thumbnail": "thumbs/fa82a4b5f046e7e4.jpg",
      "india": false,
@@ -22698,7 +22898,7 @@
     ],
     [
      "XX",
-     6
+     4
     ],
     [
      "IN",
@@ -22725,7 +22925,15 @@
      1
     ],
     [
+     "GN",
+     1
+    ],
+    [
      "GH",
+     1
+    ],
+    [
+     "AO",
      1
     ],
     [
@@ -22983,7 +23191,7 @@
      "source": "Ubuy Guinea",
      "domain": "guinea.ubuy.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "GN",
      "price": null,
      "thumbnail": "thumbs/793c2c424448f21d.jpg",
      "india": false,
@@ -23019,7 +23227,7 @@
      "source": "Desertcart Angola",
      "domain": "angola.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "AO",
      "price": null,
      "thumbnail": "thumbs/bbcf569baad1334c.jpg",
      "india": false,
@@ -24784,8 +24992,8 @@
     ]
    ],
    "stores": 4,
-   "recalled_brand": "Little",
-   "recalled_brand_listings": 3,
+   "recalled_brand": null,
+   "recalled_brand_listings": 0,
    "selling": [
     {
      "title": "INvench, Montessori Baby Toys, Multicolor, Pull String Sensory Toy",
@@ -25019,8 +25227,8 @@
     ]
    ],
    "stores": 2,
-   "recalled_brand": "GM",
-   "recalled_brand_listings": 5,
+   "recalled_brand": null,
+   "recalled_brand_listings": 0,
    "selling": [
     {
      "title": "GM Gumili Orange Essential Oil - Pure Organic Oil for Skin, Hair ...",
@@ -25409,8 +25617,12 @@
    },
    "countries": [
     [
-     "XX",
-     2
+     "AW",
+     1
+    ],
+    [
+     "BH",
+     1
     ]
    ],
    "stores": 2,
@@ -25423,7 +25635,7 @@
      "source": "Desertcart Aruba",
      "domain": "aruba.desertcart.com",
      "kind": "listing",
-     "country": "XX",
+     "country": "AW",
      "price": null,
      "thumbnail": "thumbs/1c68988c4ee7fa64.jpg",
      "india": false,
@@ -25435,7 +25647,7 @@
      "source": "bahrain.whizzcart.com",
      "domain": "bahrain.whizzcart.com",
      "kind": "shop",
-     "country": "XX",
+     "country": "BH",
      "price": null,
      "thumbnail": "thumbs/38d6acc7784f2de5.jpg",
      "india": false,
@@ -25601,15 +25813,15 @@
    "india_shopping": {
     "query": "Qumeney Bicycle Light Sets",
     "search_key": "google_shopping_edce9ab6d788c7ac",
-    "results": 40,
+    "results": 55,
     "stores": [
      [
       "Amazon.in",
-      14
+      26
      ],
      [
       "JioMart",
-      5
+      6
      ],
      [
       "Cycling Boutique",
@@ -25624,11 +25836,11 @@
       3
      ],
      [
-      "Cicli Mattio IN",
-      2
+      "fccracing.com",
+      3
      ],
      [
-      "fccracing.com",
+      "Cicli Mattio IN",
       2
      ],
      [
@@ -25658,143 +25870,15 @@
      [
       "Aladdin Shoppers",
       1
+     ],
+     [
+      "Banggood.com",
+      1
      ]
     ],
     "name": "Qumeney",
     "titled_with_name": 0,
     "raw_json": "data/raw/google_shopping_edce9ab6d788c7ac.json"
-   }
-  },
-  "10665": {
-   "recall": {
-    "recall_id": "10665",
-    "number": "26332",
-    "date": "2026-03-19",
-    "title": "Infant Walkers Recalled Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers; Sold on Amazon by Goregent Official Store",
-    "url": "https://www.cpsc.gov/Recalls/2026/Infant-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Amazon-by-Goregent-Official-Store",
-    "product": "Goregent Infant Walkers",
-    "risk": "Risk of serious injury or death from fall hazard",
-    "standard": "Mandatory standard for infant walkers",
-    "units": "About 90",
-    "sold_on": "Amazon",
-    "seller": "Goregent Official Store",
-    "countries": [
-     "China"
-    ],
-    "photos": [
-     {
-      "url": "https://www.cpsc.gov/s3fs-public/goregent-1.png",
-      "caption": "Recalled Goregent Infant Walker"
-     }
-    ],
-    "kids": true,
-    "fire": false,
-    "marketplace": true
-   },
-   "photo": {
-    "url": "https://www.cpsc.gov/s3fs-public/goregent-1.png",
-    "caption": "Recalled Goregent Infant Walker",
-    "border_white": 0.814,
-    "width": 419,
-    "height": 446,
-    "listing_style": true
-   },
-   "recall_photo_url": "https://www.cpsc.gov/s3fs-public/goregent-1.png",
-   "search_key": "google_lens_feebc3ca945390a5",
-   "matches_total": 49,
-   "matches_capped": false,
-   "kinds": {
-    "news": 9,
-    "social": 5,
-    "shop": 1,
-    "spam": 31,
-    "store_page": 2,
-    "other": 1
-   },
-   "countries": [
-    [
-     "XX",
-     1
-    ]
-   ],
-   "stores": 1,
-   "recalled_brand": "Goregent",
-   "recalled_brand_listings": 0,
-   "selling": [
-    {
-     "title": "If you bought this infant walker on Amazon, stop using it immediately",
-     "link": "https://www.silive.com/parents/2026/03/if-you-bought-this-infant-walker-on-amazon-stop-using-it-immediately.html",
-     "source": "SILive.com",
-     "domain": "silive.com",
-     "kind": "shop",
-     "country": "XX",
-     "price": null,
-     "thumbnail": "thumbs/811a7324df5b33e2.jpg",
-     "india": false,
-     "thumbnail_src": "https://serpapi.com/searches/6ac819d206ca7fcf2985045b/images/_N4N0SKGMLtBUlXI9c7ib5gdPsTmPS8Ksck5hTgWsjk.jpeg"
-    }
-   ],
-   "india": [],
-   "status": "ok",
-   "raw_json": "data/raw/google_lens_feebc3ca945390a5.json",
-   "recall_photo_local": "thumbs/recall-10665.jpg",
-   "india_shopping": {
-    "query": "Goregent Infant Walkers",
-    "search_key": "google_shopping_7e2751df5d53c91a",
-    "results": 40,
-    "stores": [
-     [
-      "Flipkart",
-      10
-     ],
-     [
-      "Amazon.in",
-      7
-     ],
-     [
-      "Goyal's",
-      6
-     ],
-     [
-      "Gurtoy",
-      5
-     ],
-     [
-      "desertcart.in",
-      2
-     ],
-     [
-      "ubuy.co.in",
-      2
-     ],
-     [
-      "Shopsy By Flipkart",
-      2
-     ],
-     [
-      "Tradeindia.com",
-      2
-     ],
-     [
-      "Chanak",
-      1
-     ],
-     [
-      "Me n Moms",
-      1
-     ],
-     [
-      "The Moms Darling Baby Shop",
-      1
-     ],
-     [
-      "Mothercare India",
-      1
-     ]
-    ],
-    "name": "Goregent",
-    "titled_with_name": 0,
-    "raw_json": "data/raw/google_shopping_7e2751df5d53c91a.json"
    }
   },
   "10730": {
@@ -25958,6 +26042,119 @@
     "raw_json": "data/raw/google_shopping_d8458e0aaa730ecd.json"
    }
   },
+  "10665": {
+   "recall": {
+    "recall_id": "10665",
+    "number": "26332",
+    "date": "2026-03-19",
+    "title": "Infant Walkers Recalled Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers; Sold on Amazon by Goregent Official Store",
+    "url": "https://www.cpsc.gov/Recalls/2026/Infant-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Amazon-by-Goregent-Official-Store",
+    "product": "Goregent Infant Walkers",
+    "risk": "Risk of serious injury or death from fall hazard",
+    "standard": "Mandatory standard for infant walkers",
+    "units": "About 90",
+    "sold_on": "Amazon",
+    "seller": "Goregent Official Store",
+    "countries": [
+     "China"
+    ],
+    "photos": [
+     {
+      "url": "https://www.cpsc.gov/s3fs-public/goregent-1.png",
+      "caption": "Recalled Goregent Infant Walker"
+     }
+    ],
+    "kids": true,
+    "fire": false,
+    "marketplace": true
+   },
+   "photo": {
+    "url": "https://www.cpsc.gov/s3fs-public/goregent-1.png",
+    "caption": "Recalled Goregent Infant Walker",
+    "border_white": 0.814,
+    "width": 419,
+    "height": 446,
+    "listing_style": true
+   },
+   "recall_photo_url": "https://www.cpsc.gov/s3fs-public/goregent-1.png",
+   "search_key": "google_lens_feebc3ca945390a5",
+   "matches_total": 49,
+   "matches_capped": false,
+   "kinds": {
+    "news": 10,
+    "social": 5,
+    "spam": 31,
+    "store_page": 2,
+    "other": 1
+   },
+   "countries": [],
+   "stores": 0,
+   "recalled_brand": "Goregent",
+   "recalled_brand_listings": 0,
+   "selling": [],
+   "india": [],
+   "status": "ok",
+   "raw_json": "data/raw/google_lens_feebc3ca945390a5.json",
+   "recall_photo_local": "thumbs/recall-10665.jpg",
+   "india_shopping": {
+    "query": "Goregent Infant Walkers",
+    "search_key": "google_shopping_7e2751df5d53c91a",
+    "results": 40,
+    "stores": [
+     [
+      "Flipkart",
+      10
+     ],
+     [
+      "Amazon.in",
+      7
+     ],
+     [
+      "Goyal's",
+      6
+     ],
+     [
+      "Gurtoy",
+      5
+     ],
+     [
+      "desertcart.in",
+      2
+     ],
+     [
+      "ubuy.co.in",
+      2
+     ],
+     [
+      "Shopsy By Flipkart",
+      2
+     ],
+     [
+      "Tradeindia.com",
+      2
+     ],
+     [
+      "Chanak",
+      1
+     ],
+     [
+      "Me n Moms",
+      1
+     ],
+     [
+      "The Moms Darling Baby Shop",
+      1
+     ],
+     [
+      "Mothercare India",
+      1
+     ]
+    ],
+    "name": "Goregent",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_7e2751df5d53c91a.json"
+   }
+  },
   "10690": {
    "recall": {
     "recall_id": "10690",
@@ -26005,13 +26202,22 @@
    },
    "countries": [],
    "stores": 0,
-   "recalled_brand": "Members",
+   "recalled_brand": null,
    "recalled_brand_listings": 0,
    "selling": [],
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_0773fc4a7440745e.json",
-   "recall_photo_local": "thumbs/recall-10690.jpg"
+   "recall_photo_local": "thumbs/recall-10690.jpg",
+   "india_shopping": {
+    "query": "Member's Mark Children's Valentine SS Notch Collar Pajama Sets",
+    "search_key": "google_shopping_0811f39ebf2f898b",
+    "results": 0,
+    "stores": [],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_0811f39ebf2f898b.json"
+   }
   },
   "10888": {
    "recall": {
@@ -26077,7 +26283,45 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_6d28a401cac2f69b.json",
-   "recall_photo_local": "thumbs/recall-10888.jpg"
+   "recall_photo_local": "thumbs/recall-10888.jpg",
+   "india_shopping": {
+    "query": "OCTROT Electric Thows and Blankets",
+    "search_key": "google_shopping_0b1393475729cd9c",
+    "results": 40,
+    "stores": [
+     [
+      "Amazon.in",
+      16
+     ],
+     [
+      "ubuy.co.in",
+      14
+     ],
+     [
+      "Flipkart",
+      5
+     ],
+     [
+      "desertcart.in",
+      2
+     ],
+     [
+      "Tradeindia.com",
+      1
+     ],
+     [
+      "MediKart",
+      1
+     ],
+     [
+      "IndiaMART",
+      1
+     ]
+    ],
+    "name": "OCTROT",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_0b1393475729cd9c.json"
+   }
   },
   "10595": {
    "recall": {
@@ -26128,13 +26372,39 @@
    "kinds": {},
    "countries": [],
    "stores": 0,
-   "recalled_brand": "Organic",
+   "recalled_brand": null,
    "recalled_brand_listings": 0,
    "selling": [],
    "india": [],
    "status": "no_copies",
    "raw_json": "data/raw/google_lens_1b1b19c7ceb72dc7.json",
-   "recall_photo_local": "thumbs/recall-10595.jpg"
+   "recall_photo_local": "thumbs/recall-10595.jpg",
+   "india_shopping": {
+    "query": "Organic Zing Birch Oil Bottles",
+    "search_key": "google_shopping_59cfe83880d1585e",
+    "results": 15,
+    "stores": [
+     [
+      "amazon.in",
+      12
+     ],
+     [
+      "Desertcart.ae",
+      1
+     ],
+     [
+      "Etsy",
+      1
+     ],
+     [
+      "iBhejo.com",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_59cfe83880d1585e.json"
+   }
   },
   "10954": {
    "recall": {
@@ -26183,7 +26453,81 @@
    "india": [],
    "status": "no_copies",
    "raw_json": "data/raw/google_lens_56264d76e50412dd.json",
-   "recall_photo_local": "thumbs/recall-10954.jpg"
+   "recall_photo_local": "thumbs/recall-10954.jpg",
+   "india_shopping": {
+    "query": "YERYORK Pressure Washers",
+    "search_key": "google_shopping_3f91ee194e42972a",
+    "results": 40,
+    "stores": [
+     [
+      "ubuy.co.in",
+      13
+     ],
+     [
+      "Flipkart",
+      5
+     ],
+     [
+      "Tradeindia.com",
+      3
+     ],
+     [
+      "Sprayman Power Products",
+      3
+     ],
+     [
+      "Shopsy By Flipkart",
+      3
+     ],
+     [
+      "IndustryBuying",
+      2
+     ],
+     [
+      "Amazon.in",
+      2
+     ],
+     [
+      "Desertcart.ae",
+      1
+     ],
+     [
+      "Aajjo.com",
+      1
+     ],
+     [
+      "Toolsvilla",
+      1
+     ],
+     [
+      "pavanmachinetools.com",
+      1
+     ],
+     [
+      "sehgaltraders.com",
+      1
+     ],
+     [
+      "BazarGPT",
+      1
+     ],
+     [
+      "desertcart.in",
+      1
+     ],
+     [
+      "IBO",
+      1
+     ],
+     [
+      "Greenmax Teknika",
+      1
+     ]
+    ],
+    "name": "YERYORK",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_3f91ee194e42972a.json"
+   }
   },
   "10708": {
    "recall": {
@@ -26238,13 +26582,63 @@
    "kinds": {},
    "countries": [],
    "stores": 0,
-   "recalled_brand": "Happiness",
+   "recalled_brand": null,
    "recalled_brand_listings": 0,
    "selling": [],
    "india": [],
    "status": "no_copies",
    "raw_json": "data/raw/google_lens_1b99594a0bb49f86.json",
-   "recall_photo_local": "thumbs/recall-10708.jpg"
+   "recall_photo_local": "thumbs/recall-10708.jpg",
+   "india_shopping": {
+    "query": "Happiness Light LED Lights",
+    "search_key": "google_shopping_af172dc94df36ade",
+    "results": 50,
+    "stores": [
+     [
+      "Amazon.in",
+      19
+     ],
+     [
+      "Flipkart",
+      7
+     ],
+     [
+      "ubuy.co.in",
+      7
+     ],
+     [
+      "Neon Attack",
+      5
+     ],
+     [
+      "desertcart.in",
+      4
+     ],
+     [
+      "Myntra",
+      3
+     ],
+     [
+      "Desertcart.ae",
+      2
+     ],
+     [
+      "Shopsy By Flipkart",
+      1
+     ],
+     [
+      "GoHigh",
+      1
+     ],
+     [
+      "Pacha Life",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_af172dc94df36ade.json"
+   }
   },
   "10707": {
    "recall": {
@@ -26291,13 +26685,63 @@
    "kinds": {},
    "countries": [],
    "stores": 0,
-   "recalled_brand": "MaletoMale",
+   "recalled_brand": null,
    "recalled_brand_listings": 0,
    "selling": [],
    "india": [],
    "status": "no_copies",
    "raw_json": "data/raw/google_lens_147611696d18d605.json",
-   "recall_photo_local": "thumbs/recall-10707.jpg"
+   "recall_photo_local": "thumbs/recall-10707.jpg",
+   "india_shopping": {
+    "query": "Male-to-Male Extension Cords",
+    "search_key": "google_shopping_0ff89adc0accf69d",
+    "results": 59,
+    "stores": [
+     [
+      "Amazon.in",
+      32
+     ],
+     [
+      "Tintoliya",
+      6
+     ],
+     [
+      "desertcart.in",
+      6
+     ],
+     [
+      "RS India",
+      5
+     ],
+     [
+      "Flipkart",
+      3
+     ],
+     [
+      "IndustryBuying",
+      2
+     ],
+     [
+      "ubuy.co.in",
+      2
+     ],
+     [
+      "Tradeindia.com",
+      1
+     ],
+     [
+      "Shree Sales",
+      1
+     ],
+     [
+      "Felix Tools",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_0ff89adc0accf69d.json"
+   }
   },
   "10976": {
    "recall": {
@@ -26354,13 +26798,75 @@
    },
    "countries": [],
    "stores": 0,
-   "recalled_brand": "Lights",
+   "recalled_brand": null,
    "recalled_brand_listings": 0,
    "selling": [],
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_0db6f4e8da9dbb1a.json",
-   "recall_photo_local": "thumbs/recall-10976.jpg"
+   "recall_photo_local": "thumbs/recall-10976.jpg",
+   "india_shopping": {
+    "query": "Lights & Sounds Fire Truck Activity Board",
+    "search_key": "google_shopping_bb641d1669d05cd9",
+    "results": 40,
+    "stores": [
+     [
+      "Flipkart",
+      14
+     ],
+     [
+      "amazon.in",
+      10
+     ],
+     [
+      "ubuy.co.in",
+      4
+     ],
+     [
+      "desertcart.in",
+      3
+     ],
+     [
+      "FunCorp India",
+      1
+     ],
+     [
+      "Key Publishing Shop",
+      1
+     ],
+     [
+      "Clapstore Toys",
+      1
+     ],
+     [
+      "Meesho",
+      1
+     ],
+     [
+      "Etsy",
+      1
+     ],
+     [
+      "Zatu Games",
+      1
+     ],
+     [
+      "KidsPark",
+      1
+     ],
+     [
+      "Toy Street",
+      1
+     ],
+     [
+      "fisherpriceindia.com",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_bb641d1669d05cd9.json"
+   }
   },
   "10855": {
    "recall": {
@@ -26413,7 +26919,121 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_1412ba4594c77914.json",
-   "recall_photo_local": "thumbs/recall-10855.jpg"
+   "recall_photo_local": "thumbs/recall-10855.jpg",
+   "india_shopping": {
+    "query": "BBRKIN and MouTec Biometric Firearm Safes",
+    "search_key": "google_shopping_af6dff974501d910",
+    "results": 40,
+    "stores": [
+     [
+      "ubuy.co.in",
+      7
+     ],
+     [
+      "Amazon.in",
+      6
+     ],
+     [
+      "Aajjo.com",
+      2
+     ],
+     [
+      "TATA CLiQ LUXURY",
+      2
+     ],
+     [
+      "F The Box",
+      2
+     ],
+     [
+      "N Medicines",
+      1
+     ],
+     [
+      "Unboxify",
+      1
+     ],
+     [
+      "desertcart.in",
+      1
+     ],
+     [
+      "dealsplant.com",
+      1
+     ],
+     [
+      "vlebazaar.in",
+      1
+     ],
+     [
+      "Yale India",
+      1
+     ],
+     [
+      "Security Plus Electronics",
+      1
+     ],
+     [
+      "Loja Glamourosa",
+      1
+     ],
+     [
+      "Tanotis India",
+      1
+     ],
+     [
+      "Kitchen Brand Store",
+      1
+     ],
+     [
+      "Tradeindia.com",
+      1
+     ],
+     [
+      "Flipkart",
+      1
+     ],
+     [
+      "Royalé Touché",
+      1
+     ],
+     [
+      "Scoffco",
+      1
+     ],
+     [
+      "Vardiano Retail",
+      1
+     ],
+     [
+      "Zeus Kicks",
+      1
+     ],
+     [
+      "Hour Studio",
+      1
+     ],
+     [
+      "mtm-store.com",
+      1
+     ],
+     [
+      "GetUSCart",
+      1
+     ],
+     [
+      "noseunbox",
+      1
+     ],
+     [
+      "Wisycart.com",
+      1
+     ]
+    ],
+    "name": "BBRKIN",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_af6dff974501d910.json"
+   }
   },
   "10831": {
    "recall": {
@@ -26469,7 +27089,85 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_bcbf1aa2159fa796.json",
-   "recall_photo_local": "thumbs/recall-10831.jpg"
+   "recall_photo_local": "thumbs/recall-10831.jpg",
+   "india_shopping": {
+    "query": "Kids Kithmas Plaid Lounge Sets",
+    "search_key": "google_shopping_7e96e91d001063a2",
+    "results": 40,
+    "stores": [
+     [
+      "Shopbloom",
+      5
+     ],
+     [
+      "amazon.in",
+      5
+     ],
+     [
+      "Leveret Pajamas",
+      4
+     ],
+     [
+      "Nykaa Fashion",
+      3
+     ],
+     [
+      "Myntra",
+      3
+     ],
+     [
+      "Childrensalon",
+      3
+     ],
+     [
+      "desertcart.in",
+      3
+     ],
+     [
+      "Koaala Loungewear",
+      2
+     ],
+     [
+      "Mackly",
+      2
+     ],
+     [
+      "ubuy.co.in",
+      2
+     ],
+     [
+      "Childrensalon Outlet",
+      2
+     ],
+     [
+      "littlellama.in",
+      1
+     ],
+     [
+      "kidzology",
+      1
+     ],
+     [
+      "Tidy Sleep",
+      1
+     ],
+     [
+      "thelittletrunk",
+      1
+     ],
+     [
+      "Nap Chief",
+      1
+     ],
+     [
+      "puddleskids",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_7e96e91d001063a2.json"
+   }
   },
   "10818": {
    "recall": {
@@ -26527,13 +27225,51 @@
    },
    "countries": [],
    "stores": 0,
-   "recalled_brand": "Girls",
+   "recalled_brand": null,
    "recalled_brand_listings": 0,
    "selling": [],
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_65637b258cb49be4.json",
-   "recall_photo_local": "thumbs/recall-10818.jpg"
+   "recall_photo_local": "thumbs/recall-10818.jpg",
+   "india_shopping": {
+    "query": "Girls' Sleepshirt and Kids' Unisex Jogger Pajama Sets",
+    "search_key": "google_shopping_5375025283a5d2e9",
+    "results": 40,
+    "stores": [
+     [
+      "Flipkart",
+      19
+     ],
+     [
+      "amazon.in",
+      10
+     ],
+     [
+      "Myntra",
+      5
+     ],
+     [
+      "Myntra - MNow",
+      2
+     ],
+     [
+      "Meesho",
+      2
+     ],
+     [
+      "AJIO.com",
+      1
+     ],
+     [
+      "Nykaa Fashion",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_5375025283a5d2e9.json"
+   }
   },
   "10811": {
    "recall": {
@@ -26594,7 +27330,93 @@
    "india": [],
    "status": "no_copies",
    "raw_json": "data/raw/google_lens_6edfa9ed19e52eae.json",
-   "recall_photo_local": "thumbs/recall-10811.jpg"
+   "recall_photo_local": "thumbs/recall-10811.jpg",
+   "india_shopping": {
+    "query": "Timechee Changing Table Dressers",
+    "search_key": "google_shopping_e3995c9c67b955b6",
+    "results": 40,
+    "stores": [
+     [
+      "ubuy.co.in",
+      7
+     ],
+     [
+      "Amazon.in",
+      5
+     ],
+     [
+      "Neehv Home",
+      4
+     ],
+     [
+      "AJIO.com",
+      4
+     ],
+     [
+      "watchbrand",
+      3
+     ],
+     [
+      "Tiamgee",
+      3
+     ],
+     [
+      "The Watch Factory",
+      2
+     ],
+     [
+      "Tata CLiQ Jewellery",
+      1
+     ],
+     [
+      "Menthome India",
+      1
+     ],
+     [
+      "Sai Creations Watches",
+      1
+     ],
+     [
+      "desertcart.in",
+      1
+     ],
+     [
+      "BlackTree",
+      1
+     ],
+     [
+      "Nykaa Fashion",
+      1
+     ],
+     [
+      "Tata CLiQ Fashion",
+      1
+     ],
+     [
+      "The Time Square",
+      1
+     ],
+     [
+      "ThriveCo",
+      1
+     ],
+     [
+      "Myntra",
+      1
+     ],
+     [
+      "TicTacArea",
+      1
+     ],
+     [
+      "TATA CLiQ LUXURY",
+      1
+     ]
+    ],
+    "name": "Timechee",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_e3995c9c67b955b6.json"
+   }
   },
   "10761": {
    "recall": {
@@ -26645,13 +27467,87 @@
    "kinds": {},
    "countries": [],
    "stores": 0,
-   "recalled_brand": "MultiPurpose",
+   "recalled_brand": null,
    "recalled_brand_listings": 0,
    "selling": [],
    "india": [],
    "status": "no_copies",
    "raw_json": "data/raw/google_lens_ab0f837b584d3d8e.json",
-   "recall_photo_local": "thumbs/recall-10761.jpg"
+   "recall_photo_local": "thumbs/recall-10761.jpg",
+   "india_shopping": {
+    "query": "Multi-Purpose Helmets",
+    "search_key": "google_shopping_54e9d134bb78cdca",
+    "results": 56,
+    "stores": [
+     [
+      "Amazon.in",
+      27
+     ],
+     [
+      "Flipkart",
+      8
+     ],
+     [
+      "Myntra",
+      4
+     ],
+     [
+      "Desertcart.ae",
+      3
+     ],
+     [
+      "Super Biker",
+      2
+     ],
+     [
+      "Jaspo Sporting",
+      2
+     ],
+     [
+      "Bicycle Kart",
+      1
+     ],
+     [
+      "desertcart.com.sa",
+      1
+     ],
+     [
+      "Fabsports 2026",
+      1
+     ],
+     [
+      "Wings On Wheels",
+      1
+     ],
+     [
+      "Motostorm",
+      1
+     ],
+     [
+      "TVS Motors Accessories",
+      1
+     ],
+     [
+      "Helmet Racing",
+      1
+     ],
+     [
+      "Axor Helmets",
+      1
+     ],
+     [
+      "Powersports International",
+      1
+     ],
+     [
+      "The Rider Hub",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_54e9d134bb78cdca.json"
+   }
   },
   "10757": {
    "recall": {
@@ -26732,13 +27628,91 @@
    },
    "countries": [],
    "stores": 0,
-   "recalled_brand": "Various",
+   "recalled_brand": null,
    "recalled_brand_listings": 0,
    "selling": [],
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_170890fde4c3acab.json",
-   "recall_photo_local": "thumbs/recall-10757.jpg"
+   "recall_photo_local": "thumbs/recall-10757.jpg",
+   "india_shopping": {
+    "query": "Various Battery-operated Light Up Toys",
+    "search_key": "google_shopping_03c2285e52225cd7",
+    "results": 65,
+    "stores": [
+     [
+      "amazon.in",
+      42
+     ],
+     [
+      "FirstCry India",
+      3
+     ],
+     [
+      "Zepto",
+      3
+     ],
+     [
+      "sams toy world",
+      2
+     ],
+     [
+      "99wholesale",
+      2
+     ],
+     [
+      "firstcry.com",
+      2
+     ],
+     [
+      "Kidoyz",
+      1
+     ],
+     [
+      "PinkNBlu",
+      1
+     ],
+     [
+      "Kidsinfy",
+      1
+     ],
+     [
+      "Toyworld",
+      1
+     ],
+     [
+      "Digihaat",
+      1
+     ],
+     [
+      "kidland.co.in",
+      1
+     ],
+     [
+      "Tukoy",
+      1
+     ],
+     [
+      "Goyal's",
+      1
+     ],
+     [
+      "Cots and Cuddles",
+      1
+     ],
+     [
+      "aapkaessentials.in",
+      1
+     ],
+     [
+      "addmecart",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_03c2285e52225cd7.json"
+   }
   },
   "10729": {
    "recall": {
@@ -26788,13 +27762,43 @@
    },
    "countries": [],
    "stores": 0,
-   "recalled_brand": "Lil",
+   "recalled_brand": null,
    "recalled_brand_listings": 0,
    "selling": [],
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_0881bc536e76f030.json",
-   "recall_photo_local": "thumbs/recall-10729.jpg"
+   "recall_photo_local": "thumbs/recall-10729.jpg",
+   "india_shopping": {
+    "query": "Lil' Buddies Pet Laser Toy",
+    "search_key": "google_shopping_a919d67efcbdd89c",
+    "results": 15,
+    "stores": [
+     [
+      "Flipkart",
+      7
+     ],
+     [
+      "Amazon.in",
+      5
+     ],
+     [
+      "Made-in-China.com",
+      1
+     ],
+     [
+      "GoSupps.com",
+      1
+     ],
+     [
+      "Meesho",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_a919d67efcbdd89c.json"
+   }
   },
   "10698": {
    "recall": {
@@ -26844,13 +27848,71 @@
    },
    "countries": [],
    "stores": 0,
-   "recalled_brand": "Childrens",
+   "recalled_brand": null,
    "recalled_brand_listings": 0,
    "selling": [],
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_babf07fc22731587.json",
-   "recall_photo_local": "thumbs/recall-10698.jpg"
+   "recall_photo_local": "thumbs/recall-10698.jpg",
+   "india_shopping": {
+    "query": "Children's Loungewear Sets",
+    "search_key": "google_shopping_e587d4f13ecdd530",
+    "results": 55,
+    "stores": [
+     [
+      "TheLoom",
+      17
+     ],
+     [
+      "Flipkart",
+      16
+     ],
+     [
+      "Peekaaboo Kids",
+      6
+     ],
+     [
+      "Amazon.in",
+      5
+     ],
+     [
+      "ajio.com",
+      3
+     ],
+     [
+      "Etsy",
+      2
+     ],
+     [
+      "Sanright",
+      1
+     ],
+     [
+      "Hopscotch.in",
+      1
+     ],
+     [
+      "Myntra",
+      1
+     ],
+     [
+      "firstcry.com",
+      1
+     ],
+     [
+      "Moms Home",
+      1
+     ],
+     [
+      "Cuddly Cubs",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_e587d4f13ecdd530.json"
+   }
   },
   "10668": {
    "recall": {
@@ -26903,7 +27965,61 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_d2a5cec24d04978c.json",
-   "recall_photo_local": "thumbs/recall-10668.jpg"
+   "recall_photo_local": "thumbs/recall-10668.jpg",
+   "india_shopping": {
+    "query": "Aisstxoer Adult Bike Helmets",
+    "search_key": "google_shopping_2fabd34e8840fa55",
+    "results": 50,
+    "stores": [
+     [
+      "Amazon.in",
+      14
+     ],
+     [
+      "Bike Experts",
+      11
+     ],
+     [
+      "Axor Helmets",
+      11
+     ],
+     [
+      "Always Riding",
+      4
+     ],
+     [
+      "The Rider Hub",
+      3
+     ],
+     [
+      "Bandidos pitstop",
+      2
+     ],
+     [
+      "Bicycle Kart",
+      1
+     ],
+     [
+      "Motorizzr",
+      1
+     ],
+     [
+      "Motostorm",
+      1
+     ],
+     [
+      "Cobbled Climbs",
+      1
+     ],
+     [
+      "Htrz Modz",
+      1
+     ]
+    ],
+    "name": "Aisstxoer",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_2fabd34e8840fa55.json"
+   }
   }
  }
 }

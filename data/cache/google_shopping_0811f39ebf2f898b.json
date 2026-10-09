@@ -1,0 +1,26 @@
+{
+ "search_metadata": {
+  "id": "6ac89cb2477874cca61a799d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/no5wXUSEgpz-hreCg_NRg6_3cuM2is1n4s-ZOPNJap4/6ac89cb2477874cca61a799d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/no5wXUSEgpz-hreCg_NRg6_3cuM2is1n4s-ZOPNJap4/6ac89cb2477874cca61a799d.md",
+  "created_at": "2026-10-09 07:50:10 UTC",
+  "processed_at": "2026-10-09 07:50:10 UTC",
+  "google_shopping_url": "https://www.google.com/search?udm=28&q=Member%27s+Mark+Children%27s+Valentine+SS+Notch+Collar+Pajama+Sets&hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/no5wXUSEgpz-hreCg_NRg6_3cuM2is1n4s-ZOPNJap4/6ac89cb2477874cca61a799d.html",
+  "total_time_taken": 48.48
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Member's Mark Children's Valentine SS Notch Collar Pajama Sets",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Member's Mark Children's Valentine SS Notch Collar Pajama Sets",
+  "shopping_results_state": "Fully empty"
+ },
+ "error": "Google hasn't returned any results for this query."
+}

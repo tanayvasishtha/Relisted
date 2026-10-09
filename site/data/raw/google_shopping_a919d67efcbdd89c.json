@@ -1,0 +1,395 @@
+{
+ "search_metadata": {
+  "id": "6ac89d0ac2bb99a6ef17772a",
+  "status": "Success",
+  "created_at": "2026-10-09 07:51:38 UTC",
+  "processed_at": "2026-10-09 07:51:38 UTC",
+  "google_shopping_url": "https://www.google.com/search?udm=28&q=Lil%27+Buddies+Pet+Laser+Toy&hl=en&gl=in",
+  "total_time_taken": 4.29
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Lil' Buddies Pet Laser Toy",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Lil' Buddies Pet Laser Toy",
+  "shopping_results_state": "Results for exact spelling"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "cat Pointer Light Toy,cat Toys For Indoor Cats",
+   "product_id": "11597931490784076697",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=catalogid:11597931490784076697,productid:17033963599686565458,headlineOfferDocid:11022910136035811440,imageDocid:14905465848768715057,rds:PC_5658849516685328672|PROD_PC_5658849516685328672,gpcid:5658849516685328672,mid:576462879837160802,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Made-in-China.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAeFBMVEX____aKRzjcGvZHw7yw8HYDgDaJhjXAADcOC776efZGQDZIhLkbWbZIA_0zMv65OPfSkHbMif429n-9vbkaGDurqzojor21dTgYFrzvbr76OfeRDrngXvsmZP87-_gVk7leHHtoJvoh4LhXVbxtrPvqaXyxsXni4jGdoKfAAABKUlEQVQ4jc3R246DIBAGYA4F7EBBsIpWa8XW9f3fcKk2XWNJ9mqTHS_8M_MREgahf1iNeQWjk3NtL2so8kNq3rf2uKZOJEEN2QpKYClwZXwFTvAUOAi-gt5ynAAOg12BojgB-hvrFH2CCnAKDCyPR7MLaihPgcCsDxH0Zpl_AC2gISOhmckklvYDGCtCEKM6ZTXF0BG5A0XNhkaCVvE0pveCnHZgZNZZVqGzxJhbg9QOTIy7nCm0ABHXuAMe4NGxvF8Am9AeHLmoggAX410I8mzVgm22abQuvHbLa8f4-ut-_5J_VuSXQnRTABAXRbHc9BB-l9SDC6Uvpy_d8nd3AyAcmkflH7P2d5kCtNLEj9M5XEuVBLytrWrnuZ6Hnxu2AHMZP0olPW2a3-m2EeI-r0znAAAAAElFTkSuQmCC.png",
+   "multiple_sources": true,
+   "price": "₹96,621.81",
+   "extracted_price": 96621.81,
+   "alternative_price": {
+    "price": "$1,000",
+    "extracted_price": 1000,
+    "currency": "$"
+   },
+   "rating": 4.7,
+   "reviews": 192,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKlceHxbg7gcmIugtVbaVsFs8JtKVoDfrXm-46zxALPA8uXAflha_omhLDdqDKoxOPfSHi6L_8WJiSZYH81f58KouDppF2CRD4zFshHKeWudtN4GwUsOT_",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/rc8C_XicDcndCoIwGADQJ1IprJYQIQ2zJhb9qHUjOnUTnJvuk8yH6n16mzq35_vhAEo7llW2tH8rKAsD8nZmMg0Z1NSkUliaS6Xqlm27zf8cNyzWe3ohDS39MWcrRsVhYBDlWaQ9jY5AIomrPhGGvZxGNzi7aEjcquFZKgUPcNFhIsfTubr69TJIUXysr8-Hj2bVAhE5YKW8-e6C7cnT3CdlPBQQ2vvXXZ9u6Q-CNj7d",
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 2,
+   "title": "Athravtoys Pet Laser Toy",
+   "product_id": "6153850136811893080",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=catalogid:6153850136811893080,productid:3249038681932965569,headlineOfferDocid:17222544090289107107,imageDocid:17535512327311295793,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d0ac2bb99a6ef17772a/images/ovSjEcoq1_h8VQjhEDqgwlWKieGRCQtVqJbEAG1XTsE.png",
+   "price": "₹348",
+   "extracted_price": 348,
+   "old_price": "73% off₹1,299",
+   "extracted_old_price": 73,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS9TpUyPNjsF0-7jYqJLwRfIR-kIVCSsM0EwczqAkNEn75hIZ9bip6Jcv1wozcY-TdOMuRzRU12bjHFPxSkogD8yJt7eTIYE7mASTD6z5ss",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/pZ_wt3icDcnbCoIwAADQL5qXIJdChKTWJE10BvaW07zhNtvK3Of0V_1Nndfz_bRScuHoek3JY-GyroAsqak1Qt5kRzTCRl20jPOONrtp-z_HjSv7QDIb83xJ4l4EBoB9MYWnOb2jFAzoss9EZPgzUZM7xD6F6xZd7bLjVkhe5swUKQCuztEzVWlursr-GCTvbGCNt1lCCWuMCh-OboY9S62F-AFFeTnM",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 3,
+   "title": "Rainrider Pet Laser Toy",
+   "product_id": "15219877032610946391",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=catalogid:15219877032610946391,productid:2275240774464977855,headlineOfferDocid:13353931011495113607,imageDocid:13274620647367829082,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d0ac2bb99a6ef17772a/images/ovSjEcoq1_h8VQjhEDqgwqNvR3AYrjqeVAHa7SKUd5o.png",
+   "price": "₹195",
+   "extracted_price": 195,
+   "old_price": "67% off₹599",
+   "extracted_old_price": 67,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRPfGFcOidiwNhAhSsVCJLtvWyRpl0LKu_vyOiO_ngrBTrBKfY3foQOUuPKMUwlR_Y6-XaOKQ5gaGvqswhwqbEv97a0bXOT7jBdK1q9sEqVJENiXN1KXS4NGA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/zs25nnicDclJDoIwAADAF7G5BhJjwCCJ1ZZFEE4EytIahZYWCL_yO_5G5zrfD5GSCUvT6g4PC5N1pciyW6mtkIWkWMX9WxOkZ4x27ZEf_mfZsDI9HPqNd8aIVnSGxCaRSE6Xq5weS8he-hWM-bQgivKuHZz74IAmWzd9gOLRB7d4foV5tlPSAoFg2xbexMVMZl66k7kv9DJF9_3TqYDBTeHy5OJCmkIDpNEGevYPHE8_bw",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "Mmj Pet Laser Toy",
+   "product_id": "15418626422596038753",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=productid:15418626422596038753,headlineOfferDocid:15418626422596038753,imageDocid:17552148838035151216,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d0ac2bb99a6ef17772a/images/ovSjEcoq1_h8VQjhEDqgwl-y8bBY7bY5DN8BOPRK-G8.png",
+   "price": "₹256",
+   "extracted_price": 256,
+   "old_price": "36% off₹399",
+   "extracted_old_price": 36,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSokWGZJfOo6cv14km0BMPqoMycwku8ArFPN2ksaMbr4CB-iZRczBwFeU3AMN7au6lIHOohWkTXw30m5lTU5tQaf1lrTDWEum2yyZT41RoJudfTYR2P-afj",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/wMMbTXicDclJDoIwAADAF7EKqCTGgApKwiKWoNxKWS1QllaCj_I__kbnOt9PRWk_6YKQd2hceppnHE07kS8nCmmNeERaYapI39dduR92_9MNL9va6EZwbCdO4RMNvSQFt6LpBgNxFzRjtjFGK_BkPEE3HZWDydVJiN7mbOXRynC9NWRaczn7pIoxuM8rsVUbEKn0CgupGcExPrFWXpYEKFJIHJYV4BHKAQeL5w834j4e",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 5,
+   "title": "Suraj Pet Laser Toy",
+   "product_id": "7011928803027969574",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=productid:7011928803027969574,headlineOfferDocid:7011928803027969574,imageDocid:3978815435967686426,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d0ac2bb99a6ef17772a/images/ovSjEcoq1_h8VQjhEDqgwsp4t-P2yTEYyw7aXZPIYVM.png",
+   "price": "₹259",
+   "extracted_price": 259,
+   "old_price": "71% off₹900",
+   "extracted_old_price": 71,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTPs7fZh0bmQDVzwq_msM9FdRc551zhXtXS1CQvMc7SErqoS4wRj9x3r_iMcCxqS9Ru-C8Pg7tgHGiyhBEQHos6HWI0qzoxHLC3fgnPXV8",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/nJJKGHicDclJDoIwAADAF7GpyJIYoxWpiRgWg8QLkQJtTaCUVll-47P8jc51vh8iZSdcTata1E-drEpFFu1CxUI-JEUqYo0mCOs62uIt3_zP3V1Kx0fXUFj1nehFEx3SeeB5IwLnWMbINI2ZZDJLDBC9A2QlXs9ZshripzMu-5wGCIw8ceKXAuwQWxJDn05k70WQiTW8nXQ-sxGewbLGbZil9g822jnt",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 6,
+   "title": "Windwarrior Pet Laser Toy",
+   "product_id": "9126039606715957282",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=catalogid:9126039606715957282,productid:14197218069648250964,headlineOfferDocid:6749129319359154063,imageDocid:226649290749429317,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d0ac2bb99a6ef17772a/images/ovSjEcoq1_h8VQjhEDqgwjCbsFqIjlDhHw0wQ2GJ-VU.png",
+   "price": "₹257",
+   "extracted_price": 257,
+   "old_price": "57% off₹599",
+   "extracted_old_price": 57,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTcjR99qzzrqlifSk7tZL-rBo5oBizfg0MPTeCqAuDDNWL-0sBfMUGTd6PAeQh9VnzqdlWOJsQh3sFJi1-u7KG32Oha0U_KW5hFTgRtTHNV8SfVv11Qmta1",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/0bPTxXicDclJDoIwFADQEyFUggiJMaARg8wUSNwYLEPrAJR-TORQ3sfb6Nu-74cCDMKU5boj43uAupLg2qFFK6AERhakf8qC9sPAunbLN_8zraAyHILJLTEMPs8jf7Amvetw9qTR7rXeZnPTKn6E6x23pv0-KDxJEXbjZw6uVpFVx9TIu5lXjyJ0RUxVcXAZkib95KjLkJZKdjkVGj3gNgF8DPJ12uQvhOInlOgHQ2Y9gg",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 7,
+   "title": "Cat Toys Interactive LED Laser Toy Auto Rotating Cat Exercise Training Entertaining Toy Multi Angle Adjusted Cat Teasing Device",
+   "product_id": "7646897961762473855",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=catalogid:7646897961762473855,productid:8121065918968149857,headlineOfferDocid:13630621705509150157,imageDocid:3268276377738274960,rds:PC_12677608598042578670|PROD_PC_12677608598042578670,gpcid:12677608598042578670,mid:576462880768527121,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "GoSupps.com",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAkFBMVEVHcEwgerIab6MAAAAigr8EGycWi8gTfbQxZ5oBCAwlaZwdgr0vap8XfLMjYI4SRGMXXYgpd7AffbYcXosnebMVldYYj88VV30Yh8Mja58tap8bjMoYfbUZk9QrdK0jc6kdjMwrdKwYktIwbcUUmd0wap8ubaIfh8Uod7EtcKgWltclfbgWldcYktMbjs0WltjTjh7vAAAAI3RSTlMAe2UE_iZiZtcLdpyqNjU3QvOMSd_ZgBxSh-bBLOXOQ9jEqcNA1yIAAAEKSURBVDiN7ZLbcoMgEIYXBS2eY6vRHJrDWIEK-P5v14VocpHc9bL9ZsSf_Xd2VxDgnwdF9vZEVjz87Osl2epfxnFUaryjxt1udPvPm58opbKSe3rUCQtRMRcmzg83UgbrLFLK7aJDhoYTlZRYqrh8IOj3ADU6mxTCRMqT6zBNMXA6Je9IP52gmjwxlHRyPQilqEXt6wY0x8dDgAnqEgIhUuBnDIkDbjqMe3KohIgxgVlhQ-AxIWQLgd0DL-s0rfGYUmHdxHxv7ZEvowfWtuvxRMae_eeU2hh9jTypMebYdnnetY02-uAzeTDMWn875hkXfXtrPURLLV41wwua_H5ZIWfxE-xX_8ff4wcRHSH0FjxnTAAAAABJRU5ErkJggg.png",
+   "price": "₹6,279.45",
+   "extracted_price": 6279.45,
+   "alternative_price": {
+    "price": "$65",
+    "extracted_price": 65,
+    "currency": "$"
+   },
+   "rating": 3.1,
+   "reviews": 92,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQm1otR-2VD5fSp4Bw27o_aMv6Mo_VylYy33iLUTAA2GNKf67WptwrtVOYRnjf1SXwdGG1oE-ksVauTtsq9ChkJUUjonamNVX74kR4_rZjTzK6ofNM7Xk76Jg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qTUf0HicDclLDoIwFADAEwGCSAOJMfgJCQhGhIpuCIL8Km2hTwmeyut4G53tfD81ABeWotxpPkwc7oUENzqTKwEZNLmcs04RNeO8odWqX_7PsoPCdPJjpzIIJQ1vF-WJ6-tRQyzN_JfhsxRPj8s0nzf7OLJtzQm80kBnDuMA-HAJaVuqp2QsHEdlO4kInD0jEL25qYkbxy2jWRfgBOkk1NPh2kZvz2Bl4KOEIMOtfpP7PsE"
+  },
+  {
+   "position": 8,
+   "title": "Mmj Pet Laser Toy",
+   "product_id": "12371987345021201098",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=productid:12371987345021201098,headlineOfferDocid:12371987345021201098,imageDocid:10028756128655424199,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d0ac2bb99a6ef17772a/images/ovSjEcoq1_h8VQjhEDqgwoIZIT3x5lYASuTyHvPSsVM.png",
+   "price": "₹283",
+   "extracted_price": 283,
+   "old_price": "29% off₹399",
+   "extracted_old_price": 29,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR2GTOQnUMeK1vYgeH3LwRTBl-N2XB6B7TYjwDFR8og41XlDXbHXbq_ACw0ej-1j4ItCR9hGKDCOzlofcthlXk4okEVbyRRNTsoY298p0z9uQyG2BFCiS2l",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/M2RPI3icDcltDoIgAADQE5mKrtStNdG0Zukka_irJZEfkWBSTg_VfbpNvb_v-6mkFL2jqrQlz1FIelVk0RqzspcXWZMZ4Q-1r7gQdVuuuuX_HDe-2iFBIMyStD3uaaS_85JujN2AMsiUGGA4h4ssbwY_QBYvTR0zHxcbXHRn1xs02ih6Y26lh-wqjHwvmRi_EVkxfDf5fX0qRoTirOc5sC2hTfYrHUMAA68-APYDvyM8vQ",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 9,
+   "title": "Qpets Cat Laser Pointer with 5 Patterns and USB Rechargeable Design",
+   "product_id": "6635050034135265815",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=catalogid:6635050034135265815,productid:16907181789043185511,headlineOfferDocid:14346994437836493834,imageDocid:5589984142573478325,gpcid:7650021534347055261,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹339",
+   "extracted_price": 339,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTB1r_2wMZ1SUuRFt9BK-cz6X8nq-l9nrusPZWWhwoTJL6TtPzHYAJN6EGdCRJrP6Ag4rDex7JSRfs2oWeYk7uSpCw19O-rI8GVgg13FDprbXnCtl5tkJhF",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/bSNVe3icDcndEoFAGADQJ0qzfqJmjKkoFmkqKjeGLZsp27b7NdFDeR9vw7k9308BwKWhqjkj4s0hzxS4MTSgEq7wIANSP1VZ1Jw_GF008_8ZppfpLoksJC7Dbn9G4bENHNCtrUJ6LZmxRql0Jlrpn-O46OoI77QI_H6dmtjTVm5mB1j4mknHYpm_pjgM7nJYx3laTtuQ2x3SD4rYzNwTpWjkLLm4JcyGagIlLpwf-Pw9aA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "Laser Pointer for Cats Dogs, 1 Pack Laser Pointer Cat Toys for Indoor Cats Laser Toy Pet Cat Dogs Chaser Laser Light Toy Tease Cat Chasing Training",
+   "product_id": "2011151157465014508",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=productid:2011151157465014508,headlineOfferDocid:2011151157465014508,imageDocid:586183498758381735,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹359",
+   "extracted_price": 359,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTgHe3rYCFpbZsHVbelD96erkdCHwsvzu2TWK9i3l3S9grf_hUKGkoV_Sm4oVrAWKdeWLEU4FBzMdz78ru9aPE_KK3VMjmw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Pmlv83icDcnbCoIwAADQL0qhSTUhoswLLCNQJ_Uiuq1pXra2meSH9G_9TZ3X8_3Uxkjt2jYbiHpLw-jCVAOwuDalaYhFRG_rWkjZDHz33P7P3Z8pDEnKIwbU1QtkddMRrlh3hCumWupFk37N4zLNEWxABxLI1b2oMxS2AhdJ7wis9jmiLD_5mRMc5pjO640aYXnxC4QAjh_99APOHTZY"
+  },
+  {
+   "position": 11,
+   "title": "Qpets Cat Toy Laser Pointer",
+   "product_id": "11468164952844382811",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=catalogid:11468164952844382811,productid:7085642111108155047,headlineOfferDocid:7133771813431627222,imageDocid:1424271796722035115,gpcid:1297168309970732129,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹341",
+   "extracted_price": 341,
+   "old_price": "Was ₹599",
+   "extracted_old_price": 599,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTu9lt37KM2oglVAT-HZQzW9B0MLh6ATN1YRDE_aKQNtGiAk0G3lI1GDh-78aEqlFVoSJoO6KJ-bVdHY27aSxTaUdup9DgXovqVP_hXtvYR13rfZ7o1dpvc",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/z9iOJXicDcnxDoFAHADgJ0rObSWbWVaiFClR_7Rzl65Jd-lXw0N5H2_D9-_3_XAA2c1UtWjo4yWhYApcGjwqOyBQ0REVd7XjQsqqKRft_H8zM2CGQ-PeqAHrnj8RZZ2YsbLOwvfJWI79LdfMOEDpwbJz4oUBOJV5Gzu43iDH4oo-JXZbrxIRuWKnea5ySdg6negkesbkyHppWOVZDG2yz_kZhvSA8OOa6QIxOdAfkfs8qg",
+   "tag": "43% OFF",
+   "extensions": [
+    "43% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 12,
+   "title": "Foodie Puppies 3 in 1 USB Laser Pointer Cat Teasing Toy with 5 Adjustable Patterns I Pet Chaser Tease Stick Pointer Toys for Cats, Kitten, Puppies &",
+   "product_id": "15134793525120042313",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=productid:15134793525120042313,headlineOfferDocid:15134793525120042313,imageDocid:11947936693278221838,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹343",
+   "extracted_price": 343,
+   "old_price": "Was ₹432",
+   "extracted_old_price": 432,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6utdYmh7IAXRVi_ZXqTi9tYH8WQaAff_RWRogZoY-Y0rZ1zuG-3gQHQ4D6oFfIdrT1mTC-VbMCYxo43418mQkHEIsXdPO5-SyoMl5Gbz3oT2LHa2jYj6PWg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/narV73icDclJDoIwAADAFxVkFU2MIS5A4kKRCOVCgEIBhVZaEuFVfsff6Fzn-6mFYHwty2VfDBMTJQYi71WJcJGJppAK2sm8pow1Pdm-Nv9b2xe8cgpojgKjrl56dhzcmzSJX2GzEsi1IpjZVZUGUUBJQhFAiyFR5tEBGoEu1PcmPVYeHkKlC3fgnp936E11TVesDj7cg8dj7F8NcJvo-Wk4-azRUD25mdqi1vQj8gOFAT2A",
+   "tag": "20% OFF",
+   "extensions": [
+    "20% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 13,
+   "title": "Smart Pet Pet Laser Toy",
+   "product_id": "6548447967000955174",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=productid:6548447967000955174,headlineOfferDocid:6548447967000955174,imageDocid:4995050670969188965,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac89d0ac2bb99a6ef17772a/images/ovSjEcoq1_h8VQjhEDqgwjNt2HIKqaGI7kGL_Kh_N5g.png",
+   "price": "₹369",
+   "extracted_price": 369,
+   "old_price": "26% off₹499",
+   "extracted_old_price": 26,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhPm37jmDRJsL-Z0GGY5ULi6pTzKtjyqG4H5iQcjUDAt_e1-ueA-8_JUFMltBzDhBCv-UhNx8G_suSWAjay-XcgF9RdCLx2avR7gFfK3H1xtCHS2GiOMKNsQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/1cyreHicDclJDoIwFADQExXEiSExBiGUMCkocdgQLEhLBKv9GOBUXsfb6Nu-74cCcGHIctmS18ChLBBcW0WqBOTAiEQejSzog3PWVuvn6n-GGRU6JjHdNTO1buzEEwG6TDA-L9KALflh9KEennjuLlhM6tQ2ISsV1JUm0jIvdcI7bEabbqw3SmnUazgT3f5o1vmATqRy9KSwgn6avxO1cm7-zFV6sNz9FLNt6Eci_gFkaT2V",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "Qpets Cat Chasing Toy USB Charging with 5 Switchable Laser Patterns",
+   "product_id": "3448479371821022388",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=catalogid:3448479371821022388,productid:3936404585871933851,headlineOfferDocid:8306200840130832698,imageDocid:1942117763356845873,gpcid:3850248918358714078,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹428",
+   "extracted_price": 428,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS__lehDsqt2SELeLMo12lUV774jM4yZu82LPBCJ5AKBIxPIvMGyc1lng6QwA_oHRTys4gEB5Mf1cpBxC_gmLtsY4THL8zOsiy30TkMcOksKdq5EISrr-J-eA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ddN0InicDclJDoIwAADAFyGCoEhiDChhawUFTfRCtNSCbIXWpb7K7_gbnet8PwXnlJmyjFs0CMpxLvFLq4wI42deohHqGpkVHaVlS5b94n-mtcnnLkqyrMbFmvVcTRyAAewUtd4fZjPtBjVxuhsqiO1VoFuh7b9i_wFdgZS6JdPt08o6b5cKphHH1uFVQdR-rTLSAM6OWuoB4x2xUkzGaQVRVLEw73XHT4ZBCiRs_QBxGT3v",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 15,
+   "title": "Laser Pointer for Kids Play Light Toy Cute Keychain",
+   "product_id": "3185791451735364692",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Lil' Buddies Pet Laser Toy&prds=catalogid:3185791451735364692,productid:13286490235144628261,headlineOfferDocid:17232663041060720438,imageDocid:8487642951264459106,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meesho",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVgAUr_lwBfAEtfAEr_lgDthQjqggp0FEFvD0PnfwtxEUL_mQCfPC1oCEbbdRF8Gz20UCP3kASiPyvifA2ZNjBsDEScOS59HD21USPviAd2FkCTMDKVMzGyFfSEAAAAwklEQVQ4je2S4Q6DIAyEhQIqIiqIU_T9n3MUmLKY7PeW7BLN13pXK7GqfkuU3ql4Cr2UPdCSSsEwaiH0OAA96c2gOIkSyyIScVXm1UQYI3hNF6lzBh04YYRxHm5BmQh_vPaAFUvlvdkwuhnvFUbWPAJ6HfqKBhmcYJBUcOo-OagMe_Eav9BvhGweqQ5bC5neEYu2gWyNbWjaHPobTgM423XxWCNZB_H4M0XN1u6JD2uPlNqtna8fwrkbwdXDCj7R9-sJKucL5XSGs88AAAAASUVORK5CYII.png",
+   "price": "₹187",
+   "extracted_price": 187,
+   "old_price": "63% off₹499",
+   "extracted_old_price": 63,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRHp3z5I-ACIGaptNw90kKDI-Tgjap67bYPzyKBYkilWzI8MV-Jo8CS8J8Enj9aLffOY_OOPDcoZlUhexEIB1DkkqlUWCg-h-NvUI7bwzWuxyk6XI6p7HD7",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/OfMyyHicDclXDoIwAADQExUckZUYwwoUFIiKiD8Gyi5CkSrjUN7H2-j7fd9PQSnpJZZNG_ScCE0TQONmxeQ9jWiJGNQ-2L5oCSmbfNdt_yfJTiIa6GiS9byBQFahERHqDOIC2xoE57yKCMfHoTdPthLisg5mKBwuwGoF9SRYgt5UYrTPMje8u66nofZW-0U66lBZahh3tR-oOSiA8_YhHw9z8BonzF0hR3hT43_hnD0-",
+   "delivery": "Free delivery"
+  }
+ ],
+ "filters": [
+  {
+   "type": "Sort by",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Relevance",
+     "shoprs": "CAEYFyoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIKCBcqBBABGAFQBGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=lil+buddies+pet+laser+toy&shoprs=CAEYFyoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIKCBcqBBABGAFQBGAC"
+    },
+    {
+     "text": "Price: low to high",
+     "shoprs": "CAEYFyoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIeCBcSElByaWNlOiBsb3cgdG8gaGlnaCoEEAEYAVABYAKIAQE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=lil+buddies+pet+laser+toy&shoprs=CAEYFyoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIeCBcSElByaWNlOiBsb3cgdG8gaGlnaCoEEAEYAVABYAKIAQE"
+    },
+    {
+     "text": "Price: high to low",
+     "shoprs": "CAEYFyoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIeCBcSElByaWNlOiBoaWdoIHRvIGxvdyoEEAEYAVACYAKIAQI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=lil+buddies+pet+laser+toy&shoprs=CAEYFyoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIeCBcSElByaWNlOiBoaWdoIHRvIGxvdyoEEAEYAVACYAKIAQI"
+    },
+    {
+     "text": "Rating: High to low",
+     "shoprs": "CAEYFyoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIfCBcSE1JhdGluZzogSGlnaCB0byBsb3cqBBABGAFQA2ACiAED",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=lil+buddies+pet+laser+toy&shoprs=CAEYFyoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIfCBcSE1JhdGluZzogSGlnaCB0byBsb3cqBBABGAFQA2ACiAED"
+    }
+   ]
+  },
+  {
+   "type": "Shops",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIMCAISCEZsaXBrYXJ0WIbHIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+lil+buddies+pet+laser+toy&shoprs=CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIMCAISCEZsaXBrYXJ0WIbHIGAC"
+    },
+    {
+     "text": "Meesho",
+     "shoprs": "CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIKCAISBk1lZXNob1iGxyBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=meesho+lil+buddies+pet+laser+toy&shoprs=CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIKCAISBk1lZXNob1iGxyBgAg"
+    },
+    {
+     "text": "Amazon.in",
+     "shoprs": "CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTINCAISCUFtYXpvbi5pbliGxyBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=amazon.in+lil+buddies+pet+laser+toy&shoprs=CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTINCAISCUFtYXpvbi5pbliGxyBgAg"
+    },
+    {
+     "text": "Shopsy By Flipkart",
+     "shoprs": "CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIWCAISElNob3BzeSBCeSBGbGlwa2FydFiGxyBgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=shopsy+by+flipkart+lil+buddies+pet+laser+toy&shoprs=CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIWCAISElNob3BzeSBCeSBGbGlwa2FydFiGxyBgAg"
+    },
+    {
+     "text": "desertcart.in",
+     "shoprs": "CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIRCAISDWRlc2VydGNhcnQuaW5YhscgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=desertcart.in+lil+buddies+pet+laser+toy&shoprs=CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIRCAISDWRlc2VydGNhcnQuaW5YhscgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Brand",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "MMJ",
+     "shoprs": "CAEYASoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIVCAESA01NSjoMCIPzPBCj8__dAzABWIbHIGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=mmj+lil+buddies+pet+laser+toy&shoprs=CAEYASoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIVCAESA01NSjoMCIPzPBCj8__dAzABWIbHIGAC"
+    },
+    {
+     "text": "Smart Pet",
+     "shoprs": "CAEYASoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIaCAESCVNtYXJ0IFBldDoLCIPzPBDCjNACMAFYhscgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=smart+pet+lil+buddies+laser+toy&shoprs=CAEYASoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIaCAESCVNtYXJ0IFBldDoLCIPzPBDCjNACMAFYhscgYAI"
+    },
+    {
+     "text": "Suraj",
+     "shoprs": "CAEYASoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIXCAESBVN1cmFqOgwIg_M8EMjigt4DMAFYhscgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=suraj+lil+buddies+pet+laser+toy&shoprs=CAEYASoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIXCAESBVN1cmFqOgwIg_M8EMjigt4DMAFYhscgYAI"
+    },
+    {
+     "text": "Foodie Puppies",
+     "shoprs": "CAEYASoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIgCAESDkZvb2RpZSBQdXBwaWVzOgwIg_M8EM_69skFMAFYhscgYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=foodie+puppies+lil+buddies+pet+laser+toy&shoprs=CAEYASoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIgCAESDkZvb2RpZSBQdXBwaWVzOgwIg_M8EM_69skFMAFYhscgYAI"
+    }
+   ]
+  },
+  {
+   "type": "Carousel Filters",
+   "options": [
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIMCAISCEZsaXBrYXJ0WIbHIGAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+lil+buddies+pet+laser+toy&shoprs=CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIMCAISCEZsaXBrYXJ0WIbHIGAB",
+     "input_type": "link"
+    },
+    {
+     "text": "Cat Toys",
+     "shoprs": "CAEYCSoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIMCAkSCENhdCBUb3lzYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=cat+toys+lil+buddies+pet+laser+toy&shoprs=CAEYCSoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIMCAkSCENhdCBUb3lzYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "Meesho",
+     "shoprs": "CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIKCAISBk1lZXNob1iGxyBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=meesho+lil+buddies+pet+laser+toy&shoprs=CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIKCAISBk1lZXNob1iGxyBgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Amazon.in",
+     "shoprs": "CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTINCAISCUFtYXpvbi5pbliGxyBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=amazon.in+lil+buddies+pet+laser+toy&shoprs=CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTINCAISCUFtYXpvbi5pbliGxyBgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Shopsy By Flipkart",
+     "shoprs": "CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIWCAISElNob3BzeSBCeSBGbGlwa2FydFiGxyBgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=shopsy+by+flipkart+lil+buddies+pet+laser+toy&shoprs=CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIWCAISElNob3BzeSBCeSBGbGlwa2FydFiGxyBgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Laser Pointers",
+     "shoprs": "CAEYCSoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTISCAkSDkxhc2VyIFBvaW50ZXJzYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=laser+pointers+lil+buddies+pet+toy&shoprs=CAEYCSoZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTISCAkSDkxhc2VyIFBvaW50ZXJzYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "desertcart.in",
+     "shoprs": "CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIRCAISDWRlc2VydGNhcnQuaW5YhscgYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=desertcart.in+lil+buddies+pet+laser+toy&shoprs=CAEYAioZbGlsIGJ1ZGRpZXMgcGV0IGxhc2VyIHRveTIRCAISDWRlc2VydGNhcnQuaW5YhscgYAE",
+     "input_type": "link"
+    }
+   ]
+  }
+ ]
+}
