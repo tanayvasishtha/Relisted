@@ -2,7 +2,7 @@
 
 Relisted takes the photo from a US product recall notice, asks Google Lens through SerpApi which pages carry it, and sorts the answer into store listings by country.
 
-![A recall notice photo and the store listings Google Lens matched to it](site/og.png)
+![The Relisted home page: the AiTuiTui recall notice photo beside store listings Google Lens matched to it, captioned by country](docs-img/hero.png)
 
 Live site: https://tanayvasishtha.github.io/Relisted/
 
