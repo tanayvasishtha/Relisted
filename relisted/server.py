@@ -1,7 +1,8 @@
-"""The site plus live Lens search, on this machine only. Run with `relisted serve`.
+"""The site plus live search, on this machine only. Run with `relisted serve`.
 
-A live search costs one SerpApi search, so each request carries a cap of one, and a custom header is
-required: a web page on another origin cannot send it without a CORS preflight, which this server refuses.
+A live search costs two SerpApi searches (Lens on the photo, Google Shopping India on the name), so each
+request carries a cap of two, and a custom header is required: a web page on another origin cannot send
+it without a CORS preflight, which this server refuses.
 """
 
 from __future__ import annotations
@@ -17,7 +18,7 @@ from fastapi.staticfiles import StaticFiles
 from serpapi import SerpApiError
 from starlette.middleware.base import BaseHTTPMiddleware
 
-from . import publish, stats, store
+from . import publish, shopping, stats, store
 from .config import ROOT, load_settings
 from .hunt import best_photo, hunt
 from .recalls import fetch, ranked
@@ -27,6 +28,7 @@ SITE = ROOT / "site"
 mimetypes.add_type("font/woff2", ".woff2")
 STATUS_TTL = 60  # seconds the free Account API answer is reused
 CANDIDATES = 12
+SEARCH_CAP = 2  # one Lens search and one Google Shopping India search
 
 _lock = threading.Lock()  # one search at a time, and trails.json is written by one request at a time
 _status: dict[str, Any] = {"at": 0.0, "value": None}
@@ -107,7 +109,7 @@ def search(recall_id: str) -> dict:
     recall = next((r for r in fetch() if r.recall_id == recall_id), None)
     if recall is None:
         raise HTTPException(404, f"No recall with id {recall_id}.")
-    client = SerpClient(settings=dataclasses.replace(settings, max_credits=1))
+    client = SerpClient(settings=dataclasses.replace(settings, max_credits=SEARCH_CAP))
     with _lock:
         try:
             trail = hunt(recall, client)
@@ -121,7 +123,12 @@ def search(recall_id: str) -> dict:
             raise HTTPException(
                 422, "This recall has no listing-style photo, so Lens would only find look-alikes."
             )
-        done = publish.publish_trail(trail.to_dict(), settings)
+        found = trail.to_dict()
+        try:
+            shopping.check(found, client)
+        except (SerpApiError, BudgetExceeded):
+            pass  # the Lens result stands on its own; the page shows no name check
+        done = publish.publish_trail(found, settings)
         trails = store.load().get("trails", {})
         trails[recall_id] = done
         store.save(trails, client.credits_used)

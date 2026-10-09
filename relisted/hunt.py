@@ -1,8 +1,8 @@
 """From one recall to its trail: every page Lens matches to its listing photo, sorted into evidence.
 
-This is the only module that spends SerpApi credits. A recall with a seller-style
-photo costs one Lens search. A recall with only lab photos is skipped by default:
-no store uses those photos, so Lens can only return other products that look similar.
+A recall with a seller-style photo costs one Lens search; the name search lives in shopping.py.
+A recall with only lab photos is skipped by default: no store uses those photos, so Lens can
+only return other products that look similar.
 """
 
 from __future__ import annotations
@@ -39,6 +39,7 @@ class Trail:
     status: str = "ok"
     raw_json: str | None = None
     recall_photo_local: str | None = None
+    india_shopping: dict | None = None  # filled by shopping.check, a separate search
 
     def to_dict(self) -> dict:
         return asdict(self)

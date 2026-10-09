@@ -76,19 +76,22 @@ def test_live_status_shows_searches_left(client, live, monkeypatch):
     assert client.get("/api/status").json() == {"mode": "live", "searches_left": 203}
 
 
-def test_live_search_pays_one_search_and_saves_the_trail(client, live):
+def test_live_search_pays_lens_and_shopping_and_saves_the_trail(client, live):
     response = client.post("/api/search/10901", headers=HEADERS)
     assert response.status_code == 200
     body = response.json()
-    assert body["credits_used"] == 1
+    assert (
+        body["credits_used"] == 2
+    )  # one Lens search on the photo, one Google Shopping India search on the name
     assert body["store_listings"] >= 40
     assert body["url"] == "recall.html?id=10901"
-    assert "10901" in live["trails"] and live["credits"] == 1
+    assert "10901" in live["trails"] and live["credits"] == 2
+    assert live["trails"]["10901"]["india_shopping"]["query"] == "Wnttmt Baby Walkers"
     assert live["stats_written"] == 1  # stats.json is rewritten with the new trail
 
 
 def test_the_same_search_twice_is_paid_once(client, live):
-    assert client.post("/api/search/10901", headers=HEADERS).json()["credits_used"] == 1
+    assert client.post("/api/search/10901", headers=HEADERS).json()["credits_used"] == 2
     assert client.post("/api/search/10901", headers=HEADERS).json()["credits_used"] == 0
 
 
@@ -114,7 +117,7 @@ def test_the_count_drops_at_once_after_a_paid_search(client, live, monkeypatch):
     monkeypatch.setattr(server, "account_status", lambda settings: calls.append(1) or {"searches_left": 203})
     assert client.get("/api/status").json()["searches_left"] == 203
     client.post("/api/search/10901", headers=HEADERS)
-    assert client.get("/api/status").json()["searches_left"] == 202
+    assert client.get("/api/status").json()["searches_left"] == 201
     assert len(calls) == 1  # the new count came from local arithmetic, not a second account call
 
 

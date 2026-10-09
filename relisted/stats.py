@@ -53,12 +53,15 @@ def headline(trails: list[dict]) -> dict | None:
         "india_listings": len(top["india"]),
         "recalled_brand": top["recalled_brand"],
         "listings_titled_with_recalled_brand": top["recalled_brand_listings"],
+        "india_shopping": top.get("india_shopping"),
     }
 
 
 def compute(trails: dict[str, dict], ledger_path: Path) -> dict:
     items = list(trails.values())
     selling = [m for t in items for m in t["selling"]]
+    checked = [t["india_shopping"] for t in items if t.get("india_shopping")]
+    named = [s for s in checked if s["name"]]
     return {
         "recalls_checked": len(items),
         "searches_paid_total": count_searches(ledger_path),
@@ -71,6 +74,10 @@ def compute(trails: dict[str, dict], ledger_path: Path) -> dict:
         "recalls_sold_in_india": sum(1 for t in items if t["india"]),
         "india_listings": sum(len(t["india"]) for t in items),
         "spam_pages_filtered": sum(t["kinds"].get("spam", 0) for t in items),
+        "shopping_searches": len(checked),
+        "shopping_results": sum(s["results"] for s in checked),
+        "shopping_names_counted": len(named),
+        "shopping_names_found_in_no_result": sum(1 for s in named if s["titled_with_name"] == 0),
         "headline": headline(items),
     }
 

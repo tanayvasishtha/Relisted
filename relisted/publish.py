@@ -55,7 +55,7 @@ def load_thumbnail(src: str, site: Path) -> Image.Image | None:
 
 
 def copy_raw(search_key: str, settings: Settings, site: Path) -> str | None:
-    """Publish the recorded Lens response, minus the links into SerpApi's private archive."""
+    """Publish a recorded SerpApi response, minus the links into SerpApi's private archive."""
     source = settings.cache_dir / f"{search_key}.json"
     if not source.exists():
         return None
@@ -76,6 +76,9 @@ def publish_trail(trail: dict, settings: Settings | None = None, site: Path = SI
     save_jpeg(recall_img, site / relative, RECALL_WIDTH)
     trail["recall_photo_local"] = relative
     trail["raw_json"] = copy_raw(trail["search_key"], settings, site)
+    if trail.get("india_shopping"):
+        shopping = trail["india_shopping"]
+        shopping["raw_json"] = copy_raw(shopping["search_key"], settings, site)
 
     matches = trail["selling"] + trail["india"]
     sources = {m.get("thumbnail_src") or m.get("thumbnail") for m in matches} - {None}

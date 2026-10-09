@@ -7,7 +7,7 @@ import sys
 
 from serpapi import SerpApiError
 
-from . import og, publish, recalls, stats, store
+from . import og, publish, recalls, shopping, stats, store
 from .config import load_settings
 from .hunt import best_photo, hunt
 from .recalls import MIN_PRIORITY, Recall, fetch
@@ -54,6 +54,30 @@ def cmd_sweep(args: argparse.Namespace) -> None:
         print(
             f"{recall.recall_id:>6} {recall.product[:40]:40} copies {trail.matches_total:4}  "
             f"selling {len(trail.selling):3}  india {len(trail.india)}"
+        )
+    print(f"\nsearches paid this run: {client.credits_used}   served from cache: {client.cache_hits}")
+
+
+def cmd_shopping(_: argparse.Namespace) -> None:
+    """One Google Shopping India search per recall with store listings, up to RELISTED_MAX_CREDITS."""
+    client = SerpClient()
+    print(f"mode: {client.settings.mode}   credit cap: {client.settings.max_credits}")
+    trails = store.load().get("trails", {})
+    for recall_id, trail in trails.items():
+        if not trail["selling"]:
+            continue
+        try:
+            summary = shopping.check(trail, client)
+        except (BudgetExceeded, NotRecorded) as exc:
+            print(f"stopped: {exc}")
+            break
+        except (SerpApiError, OSError) as exc:
+            print(f"{recall_id:>6} skipped, search failed: {exc}")
+            continue
+        store.save(trails, client.credits_used)
+        print(
+            f"{recall_id:>6} {trail['recall']['product'][:40]:40} results {summary['results']:3}  "
+            f"titled with {summary['name']}: {summary['titled_with_name']}"
         )
     print(f"\nsearches paid this run: {client.credits_used}   served from cache: {client.cache_hits}")
 
@@ -112,6 +136,9 @@ def main(argv: list[str] | None = None) -> None:
         p.add_argument("--min-priority", type=int, default=MIN_PRIORITY)
         p.set_defaults(func=fn)
 
+    sub.add_parser(
+        "shopping", help="search each recall's name on Google Shopping India (one search per recall)"
+    ).set_defaults(func=cmd_shopping)
     sub.add_parser("thumbs", help="save thumbnails and raw responses for the site (free)").set_defaults(
         func=cmd_thumbs
     )
