@@ -15,18 +15,18 @@ The AiTuiTui pull-string teething toy was recalled in the US on 29 January 2026.
 
 One Lens search on the recall photo matched 400 or more pages. 117 of them are store listings, on 52 stores in 28 countries, and two are on Desertcart India. No listing title uses the name AiTuiTui. A search for the product's name on Google Shopping India shows 40 results from Flipkart, Amazon India, FirstCry and others, and none of them carries the name AiTuiTui either.
 
-Across the 43 recalls searched:
+Across the 44 recalls searched:
 
 | Measure | Count |
 |---|---|
-| Recalls with store listings | 26 |
-| Recalls with three or more listings | 23 |
-| Pages Lens matched | 5,540 |
-| Store listings | 1,710 on 453 stores |
+| Recalls with store listings | 27 |
+| Recalls with three or more listings | 24 |
+| Pages Lens matched | 5,565 |
+| Store listings | 1,716 on 453 stores |
 | Listings on stores that sell in India | 110, across 18 recalls |
 | Pages left out as copies on unrelated sites | 886 |
-| Google Shopping India searches by name | 43, showing 1,637 results |
-| Recalled names found in none of those results | 23 of the 27 that could be counted |
+| Google Shopping India searches by name | 44, showing 1,677 results |
+| Recalled names found in none of those results | 24 of the 28 that could be counted |
 
 `relisted stats` computes these figures from the saved results. They are a snapshot from 9 October 2026.
 
@@ -73,7 +73,7 @@ Every search is saved the first time it is paid for and is never paid for twice.
 
 No other public source says which store pages carry a given photo, which is what the project needs. The Shopping search looks for the same product by name from India, so each recall page shows how far a search by name gets compared with a search by photo.
 
-A recall costs two searches. The 43 Lens searches and 43 Google Shopping India searches behind the site, plus 6 test searches, come to 92 in total, out of the 250 a month on the free plan. Both raw responses for each recall are published under `site/data/raw/`, so any count can be checked against what SerpApi returned. Lens returns at most 400 matches for one photo, and the pages mark recalls that reach that limit as 400+.
+A recall costs two searches. The 44 Lens searches and 44 Google Shopping India searches behind the site, plus 6 test searches, come to 94 in total, out of the 250 a month on the free plan. Both raw responses for each recall are published under `site/data/raw/`, so any count can be checked against what SerpApi returned. Lens returns at most 400 matches for one photo, and the pages mark recalls that reach that limit as 400+.
 
 ## Run it
 

@@ -1,0 +1,757 @@
+{
+ "search_metadata": {
+  "id": "6ac916952c2bb44cc72762f4",
+  "status": "Success",
+  "created_at": "2026-10-09 16:30:13 UTC",
+  "processed_at": "2026-10-09 16:30:13 UTC",
+  "google_shopping_url": "https://www.google.com/search?udm=28&q=Agrish+Adult+Portable+Bed+Rails&hl=en&gl=in",
+  "total_time_taken": 1.05
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Agrish Adult Portable Bed Rails",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Agrish Adult Portable Bed Rails",
+  "shopping_results_state": "Showing results for exact spelling despite spelling suggestion",
+  "spelling_fix": "English Adult Portable Bed Rails"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Bedside Assistant Stainless Steel Bedside handrail for The Stable and Foldable Adjustable Senior Bed Safety Rail and Bedside Standing Assist Grab Bar",
+   "product_id": "12903404626968634702",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:12903404626968634702,productid:15728089047557606389,headlineOfferDocid:1527244025714310415,imageDocid:2954828658803684192,gpcid:16281861872901775004,mid:576462654299999591,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹19,604.96",
+   "extracted_price": 19604.96,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8mnNj6nAs5VfA0YdN_u05p8KCCnim7xl8MqXy8dMURjvCBiCkbLHPsHAJOuYz4JJqxdc4m3GE4RwGK_7pZ3TD9oaR6KujBA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/FrsGXnicDcltCoIwAADQE6WC30LEXKFoWoyK7I_oZjrLOdss7SRdrdvU-_u-n0ZKLjxVrRh-zFxWZCFLpim1kIWkWMF9p4qm55yyejUs_-eBlLgBRk7H0tZiQJinK9AykuajZnInhpDRzp7uTjKcZ4ckR9Q-oU_hrdyGexGCaDdmbyOKholgo9ODjYFeQZzb_KIf1m5fICseWx_8AP3SNcc"
+  },
+  {
+   "position": 2,
+   "title": "Ndola Bed Rails for Elderly Adults Safety - Adjustable Bed Assist Rail for Seniors - Bed Side Rails Handle Support Bar Bed Guard Rails with Storage",
+   "product_id": "4544828044146309164",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:4544828044146309164,headlineOfferDocid:4544828044146309164,imageDocid:14840596751252873039,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,949",
+   "extracted_price": 2949,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRg0ATos7EE9L0tNcI-h2GxdF7zLpmBczk99_ep4w0MOCQhDTQ6yP3QovTujzrGu4DHZ8Zk5AwAnWWYkYl2jBzvzt987uvQiw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/CvBG5XicDcltCoIwAADQE_mBWjohYqZZYNZCEP0TNcWpuS2dmjtJV-s29f6-74cIwQdX00qK-4WLslDEg5pqNYi7qLGKWacNhHFe02r72vzPhXEBQnytdJiwwQ4CEOkixkeFGOG72Nsy4p2HZQvAreTWrJ_OO0T8BK2Xi4nYlIyN7MPR8g-5k7crOEOaplmbPY3Gk5MUwLHHCdXzD-yyNpg"
+  },
+  {
+   "position": 3,
+   "title": "Collapsible side rails for hospital beds.",
+   "product_id": "15584881667248190570",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:15584881667248190570,headlineOfferDocid:15584881667248190570,imageDocid:1333893106006546107,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Disha Incorporation",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAnFBMVEX______v709PT9-vrx1tfmt7n5-fn04uPrxcbktLXpwcP57e3y29znurzksbP36ur78_O9y9fq6-vE0tzsysvu0NHw1tbEHCLloaPa5uzL1t7o7fLP3OSpu8uEork_bJLVbXAwYInTZGfW19ciWYV7e3tigJ-9wsGsrazMy8yCmrCdssW0lZa_tLSbnJy4uLhof5felZdyk66it8fCCgApAAABgUlEQVQ4ja1T63qCMAxNKW2RqxRwCoJuTCeyzQ3e_93WGzhQf22H76MhOT1J0wDwr8ARE_DQg7DnkNQWcBY2vhd2XW-wfZLNKAiiRSSX4XsVzhirQPOu5YTR73gUIBGcbFqGv-jLhdwePa03sUBeaCe5MhwmCXjtb0uBapcob8pGgUBXtneM47k0ukYjU1SEX1yolSN_1cLm3EgzBcHhB6oOc4xlgGUmg6sWau2dtwvncGrg3CqXTg1spZa6ef-o-efpcmqar1YJkQkBVA0HocThmChCoItkNoxFUkuayU731XQiSgeCybnRjRhTIKLPi77tuBLousJUP_TFxbDN5biAlSRFUUCBgApS5hsCc-Ac9-CvgVaiAVXZUSg7Cxtl8Q5x1-bAQkBtB9DnLS36Pje1GQmMKAXKLfEAFba4_nA5EpDLqCXBrZpzbVJnvEwJ4sMMaTb5xMGUgdxsPvxpoP4HOXqAWcjgBp4bZGoAWHYz9UMePyWEBPad3TrvA_9f8QNG7hUbCnye2wAAAABJRU5ErkJggg.png",
+   "price": "₹4,130",
+   "extracted_price": 4130,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS9hp8i6bUw3b0wVV4UHjUilM7X7qiM1BXjQcVLKmMAAy27Fxzr8RxtSLTx2kcEnzDsYxnw-Q3pdutCiTcoCorWbOtK67SjNQaW-Ae8KnY",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/p1chbXicDclJDoIwFADQEwEKhikxBnFKGAwyL6EQKEpb6DcMt_FY3kbf9n0_LQDjpiTVBI0Lg7oSoCSK2HAoACMR0V7iLWUMk-Yw7P9nWn5lXFFotEzHahlPSrmZkmQX37oYvzwt0wbsbY9ZF6DEdXrPshZZu8zrqD9mCN1olp_oTNYTz2cyCYHCqjfYOELUpmNa3sFRtbDzgyIVrFp3SP4DF-g57A",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "Vaunn Medical Adjustable Bed Rail with Tool-Free Assembly, Black FSAHSA Eligible",
+   "product_id": "6850777190866958321",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:6850777190866958321,headlineOfferDocid:6850777190866958321,imageDocid:4527187640647970418,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹8,214",
+   "extracted_price": 8214,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFfJQG2pz6wenXzmIMaMT5aUUcMO_Ic4zP3wwDN5zONSjy1dBzQ1Axf24s5VHwCtiU1CbzH6pRpy0DxhI3L27QIrR5gwvM4-ghu6bd99gmDRosES90ZNlDAg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/SCUYAnicDclJDoIwAADAF7EvBhJjEBQwAlLFGC8GChSMQKXVQl_ld_yNznW-n4ZSTGxJqno4zphWpUCLXhURoTltoQiHTiLNgHHbo9Vz-T_biUvLh2Bb71JfxdxkVX_hXRjl0cnIswxGyS2EOj9ojHmxwZP4eJ-Vcs1TxZlqVSfGOWAubTPFLXhgYoBn2ZuaUNurizQcgYHYO9IF1LzMorQs1HlgIJujJV_jh-egH51FPhQ"
+  },
+  {
+   "position": 5,
+   "title": "Bed Rails for Elderly Adults Safety, Medical Bed Assist Rail for Seniors,Bed Side Rails for Queen Bed, Height Adjustable Bedside Bed Cane Grab Bar",
+   "product_id": "13141869226122704671",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:13141869226122704671,headlineOfferDocid:13141869226122704671,imageDocid:4790775129912072216,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,949",
+   "extracted_price": 2949,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQDYo5Nj4-aIzjVJAD0FUOyGQ3ShCmVftUSvU0Z0INISU9tzSLBoAmGInuEMQZbEjXCLSM0SvN7tgARhzXJM2iXaaTCL-DfylVOvHfVRH1xz0sw3alcqV25",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Jdnqz3icDclJDoIwFADQEyF1IAYSYxCQIQyBSoPsSmUMQ5UvCofyPt5G3_Z9PxUAHxVRzHv2mDnkNwGyHq3KESjUbMWGThyrgfO6L4_3w_8U1b_JJgv16yD5zU6g9tIQR9XROQ5mM9ziSutIATGeYpQi27dxLMOC3dOgdqbdPw0vTDOjSTQXewhP_h5KNaqWxPE2dULpRXMFvZhbEkxWQSJr_V7Q-NrSlt3JRvoB2H49NQ"
+  },
+  {
+   "position": 6,
+   "title": "Bed Rails for Elderly Adults Safety",
+   "product_id": "14932554712985740926",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:14932554712985740926,productid:6056398148835281123,headlineOfferDocid:2534209646932474887,imageDocid:11639713102879551607,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹8,741",
+   "extracted_price": 8741,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQnydBnff10cXtCcr8COOvOfnVabQescvwu_lntA3P4FTaNqY06rhlTkiXKyUUeU56X1A9M_hWzxojhySqeVWwI7ifiYu2raos2g805Phs",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/pn5d1XicDclJDoIwAADAF8mmIJAYgyQaY2SJrCdSSqFVLEsLWH_js_yNznW-H8x5z2xZRhSOoueoWvGSrqWGccAJlGD3lBnu-p7QZj_s_mc7XmWdYEhFdaB1rSow4y4cTdf3Z7-mCShDxOC8TEVLubMONscIeEOuGCNuowfJLiKOUawbmepY1wKn71d3x-I2oCRdzltSk3zSRtAxrTEVPcDsB3giOz8"
+  },
+  {
+   "position": 7,
+   "title": "Panta Bed Rails for Elderly Adults Safety, Adjustable Bed Assist Rails for Seniors,Black",
+   "product_id": "16039132377814574934",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:16039132377814574934,headlineOfferDocid:16039132377814574934,imageDocid:15092135628600369991,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "cart2india",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAvUlEQVQ4je2TPQ6CQBCFvyEU1tLpDTyCFl7A0ngFjwAdnsN4Be_gBajttKWR0NkQnwX-AUsk0vqSSXZn3nzZmWRNEn3kt1bMqmTJugPM1Ghw5QCvalp9nccWu4rnA1A-ORrPWiGRRQKwMy-PB5Apm9fN27WpuBzjW17ECUkr1AcILDi4HP5-smEoWDpGMcQA85ql7tK1vsQf9AcAkkBIQpIIR1M9Lo0ICSUJThKoPL8B7iZXpGkRPwHW9zvfAbsYiIUWCpY9AAAAAElFTkSuQmCC.png",
+   "price": "₹10,600",
+   "extracted_price": 10600,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSftbHAqoQy_zkzFU9TUKHVgHqdkjqEeE2yOphyeRHbRqSP5cDENqPCvVyr3kQWLPXMjruG_ObzbHJOyT-ZyAI80OXHKepM6KmUFDIon9Hw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Cp6E0nicDcnbCoIwAADQL1IjKVKIkLzMzGtq0ou0ubzh3HQV83P6q_6mzuv5fhrO6awrCiZoEpTjSuKQqHI98ztvkYzGQZmbkdKW1Ae2_59uBJXmoMuDQ2CwMRbl0i92pqWZB_IasKrvmIWttQhpI3ACYMIu0QaZVsCi4ysXk9rH13NU-N30dMoQLhCcQpFKN2G4u1VYAA9Tf-sNmW26I9HA-we01jro",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 8,
+   "title": "Primage - for the good life Adjustable Bed Side Safety Rail Guard Protector | Bed Side Assist Support Bar for Elderly Adults with Free Storage Bag and",
+   "product_id": "11185310649045878589",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:11185310649045878589,headlineOfferDocid:11185310649045878589,imageDocid:13168253291266692202,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,790",
+   "extracted_price": 2790,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLvI2GCVm8vHHe3J5Wg_on3IqNG2nfLxjVzqnywts1rEKAOXIhovikJ1OUh7Vx_CLBoJve6VobBJP96c12TUK5LmAkFmB7jHv67_SDWo8E41IbBzoGAEq5Mg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ojRkBXicDclJDoIwAADAFwkBZE2MaRFZBaMC3ogUZAstS1PBV_kdf6Nzne-npnSYDZ4vMZrWgZbFhuZY5KqZPmiDOER6fq7JMDS42o-7_xkgLHQbXQLmiraZ9BpznFLy5LTKCJbcMbRF_AyWNnmPeH3RWZgsH0R3tyas6Twhims1WTIzgMRjpZKQHHpnXUGCeIt9OehBd-yh2jpMUbPrISWatRXcHL6JDaxRPlU_nJQ9vA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 9,
+   "title": "Bed Rails for Elderly Adults Safety,Adjustable Bed Assist Rail Bed Cane with Non-Slip Handle and Storage Pocket,Stable Bed Assist Rails for Seniors",
+   "product_id": "13812927810831013959",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:13812927810831013959,productid:4374686206610070816,headlineOfferDocid:14667803745145699571,imageDocid:4957124130119724472,rds:PC_1443082474117215961|PROD_PC_1443082474117215961,gpcid:1443082474117215961,mid:576462542882309600,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹7,207",
+   "extracted_price": 7207,
+   "rating": 3.3,
+   "reviews": 61,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTY0ixlvmWTaYTZcuPyOTASy5Lk_hWmwJe0eH2GH1kJxsJnbkqds-QmZ0FDRB_eelNEcAUVlJ9k5vMpPNINupba2233v-ZqN8o_dY8t0Fzw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Xen55HicDcltCoIwAADQE6nLEFSIMEpNallZon9Et6EynbPNr47TrbpNvb_v-6mk5MLWNMLQa-GSYEUWDKilkLmskYq6VhNVx3nNym2_-Z_tQGx5KEpAPTdjG0d5EqVoCJdL5NwX40SzKm6ngADi656_osEsAlbQHgvl2qbA3d92GSENPCDn8WwCixrjmYfwCAde5Lq-Xo9K2kOzy3BiSuC-px-MJzpn"
+  },
+  {
+   "position": 10,
+   "title": "Safety Bed Rail Rack Support Bedside Elderly Mobility Aid Fall Prevention Bar",
+   "product_id": "16444587698894130856",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:16444587698894130856,productid:9025939412590393743,headlineOfferDocid:17707943118479797378,imageDocid:12862596085936110606,gpcid:324273809287793360,mid:576462887204204314,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹2,547",
+   "extracted_price": 2547,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5Sya6I5zQn4Ip_GpF6h0sspX2wC2uDC_wrB7DB5q4Ba5av48CsdodXJvIPF002bZcbKyzrzGeJS4JiQw_zbq1x5JXspMWvVqFOjkrr6tp-xolDQlNUor_Kg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/6bWei3icDclbCoJAFADQFflIZqyEiFQUlSyRSvoRHUUtc64zk69VtZ12U-f3fD-1EMANRSk7wmYQZSGJvNPkiotMNEQm9KXwmgI0XbXvd_8zDmGxdUmM4znTPbxEHfIgdcHRa5VzSLTR0t62lY7MXNsm7pGZ4WxAG4sXtEj8wTs7qqrld5IH88IWt_Rj5DfRmC55v5qwn3A43oZr75weT8Z0AdJEWztqwwtlaVD9AIj5P2w"
+  },
+  {
+   "position": 11,
+   "title": "Bed Rails for Elderly Adults Safety with Foldable Tray, Motion Sensor Light",
+   "product_id": "9819394246003140238",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:9819394246003140238,headlineOfferDocid:9819394246003140238,imageDocid:6844901423275826208,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹19,043.44",
+   "extracted_price": 19043.44,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCPgySRB5flzpmjB6Dk72tQeSrecwz9Llia_MrrMHzQCIU7pfcph7XDu3yt9r6t1H4YvhCNb-f9-L3ctYiYpj-_s-H20zB1Zo46n2EErw73kTgvAcI2CZO",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/G0tZOnicDcndCoIwGADQJ1qamkMhImdk0J_9QHYTuua2NF3zq3AP1fv0NnVuz_cjAFQXWhZrqO4VsCuCorEHvIMcJB3Q9m51olVKNnzyGP8vnK6vwZweyJb3-100Kmuj7rfIjyvsQMr2mtG3CZa1zC8rrVeJScniiFVJlcCn-On2EGgfhomXvQRZF6gM0NKlkMlM3dClQ4ljm2h4bj2_cWYz_cZudeCvKV045Lz5AVAEPZg"
+  },
+  {
+   "position": 12,
+   "title": "Bed Rails for Elderly Adults Safety, Bed Assist Rail with Dual Grab Bars Fall Prevention Bed Side Rails for Seniors Handicap, Bed Cane Fit Queen,",
+   "product_id": "1480845372833864144",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:1480845372833864144,headlineOfferDocid:1480845372833864144,imageDocid:11182469187522805405,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹4,013",
+   "extracted_price": 4013,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQHffVceStfN_YE9DRb8VSCEUFVAKMdkBI1Lai6dxpTvB94a1pm2fLUV1xMRJeqJGusVfNVsS9dxil4NEBv7VDUcw2bgw1WPLOkjsoetLdw6Qt7qvgoVG-WKA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/0hsYjHicDcndEoFAGADQJ1KzTYOaMaZIaMtPWuPK1P4kqTb7qbyV1_E2nNvz_dwApLJ1ndf0-ZbA2QiyGmm5ghQKqtGm0tWtkbKo83k7-5_tRMzy6WEtBKE8BhFdL561PGZTEi-8ZEWcIGSlu0E4LcZskKfOtcwUycoQOCFoCI9b3m79lyIiIiq22FA8zMhzuwlZJrQ3srxH5z3elXfVcMCsHx9g0nZ5Q_zROXB-i3A-yA"
+  },
+  {
+   "position": 13,
+   "title": "Maxbell Elderly Adults Bed Rails with Double Handles Double Folding Bedside Handrail",
+   "product_id": "979639800413736181",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:979639800413736181,headlineOfferDocid:979639800413736181,imageDocid:5889433455997366236,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Aladdin Shoppers",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEX____-_v79_PzFsJ708e6bd1f39fKnh2uHXDbu6OPLuKj7-fjCrJmLYTyjgmW1m4Tp4tu-p5Pe0sjYyr3j2NC6oozMuqqSakezl36hf2HazMHRwbLo4Nnx7emqi3Dt5-Kwk3iGYPntAAABi0lEQVQ4ja1S2ZasIAwsXFtUEBHFdpv__8qbIN1658WXqcNJYyqpLDTwRxAinPgRP_9nBfB18f0eE1OTSyERuMXztaorX1wBhT_q6qvAaqaXNuaRXoK3HNxZNwY4SQVEIkKDof7objUFrKkgrnaAzb2vEsikMTWwLjU3uMhxQ900Y3ZGU1xRrjxEMmuyxiAtyV-pLGpwBckjZC7fgNKhl0Ax2g9PWZZbxrL5FOhb1bPX2NglMWMQKHTV5OTcdGvopxjlKUGm1-lBqY21eQ_Zo586HKnuKQznjuu9I4EM0Aq5RDdvOPbsW0JgW6gPbVE1fhjcaAbKWrbPKnkK9a7ilugUvKi3Wm6PgcOa85WTGGTscdsk76DpOq7JSFCtzYbrH8KlBi11fG8eONXDp4PkBPnXtQ5XUQ-ruBFPSBlNOGzCrTkRKLwIbZ5Pr3mayebl3LbTNLFpmUNLyJ3Xznvt3ayc9j9ae7bqRRxyglL7XgbMMxmld61KpWbmUBCyXyiy08Xc8xTiAc8KT_gHjzYT9npKCpEAAAAASUVORK5CYII.png",
+   "price": "₹18,441",
+   "extracted_price": 18441,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT3fJrQR_1oFowegiSBVasyMUrY4jqJwrVDO7SONbyGX27DySXPx3rBLwYVTEbGiNF_uhzQKWG5fbC8lNDu0ltqb_c57F-6woEZFFNIjtJfv811olMiy8MOFQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ejWC2XicDcltEoFAAADQE1FJihljJNuINomUP41dfaxJW9sm61Su4za8v-_7KTiv25kkpRVmoubpbcBRJQ_zll85wUNMH1Jb0LomVb5o5v-bLeFtauOjmjnMPyQKBbRPcxKY4bUV7onF43vj9Cy0PD3wIBJ2NNItEUT7l8rMXR-HxzWyCQRJV7z97dnWMrQySmh1cskblGBNB4NJT9cXAODmzp3saSgKLV0iDNcD_g_Q1j7E",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "Able Life Bedside Extend-A-Rail",
+   "product_id": "9915239115748915453",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:9915239115748915453,productid:5721183165467928270,headlineOfferDocid:17475013729037414961,imageDocid:11050832499003191182,rds:PC_12840434555957093929|PROD_PC_12840434555957093929,gpcid:12840434555957093929,mid:576462808304950657,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹10,984",
+   "extracted_price": 10984,
+   "rating": 2.7,
+   "reviews": 813,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQS2gzWFErFEvzuv72sLWZM-88dfdOkbKPLu1Q9voyjXr3FeWSRrWlmBCOIoTUbxQ_nDCRZntjAG6DslL3cCqYggSYKG91elSIJ0wz8IbES1vuzL9lmK5iB",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/BN7Mc3icDcnbEkJAAADQL4owFWaaxn1Eia0RL02WFrEuuxQf1f_0N3Vez_eTU9oSmWUzDPuppVm6oAnmGUTonRaQgU3Nkrxp2wKjXbf9n6wcU8mCPuDRHJpGbxrjPIwbnrhhfFiIYvpIvWfinNyB86WxmcprL5hZCII-rGpV8-zmfEne_g3rWhBjWirWWieVK0CtixACkWNJXFYBe798zaKdGIAbh9mVqtpZFeoPQKE-LQ"
+  },
+  {
+   "position": 15,
+   "title": "CALANDIS Elderly Adults Bed Rails with Dual Handles Sturdy Easily Install with Pocket | Handles & Rails | Mobility Furniture & Fixtures | Medical,",
+   "product_id": "7426497169120459582",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:7426497169120459582,headlineOfferDocid:7426497169120459582,imageDocid:14668290405827336368,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹12,044",
+   "extracted_price": 12044,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSoJERjyN3rAUmihVD5vV15J4KswF_9aUTIlXeDC28cXcrm59ximL2f4AuKuzjJy0hXnKMtpO0I1slcBJXQyZWo9GwAx6oxeSnkGxuGwTGS872CZk4UNITv",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/XiwPnnicDclXDoIwAADQE8kSFEiMqasBFKMMiT9GC7LbSsvyUN7H2-j7fd9PxjllpigmGDUj5Uk84Q8sCSnjd54jAZFaZBmhNMfp8rX4nwnc2IDII_b2XIzutAFBnWfhRutCWbNVh_W7m3EPfKuKks1a0VGEmlozhrzeK08VtE77LuxRyiLsHDg9SpbMKrSyo9N4vRAD9mCYkSHxcAmHFvY-9PS5sr6WauBafvcDIko-Eg"
+  },
+  {
+   "position": 16,
+   "title": "DMI Bed Assist Rail With Adjustable Height",
+   "product_id": "3585884143812959946",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:3585884143812959946,productid:3573104314384733661,headlineOfferDocid:4246284765529497655,imageDocid:4147753335708428783,rds:PC_4181491682471857867|PROD_PC_4181491682471857867,gpcid:4181491682471857867,mid:576462380450199915,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "cart2india",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAvUlEQVQ4je2TPQ6CQBCFvyEU1tLpDTyCFl7A0ngFjwAdnsN4Be_gBajttKWR0NkQnwX-AUsk0vqSSXZn3nzZmWRNEn3kt1bMqmTJugPM1Ghw5QCvalp9nccWu4rnA1A-ORrPWiGRRQKwMy-PB5Apm9fN27WpuBzjW17ECUkr1AcILDi4HP5-smEoWDpGMcQA85ql7tK1vsQf9AcAkkBIQpIIR1M9Lo0ICSUJThKoPL8B7iZXpGkRPwHW9zvfAbsYiIUWCpY9AAAAAElFTkSuQmCC.png",
+   "multiple_sources": true,
+   "price": "₹9,600",
+   "extracted_price": 9600,
+   "rating": 2.5,
+   "reviews": 1,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQD_xrpjCsOqV9x-K6TbQGyvBicT6EXIZLZZK7VqxXZABMyqyZJ0jzvlTmpTjoAHHmfZ3PNXGsL_yICh32Ull0catEfz3YcOw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/OsBLO3icDcnbCoIwAADQL_JCA0MhQk3UNC1YYnsRnXe8bG6Y80v6tf6mzuv5flrOCTMUpZrwIgivSokXE5AbxnPeYRnPo8LamZBuas709D_DjErdxY9Lti2kt1lME32TAg0WD1esVoeh5qQ-ChEKjgndUmRaN0EFuqr9vg5wJLCfTc8bawTuUeqyMBO-3YLDcxhUnHOn3sELx-8fRFE3dA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 17,
+   "title": "Bed Guard, Bed Assistance Handrail, Bed Fencing, Side Rail for Adult Care, Rising Assistance, Bed Fall Prevention, Bed Side Grab Bar, Bumper, Safety",
+   "product_id": "6089066047489245154",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:6089066047489245154,headlineOfferDocid:6089066047489245154,imageDocid:17485762161821398445,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹14,493",
+   "extracted_price": 14493,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTJpb-QGXnVVZhPj9eXnoSFZAAIAZ4s-J0Qu74uVLknZ3M_Qf48WbbVbUcZfJ7Gjus81ba-O4WxJ48FkVHbFc7qEYifB9YXqk3fmgpzBKiUXb2qAdiqjgi9sg",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/UrWrFXicDcnbCoIwAADQLzIrB14gYkJadpVy6l6iTZ1TmlubUH1Vv9Pf1Hk9309rjNSBbdeCPl7S1JVliJhNmDY3w-mEDndbt4OUXLClWvwvgIfKj-klkcRK40IghNtT59eFGM4RhnADMdBWMk1HF4xo1wvs7K9pA7ycEEQyipvEjbtRezNys44gfybAi3q0JhF11arkTeiXheqd5s7kO9zyrCBzBSuuOsZ9zX5efD5J"
+  },
+  {
+   "position": 18,
+   "title": "Bed Rails for Elderly Adults Seniors Assist Bar",
+   "product_id": "13889675176023714342",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:13889675176023714342,productid:5669839133139604363,headlineOfferDocid:3758877336572083064,imageDocid:2232099668214025295,gpcid:24486134943474223,mid:576462857962228220,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹6,961",
+   "extracted_price": 6961,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvPt1QGvvgyCBVGn3FuWmlQXe3g3bkA7_92-gIhoEpST3vc8yi_5p4CLjfqie1GJx2h14O0WtcZpYruO1CezpNkr8nzluYEgRWrSgsx_YM",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/fCeGynicDcnhDkJAAADgJ0LntLC1VqZbrQgt6Y_lXEc4h2N4nN6qt6nv7_f9ZELwzlQUwnA7cUFSSSQMyrQTT5FjGdeV0mU15zmjm2b9P3PrpAbC_nARwEPDQCdrd0MM7vuwKr07gRQmxXYVG6pED1lt8-AKB6xPebzkmnV6v5qcAHQc1Qxo7iIU-MGjtneBRWbuFK3O5rKPbOqHbUC7MY7OP1y0Otg"
+  },
+  {
+   "position": 19,
+   "title": "Bed Rails for Elderly Adults Safety, 350 LB Capacity, Model BS05",
+   "product_id": "11066435891569255439",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:11066435891569255439,headlineOfferDocid:11066435891569255439,imageDocid:15998793091757656479,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹12,243",
+   "extracted_price": 12243,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS1knJK9ZRcp1WVwIp_6SYJ9ttXAFMH2ttuwuf-KwN5NehqkEzP2mDzH6wYg9VoUHnUsYz2I5FcHIoOVahjfXNUuiQBHNvc3AUELMUpLU-LPscBk-z75mLe",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/jFxeP3icDclJDoIwFADQEyEBgwYTYyCiZbAOpAhuDJZRQqn2Y2MP5X28jb7t-34aAC4Wul4y-nxzKAsNbmw6qQXk0NIJHXpdNAPnLatXj-X_Fg4u7C2NjY4FoX05UW6cE-nz6yzOAhsgdTY7ZAKMcqy0UGILl82j89TB7NcKzWRW28lAECMiU6ZvbSjyh32SN_cqxWRsjy7CLzp1iBftCI-IFh0EdTtNza0-Kn864D4K",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 20,
+   "title": "Stander EZ Adjust Bed Rail",
+   "product_id": "15571477910454215039",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:15571477910454215039,productid:4434284735442890969,headlineOfferDocid:13002831980181402258,imageDocid:10040623397709731947,rds:PC_14977325884328663092|PROD_PC_14977325884328663092,gpcid:14977325884328663092,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹28,121",
+   "extracted_price": 28121,
+   "rating": 5.0,
+   "reviews": 3500,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5JeXy3l38xlCiboU-QrFAW1FlmQzcf6dBgQpKH2NeaVYOQl8kXhtUxzpuULmF4wdgp9Qb9JkBuY7Rwhyj-lZG2bRciM41iNJO0DNv8DVVzUQHQi6WkAbF",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/SGkJB3icDcnbDoIgAADQLzIrrbStNa1Rs6LRwktvAQYkKiVd9KP6n_6mzuv5foQxupnadl7Re6tNzixDKqfHG3M2kvZoXdqNqLWWFZ_fZv-bBpD5K3ocRXnaOsrx3mohSY0tdAdBMgCqRB29jFnIkd6shzA_x9keKa9IhcHvTj_wtgTui3HtI-JHRfjIJoeXaK-WOq2G5EDlzh1IGO37S_j0lnHcYbRGcpwUAQE_O8Q9_Q",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 21,
+   "title": "Bed Rail for Elderly 97 * 40cm Foldable Bed Rail Safety Side Protector for Elderly Adult Support Handle for Adults Kids Safety Hospital Home Care",
+   "product_id": "13820855863983007040",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:13820855863983007040,productid:13233228756544438969,headlineOfferDocid:14650832324292248622,imageDocid:14944389554118154207,gpcid:429407431908995584,mid:576462778208902406,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹6,931",
+   "extracted_price": 6931,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQTZMv9cEWJFfMqWcwboQktd-Abg-xAEBHT4muC8h0o6vVJROdLU_ntubC98EPgOJIDBVoMfJzCA3q2bBIGn9qwRYfvTi82A3NeMGgac-4",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/d5-T8HicDcnhDkJAAADgJ0LDmrO1diS5hZhY_WnucKy5czlUb9Nj9Tb1_f2-n1bKYbQ1rWbk8RpkXSkSM0OloyxlR1TCe21s-TB0jG7F5n82jCrgkyS7hjMgXoH2TSgKsmCe3GWlQEyVJ_ScQ2b2k2u1K76ec5TG1fF8Y3LCLrC8E41RsHNyHjbo7UJD6NgJfAbEkl6aOessHRpRHfq0JIr5AwOaOKY"
+  },
+  {
+   "position": 22,
+   "title": "FABLOFT Bed Rails for Elderly Adults Security Under Mattress Bed Railing for Seniors 67cmx35cm 3 Support Rods Handles & Rails Mobility Furniture &",
+   "product_id": "6367318515853105182",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:6367318515853105182,headlineOfferDocid:6367318515853105182,imageDocid:12382040249702015133,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹8,046",
+   "extracted_price": 8046,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRahqNmaTqQmzM3bREGUoENsgDKIf1Fl0S4ZOaobAW_TQYRFtnRqWU5OllFabuMTo43QdEWqVFyhVcgr6RkRGjzMfSWSXw0wk4NTQNNEfUVaraJHu4-g9eCeA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/g8Z05HicDcnbCoIwAADQL8oLWqAQIaV2wYnzsuol5tRpXuZ0IvpV_U5_U-f1fD-lEP1oynLekWHpRZ5tRNqpEh0FFhWRCGvlsWR9X3X0wPf_My2QGS6BuOSgxREP2tXTUmi7MbPBSE-3S6E6jRLqTx-z1EKvKHhAR3SQo3jrN42D08mLmK4FmY144ixlQuiwgzV036tXhCi8z8pc6yAKALCLOMEDvp4nfUON_JhbP9OuPxQ"
+  },
+  {
+   "position": 23,
+   "title": "OUUTMEE Bed Rail for Elderly Adults, Assist Handle Foldable Safety Rail",
+   "product_id": "5698672341980394234",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:5698672341980394234,headlineOfferDocid:5698672341980394234,imageDocid:2880219515555519340,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹7,393",
+   "extracted_price": 7393,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_V44ilKbYIbmZQ_xEQyjndAcD1TXNCTLbPT3sQ74lFhSvDRRPoeuAZD4rWNdeqiX6VxzlCTrfaHMqaFqocvxrtWfLD2Yhz8G4slw3RfOV",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/dMwZSnicDclXDoIwAADQEwkqjYPEGAKCRkRWWD8EymgNo6UVkeN4K2-j7_d9P4hzwmRRLDs4vAkviwXPu6VQM55xDAXYtyJDPSG4q4_08D9ZsYq9Ab00AAA31zy-5G3ipNPJeT-6QoHayo8s1Tdz25eYswWNjrxRc127L59KooEhtIqS4mgTTHOj-kOVnW8002kPx2ngYWVq6xjNOwOw5iW51T34AW4SOwA"
+  },
+  {
+   "position": 24,
+   "title": "Bed Rails for Elderly Adults Safety Adjustable Bed Assist Rail with Support Legs & Motion Light",
+   "product_id": "16451311712422800864",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:16451311712422800864,productid:14745510030087625231,headlineOfferDocid:4597201024945697743,imageDocid:14702133040884604875,gpcid:2162464621790004073,mid:576462912414097146,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹6,382",
+   "extracted_price": 6382,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQiyyZTXma8q0rSNizEoqQpaKqHJ2ybNSqT_B95MnX7c5y-JUpWh3uM3veF3jkboJkP9qhJqNJh7H9UM0pA2fvbbV_xmiOGsXCX8OgyiGiW",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ZJZeFnicDcltCoIwAADQE6WiiB8QYVHKQk3UHP0RN80t0W26pHWcbtVt6v193w-Rki--rncTnhWXXbuRaLK0fpGNpFjDbNQXwjinU78T2__5QdJ6Ic6oUrcCjo0rjDlP6PvIRMabs4iAqVCSi6Lee3Y8QQfbagNKXhHrGVtrd7IeA2JguHiCAJEA4kReGRs8MO8rQtf6NdI0XOABummvaEirH4fpOq4"
+  },
+  {
+   "position": 25,
+   "title": "Bed Rails for Elderly Adults Safety, Bed Assist Rail with Dual Grab Bars Fall Prevention Bed Side Rails for Seniors Handicap, Bed Cane Fit Queen,",
+   "product_id": "12190672502707197001",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:12190672502707197001,headlineOfferDocid:12190672502707197001,imageDocid:11182469187522805405,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹4,013",
+   "extracted_price": 4013,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQHffVceStfN_YE9DRb8VSCEUFVAKMdkBI1Lai6dxpTvB94a1pm2fLUV1xMRJeqJGusVfNVsS9dxil4NEBv7VDUcw2bgw1WPLOkjsoetLdw6Qt7qvgoVG-WKA",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/0hsYjHicDcndEoFAGADQJ1KzTYOaMaZIaMtPWuPK1P4kqTb7qbyV1_E2nNvz_dwApLJ1ndf0-ZbA2QiyGmm5ghQKqtGm0tWtkbKo83k7-5_tRMzy6WEtBKE8BhFdL561PGZTEi-8ZEWcIGSlu0E4LcZskKfOtcwUycoQOCFoCI9b3m79lyIiIiq22FA8zMhzuwlZJrQ3srxH5z3elXfVcMCsHx9g0nZ5Q_zROXB-i3A-yA"
+  },
+  {
+   "position": 26,
+   "title": "Maxbell Bed Rails for Elderly Adults Security Under Mattress Bed Railing for Seniors 67cmx35cm 3 Support Rods",
+   "product_id": "17211989346945508895",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:17211989346945508895,headlineOfferDocid:17211989346945508895,imageDocid:354894762907852228,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Aladdin Shoppers",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEX____-_v79_PzFsJ708e6bd1f39fKnh2uHXDbu6OPLuKj7-fjCrJmLYTyjgmW1m4Tp4tu-p5Pe0sjYyr3j2NC6oozMuqqSakezl36hf2HazMHRwbLo4Nnx7emqi3Dt5-Kwk3iGYPntAAABi0lEQVQ4ja1S2ZasIAwsXFtUEBHFdpv__8qbIN1658WXqcNJYyqpLDTwRxAinPgRP_9nBfB18f0eE1OTSyERuMXztaorX1wBhT_q6qvAaqaXNuaRXoK3HNxZNwY4SQVEIkKDof7objUFrKkgrnaAzb2vEsikMTWwLjU3uMhxQ900Y3ZGU1xRrjxEMmuyxiAtyV-pLGpwBckjZC7fgNKhl0Ax2g9PWZZbxrL5FOhb1bPX2NglMWMQKHTV5OTcdGvopxjlKUGm1-lBqY21eQ_Zo586HKnuKQznjuu9I4EM0Aq5RDdvOPbsW0JgW6gPbVE1fhjcaAbKWrbPKnkK9a7ilugUvKi3Wm6PgcOa85WTGGTscdsk76DpOq7JSFCtzYbrH8KlBi11fG8eONXDp4PkBPnXtQ5XUQ-ruBFPSBlNOGzCrTkRKLwIbZ5Pr3mayebl3LbTNLFpmUNLyJ3Xznvt3ayc9j9ae7bqRRxyglL7XgbMMxmld61KpWbmUBCyXyiy08Xc8xTiAc8KT_gHjzYT9npKCpEAAAAASUVORK5CYII.png",
+   "price": "₹9,765",
+   "extracted_price": 9765,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSTAGlz5f2iuJmul55UJw5dVUcfewSVRnc8HRAkj-LFz0Cv58u5FYGUCbKRkqm_P2497dmLgm2x9vWWrZk0YsfbtCJZup4TYGvvytmVDe0VT9eMuiOPy545tQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/lP3xPnicDclbCoJAFADQFaUiDqkQIYaG2csn-hM5jo90dNI7mq2q7bSbOr_n-6kA2KiLIunwsDAg-QqyThLKEe5QYwH3VByrnrG6K7fPzf9045RrNvYDw27fqJBr7lDeIhQ6M8qjEBdk9iOvw-reM5rHyrXekjkhlSMrsUMzO3jNk94usqKtc-qWVH5pUxwPaSMlY5GB6aScKUFiT9MCNNoRKQo0cuT1-bIgBcH1B6QvPt0",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 27,
+   "title": "Bed Rails for Elderly Adults Safety,350LBS Heavy Duty Bedside Grab Bar",
+   "product_id": "14089483591859868087",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:14089483591859868087,headlineOfferDocid:14089483591859868087,imageDocid:13856898455171660360,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹9,033",
+   "extracted_price": 9033,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSkUodz4V3rW6s_OzhYMHW_9ALBDMmj2wwU3br7BPl7iKc9OOufRrvHjsZLKk_mYJzlp7faeEE0QnYOhpnza64egk_DGI-WwQh-vwFOJ_iP6FdFj9LgfiMy",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/0umqWXicDcnbCoIwAADQL1IjQzGIKNTMS9PCxF6GzsumOZdbjfyo_qe_qfN6vh8sBONrTaspmt5M1JUiSrpQWy4KQZCKxkHjeGSM0Hb72PxvvTtV1gFd-nSs5tVVnzKDQzDjPPIyaO3CvR0N3VLKVC8ncx_fTRIgC4Bnc55eXsdvYdDDIffnOzObonacRUJzgBmdC2NVtz20D0clkwlWXtIFPiSx4VZuZ4VtQ6L3D1k3Ptc"
+  },
+  {
+   "position": 28,
+   "title": "Bed Rails For Elderly Seat Lift Assist Chair Lift Devices Grab Bar For Bed Stand Assist Handicap Mobility For Lift Chair Couch Sofa Disabled Senior",
+   "product_id": "15429106066650260270",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:15429106066650260270,productid:14000331692524476767,headlineOfferDocid:466925793721249104,imageDocid:8868326685484104312,gpcid:16691712781384827522,mid:576462810931212301,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABe0lEQVRYhe2XMW7CMBSGP5uKibkXaKUwcAfoBQhzWaouVByAFVh7AESlVmIpM3AB0jswwNADlDkTEkmHl9AkEFFKwB34JCtxbOf_37MT6Ski-E9cs6IJ1IASkCMb1sAMGJGnp_oswwG1EX_gHs0LUMhINA0Xj4YaMNwYCMTfTywcx6OuBgxVkPZPTh95Epc8NzrY83OLAxRY0dTIgTNFTSOn3RQlTXaf2l_IaYPiAFwMXAzEDdid7BXsDrSm8OZLS2hsZ2DHpKOYOzDuwvMdLByotmPDV7HeOBCOTgqfHYPdFhOLD2mpBnaZqLZh0pX7uSNR7MOqiKhVkf6kK-taU8lEBOU_4qe-pFjZStmGhSPRWOX4muSccSAebmsio-kGotiddCNp5kLhPfzOQEgYYTG4WmXJwtz5ET6QwwycgH_2I7oYMGRgbVB_rZGKxRQzDYwMGhiZLUw0t1r1WeLROLM4eDTUK18aQA0Y4lEH3DNIu2FdCJHqGMyU599-1oDHJ9NWzAAAAABJRU5ErkJggg.png",
+   "price": "₹13,404.97",
+   "extracted_price": 13404.97,
+   "old_price": "Usually ₹15,162",
+   "extracted_old_price": 15162,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyAs3dufBJm3pWicDXKEpTh5mG6w3xd9NJRLrmhQ9fV6WeMB3IvGO70cPJjaw8hE0iTd9MmIUfj16uHTod3OI8kFrRWG8mk-nh1ryLzeio_a-wvDPoRV-hjQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/_AZN43icDcltDoIgAADQE-HHWCZtrdk009LSTPvXDDSwIaSU2am6Trep9_d9P1Qp2c90vWpxN0pVEaAuraFde1UqhjUsuN5TISVrr4v7_H8zJybIx4fR6SF51MuQQ1kw7J42nszohPvWAF8ExWG67ThNUJ1bRRUtYfD0d1MD78OmHGzqGSwjKOLBsW5M67HOBIG7wL6turTwbX4DLTW7cfuumDiXYHi6e5HmgDbJD4rlPn4",
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 29,
+   "title": "Maxbell Bed Rails for Elderly Easy Installation Sturdy Ergonomic Handle Bedside Rail Adjustable",
+   "product_id": "14302588018783591932",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:14302588018783591932,headlineOfferDocid:14302588018783591932,imageDocid:10113793010736863979,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Aladdin Shoppers",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEX____-_v79_PzFsJ708e6bd1f39fKnh2uHXDbu6OPLuKj7-fjCrJmLYTyjgmW1m4Tp4tu-p5Pe0sjYyr3j2NC6oozMuqqSakezl36hf2HazMHRwbLo4Nnx7emqi3Dt5-Kwk3iGYPntAAABi0lEQVQ4ja1S2ZasIAwsXFtUEBHFdpv__8qbIN1658WXqcNJYyqpLDTwRxAinPgRP_9nBfB18f0eE1OTSyERuMXztaorX1wBhT_q6qvAaqaXNuaRXoK3HNxZNwY4SQVEIkKDof7objUFrKkgrnaAzb2vEsikMTWwLjU3uMhxQ900Y3ZGU1xRrjxEMmuyxiAtyV-pLGpwBckjZC7fgNKhl0Ax2g9PWZZbxrL5FOhb1bPX2NglMWMQKHTV5OTcdGvopxjlKUGm1-lBqY21eQ_Zo586HKnuKQznjuu9I4EM0Aq5RDdvOPbsW0JgW6gPbVE1fhjcaAbKWrbPKnkK9a7ilugUvKi3Wm6PgcOa85WTGGTscdsk76DpOq7JSFCtzYbrH8KlBi11fG8eONXDp4PkBPnXtQ5XUQ-ruBFPSBlNOGzCrTkRKLwIbZ5Pr3mayebl3LbTNLFpmUNLyJ3Xznvt3ayc9j9ae7bqRRxyglL7XgbMMxmld61KpWbmUBCyXyiy08Xc8xTiAc8KT_gHjzYT9npKCpEAAAAASUVORK5CYII.png",
+   "price": "₹11,238",
+   "extracted_price": 11238,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYzF9dNK3xC9dgBSOpT_rATJVdZok8SNMUPwGGVfascz27EMGXHgshb7JjEZQztYg7hAsoARyUEZiXexaBk3YsMxGG0pRGMaYT5WkmUnTfg3G9aHWDImJMnw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/mml473icDcnbCoIwAADQL0qjEWYQYWUzY3bx7kvMzTYT53KDzK_qd_qbOq_n--FaS7U0zUqQ_i11RSe6FMBgSmNdE4N0ral4J2Ut2Pq5-t_SCagNSZiPe5sGRzBsbco24UlGt96J_IQWXbMIAxSfXxAmd6zIOLNcBDOPKV5a_sMtLqPOmcUd1TnXd-wWdVYNeNOAXKEBwqm8QoTzaJ42bSyiOwPQxl66O7Q-Eq8ftnE_FA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 30,
+   "title": "Stander EZ Adjust Bed Rail",
+   "product_id": "5949159104738745079",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:5949159104738745079,productid:14320001151407735514,headlineOfferDocid:9895719773670058234,imageDocid:9386289712874871687,rds:PC_4817213428602739069|PROD_PC_4817213428602739069,gpcid:4817213428602739069,mid:576462617177202827,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹13,879",
+   "extracted_price": 13879,
+   "rating": 5.0,
+   "reviews": 3600,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSHDW-_sUqfqJWN1h4klPxzhG7y54kuDY7Zy8dsFPsKQCI_AdCDsfKkY3Dpf39rNi8OGOqTgUCv7f3FnbL1n8u2Pf0qxhD5v0743qQdh_rC",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/6gdxRXicDcltCoIwAADQE5najGkQIRtaGX5QEvVHamtOrLm5GdpxulW3qff3fT_cGKmXtn0XpJ-kuVPL3ASY1dpcTUNmpHvamndSNqJeq9X_lmFKg5gcNvhkVbpUTO1Oqcu99pGPbx7DaeG1Az7Dy-RTHeU6KdC2CinCmiXtGWDJQNCnjZ_FmTrWJXpBBiJx27vCH-Y5c9TI8eLlQA-ogvKqRz8_RjlD"
+  },
+  {
+   "position": 31,
+   "title": "Maxbell Bed Rails for Elderly Adults Safe Nonslip Utility Bedside Assist Rail Handle Wood Grain",
+   "product_id": "17270701184753804085",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:17270701184753804085,headlineOfferDocid:17270701184753804085,imageDocid:10974980931576731821,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Aladdin Shoppers",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEX____-_v79_PzFsJ708e6bd1f39fKnh2uHXDbu6OPLuKj7-fjCrJmLYTyjgmW1m4Tp4tu-p5Pe0sjYyr3j2NC6oozMuqqSakezl36hf2HazMHRwbLo4Nnx7emqi3Dt5-Kwk3iGYPntAAABi0lEQVQ4ja1S2ZasIAwsXFtUEBHFdpv__8qbIN1658WXqcNJYyqpLDTwRxAinPgRP_9nBfB18f0eE1OTSyERuMXztaorX1wBhT_q6qvAaqaXNuaRXoK3HNxZNwY4SQVEIkKDof7objUFrKkgrnaAzb2vEsikMTWwLjU3uMhxQ900Y3ZGU1xRrjxEMmuyxiAtyV-pLGpwBckjZC7fgNKhl0Ax2g9PWZZbxrL5FOhb1bPX2NglMWMQKHTV5OTcdGvopxjlKUGm1-lBqY21eQ_Zo586HKnuKQznjuu9I4EM0Aq5RDdvOPbsW0JgW6gPbVE1fhjcaAbKWrbPKnkK9a7ilugUvKi3Wm6PgcOa85WTGGTscdsk76DpOq7JSFCtzYbrH8KlBi11fG8eONXDp4PkBPnXtQ5XUQ-ruBFPSBlNOGzCrTkRKLwIbZ5Pr3mayebl3LbTNLFpmUNLyJ3Xznvt3ayc9j9ae7bqRRxyglL7XgbMMxmld61KpWbmUBCyXyiy08Xc8xTiAc8KT_gHjzYT9npKCpEAAAAASUVORK5CYII.png",
+   "price": "₹11,455",
+   "extracted_price": 11455,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS5wi4loDRC_KMXDQjRB3owIeqCOSvKfi6P5htps99zvXVgH8DqPvwPQ0PN0isAukrNHROYDKUvbB5weOlhi4Y1fzjYAnlCy6JZMH7-q6e4MPe6ffYqtNn5nQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/PskAlHicDczbCoIwAADQL_JGzlKI8AJZok6j0F4iderMpnNL0a_qd_qbfD5wft-a854ZkoRIPsw9R4XAM6KIFeNPjnMx794Sq7u-x6Q60P1qhhkU-jG_gAmrbefE9sPzEydqYmvTTSdE7fAyeiXWIKjXWdeXMblV7s6hcJxgJMNAxsz8vIbAjcPU8a5jZoEJhW2N1VQplyY1SWvP2vnuu1uBakj1IdLKMqU8IIBEf7TXPt8",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 32,
+   "title": "HOMEAL Bed Rails for Elderly Adults Safety, Adjustable Bed Assist Rails",
+   "product_id": "8362900489186336936",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:8362900489186336936,headlineOfferDocid:8362900489186336936,imageDocid:12837373519392485133,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹20,710",
+   "extracted_price": 20710,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRBtOl9K4GVWqUxFf9umy0r9Fcbm_sT8apK9QDb7m6v6TFBBn35YutN0VeRfH2rUXyX62ES8mIfgtVDu6HsnbllCtWjmO1R0_9Fzw9DkKmQmC5AQrRCVKTH",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/j7upgnicDclJDoIwFADQEwk4gJbEGAYRQwIBmVwRKKPSWulHxUN5H2-jb_u-nxaAcVUUK4qHiUFVzqCgc6HhkEOHBXwjIm9vjHW02d23_1M1t0QHHOjg9chZHeLkHr2sGo1kkgZk4YJkPNzkzEG-WayJ8lBCS9fpUj6P4EpxFdT2YojSKVUW-9OGHOsGYnNUbE6LvjcguRBvHkgZst5PZF4d4hND1vwhMGIntH8Lrj1f",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 33,
+   "title": "Bed Rail Safety Side Guard for Elderly, Adults, Toddler & Kids Assist Handle Handicap Bed Railing Pregnant-Available for Most of Sizes of Bed",
+   "product_id": "16632355060207992106",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:16632355060207992106,headlineOfferDocid:16632355060207992106,imageDocid:13548546682461656406,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹32,592",
+   "extracted_price": 32592,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJdrhdJNqsvuTFkSk0NP99lJZW5xCtTtsFFpZT_hZW5qEMsnH97WhZF9xE0BGsoJULWVM7LeGpJa_Uh48jKFmaYY7xfK5YTsoRVXaGBfA5YPXEjlMp7QL2",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ZCdRHnicDclZCoJAAADQE6UiiY0QoeEY44Ll7o-Y27iPzhR2qe7TbfLz8X5fzBihCs9XU7F-CKvKA3tOItdQlrO24Ip55CmeCWmn5rKc91NUpwRG4aFyxSVyFvp--bD3esFxARhQGknblfmMQkhSP8O7F92m0w3IEU4h2HRBM-iMAisKbdmqDILyLMDHU2fCMU8SeatNKfHp_Ajj3NBqVUrcWO8Gm8h3S_wDQ0s9sw",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 34,
+   "title": "Bed Rail Safety Get Up Handle Assisting for Elderly Pregnant Women Aid Handrail",
+   "product_id": "8256391661157350000",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:8256391661157350000,productid:1496802049084611180,headlineOfferDocid:15243110987495353195,imageDocid:3310642350076074995,gpcid:602519849900436134,mid:576462879840263008,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹7,468",
+   "extracted_price": 7468,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRx_v7BPLKifLc6AdPz3fHfOHa8HCxgzeom2TIJWcPeNAvMyDnjIA9Tf5YgxfOROkrufMf8x6zt5HuvDE7OvqzmN5Ml2Ur9C7yld_xG60B4PHwFmTDXbNMurw",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/MHNgIHicDcnbEkJAAADQL4qGXGeaxqWswppGUz0ZlkW5Wyxf1e_0N3Vez_eTE9IOKsumNeqXlqTJhsQ1z2QDiUiBGNRU7JA3bVvU2aHb_0_VvESx0JWGk6T7zqXADhK1xF95DDAEkQwMmq1pU3GBfb4jP_W0yV3M-mVrSoCFZ0YxvMJ3P2IXy1RciQDGyTxKcOrWyhPckrv1iiEtZRJSS9zqOx_MpyowH7Hnjv38A8m7P1I",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "Maxbell Bed Rails for Elderly Easy Installation Sturdy Ergonomic Handle Bedside Rail No Adjustable",
+   "product_id": "8412482320270341345",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:8412482320270341345,headlineOfferDocid:8412482320270341345,imageDocid:11172790826599196532,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Aladdin Shoppers",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEX____-_v79_PzFsJ708e6bd1f39fKnh2uHXDbu6OPLuKj7-fjCrJmLYTyjgmW1m4Tp4tu-p5Pe0sjYyr3j2NC6oozMuqqSakezl36hf2HazMHRwbLo4Nnx7emqi3Dt5-Kwk3iGYPntAAABi0lEQVQ4ja1S2ZasIAwsXFtUEBHFdpv__8qbIN1658WXqcNJYyqpLDTwRxAinPgRP_9nBfB18f0eE1OTSyERuMXztaorX1wBhT_q6qvAaqaXNuaRXoK3HNxZNwY4SQVEIkKDof7objUFrKkgrnaAzb2vEsikMTWwLjU3uMhxQ900Y3ZGU1xRrjxEMmuyxiAtyV-pLGpwBckjZC7fgNKhl0Ax2g9PWZZbxrL5FOhb1bPX2NglMWMQKHTV5OTcdGvopxjlKUGm1-lBqY21eQ_Zo586HKnuKQznjuu9I4EM0Aq5RDdvOPbsW0JgW6gPbVE1fhjcaAbKWrbPKnkK9a7ilugUvKi3Wm6PgcOa85WTGGTscdsk76DpOq7JSFCtzYbrH8KlBi11fG8eONXDp4PkBPnXtQ5XUQ-ruBFPSBlNOGzCrTkRKLwIbZ5Pr3mayebl3LbTNLFpmUNLyJ3Xznvt3ayc9j9ae7bqRRxyglL7XgbMMxmld61KpWbmUBCyXyiy08Xc8xTiAc8KT_gHjzYT9npKCpEAAAAASUVORK5CYII.png",
+   "price": "₹11,083",
+   "extracted_price": 11083,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSNvzaBvNKkFc4BEPymW2TRAdwxppHe2ZXeD0UYDQTXzMicIOxKl8edksztB1QSCsEZm-jVmV8GSMGAl4n1OLBFgnh3D5bqWbOC4_rz07zWGMypQ819t_Io",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/b-4bj3icDcnbEkJAAADQL8otTZhpGnLJCElRXgxrB2GtdqeyH9X_9Dd1Xs_301CKicbzEIHHjCmsFrREAlcTWtAWcGAceNKMGLeo3k6b_2l6UKkOiIMnK4xn4HU2kA3rOA-pdD7p1euN8R5K2RWawuVmRucr81vghm-vV2DVEUYNMYp3xMqGxT0ZEsWJfUfvZSSGB8OuUbM0V-WUluFOzh9MWLPU8WccKaJKc3f8AT8-Pdo",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "Bed Rails for Elderly Adults Safety, 350 LB Capacity, Model BS06",
+   "product_id": "11323962262025856969",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:11323962262025856969,headlineOfferDocid:11323962262025856969,imageDocid:8536371134242245174,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEUAQ_D___-VsfhwlfaTr_jg6P0tZPIERvBJefSAofdoj_YTUfEISfAWU_H6_P8PTvEnYPJ8nvc1avMaVvHp7_3A0fvN2vzG1ft2mvc8cPPX4f1Bc_Ntk_atw_pWgvWzx_thivWiu_lQfvWLqfiiXQ94AAAAxElEQVQ4jcWT2xKCIBCGJRMSScTAPFWW7_-OLavTdFj0qvG_WYb_Y0-jUbSB0v2kUwhI2CS-CSD4AWS966TMvm1lLHtp9_v8WDG2BIgzWwbk7OQhAAvkdSaalgQ0vkv9scgpgL-N3lJAgUCH7VoKUNicU3CM6SYdpmhNfwlMcf1YA7XJ2xqg3QoQiT5ZBgAph3hWR_mNkdpHbvoj5fs5HMQSVpIoArj72pDC-FgSwAD3la8EGaymajzGGr_DZkyDP81f9ATevweOXjEHbwAAAABJRU5ErkJggg.png",
+   "price": "₹13,395",
+   "extracted_price": 13395,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRjgPNgecxMPjWmeJKHCU_JehJzmU14r7aO3jJrPz7K6s4-NVx-TJIIb9ya5_d0gpVKUZfVxLQuPmeJvMbc9hJJ66GwMTBvilM-rhXHEIC5PZQ4DIQ1uivl",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/QFudDHicDcttD0JAAADgX4SUl7G1Vmo40WlR88U41x3zcnFJ_aj-T_8mn589vy_lnA2mJOEW9W_GcSHwvF2KZOAZL5GIukYaaMdY2ZLNYz2buQ0Kw0bnisCAYDT5sLo2GHiOFaUAU_BpIlnp9ey0qkAPP7qnDYoQxJNwAa6bG-9MTYsFYbEXJfd4OoZPOO_Rz5FBAdA0--VfdmNZ-0JPb87BtVSYhMreDeVnOdZ_KbE9mA",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 37,
+   "title": "Bed Railing for Seniors, Bed Assist Rail, Bedside Safety Guard Rails for Adults, Fold Down Handle Hospital Rails, Mobility Aids Bedside Assist Bar",
+   "product_id": "12434487579623098016",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:12434487579623098016,headlineOfferDocid:12434487579623098016,imageDocid:3993789745030103858,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "price": "₹7,430",
+   "extracted_price": 7430,
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRsI-NiV9MUSbAh8imScUqbkseNpUQdk_bGv3sUfI8f8p87bWG3KzeQ1IREzpWewN0uzlivpfCiv--sOdMHCVlTQmrdkjs6iooLn9iOurE",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/nyydd3icDcltCoIwAADQE6mVUFOIEBGTcqKm_oz2oS51m24aeZuO1W3q_X3fT6u1VK5lUY6nt9SUGBrxndko_dAMm1gMlmqFlIw3p_H4P9eDxAlxpiIDstKJixx5LWBDjosRdYpCWaSku6NwsVVRR6AGEhxQFdqXlabbKAtWWdEX3MxrzxZZ-2wxDJWQ-OyX_S0dJtI91Z4JceUOS-Yp-AFCKjsD"
+  },
+  {
+   "position": 38,
+   "title": "Stander Mobility Bed Rail",
+   "product_id": "13593387568051092680",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=catalogid:13593387568051092680,productid:422096157263670297,headlineOfferDocid:5501483282151142423,imageDocid:8063503299837684617,rds:PC_16739753724803024108|PROD_PC_16739753724803024108,gpcid:16739753724803024108,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABiklEQVRYhe2Wz04CMRDGv2kRApEnMJjAwcSbNxPfwAuGeDImJhzEE6-gJDwRPAEXD_oQvAEXiZEVO-NhFZf913YD8bK_ZJPdaTvztbOdFigpKflnyKXTatIWV4cMvYzbFEwzq3_F1THEwKqXVHYw4bQB7gKEGaSrAJwXIyEuDjMtk9YMtLwXD54DRbymra8AgEjYJZh2fkxOv44VrxXYF1YB1UTudjN7AFBKmtYUVEkhYJPpJJh2UOvOw_fJMUAaAP3Zou3Tzmbcr233KZBssWm41wGkzyCJX4q8BABwK0geWFPwGa9gKQUl1qGYgPF4fBptGAyeGgBwoHQyQJ4Iq8AYt7d3l816XRDuhsTzMHy8lxxWk3Zes7UdANDv98_Tgp9d9K4AYF8CzFfwtvPj2Idad-6xC3i9_U0EUHS45Yyg8F-iRgu61YM-GQLw2Yaqkh_AelfQQOUQ1DjaBOfFi08dKL73ef2xrF_Pty4qsnjF-vmmsE9njDEjZp6JiDDzzBgz2n_UkhIPvgGItyraEF8JaAAAAABJRU5ErkJggg.png",
+   "multiple_sources": true,
+   "price": "₹14,523",
+   "extracted_price": 14523,
+   "rating": 5.0,
+   "reviews": 147,
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTs15KsgwK4vjz98z9PM19YRN0gRK_lY2wo_tx-h1N8CY1QhpDT3kCDYW3qk8Snn9Ji1t6ghFlu81SLM-iR0Y37Ni6NHlJo0eShiGW1vXm8",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/CE4cIHicDcndDoIgGADQJ_KH7AfcWmu6bFmstM24ckUOKEWMr6wep7fqbercnu9HAhgbel6l-e1loDo7cNLIFRaOoLjL28azsjVGaTHrpv8L5_RMEr63aJRa0afDx-VN8JtsN4iwjPoiS8uaDfq2hKcjEcURQztp4n1wjWJWBN0V51qTlUIwFnJR3zHK1xtHZT4LJlSN6bJetX6VS5UU6HFo8A8GYzhP"
+  },
+  {
+   "position": 39,
+   "title": "Primage - For The Good Life Bed Side Safety Rail Guard, Bed Side Assist Support Bar For Adults",
+   "product_id": "15929522834291762383",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:15929522834291762383,headlineOfferDocid:15929522834291762383,imageDocid:17798118199100360256,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "source_icon": "https://serpapi.com/searches/6ac916952c2bb44cc72762f4/images/vShPqNZ0cCqx17hTT5teDIXn3Xk8h2zawVuSzZNk1IA.png",
+   "price": "₹3,500",
+   "extracted_price": 3500,
+   "old_price": "40% off₹5,850",
+   "extracted_old_price": 40,
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRKpZ8cPOsV2RCDYtq7FOIywPR9MMuYTVSHFrP1hvhHsxiFbyESwEucydqmcYg1AqLbERpUYxuc320JCDt2qadXmuEdgrkL7Xj2TxJb-fGzupxKU_N0WVAShQ",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/U1Xh93icDcndEoFAGADQJ6LkIpoxpmHzk34UkRujXdqYarf9ll1P5XW8Def2fD8UgAnHMK4N7jSDK-lB0Zj9UsAFKtzHbW0I2jJWNeWUT_7nuCEZL3Dis9MIx5HIrGQ2z4HbXrTSrzgZB4HMd1m69Lp4QJ90KVTlFRqlLySxJrzGeTlw-aZACdvnSuKhZa5nc7D4hRxriUjZPTb28W7t1Lro3RZvyZS_P4fmIXNTuv0B3eM_wg",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 40,
+   "title": "Maxbell Bed Assist Rail Grab Bar Bedside Security Handle Bedside Handrail for Adults coffee",
+   "product_id": "2978120007360552555",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Agrish Adult Portable Bed Rails&prds=productid:2978120007360552555,headlineOfferDocid:2978120007360552555,imageDocid:12751381619375265415,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Aladdin Shoppers",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEX____-_v79_PzFsJ708e6bd1f39fKnh2uHXDbu6OPLuKj7-fjCrJmLYTyjgmW1m4Tp4tu-p5Pe0sjYyr3j2NC6oozMuqqSakezl36hf2HazMHRwbLo4Nnx7emqi3Dt5-Kwk3iGYPntAAABi0lEQVQ4ja1S2ZasIAwsXFtUEBHFdpv__8qbIN1658WXqcNJYyqpLDTwRxAinPgRP_9nBfB18f0eE1OTSyERuMXztaorX1wBhT_q6qvAaqaXNuaRXoK3HNxZNwY4SQVEIkKDof7objUFrKkgrnaAzb2vEsikMTWwLjU3uMhxQ900Y3ZGU1xRrjxEMmuyxiAtyV-pLGpwBckjZC7fgNKhl0Ax2g9PWZZbxrL5FOhb1bPX2NglMWMQKHTV5OTcdGvopxjlKUGm1-lBqY21eQ_Zo586HKnuKQznjuu9I4EM0Aq5RDdvOPbsW0JgW6gPbVE1fhjcaAbKWrbPKnkK9a7ilugUvKi3Wm6PgcOa85WTGGTscdsk76DpOq7JSFCtzYbrH8KlBi11fG8eONXDp4PkBPnXtQ5XUQ-ruBFPSBlNOGzCrTkRKLwIbZ5Pr3mayebl3LbTNLFpmUNLyJ3Xznvt3ayc9j9ae7bqRRxyglL7XgbMMxmld61KpWbmUBCyXyiy08Xc8xTiAc8KT_gHjzYT9npKCpEAAAAASUVORK5CYII.png",
+   "price": "₹14,690",
+   "extracted_price": 14690,
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1QzrOYO4qBNB-6XqA7n6Lf1JHZ8b89uF4tqQ4j9nD-HVX_VYgR1ZStB_ioCz20kkl_azx_39dVZGY_1GXV0XuKaVuv6MaZ0fiLnkcwHC0zcQGoYwx8PxE",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/UdIi7nicDcnbEkJAAADQL3KLEWaaBhVTItXsWC87rGtqLVbJR_U__U2d1_P9VIzRwRCEnOD-TVmecSwlMl8OLGE15nH7EIaqpbQm5bpb_c8w_Ux38FUK5z6AgdJZvsWpUWcuieoV0t6NtVTTx53CulC56WTDuSBCAJZnKb4wC9WtPS_EprmjZJ6QrGcgdiCSnAiI0XhIwPhUj0ksFrVHGvxybXHGodPC16Sdpu0PuXE9RQ",
+   "delivery": "Free delivery"
+  }
+ ],
+ "filters": [
+  {
+   "input_type": "link_with_icon",
+   "options": [
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIMCAMSBk5lYXJieRgCWPaqIWAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Agrish+Adult+Portable+Bed+Rails+nearby&shoprs=CAEYAyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIMCAMSBk5lYXJieRgCWPaqIWAC"
+    }
+   ]
+  },
+  {
+   "type": "Sort by",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Relevance",
+     "shoprs": "CAEYFyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIKCBcqBBABGAFQBGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=agrish+adult+portable+bed+rails&shoprs=CAEYFyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIKCBcqBBABGAFQBGAC"
+    },
+    {
+     "text": "Price: low to high",
+     "shoprs": "CAEYFyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIeCBcSElByaWNlOiBsb3cgdG8gaGlnaCoEEAEYAVABYAKIAQE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=agrish+adult+portable+bed+rails&shoprs=CAEYFyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIeCBcSElByaWNlOiBsb3cgdG8gaGlnaCoEEAEYAVABYAKIAQE"
+    },
+    {
+     "text": "Price: high to low",
+     "shoprs": "CAEYFyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIeCBcSElByaWNlOiBoaWdoIHRvIGxvdyoEEAEYAVACYAKIAQI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=agrish+adult+portable+bed+rails&shoprs=CAEYFyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIeCBcSElByaWNlOiBoaWdoIHRvIGxvdyoEEAEYAVACYAKIAQI"
+    },
+    {
+     "text": "Rating: High to low",
+     "shoprs": "CAEYFyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIfCBcSE1JhdGluZzogSGlnaCB0byBsb3cqBBABGAFQA2ACiAED",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=agrish+adult+portable+bed+rails&shoprs=CAEYFyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIfCBcSE1JhdGluZzogSGlnaCB0byBsb3cqBBABGAFQA2ACiAED"
+    }
+   ]
+  },
+  {
+   "type": "Product rating",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "4 and up",
+     "shoprs": "CAESBWIDCJADGB4qH2FncmlzaCBhZHVsdCBwb3J0YWJsZSBiZWQgcmFpbHMyFQgeEgg0IGFuZCB1cCIFYgMIkANABGAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Agrish+Adult+Portable+Bed+Rails&shoprs=CAESBWIDCJADGB4qH2FncmlzaCBhZHVsdCBwb3J0YWJsZSBiZWQgcmFpbHMyFQgeEgg0IGFuZCB1cCIFYgMIkANABGAC"
+    }
+   ]
+  },
+  {
+   "type": "Shops",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIMCAISCEZsaXBrYXJ0WPaqIWAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+agrish+adult+portable+bed+rails&shoprs=CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIMCAISCEZsaXBrYXJ0WPaqIWAC"
+    },
+    {
+     "text": "IndustryBuying",
+     "shoprs": "CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczISCAISDkluZHVzdHJ5QnV5aW5nWPaqIWAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=industrybuying+agrish+adult+portable+bed+rails&shoprs=CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczISCAISDkluZHVzdHJ5QnV5aW5nWPaqIWAC"
+    },
+    {
+     "text": "amazon.in",
+     "shoprs": "CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczINCAISCWFtYXpvbi5pblj2qiFgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=amazon.in+agrish+adult+portable+bed+rails&shoprs=CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczINCAISCWFtYXpvbi5pblj2qiFgAg"
+    },
+    {
+     "text": "ubuy.co.in",
+     "shoprs": "CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIOCAISCnVidXkuY28uaW5Y9qohYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=ubuy.co.in+agrish+adult+portable+bed+rails&shoprs=CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIOCAISCnVidXkuY28uaW5Y9qohYAI"
+    },
+    {
+     "text": "desertcart.in",
+     "shoprs": "CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIRCAISDWRlc2VydGNhcnQuaW5Y9qohYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=desertcart.in+agrish+adult+portable+bed+rails&shoprs=CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIRCAISDWRlc2VydGNhcnQuaW5Y9qohYAI"
+    }
+   ]
+  },
+  {
+   "type": "Price",
+   "input_type": "price_range",
+   "options": [
+    {
+     "text": "Under ₹5,000",
+     "shoprs": "CAESDRILEQAAAABfoPJBGAEYBSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczInCAUSDlVuZGVyIOKCuTUsMDAwGAIiDRILEQAAAABfoPJBGAEqAhgBWPaqIWAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Agrish+Adult+Portable+Bed+Rails+under+5000&shoprs=CAESDRILEQAAAABfoPJBGAEYBSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczInCAUSDlVuZGVyIOKCuTUsMDAwGAIiDRILEQAAAABfoPJBGAEqAhgBWPaqIWAC"
+    },
+    {
+     "text": "₹5,000 - ₹9,000",
+     "shoprs": "CAESFhIUCQAAAABfoPJBEQAAAMCIwwBCGAEYBSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczI1CAUSE-KCuTUsMDAwIC0g4oK5OSwwMDAYAiIWEhQJAAAAAF-g8kERAAAAwIjDAEIYASoCGAFY9qohYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Agrish+Adult+Portable+Bed+Rails+between+5000+and+9000&shoprs=CAESFhIUCQAAAABfoPJBEQAAAMCIwwBCGAEYBSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczI1CAUSE-KCuTUsMDAwIC0g4oK5OSwwMDAYAiIWEhQJAAAAAF-g8kERAAAAwIjDAEIYASoCGAFY9qohYAI"
+    },
+    {
+     "text": "₹9,000 - ₹15,000",
+     "shoprs": "CAESFhIUCQAAAMCIwwBCEQAAAICO8AtCGAEYBSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczI2CAUSFOKCuTksMDAwIC0g4oK5MTUsMDAwGAIiFhIUCQAAAMCIwwBCEQAAAICO8AtCGAEqAhgBWPaqIWAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Agrish+Adult+Portable+Bed+Rails+between+9000+and+15000&shoprs=CAESFhIUCQAAAMCIwwBCEQAAAICO8AtCGAEYBSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczI2CAUSFOKCuTksMDAwIC0g4oK5MTUsMDAwGAIiFhIUCQAAAMCIwwBCEQAAAICO8AtCGAEqAhgBWPaqIWAC"
+    },
+    {
+     "text": "Over ₹15,000",
+     "shoprs": "CAESDRILCQAAAICO8AtCGAEYBSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczInCAUSDk92ZXIg4oK5MTUsMDAwGAIiDRILCQAAAICO8AtCGAEqAhgBWPaqIWAC",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Agrish+Adult+Portable+Bed+Rails+over+15000&shoprs=CAESDRILCQAAAICO8AtCGAEYBSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczInCAUSDk92ZXIg4oK5MTUsMDAwGAIiDRILCQAAAICO8AtCGAEqAhgBWPaqIWAC"
+    }
+   ]
+  },
+  {
+   "type": "Free delivery",
+   "input_type": "link",
+   "options": [
+    {
+     "text": "Free delivery",
+     "shoprs": "CAESBFICEAEYGSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIXCBkSDUZyZWUgZGVsaXZlcnkiBFICEAFgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Agrish+Adult+Portable+Bed+Rails+free+delivery&shoprs=CAESBFICEAEYGSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIXCBkSDUZyZWUgZGVsaXZlcnkiBFICEAFgAg"
+    }
+   ]
+  },
+  {
+   "type": "Brand",
+   "input_type": "checkbox",
+   "options": [
+    {
+     "text": "Maxbell",
+     "shoprs": "CAEYASofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIZCAESB01heGJlbGw6DAiD8zwQ7qiC3gMwAVj2qiFgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=maxbell+agrish+adult+portable+bed+rails&shoprs=CAEYASofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIZCAESB01heGJlbGw6DAiD8zwQ7qiC3gMwAVj2qiFgAg"
+    },
+    {
+     "text": "Stander",
+     "shoprs": "CAEYASofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIXCAESB1N0YW5kZXI6CgiD8zwQ4e12MAFY9qohYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=stander+agrish+adult+portable+bed+rails&shoprs=CAEYASofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIXCAESB1N0YW5kZXI6CgiD8zwQ4e12MAFY9qohYAI"
+    },
+    {
+     "text": "Easy Make",
+     "shoprs": "CAEYASofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIZCAESCUVhc3kgTWFrZToKCIPzPBCUq2gwAVj2qiFgAg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=easy+make+agrish+adult+portable+bed+rails&shoprs=CAEYASofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIZCAESCUVhc3kgTWFrZToKCIPzPBCUq2gwAVj2qiFgAg"
+    },
+    {
+     "text": "Costway",
+     "shoprs": "CAEYASofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIXCAESB0Nvc3R3YXk6CgiD8zwQ_9hoMAFY9qohYAI",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=costway+agrish+adult+portable+bed+rails&shoprs=CAEYASofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIXCAESB0Nvc3R3YXk6CgiD8zwQ_9hoMAFY9qohYAI"
+    }
+   ]
+  },
+  {
+   "type": "Carousel Filters",
+   "options": [
+    {
+     "text": "Nearby",
+     "shoprs": "CAEYAyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIMCAMSBk5lYXJieRgCWPaqIWAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Agrish+Adult+Portable+Bed+Rails+nearby&shoprs=CAEYAyofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIMCAMSBk5lYXJieRgCWPaqIWAB",
+     "input_type": "link_with_icon"
+    },
+    {
+     "text": "Toddler Bedrails",
+     "shoprs": "CAEYCSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIUCAkSEFRvZGRsZXIgQmVkcmFpbHNgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=toddler+bedrails+agrish+adult+portable+bed+rails&shoprs=CAEYCSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIUCAkSEFRvZGRsZXIgQmVkcmFpbHNgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Flipkart",
+     "shoprs": "CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIMCAISCEZsaXBrYXJ0WPaqIWAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=flipkart+agrish+adult+portable+bed+rails&shoprs=CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIMCAISCEZsaXBrYXJ0WPaqIWAB",
+     "input_type": "link"
+    },
+    {
+     "text": "Under ₹5,000",
+     "shoprs": "CAESDRILEQAAAABfoPJBGAEYBSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczInCAUSDlVuZGVyIOKCuTUsMDAwGAIiDRILEQAAAABfoPJBGAEqAhgBWPaqIWAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Agrish+Adult+Portable+Bed+Rails+under+5000&shoprs=CAESDRILEQAAAABfoPJBGAEYBSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczInCAUSDlVuZGVyIOKCuTUsMDAwGAIiDRILEQAAAABfoPJBGAEqAhgBWPaqIWAB",
+     "input_type": "price_range"
+    },
+    {
+     "text": "Hospital Beds",
+     "shoprs": "CAEYCSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIRCAkSDUhvc3BpdGFsIEJlZHNgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=hospital+beds+agrish+adult+portable+bed+rails&shoprs=CAEYCSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIRCAkSDUhvc3BpdGFsIEJlZHNgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "Free delivery",
+     "shoprs": "CAESBFICEAEYGSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIXCBkSDUZyZWUgZGVsaXZlcnkiBFICEAFgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=Agrish+Adult+Portable+Bed+Rails+free+delivery&shoprs=CAESBFICEAEYGSofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIXCBkSDUZyZWUgZGVsaXZlcnkiBFICEAFgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "IndustryBuying",
+     "shoprs": "CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczISCAISDkluZHVzdHJ5QnV5aW5nWPaqIWAB",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=industrybuying+agrish+adult+portable+bed+rails&shoprs=CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczISCAISDkluZHVzdHJ5QnV5aW5nWPaqIWAB",
+     "input_type": "link"
+    },
+    {
+     "text": "amazon.in",
+     "shoprs": "CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczINCAISCWFtYXpvbi5pblj2qiFgAQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=amazon.in+agrish+adult+portable+bed+rails&shoprs=CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczINCAISCWFtYXpvbi5pblj2qiFgAQ",
+     "input_type": "link"
+    },
+    {
+     "text": "ubuy.co.in",
+     "shoprs": "CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIOCAISCnVidXkuY28uaW5Y9qohYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=ubuy.co.in+agrish+adult+portable+bed+rails&shoprs=CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIOCAISCnVidXkuY28uaW5Y9qohYAE",
+     "input_type": "link"
+    },
+    {
+     "text": "desertcart.in",
+     "shoprs": "CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIRCAISDWRlc2VydGNhcnQuaW5Y9qohYAE",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=in&google_domain=google.com&hl=en&q=desertcart.in+agrish+adult+portable+bed+rails&shoprs=CAEYAiofYWdyaXNoIGFkdWx0IHBvcnRhYmxlIGJlZCByYWlsczIRCAISDWRlc2VydGNhcnQuaW5Y9qohYAE",
+     "input_type": "link"
+    }
+   ]
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09T13:48:10+0530",
- "lens_searches": 43,
+ "generated_at": "2026-10-09T22:00:16+0530",
+ "lens_searches": 44,
  "credits_spent_this_run": 2,
  "trails": {
   "10704": {
@@ -26676,6 +26676,193 @@
     "name": null,
     "titled_with_name": null,
     "raw_json": "data/raw/google_shopping_0824ea1cc0e202af.json"
+   }
+  },
+  "10540": {
+   "recall": {
+    "recall_id": "10540",
+    "number": "26165",
+    "date": "2026-01-08",
+    "title": "Agrish Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Agrish Direct",
+    "url": "https://www.cpsc.gov/Recalls/2026/Agrish-Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon%20by-Agrish-Direct",
+    "product": "Agrish Adult Portable Bed Rails",
+    "risk": "Risk of serious injury or death from entrapment and asphyxiation",
+    "standard": "Mandatory standard for adult portable bed rails",
+    "units": "About 5,000",
+    "sold_on": "Amazon",
+    "seller": "Agrish Direct",
+    "countries": [
+     "China"
+    ],
+    "photos": [
+     {
+      "url": "https://www.cpsc.gov/s3fs-public/Agrish-1.jpg",
+      "caption": "Recalled Agrish Adult Portable Bed Rail Model Number 2512"
+     },
+     {
+      "url": "https://www.cpsc.gov/s3fs-public/Agrish-2.jpg",
+      "caption": "Recalled Agrish Adult Portable Bed Rail Model Number 2513"
+     },
+     {
+      "url": "https://www.cpsc.gov/s3fs-public/Agrish-3.png",
+      "caption": "Recalled Agrish Adult Portable Bed Rail Model Number 2516"
+     }
+    ],
+    "kids": false,
+    "fire": false,
+    "marketplace": true
+   },
+   "photo": {
+    "url": "https://www.cpsc.gov/s3fs-public/Agrish-2.jpg",
+    "caption": "Recalled Agrish Adult Portable Bed Rail Model Number 2513",
+    "border_white": 0.936,
+    "width": 515,
+    "height": 515,
+    "listing_style": true
+   },
+   "recall_photo_url": "https://www.cpsc.gov/s3fs-public/Agrish-2.jpg",
+   "search_key": "google_lens_477c1b5b8e5dcf38",
+   "matches_total": 25,
+   "matches_capped": false,
+   "kinds": {
+    "social": 8,
+    "shop": 1,
+    "news": 5,
+    "listing": 5,
+    "other": 6
+   },
+   "countries": [
+    [
+     "GB",
+     4
+    ],
+    [
+     "XX",
+     1
+    ],
+    [
+     "AE",
+     1
+    ]
+   ],
+   "stores": 3,
+   "recalled_brand": "Agrish",
+   "recalled_brand_listings": 0,
+   "selling": [
+    {
+     "title": "12 in. Bed Rails with Motion Lights and Storage Pouch, Adjustable ...",
+     "link": "https://www.homedepot.com/p/Numhew-12-in-Bed-Rails-with-Motion-Lights-and-Storage-Pouch-Adjustable-Bedside-Grab-Bar-Bed-Cane-with-Strong-Support-Leg-F0I8X4U9/342586307",
+     "source": "The Home Depot",
+     "domain": "homedepot.com",
+     "kind": "shop",
+     "country": "XX",
+     "price": "$136.99",
+     "thumbnail": "thumbs/9ed2977c309c7184.jpg",
+     "india": false,
+     "thumbnail_src": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/Lh7Oze7MihC4z3BFUZkRCbi9SBuGU_S4KGgj77KXC7I.jpeg"
+    },
+    {
+     "title": "VOCIC Rollator Walker with Seat, Lightweight Foldable Waling Aids ...",
+     "link": "https://www.amazon.ae/VOCIC-Rollator-Walker-Lightweight-Foldable/dp/B0DMWRX4GL",
+     "source": "Amazon.ae",
+     "domain": "amazon.ae",
+     "kind": "listing",
+     "country": "AE",
+     "price": null,
+     "thumbnail": "thumbs/398add0a75724bc7.jpg",
+     "india": false,
+     "thumbnail_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVNSRz6JXhJ8HRDsqGbMWtJWLeaq7t7fssU8ziap3qnR1mGS-ZGKVhoww&s"
+    },
+    {
+     "title": "FamiHealth Bed Rails for Elderly Adults with Storage Bag, Safety ...",
+     "link": "https://www.amazon.co.uk/FamiHealth-Elderly-Storage-Mobility-Adjustable/dp/B0F4QQCD9N",
+     "source": "Amazon UK",
+     "domain": "amazon.co.uk",
+     "kind": "listing",
+     "country": "GB",
+     "price": null,
+     "thumbnail": "thumbs/398add0a75724bc7.jpg",
+     "india": false,
+     "thumbnail_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVNSRz6JXhJ8HRDsqGbMWtJWLeaq7t7fssU8ziap3qnR1mGS-ZGKVhoww&s"
+    },
+    {
+     "title": "Bed Assist Rail for Elderly Adults with Motion-Sensing Light Storage ...",
+     "link": "https://www.amazon.co.uk/Assist-Elderly-Adults-Motion-Sensing-Storage/dp/B0FQ5FJZYS",
+     "source": "Amazon UK",
+     "domain": "amazon.co.uk",
+     "kind": "listing",
+     "country": "GB",
+     "price": null,
+     "thumbnail": "thumbs/1c6707f6b80e15a0.jpg",
+     "india": false,
+     "thumbnail_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLOJ40VuiawMk1YuzsCP5qbA01IxREjS4cQRQLwPtVhgWudpqihvhnepIq&s"
+    },
+    {
+     "title": "Bed Grab Rail | Aluminum Carbon Steel Handle For Getting Out",
+     "link": "https://www.amazon.co.uk/Elderly-Portable-Aluminum-Getting-Bedside/dp/B0GTLX43SL",
+     "source": "Amazon UK",
+     "domain": "amazon.co.uk",
+     "kind": "listing",
+     "country": "GB",
+     "price": "£17.99",
+     "thumbnail": "thumbs/398add0a75724bc7.jpg",
+     "india": false,
+     "thumbnail_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVNSRz6JXhJ8HRDsqGbMWtJWLeaq7t7fssU8ziap3qnR1mGS-ZGKVhoww&s"
+    },
+    {
+     "title": "TYGYSDO Adjustable Bed Rail Elderly, Foldable Bed Grab Rail with ...",
+     "link": "https://www.amazon.co.uk/TYGYSDO-Adjustable-Foldable-One-Click-Post-Surgery/dp/B0G6ZT28BR",
+     "source": "Amazon UK",
+     "domain": "amazon.co.uk",
+     "kind": "listing",
+     "country": "GB",
+     "price": null,
+     "thumbnail": "thumbs/398add0a75724bc7.jpg",
+     "india": false,
+     "thumbnail_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVNSRz6JXhJ8HRDsqGbMWtJWLeaq7t7fssU8ziap3qnR1mGS-ZGKVhoww&s"
+    }
+   ],
+   "india": [],
+   "status": "ok",
+   "raw_json": "data/raw/google_lens_477c1b5b8e5dcf38.json",
+   "recall_photo_local": "thumbs/recall-10540.jpg",
+   "india_shopping": {
+    "query": "Agrish Adult Portable Bed Rails",
+    "search_key": "google_shopping_8a2a7072076cb457",
+    "results": 40,
+    "stores": [
+     [
+      "ubuy.co.in",
+      14
+     ],
+     [
+      "amazon.in",
+      10
+     ],
+     [
+      "Aladdin Shoppers",
+      6
+     ],
+     [
+      "desertcart.in",
+      6
+     ],
+     [
+      "cart2india",
+      2
+     ],
+     [
+      "Disha Incorporation",
+      1
+     ],
+     [
+      "Flipkart",
+      1
+     ]
+    ],
+    "name": "Agrish",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_8a2a7072076cb457.json"
    }
   },
   "10596": {

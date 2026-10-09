@@ -1,0 +1,284 @@
+{
+ "search_metadata": {
+  "id": "6ac916907d6e702768c0d968",
+  "status": "Success",
+  "created_at": "2026-10-09 16:30:08 UTC",
+  "processed_at": "2026-10-09 16:30:08 UTC",
+  "google_lens_url": "https://lens.google.com/uploadbyurl?url=https%3A%2F%2Fwww.cpsc.gov%2Fs3fs-public%2FAgrish-2.jpg",
+  "total_time_taken": 4.6
+ },
+ "search_parameters": {
+  "engine": "google_lens",
+  "url": "https://www.cpsc.gov/s3fs-public/Agrish-2.jpg",
+  "type": "exact_matches"
+ },
+ "exact_matches": [
+  {
+   "position": 1,
+   "title": "RECALL EXPANDED: Agrish added 30,083 more portable bed rails ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/5news/posts/recall-expanded-agrish-added-30083-more-portable-bed-rails-to-an-existing-recall/1661388975584364/",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/2S_Z4-2AR3ZTqI9FS0cwuO_cogQT7moTRE6PMX3C__w.jpeg",
+   "date": "5 days ago",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 2,
+   "title": "12 in. Bed Rails with Motion Lights and Storage Pouch, Adjustable ...",
+   "source": "The Home Depot",
+   "source_icon": "https://serpapi.com/images/i/UklGRiACAABXRUJQVlA4IBQCAACQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhEgH4AXodt7CZ6ANsB5gPOd6MDqAOfb9g9fgrc0AIZd4tdQNWejx1AV2wLfrgzC5BaY5crdVgXxO58G11AshtwAA9wKUHMFlww6XmzmwVnt3NJzCUp4e_yUjGQVXdRQQpfbVGGTPPxb9ozsnmv8foc6TtiaGPlmGbZ8HdWZm8Lzt0OBE74SfXfH8gfoUo_NXSYiZ__ZoOaL4eRgIaQgDhYzj-c7RBuPf_9y1c8iZCIZt91a3bjN5c00D7g74jqnEhG9aVx0E9lMwtmpgjaci9eOo0qdBsbkHNdrLmco4PFnua2onidttCsNYffCXJDykkPC5CjXaEHIh5UxrX7DWFRVVhjkHufhmVdAKTPGNUEgLrRONYRyarZIqSEUe34RHmzfsovBG1EX3tn5W4cP-jj5AP1czLT0efHX0NDG3u8Q2luxFMlWt2ZyCdhoK2srVjlmZKsY8QtlmkU7rfHNcKIlqcmfGZaqgpT2B-loluxIICcsT8Of5JzIHthQKo1SQ5YpveIJm_uFXnuNtubxDCed32_6ujxaQO1B_g7hYijeF9rnR9Sccws5E9KmesLLeXejHEBom4zSbJ5ZKp0ZVl2JOE89PDuTHqD9S4YUHaDpXnw_bhoLP3asbgmJ3nbhKIGc6pprFJR1BRjLo29tk8vBfBVegAAAA.webp",
+   "link": "https://www.homedepot.com/p/Numhew-12-in-Bed-Rails-with-Motion-Lights-and-Storage-Pouch-Adjustable-Bedside-Grab-Bar-Bed-Cane-with-Strong-Support-Leg-F0I8X4U9/342586307",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/Lh7Oze7MihC4z3BFUZkRCbi9SBuGU_S4KGgj77KXC7I.jpeg",
+   "price": "$136.99",
+   "extracted_price": 136.99,
+   "out_of_stock": true,
+   "actual_image_width": 600,
+   "actual_image_height": 600
+  },
+  {
+   "position": 3,
+   "title": "Agrish added 30083 more portable bed rails to an existing recall ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/wtol11/posts/recall-expanded-agrish-added-30083-more-portable-bed-rails-to-an-existing-recall/1581090807394104/",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/vVbvl5vmsXUEVBlqa-ak1iu5J80XuLB4wBKrQWwcotE.jpeg",
+   "date": "5 days ago",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 4,
+   "title": "RECALL EXPANDED: Agrish added 30,083 more portable bed rails ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/wqad8/posts/recall-expanded-agrish-added-30083-more-portable-bed-rails-to-an-existing-recall/1652134733166590/",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/XhyJa717IptP88gcN_gvE_0Yjkxgsigg1FF1RWoNFHk.jpeg",
+   "date": "5 days ago",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 5,
+   "title": "RECALL EXPANDED: Agrish added 30,083 more portable bed rails ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/fox43news/posts/recall-expanded-agrish-added-30083-more-portable-bed-rails-to-an-existing-recall/1632068198505124/",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/t8_d-sCgnlZ2i6yKqKlOa2Ny_xjfg4t4RJ0BRdwjncs.jpeg",
+   "date": "5 days ago",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 6,
+   "title": "RECALL EXPANDED: Agrish added 30,083 more portable bed rails ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/13NewsNow/posts/recall-expanded-agrish-added-30083-more-portable-bed-rails-to-an-existing-recall/1519292303578955/",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/YH4U7tqB5aM2iigs8kURSkBiDdrqn3G0tIaN0iBE6nw.jpeg",
+   "date": "5 days ago",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 7,
+   "title": "Recall - AGRISH",
+   "source": "Agrish",
+   "source_icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAAAwBwCdASocABwAPtEutFooIagoGAEAGglmAMTfe7_cK7NogpmvjZe6DVlygqlZe1928r-VvlyQvMudAW0r7nRHagAA_veA-h7_nnCZlolX4wXjLfk7I2KrXIXqz9BZOOd8AzvjZmXUcMVmoFAkyo8sV2kyK9B68uy9gC-U-gLMdOQ3ezhbX9HOSKUgd6Szcq-5e-JWoXSZwAMiVtrOgn309gVS0DXmeUeoSFD2mcH5FNfAzH-Poqv8KzP-8y1BFeQ3cx__XulscfTq3GRzYO6V1N-g-h8fj3eev0htz_pxRZRdElK6t928-N8Ru-HXJeXkdFgDBxcN2l-r2vMw0TKJRm5llL4xbT5m9qNO6LKwwcBW6HCk6BFkRv8CDZnh3k0u-N_ZrGzxJYclAEkO_y8gdl5rL8GBRp-qjq0HfnLkgLeK12NKHXLyeQT3xMAA.webp",
+   "link": "https://www.agrish.online/recall/",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/_3OVjmmWUsCmPRj2ueTJelXzUqR8_AclJoAy-m2ojGc.jpeg",
+   "actual_image_width": 300,
+   "actual_image_height": 300
+  },
+  {
+   "position": 8,
+   "title": "RECALL EXPANDED: Agrish added 30,083 more portable bed rails ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/KARE11/posts/recall-expanded-agrish-added-30083-more-portable-bed-rails-to-an-existing-recall/1694798659356567/",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/3E46lTtThQklHwtTAIp8UA9DQiK3TDdDTL2bUWH8HQQ.jpeg",
+   "date": "5 days ago",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 9,
+   "title": "Agrish bed rails recall expanded after fall - Facebook",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/WBIRChannel10/posts/recall-expanded-agrish-added-30083-more-portable-bed-rails-to-an-existing-recall/1556733803166552/",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/AwyGoQaydaUFFd-CDdppYzp8iWXqt2dEf5frAem9T9k.jpeg",
+   "date": "5 days ago",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 10,
+   "title": "Agrish added 30083 more portable bed rails to an existing recall ...",
+   "source": "Facebook",
+   "source_icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "link": "https://www.facebook.com/WWLTV/posts/recall-expanded-agrish-added-30083-more-portable-bed-rails-to-an-existing-recall/1682120180618027/",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/EhmTLcDUZ1NLiIfCAK7WHXBnVDEuh_gbpW9rgVpMIgQ.jpeg",
+   "date": "5 days ago",
+   "actual_image_width": 1080,
+   "actual_image_height": 1350
+  },
+  {
+   "position": 11,
+   "title": "Agrish Reannounces and Expands Recall of Adult Portable Bed ...",
+   "source": "Recallnow",
+   "source_icon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAACQBQCdASocABwAPrUurVanIacnG_DgFolqAHcAMnL-AFf_4UW2Jrlo9SefPLJbtME-TZ6eAAD-nCR-JVmO20MP8KcysD3a76bsFMsUIWk_-Q8WZQcgP4JfVhdcabOpqfrR8DsNKeLo5MQbitZqdR4PW-oaB1D3zvls-5C3YP5GOqswlr1n61qwprIJ7emPCODYs5SYDvMA9k5pEJyJkaDM719vLdIOjrZAFYFWNh2tiLi9AWVMMtcI0dEqTSDiqiwgAA.webp",
+   "link": "https://recallnow.org/r/cpsc%3A11008",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/qvnh7YHxTWmHZCW1R7xFzop1pYxWYpjTrNe9ZvaNMNU.jpeg",
+   "date": "4 days ago",
+   "actual_image_width": 470,
+   "actual_image_height": 470
+  },
+  {
+   "position": 12,
+   "title": "Agrish Adult Portable Bed Rails Recalled Due to Risk of Serious ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2026/Agrish-Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Agrish-Direct",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/zgZ22zoamLEGdCK_L3arA7FtWdIiBr4tg11w-Dv3uWw.jpeg",
+   "actual_image_width": 400,
+   "actual_image_height": 400
+  },
+  {
+   "position": 13,
+   "title": "Agrish Adult Portable Bed Rails Recalled Due to Risk of Serious ...",
+   "source": "USA Today",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAyElEQVR4AWJwL_ChKyZO0WxAsWVgQVEMQ1E6QyfoAJmrc3WbB3SWLNB_EcQT4XuNiwNaOZqkbU4DHQwgL4attc9CEwmYYIENFBxDwba1aXtTcSbrFuRxkgy1vRP0v4SWppWKcvECIxGGsvONWBqk0cnuSHsotAaZQC8K1WK2SChW9HOZB4gTJqcrOGVN7ZJa-s7chcINhhcK0EKhAnkLTzF8YXlKGU1DuBaEi0942iiPd0Et1dWO8AETRgzCEMUbE_mDcE4ePOcHKR824_pWSsAAAAAASUVORK5CYII.png",
+   "link": "https://www.usatoday.com/recalls/consumer-products/CPSC-10540/",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/zXKGC0vl2cPUBHkJbLe_P1LiPzhORVmEzzQ7HZ-TAbQ.jpeg",
+   "date": "Jan 7, 2026",
+   "actual_image_width": 515,
+   "actual_image_height": 515
+  },
+  {
+   "position": 14,
+   "title": "Agrish Reannounces and Expands Recall of Adult Portable Bed ...",
+   "source": "CPSC.gov",
+   "source_icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAAAwBwCdASogACAAPtE-tFooIigoFAEAGglsALEUrGKGyk7zA4DAYA0X5cVe0_JR-PgyC5ZZRIRki7VmrNNoVVV6dQAA_v0vksr4QJRnt66JDSNjDtsFXvwzMu2LrhkIWNgvz3oILMIkAKLJLXNQAD6jih1stn4BBk9_OEbEqG-P_Zt61ue7LhMwmwY_Ypt_JCUHP-Oopkj9R7hfea_j8fY4rD-YMQDDpAmTP9L4Z7-CScxN52-0jlRcZbM7r8k_9j6nsar0MbBScMpjoan5i4WAJfm1m1_cNXaxOp-97yhQ208FGMENfMAgEyN5XHw_yDf1BS2kjROUjQpuzkEoUo73Fxr2VDNm8WUrgh6ALBWbkqGb-V-NRmCEZivDW6Yqj4cuO_6Ad0uwvOg4qkISnS1I51KkMD0ZzgaAXD9cnGZwJUAA.webp",
+   "link": "https://www.cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added",
+   "thumbnail": "https://serpapi.com/searches/6ac916907d6e702768c0d968/images/hag8_J6ShBEI6aBF0aaDhgPSQcic1YhT6QB9uFfeVcU.jpeg",
+   "date": "Oct 1, 2026",
+   "actual_image_width": 470,
+   "actual_image_height": 470
+  },
+  {
+   "position": 15,
+   "title": "VOCIC Rollator Walker with Seat, Lightweight Foldable Waling Aids ...",
+   "source": "Amazon.ae",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.ae/VOCIC-Rollator-Walker-Lightweight-Foldable/dp/B0DMWRX4GL",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVNSRz6JXhJ8HRDsqGbMWtJWLeaq7t7fssU8ziap3qnR1mGS-ZGKVhoww&s",
+   "actual_image_width": 435,
+   "actual_image_height": 495
+  },
+  {
+   "position": 16,
+   "title": "california | 1 Bedroom Ad For Sale in Ireland - DoneDeal",
+   "source": "DoneDeal",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcEztKCnvKSrwKSrxKSrvKCnwKCnvKCnvKCnwKCnxKCnsKirwKSp0uXiJAAAADHRSTlMAtQrqYUSewYV2IxAfjiMiAAAAc0lEQVQokc3RyxKAIAgFUETBLP__e2vASRFbtPOumDk-QAH2DKUWOj3m-iby7KGOKQuMT1QPjwkASc8ghywlyyEOs5QY560DauflA7lf8RPzPIxgkPJaNySrUQdFh0SJo39A-7btgjWyMfNlgawB9sDGuQGxtwigFmBDrQAAAABJRU5ErkJggg.png",
+   "link": "https://www.donedeal.ie/bedroom?words=california",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw8ZuA7cEKvVqepz2j3OAnBs5m5MAgTiXMG5Z0YuJu4kGw7vr1X5vy2wAc&s",
+   "actual_image_width": 417,
+   "actual_image_height": 600
+  },
+  {
+   "position": 17,
+   "title": "Bed Assist Rail for Elderly Adults - DoneDeal",
+   "source": "DoneDeal",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcEztKCnvKSrwKSrxKSrvKCnwKCnvKCnvKCnwKCnxKCnsKirwKSp0uXiJAAAADHRSTlMAtQrqYUSewYV2IxAfjiMiAAAAc0lEQVQokc3RyxKAIAgFUETBLP__e2vASRFbtPOumDk-QAH2DKUWOj3m-iby7KGOKQuMT1QPjwkASc8ghywlyyEOs5QY560DauflA7lf8RPzPIxgkPJaNySrUQdFh0SJo39A-7btgjWyMfNlgawB9sDGuQGxtwigFmBDrQAAAABJRU5ErkJggg.png",
+   "link": "https://www.donedeal.ie/bedroom-for-sale/bed-assist-rail-for-elderly-adults/43021811",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw8ZuA7cEKvVqepz2j3OAnBs5m5MAgTiXMG5Z0YuJu4kGw7vr1X5vy2wAc&s",
+   "actual_image_width": 417,
+   "actual_image_height": 600
+  },
+  {
+   "position": 18,
+   "title": "FamiHealth Bed Rails for Elderly Adults with Storage Bag, Safety ...",
+   "source": "Amazon UK",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.co.uk/FamiHealth-Elderly-Storage-Mobility-Adjustable/dp/B0F4QQCD9N",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVNSRz6JXhJ8HRDsqGbMWtJWLeaq7t7fssU8ziap3qnR1mGS-ZGKVhoww&s",
+   "actual_image_width": 435,
+   "actual_image_height": 495
+  },
+  {
+   "position": 19,
+   "title": "mobile bar | 2 Bedroom Ads For Sale in Ireland - DoneDeal",
+   "source": "DoneDeal",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcEztKCnvKSrwKSrxKSrvKCnwKCnvKCnvKCnwKCnxKCnsKirwKSp0uXiJAAAADHRSTlMAtQrqYUSewYV2IxAfjiMiAAAAc0lEQVQokc3RyxKAIAgFUETBLP__e2vASRFbtPOumDk-QAH2DKUWOj3m-iby7KGOKQuMT1QPjwkASc8ghywlyyEOs5QY560DauflA7lf8RPzPIxgkPJaNySrUQdFh0SJo39A-7btgjWyMfNlgawB9sDGuQGxtwigFmBDrQAAAABJRU5ErkJggg.png",
+   "link": "https://www.donedeal.ie/bedroom?words=mobile%20bar",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw8ZuA7cEKvVqepz2j3OAnBs5m5MAgTiXMG5Z0YuJu4kGw7vr1X5vy2wAc&s",
+   "actual_image_width": 417,
+   "actual_image_height": 600
+  },
+  {
+   "position": 20,
+   "title": "pound note | 1 Bedroom Ad For Sale in Ireland - DoneDeal",
+   "source": "DoneDeal",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcEztKCnvKSrwKSrxKSrvKCnwKCnvKCnvKCnwKCnxKCnsKirwKSp0uXiJAAAADHRSTlMAtQrqYUSewYV2IxAfjiMiAAAAc0lEQVQokc3RyxKAIAgFUETBLP__e2vASRFbtPOumDk-QAH2DKUWOj3m-iby7KGOKQuMT1QPjwkASc8ghywlyyEOs5QY560DauflA7lf8RPzPIxgkPJaNySrUQdFh0SJo39A-7btgjWyMfNlgawB9sDGuQGxtwigFmBDrQAAAABJRU5ErkJggg.png",
+   "link": "https://www.donedeal.ie/bedroom?words=pound%20note",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw8ZuA7cEKvVqepz2j3OAnBs5m5MAgTiXMG5Z0YuJu4kGw7vr1X5vy2wAc&s",
+   "actual_image_width": 417,
+   "actual_image_height": 600
+  },
+  {
+   "position": 21,
+   "title": "Bed Assist Rail for Elderly Adults with Motion-Sensing Light Storage ...",
+   "source": "Amazon UK",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.co.uk/Assist-Elderly-Adults-Motion-Sensing-Storage/dp/B0FQ5FJZYS",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLOJ40VuiawMk1YuzsCP5qbA01IxREjS4cQRQLwPtVhgWudpqihvhnepIq&s",
+   "actual_image_width": 200,
+   "actual_image_height": 200
+  },
+  {
+   "position": 22,
+   "title": "Luxurious Bed Canopy for Girls Adults Large - DoneDeal",
+   "source": "DoneDeal",
+   "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcEztKCnvKSrwKSrxKSrvKCnwKCnvKCnvKCnwKCnxKCnsKirwKSp0uXiJAAAADHRSTlMAtQrqYUSewYV2IxAfjiMiAAAAc0lEQVQokc3RyxKAIAgFUETBLP__e2vASRFbtPOumDk-QAH2DKUWOj3m-iby7KGOKQuMT1QPjwkASc8ghywlyyEOs5QY560DauflA7lf8RPzPIxgkPJaNySrUQdFh0SJo39A-7btgjWyMfNlgawB9sDGuQGxtwigFmBDrQAAAABJRU5ErkJggg.png",
+   "link": "https://www.donedeal.ie/bedroom-for-sale/luxurious-bed-canopy-for-girls-adults-large/43001240",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw8ZuA7cEKvVqepz2j3OAnBs5m5MAgTiXMG5Z0YuJu4kGw7vr1X5vy2wAc&s",
+   "actual_image_width": 417,
+   "actual_image_height": 600
+  },
+  {
+   "position": 23,
+   "title": "Bed Grab Rail | Aluminum Carbon Steel Handle For Getting Out",
+   "source": "Amazon UK",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.co.uk/Elderly-Portable-Aluminum-Getting-Bedside/dp/B0GTLX43SL",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVNSRz6JXhJ8HRDsqGbMWtJWLeaq7t7fssU8ziap3qnR1mGS-ZGKVhoww&s",
+   "price": "£17.99",
+   "extracted_price": 17.99,
+   "in_stock": true,
+   "actual_image_width": 435,
+   "actual_image_height": 495
+  },
+  {
+   "position": 24,
+   "title": "TYGYSDO Adjustable Bed Rail Elderly, Foldable Bed Grab Rail with ...",
+   "source": "Amazon UK",
+   "source_icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "link": "https://www.amazon.co.uk/TYGYSDO-Adjustable-Foldable-One-Click-Post-Surgery/dp/B0G6ZT28BR",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVNSRz6JXhJ8HRDsqGbMWtJWLeaq7t7fssU8ziap3qnR1mGS-ZGKVhoww&s",
+   "actual_image_width": 435,
+   "actual_image_height": 495
+  },
+  {
+   "position": 25,
+   "title": "Svnntaa Bed Rails For Elderly Adults Safety, Bed Railing",
+   "source": "benedicteriis.dk",
+   "link": "https://benedicteriis.dk/For-Elderly-Adults-Safety-Bed-Railing-1288129",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFcbTci8B4YvK9dwvVwWFLS2qeDpOmLZ8V8gk4yEe9rYrsmXG4DW_G2ti2&s",
+   "date": "2 days ago",
+   "actual_image_width": 927,
+   "actual_image_height": 1390
+  }
+ ]
+}
