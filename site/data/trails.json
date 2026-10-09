@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-09T04:45:19+0530",
+ "generated_at": "2026-10-09T12:47:37+0530",
  "lens_searches": 42,
- "credits_spent_this_run": 1,
+ "credits_spent_this_run": 0,
  "trails": {
   "10704": {
    "recall": {
@@ -2857,7 +2857,21 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_c806ecf88e94f7d7.json",
-   "recall_photo_local": "thumbs/recall-10704.jpg"
+   "recall_photo_local": "thumbs/recall-10704.jpg",
+   "india_shopping": {
+    "query": "Yeeluzan Pool Drain Covers",
+    "search_key": "google_shopping_3f7af4920561a723",
+    "results": 23,
+    "stores": [
+     [
+      "amazon.in",
+      23
+     ]
+    ],
+    "name": "Yeeluzan",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_3f7af4920561a723.json"
+   }
   },
   "10756": {
    "recall": {
@@ -5473,7 +5487,89 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_2095dc07170d2704.json",
-   "recall_photo_local": "thumbs/recall-10756.jpg"
+   "recall_photo_local": "thumbs/recall-10756.jpg",
+   "india_shopping": {
+    "query": "EEMB Lithium Battery Packs",
+    "search_key": "google_shopping_837043c73d3c23bb",
+    "results": 40,
+    "stores": [
+     [
+      "Amazon.in",
+      7
+     ],
+     [
+      "justdial.com",
+      5
+     ],
+     [
+      "ubuy.co.in",
+      4
+     ],
+     [
+      "desertcart.in",
+      4
+     ],
+     [
+      "Reliance Digital",
+      3
+     ],
+     [
+      "Flipkart",
+      3
+     ],
+     [
+      "OpenBoxWale.in",
+      2
+     ],
+     [
+      "Shopsy By Flipkart",
+      2
+     ],
+     [
+      "Oh My Shop",
+      1
+     ],
+     [
+      "vlebazaar.in",
+      1
+     ],
+     [
+      "Green Apple Compunet",
+      1
+     ],
+     [
+      "boAt",
+      1
+     ],
+     [
+      "bigbasket.com",
+      1
+     ],
+     [
+      "OpenBoxWala.com",
+      1
+     ],
+     [
+      "LRSA Technology",
+      1
+     ],
+     [
+      "addmecart",
+      1
+     ],
+     [
+      "Fixbhi",
+      1
+     ],
+     [
+      "Batteriescart.com",
+      1
+     ]
+    ],
+    "name": "EEMB",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_837043c73d3c23bb.json"
+   }
   },
   "10632": {
    "recall": {
@@ -7965,7 +8061,69 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_767e33bcf68fcb06.json",
-   "recall_photo_local": "thumbs/recall-10632.jpg"
+   "recall_photo_local": "thumbs/recall-10632.jpg",
+   "india_shopping": {
+    "query": "Magnetic Chess Games",
+    "search_key": "google_shopping_1e7485fefc3333ec",
+    "results": 40,
+    "stores": [
+     [
+      "Amazon.in",
+      18
+     ],
+     [
+      "ubuy.co.in",
+      6
+     ],
+     [
+      "Flipkart",
+      3
+     ],
+     [
+      "Desertcart.ae",
+      2
+     ],
+     [
+      "Zatu Games",
+      2
+     ],
+     [
+      "Etsy",
+      2
+     ],
+     [
+      "Snooplay",
+      1
+     ],
+     [
+      "Meesho",
+      1
+     ],
+     [
+      "meesho.com",
+      1
+     ],
+     [
+      "Kuviyal",
+      1
+     ],
+     [
+      "Toy Street",
+      1
+     ],
+     [
+      "thehahatoys.com",
+      1
+     ],
+     [
+      "Pioneer Sports",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_1e7485fefc3333ec.json"
+   }
   },
   "10836": {
    "recall": {
@@ -10137,7 +10295,65 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_db37e4a9b5be1e3f.json",
-   "recall_photo_local": "thumbs/recall-10836.jpg"
+   "recall_photo_local": "thumbs/recall-10836.jpg",
+   "india_shopping": {
+    "query": "Raychy Children's Light Sneakers Unisex",
+    "search_key": "google_shopping_e62842d6639ca12f",
+    "results": 40,
+    "stores": [
+     [
+      "Amazon.in",
+      12
+     ],
+     [
+      "Flipkart",
+      7
+     ],
+     [
+      "Myntra",
+      6
+     ],
+     [
+      "ubuy.co.in",
+      4
+     ],
+     [
+      "desertcart.in",
+      2
+     ],
+     [
+      "Meesho",
+      2
+     ],
+     [
+      "FirstCry India",
+      2
+     ],
+     [
+      "OZi",
+      1
+     ],
+     [
+      "AJIO.com",
+      1
+     ],
+     [
+      "Liberty Shoes",
+      1
+     ],
+     [
+      "meesho.com",
+      1
+     ],
+     [
+      "Mothercare India",
+      1
+     ]
+    ],
+    "name": "Raychy",
+    "titled_with_name": 2,
+    "raw_json": "data/raw/google_shopping_e62842d6639ca12f.json"
+   }
   },
   "10744": {
    "recall": {
@@ -11880,7 +12096,65 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_f33e6f5d6c5b0478.json",
-   "recall_photo_local": "thumbs/recall-10744.jpg"
+   "recall_photo_local": "thumbs/recall-10744.jpg",
+   "india_shopping": {
+    "query": "Malker Bicycle Light Sets",
+    "search_key": "google_shopping_fcf42c2d9ea137a9",
+    "results": 40,
+    "stores": [
+     [
+      "Flipkart",
+      10
+     ],
+     [
+      "Amazon.in",
+      10
+     ],
+     [
+      "Meesho",
+      9
+     ],
+     [
+      "ubuy.co.in",
+      3
+     ],
+     [
+      "amiciKart",
+      1
+     ],
+     [
+      "Cicli Mattio IN",
+      1
+     ],
+     [
+      "Decathlon Sports India",
+      1
+     ],
+     [
+      "Cycling Boutique",
+      1
+     ],
+     [
+      "ChooseMyBicycle",
+      1
+     ],
+     [
+      "Do Good Co",
+      1
+     ],
+     [
+      "JioMart",
+      1
+     ],
+     [
+      "starbike.com",
+      1
+     ]
+    ],
+    "name": "Malker",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_fcf42c2d9ea137a9.json"
+   }
   },
   "10579": {
    "recall": {
@@ -13476,7 +13750,53 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_74a54680fdd457af.json",
-   "recall_photo_local": "thumbs/recall-10579.jpg"
+   "recall_photo_local": "thumbs/recall-10579.jpg",
+   "india_shopping": {
+    "query": "AiTuiTui Pull String Teething Toys",
+    "search_key": "google_shopping_0574564cd820b99c",
+    "results": 40,
+    "stores": [
+     [
+      "Flipkart",
+      13
+     ],
+     [
+      "amazon.in",
+      11
+     ],
+     [
+      "desertcart.in",
+      4
+     ],
+     [
+      "Shopsy By Flipkart",
+      4
+     ],
+     [
+      "FirstCry India",
+      4
+     ],
+     [
+      "firstcry.com",
+      1
+     ],
+     [
+      "GetUSCart",
+      1
+     ],
+     [
+      "cart2india",
+      1
+     ],
+     [
+      "ubuy.co.in",
+      1
+     ]
+    ],
+    "name": "AiTuiTui",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_0574564cd820b99c.json"
+   }
   },
   "10956": {
    "recall": {
@@ -15068,7 +15388,93 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_3438cc1fd129982e.json",
-   "recall_photo_local": "thumbs/recall-10956.jpg"
+   "recall_photo_local": "thumbs/recall-10956.jpg",
+   "india_shopping": {
+    "query": "Steelite Electric Pressure Washers",
+    "search_key": "google_shopping_dde2f84f54aeace9",
+    "results": 40,
+    "stores": [
+     [
+      "ubuy.co.in",
+      9
+     ],
+     [
+      "ReiseMoto",
+      5
+     ],
+     [
+      "Amazon.in",
+      3
+     ],
+     [
+      "Flipkart",
+      3
+     ],
+     [
+      "stellazboutique",
+      2
+     ],
+     [
+      "Tradeindia.com",
+      2
+     ],
+     [
+      "Aajjo.com",
+      2
+     ],
+     [
+      "motoin",
+      2
+     ],
+     [
+      "Krishna Watch Company",
+      2
+     ],
+     [
+      "Just In Time",
+      1
+     ],
+     [
+      "cocoleni.com",
+      1
+     ],
+     [
+      "tme.com",
+      1
+     ],
+     [
+      "Hype Fly India",
+      1
+     ],
+     [
+      "Sangeetha Mobiles",
+      1
+     ],
+     [
+      "Kamala Stores",
+      1
+     ],
+     [
+      "Digihaat",
+      1
+     ],
+     [
+      "sehgaltraders.com",
+      1
+     ],
+     [
+      "mykit.in",
+      1
+     ],
+     [
+      "medisavehealth.in",
+      1
+     ]
+    ],
+    "name": "Steelite",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_dde2f84f54aeace9.json"
+   }
   },
   "10556": {
    "recall": {
@@ -16319,7 +16725,105 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_53ed091d8c8bb424.json",
-   "recall_photo_local": "thumbs/recall-10556.jpg"
+   "recall_photo_local": "thumbs/recall-10556.jpg",
+   "india_shopping": {
+    "query": "Ruahouine Hair Growth Serum Bottles",
+    "search_key": "google_shopping_8b9e1d79ea47e389",
+    "results": 40,
+    "stores": [
+     [
+      "Amazon.in",
+      7
+     ],
+     [
+      "stylemake.co.in",
+      3
+     ],
+     [
+      "KIWLA",
+      3
+     ],
+     [
+      "Myntra - MNow",
+      3
+     ],
+     [
+      "Clinikally",
+      2
+     ],
+     [
+      "1mg",
+      2
+     ],
+     [
+      "Chemist180",
+      2
+     ],
+     [
+      "Netmeds.com",
+      2
+     ],
+     [
+      "Nykaa Now",
+      2
+     ],
+     [
+      "ThriveCo",
+      2
+     ],
+     [
+      "Truemeds",
+      1
+     ],
+     [
+      "PharmEasy",
+      1
+     ],
+     [
+      "Apollo247",
+      1
+     ],
+     [
+      "SastaSundar",
+      1
+     ],
+     [
+      "MySkinCare.in",
+      1
+     ],
+     [
+      "Niram.in",
+      1
+     ],
+     [
+      "Myntra",
+      1
+     ],
+     [
+      "Tira",
+      1
+     ],
+     [
+      "Pilgrim",
+      1
+     ],
+     [
+      "Sarin Skin",
+      1
+     ],
+     [
+      "Purplle.com",
+      1
+     ],
+     [
+      "Plazza",
+      1
+     ]
+    ],
+    "name": "Ruahouine",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_8b9e1d79ea47e389.json"
+   }
   },
   "10840": {
    "recall": {
@@ -17335,7 +17839,101 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_6eb5d582a228385d.json",
-   "recall_photo_local": "thumbs/recall-10840.jpg"
+   "recall_photo_local": "thumbs/recall-10840.jpg",
+   "india_shopping": {
+    "query": "Treatlife Smoke and Carbon Monoxide (CO) Detectors",
+    "search_key": "google_shopping_8955be541af7b527",
+    "results": 40,
+    "stores": [
+     [
+      "amazon.in",
+      6
+     ],
+     [
+      "ubuy.co.in",
+      6
+     ],
+     [
+      "Urban Ladder",
+      3
+     ],
+     [
+      "dailydeals365.in",
+      3
+     ],
+     [
+      "DistaUSA",
+      3
+     ],
+     [
+      "desertcart.in",
+      2
+     ],
+     [
+      "JioMart",
+      2
+     ],
+     [
+      "Sushain Clinic",
+      2
+     ],
+     [
+      "Tattvalogy",
+      1
+     ],
+     [
+      "HealthPotli",
+      1
+     ],
+     [
+      "rsdelivers.com",
+      1
+     ],
+     [
+      "EnvMart",
+      1
+     ],
+     [
+      "Meetel Computer's & Coated Paper Co.",
+      1
+     ],
+     [
+      "Adorreal Healthcare",
+      1
+     ],
+     [
+      "NineToFive",
+      1
+     ],
+     [
+      "cslifestyle",
+      1
+     ],
+     [
+      "Tradeindia.com",
+      1
+     ],
+     [
+      "Nalanda Enterprises",
+      1
+     ],
+     [
+      "FirstCry India",
+      1
+     ],
+     [
+      "Lifestylestores.com",
+      1
+     ],
+     [
+      "Suraj Business",
+      1
+     ]
+    ],
+    "name": "Treatlife",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_8955be541af7b527.json"
+   }
   },
   "10901": {
    "recall": {
@@ -18343,7 +18941,69 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_708c4db3fe6e4fba.json",
-   "recall_photo_local": "thumbs/recall-10901.jpg"
+   "recall_photo_local": "thumbs/recall-10901.jpg",
+   "india_shopping": {
+    "query": "Wnttmt Baby Walkers",
+    "search_key": "google_shopping_9d7ffe8e6338ffdf",
+    "results": 40,
+    "stores": [
+     [
+      "Amazon.in",
+      15
+     ],
+     [
+      "Flipkart",
+      10
+     ],
+     [
+      "FirstCry India",
+      3
+     ],
+     [
+      "Shopsy By Flipkart",
+      3
+     ],
+     [
+      "PyaraBaby",
+      1
+     ],
+     [
+      "Aajjo.com",
+      1
+     ],
+     [
+      "Tradeindia.com",
+      1
+     ],
+     [
+      "BazarGPT",
+      1
+     ],
+     [
+      "Baby On Board Toys",
+      1
+     ],
+     [
+      "StarAndDaisy",
+      1
+     ],
+     [
+      "Meesho",
+      1
+     ],
+     [
+      "firstcry.com",
+      1
+     ],
+     [
+      "Baybee India",
+      1
+     ]
+    ],
+    "name": "Wnttmt",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_9d7ffe8e6338ffdf.json"
+   }
   },
   "10570": {
    "recall": {
@@ -19279,7 +19939,37 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_f8805587630e568e.json",
-   "recall_photo_local": "thumbs/recall-10570.jpg"
+   "recall_photo_local": "thumbs/recall-10570.jpg",
+   "india_shopping": {
+    "query": "Yetonamr Pull String Teething Toys",
+    "search_key": "google_shopping_d1420cc83eeb7fb5",
+    "results": 31,
+    "stores": [
+     [
+      "amazon.in",
+      25
+     ],
+     [
+      "FirstCry India",
+      3
+     ],
+     [
+      "hellokidology.in",
+      1
+     ],
+     [
+      "Digihaat",
+      1
+     ],
+     [
+      "cart2india",
+      1
+     ]
+    ],
+    "name": "Yetonamr",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_d1420cc83eeb7fb5.json"
+   }
   },
   "10802": {
    "recall": {
@@ -20158,7 +20848,29 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_8714f103ac3e9d0c.json",
-   "recall_photo_local": "thumbs/recall-10802.jpg"
+   "recall_photo_local": "thumbs/recall-10802.jpg",
+   "india_shopping": {
+    "query": "Broqixin Pool Drain Covers",
+    "search_key": "google_shopping_1baa3a52ba8a5be3",
+    "results": 40,
+    "stores": [
+     [
+      "amazon.in",
+      38
+     ],
+     [
+      "Aladdin Shoppers",
+      1
+     ],
+     [
+      "BazarGPT",
+      1
+     ]
+    ],
+    "name": "Broqixin",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_1baa3a52ba8a5be3.json"
+   }
   },
   "10768": {
    "recall": {
@@ -21005,7 +21717,69 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_73e0ceba5a6a9d99.json",
-   "recall_photo_local": "thumbs/recall-10768.jpg"
+   "recall_photo_local": "thumbs/recall-10768.jpg",
+   "india_shopping": {
+    "query": "Tiyol Pull String Teething Toys",
+    "search_key": "google_shopping_f08e732c1dfe5888",
+    "results": 40,
+    "stores": [
+     [
+      "amazon.in",
+      19
+     ],
+     [
+      "FirstCry India",
+      8
+     ],
+     [
+      "Zepto",
+      3
+     ],
+     [
+      "Kuviyal",
+      1
+     ],
+     [
+      "hellokidology.in",
+      1
+     ],
+     [
+      "firstcry.com",
+      1
+     ],
+     [
+      "Cots and Cuddles",
+      1
+     ],
+     [
+      "kidsROAR",
+      1
+     ],
+     [
+      "Vaya Life",
+      1
+     ],
+     [
+      "Toyzone",
+      1
+     ],
+     [
+      "Aladdin Shoppers",
+      1
+     ],
+     [
+      "Toyshine",
+      1
+     ],
+     [
+      "DK Toyz",
+      1
+     ]
+    ],
+    "name": "Tiyol",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_f08e732c1dfe5888.json"
+   }
   },
   "10919": {
    "recall": {
@@ -21808,7 +22582,65 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_7033ffdc97f241c0.json",
-   "recall_photo_local": "thumbs/recall-10919.jpg"
+   "recall_photo_local": "thumbs/recall-10919.jpg",
+   "india_shopping": {
+    "query": "Deli Jerry Fuel Containers",
+    "search_key": "google_shopping_42f70efc7a224d2f",
+    "results": 40,
+    "stores": [
+     [
+      "Amazon.in",
+      19
+     ],
+     [
+      "Flipkart",
+      5
+     ],
+     [
+      "ubuy.co.in",
+      4
+     ],
+     [
+      "Modern Packagers",
+      3
+     ],
+     [
+      "Kitchenmart.co.in",
+      2
+     ],
+     [
+      "Up and Under",
+      1
+     ],
+     [
+      "GoSupps.com",
+      1
+     ],
+     [
+      "industrybuying.com",
+      1
+     ],
+     [
+      "tatacliq.com",
+      1
+     ],
+     [
+      "Sizzle",
+      1
+     ],
+     [
+      "! OutdoorXL.com",
+      1
+     ],
+     [
+      "Rosier Foods",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_42f70efc7a224d2f.json"
+   }
   },
   "10928": {
    "recall": {
@@ -22282,7 +23114,21 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_5a67919eaeeb5752.json",
-   "recall_photo_local": "thumbs/recall-10928.jpg"
+   "recall_photo_local": "thumbs/recall-10928.jpg",
+   "india_shopping": {
+    "query": "Zimtown Portable Gas and Fuel Cans",
+    "search_key": "google_shopping_16b849ff5d2d6403",
+    "results": 3,
+    "stores": [
+     [
+      "ubuy.co.in",
+      3
+     ]
+    ],
+    "name": "Zimtown",
+    "titled_with_name": 2,
+    "raw_json": "data/raw/google_shopping_16b849ff5d2d6403.json"
+   }
   },
   "10879": {
    "recall": {
@@ -22738,7 +23584,25 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_c31bb12e70570083.json",
-   "recall_photo_local": "thumbs/recall-10879.jpg"
+   "recall_photo_local": "thumbs/recall-10879.jpg",
+   "india_shopping": {
+    "query": "CuddleCubs Creations Baby Highchair Teething Toy Sets",
+    "search_key": "google_shopping_798151305e63302d",
+    "results": 3,
+    "stores": [
+     [
+      "ubuy.co.in",
+      2
+     ],
+     [
+      "desertcart.in",
+      1
+     ]
+    ],
+    "name": "CuddleCubs",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_798151305e63302d.json"
+   }
   },
   "10685": {
    "recall": {
@@ -23148,7 +24012,41 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_230122897d83b3c8.json",
-   "recall_photo_local": "thumbs/recall-10685.jpg"
+   "recall_photo_local": "thumbs/recall-10685.jpg",
+   "india_shopping": {
+    "query": "ELENKER Bed Rails",
+    "search_key": "google_shopping_9f355a564e95cac1",
+    "results": 40,
+    "stores": [
+     [
+      "Amazon.in",
+      19
+     ],
+     [
+      "Baybee India",
+      14
+     ],
+     [
+      "Nykaa Fashion",
+      3
+     ],
+     [
+      "Flipkart",
+      2
+     ],
+     [
+      "meemee.in",
+      1
+     ],
+     [
+      "FirstCry India",
+      1
+     ]
+    ],
+    "name": "ELENKER",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_9f355a564e95cac1.json"
+   }
   },
   "10856": {
    "recall": {
@@ -23494,7 +24392,53 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_7d4fcc95f5b0dc3f.json",
-   "recall_photo_local": "thumbs/recall-10856.jpg"
+   "recall_photo_local": "thumbs/recall-10856.jpg",
+   "india_shopping": {
+    "query": "Moodooy Adult Portable Bed Rails",
+    "search_key": "google_shopping_531d4c657709a318",
+    "results": 40,
+    "stores": [
+     [
+      "ubuy.co.in",
+      11
+     ],
+     [
+      "amazon.in",
+      10
+     ],
+     [
+      "Aladdin Shoppers",
+      9
+     ],
+     [
+      "desertcart.in",
+      4
+     ],
+     [
+      "cart2india",
+      2
+     ],
+     [
+      "Desertcart.ae",
+      1
+     ],
+     [
+      "GoSupps.com",
+      1
+     ],
+     [
+      "Frido",
+      1
+     ],
+     [
+      "Shopsy By Flipkart",
+      1
+     ]
+    ],
+    "name": "Moodooy",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_531d4c657709a318.json"
+   }
   },
   "10808": {
    "recall": {
@@ -23742,7 +24686,33 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_85c1afc4ba4a2601.json",
-   "recall_photo_local": "thumbs/recall-10808.jpg"
+   "recall_photo_local": "thumbs/recall-10808.jpg",
+   "india_shopping": {
+    "query": "LiKee Pull String Teething Toys",
+    "search_key": "google_shopping_60b9a15e34f67ccc",
+    "results": 6,
+    "stores": [
+     [
+      "amazon.in",
+      2
+     ],
+     [
+      "Flipkart",
+      2
+     ],
+     [
+      "desertcart.in",
+      1
+     ],
+     [
+      "Zepto",
+      1
+     ]
+    ],
+    "name": "LiKee",
+    "titled_with_name": 2,
+    "raw_json": "data/raw/google_shopping_60b9a15e34f67ccc.json"
+   }
   },
   "10906": {
    "recall": {
@@ -23930,7 +24900,61 @@
    ],
    "status": "ok",
    "raw_json": "data/raw/google_lens_365c2d8fd72a4cc7.json",
-   "recall_photo_local": "thumbs/recall-10906.jpg"
+   "recall_photo_local": "thumbs/recall-10906.jpg",
+   "india_shopping": {
+    "query": "Little Rawr Silicone Pull String Teething Toys",
+    "search_key": "google_shopping_0824ea1cc0e202af",
+    "results": 40,
+    "stores": [
+     [
+      "amazon.in",
+      14
+     ],
+     [
+      "Flipkart",
+      11
+     ],
+     [
+      "desertcart.in",
+      3
+     ],
+     [
+      "ubuy.co.in",
+      3
+     ],
+     [
+      "AliKart",
+      2
+     ],
+     [
+      "Shopsy By Flipkart",
+      2
+     ],
+     [
+      "GoSupps.com",
+      1
+     ],
+     [
+      "Toycra",
+      1
+     ],
+     [
+      "GetUSCart",
+      1
+     ],
+     [
+      "Meesho",
+      1
+     ],
+     [
+      "Ryan and Rose",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_0824ea1cc0e202af.json"
+   }
   },
   "10596": {
    "recall": {
@@ -24062,7 +25086,73 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_b677f29db0c7fde8.json",
-   "recall_photo_local": "thumbs/recall-10596.jpg"
+   "recall_photo_local": "thumbs/recall-10596.jpg",
+   "india_shopping": {
+    "query": "GM Gumili Wintergreen Essential Oil Bottles",
+    "search_key": "google_shopping_03eb7cfcd7026562",
+    "results": 40,
+    "stores": [
+     [
+      "amazon.in",
+      15
+     ],
+     [
+      "Flipkart",
+      13
+     ],
+     [
+      "VedaOils",
+      1
+     ],
+     [
+      "IndiaMART",
+      1
+     ],
+     [
+      "nilgiriessentialoils.com",
+      1
+     ],
+     [
+      "Meesho",
+      1
+     ],
+     [
+      "manipuraayurveda.com",
+      1
+     ],
+     [
+      "Shopsy By Flipkart",
+      1
+     ],
+     [
+      "Tradeindia.com",
+      1
+     ],
+     [
+      "DevinezIndia",
+      1
+     ],
+     [
+      "Heilen Biopharm",
+      1
+     ],
+     [
+      "Ganesh Eucalyptus",
+      1
+     ],
+     [
+      "MangaloreStore.Online",
+      1
+     ],
+     [
+      "jainsuperstores",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_03eb7cfcd7026562.json"
+   }
   },
   "10706": {
    "recall": {
@@ -24188,7 +25278,77 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_507831c685a284ee.json",
-   "recall_photo_local": "thumbs/recall-10706.jpg"
+   "recall_photo_local": "thumbs/recall-10706.jpg",
+   "india_shopping": {
+    "query": "VEEKTOMX Portable Charger Mini Power Banks",
+    "search_key": "google_shopping_ed411219fa9f8fb4",
+    "results": 40,
+    "stores": [
+     [
+      "Amazon.in",
+      8
+     ],
+     [
+      "Shopsy By Flipkart",
+      8
+     ],
+     [
+      "Digihaat",
+      3
+     ],
+     [
+      "ubuy.co.in",
+      3
+     ],
+     [
+      "Flipkart",
+      3
+     ],
+     [
+      "dailydeals365.in",
+      3
+     ],
+     [
+      "vlebazaar.in",
+      2
+     ],
+     [
+      "boAt",
+      2
+     ],
+     [
+      "EMI Snapmint",
+      2
+     ],
+     [
+      "Nykaa Man",
+      1
+     ],
+     [
+      "DealClear",
+      1
+     ],
+     [
+      "Unboxify",
+      1
+     ],
+     [
+      "desertcart.in",
+      1
+     ],
+     [
+      "OpenBoxWale.in",
+      1
+     ],
+     [
+      "Zepto",
+      1
+     ]
+    ],
+    "name": "VEEKTOMX",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_ed411219fa9f8fb4.json"
+   }
   },
   "10742": {
    "recall": {
@@ -24285,7 +25445,61 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_fe4dab80a1c292af.json",
-   "recall_photo_local": "thumbs/recall-10742.jpg"
+   "recall_photo_local": "thumbs/recall-10742.jpg",
+   "india_shopping": {
+    "query": "1-K Kerosene Heater Fluid Portable Fuel Containers",
+    "search_key": "google_shopping_966c640cbb43a33d",
+    "results": 40,
+    "stores": [
+     [
+      "ubuy.co.in",
+      16
+     ],
+     [
+      "amazon.in",
+      7
+     ],
+     [
+      "Flipkart",
+      6
+     ],
+     [
+      "! OutdoorXL.com",
+      4
+     ],
+     [
+      "desertcart.in",
+      1
+     ],
+     [
+      "Mahajan Electronics",
+      1
+     ],
+     [
+      "IndustryBuying",
+      1
+     ],
+     [
+      "cart2india",
+      1
+     ],
+     [
+      "bigbasket.com",
+      1
+     ],
+     [
+      "IBO",
+      1
+     ],
+     [
+      "New Variety Store",
+      1
+     ]
+    ],
+    "name": null,
+    "titled_with_name": null,
+    "raw_json": "data/raw/google_shopping_966c640cbb43a33d.json"
+   }
   },
   "10751": {
    "recall": {
@@ -24383,7 +25597,73 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_598b42a1f53f5717.json",
-   "recall_photo_local": "thumbs/recall-10751.jpg"
+   "recall_photo_local": "thumbs/recall-10751.jpg",
+   "india_shopping": {
+    "query": "Qumeney Bicycle Light Sets",
+    "search_key": "google_shopping_edce9ab6d788c7ac",
+    "results": 40,
+    "stores": [
+     [
+      "Amazon.in",
+      14
+     ],
+     [
+      "JioMart",
+      5
+     ],
+     [
+      "Cycling Boutique",
+      4
+     ],
+     [
+      "Decathlon Sports India",
+      3
+     ],
+     [
+      "Pentathlon Sports India",
+      3
+     ],
+     [
+      "Cicli Mattio IN",
+      2
+     ],
+     [
+      "fccracing.com",
+      2
+     ],
+     [
+      "bumsonthesaddle.com",
+      1
+     ],
+     [
+      "OmoBikes",
+      1
+     ],
+     [
+      "Ninety One",
+      1
+     ],
+     [
+      "Cobbled Climbs",
+      1
+     ],
+     [
+      "ChooseMyBicycle",
+      1
+     ],
+     [
+      "Bykindia",
+      1
+     ],
+     [
+      "Aladdin Shoppers",
+      1
+     ]
+    ],
+    "name": "Qumeney",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_edce9ab6d788c7ac.json"
+   }
   },
   "10665": {
    "recall": {
@@ -24457,7 +25737,65 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_feebc3ca945390a5.json",
-   "recall_photo_local": "thumbs/recall-10665.jpg"
+   "recall_photo_local": "thumbs/recall-10665.jpg",
+   "india_shopping": {
+    "query": "Goregent Infant Walkers",
+    "search_key": "google_shopping_7e2751df5d53c91a",
+    "results": 40,
+    "stores": [
+     [
+      "Flipkart",
+      10
+     ],
+     [
+      "Amazon.in",
+      7
+     ],
+     [
+      "Goyal's",
+      6
+     ],
+     [
+      "Gurtoy",
+      5
+     ],
+     [
+      "desertcart.in",
+      2
+     ],
+     [
+      "ubuy.co.in",
+      2
+     ],
+     [
+      "Shopsy By Flipkart",
+      2
+     ],
+     [
+      "Tradeindia.com",
+      2
+     ],
+     [
+      "Chanak",
+      1
+     ],
+     [
+      "Me n Moms",
+      1
+     ],
+     [
+      "The Moms Darling Baby Shop",
+      1
+     ],
+     [
+      "Mothercare India",
+      1
+     ]
+    ],
+    "name": "Goregent",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_7e2751df5d53c91a.json"
+   }
   },
   "10730": {
    "recall": {
@@ -24528,7 +25866,97 @@
    "india": [],
    "status": "ok",
    "raw_json": "data/raw/google_lens_aabe23b300fbf90d.json",
-   "recall_photo_local": "thumbs/recall-10730.jpg"
+   "recall_photo_local": "thumbs/recall-10730.jpg",
+   "india_shopping": {
+    "query": "mGanna Sodium Hydroxide (lye) Pellet Bags",
+    "search_key": "google_shopping_d8458e0aaa730ecd",
+    "results": 40,
+    "stores": [
+     [
+      "ibuychemikals",
+      13
+     ],
+     [
+      "amazon.in",
+      5
+     ],
+     [
+      "Ases Chemical Works",
+      2
+     ],
+     [
+      "IndiaMART",
+      2
+     ],
+     [
+      "formulatorsinc.in",
+      2
+     ],
+     [
+      "mymicrolab.com",
+      2
+     ],
+     [
+      "VedaOils",
+      1
+     ],
+     [
+      "BRM Chemicals",
+      1
+     ],
+     [
+      "Bizpressions.in",
+      1
+     ],
+     [
+      "Lime art",
+      1
+     ],
+     [
+      "tonerstouch.com",
+      1
+     ],
+     [
+      "Shoprythm",
+      1
+     ],
+     [
+      "HydroNest",
+      1
+     ],
+     [
+      "Bioveningredients",
+      1
+     ],
+     [
+      "artikamart",
+      1
+     ],
+     [
+      "shoprythm.com",
+      1
+     ],
+     [
+      "Digihaat",
+      1
+     ],
+     [
+      "Phyto Evolution",
+      1
+     ],
+     [
+      "laboratory deal",
+      1
+     ],
+     [
+      "scientificshops",
+      1
+     ]
+    ],
+    "name": "mGanna",
+    "titled_with_name": 0,
+    "raw_json": "data/raw/google_shopping_d8458e0aaa730ecd.json"
+   }
   },
   "10690": {
    "recall": {

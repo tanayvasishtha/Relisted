@@ -1,6 +1,6 @@
 {
  "recalls_checked": 42,
- "searches_paid_total": 48,
+ "searches_paid_total": 74,
  "pages_matched": 5141,
  "live_listings": 1619,
  "stores": 429,
@@ -10,6 +10,10 @@
  "recalls_sold_in_india": 17,
  "india_listings": 106,
  "spam_pages_filtered": 742,
+ "shopping_searches": 26,
+ "shopping_results": 906,
+ "shopping_names_counted": 21,
+ "shopping_names_found_in_no_result": 18,
  "headline": {
   "recall_id": "10579",
   "product": "AiTuiTui Pull String Teething Toys",
@@ -22,6 +26,52 @@
   "countries": 25,
   "india_listings": 2,
   "recalled_brand": "AiTuiTui",
-  "listings_titled_with_recalled_brand": 0
+  "listings_titled_with_recalled_brand": 0,
+  "india_shopping": {
+   "query": "AiTuiTui Pull String Teething Toys",
+   "search_key": "google_shopping_0574564cd820b99c",
+   "results": 40,
+   "stores": [
+    [
+     "Flipkart",
+     13
+    ],
+    [
+     "amazon.in",
+     11
+    ],
+    [
+     "desertcart.in",
+     4
+    ],
+    [
+     "Shopsy By Flipkart",
+     4
+    ],
+    [
+     "FirstCry India",
+     4
+    ],
+    [
+     "firstcry.com",
+     1
+    ],
+    [
+     "GetUSCart",
+     1
+    ],
+    [
+     "cart2india",
+     1
+    ],
+    [
+     "ubuy.co.in",
+     1
+    ]
+   ],
+   "name": "AiTuiTui",
+   "titled_with_name": 0,
+   "raw_json": "data/raw/google_shopping_0574564cd820b99c.json"
+  }
  }
 }
