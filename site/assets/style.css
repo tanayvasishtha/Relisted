@@ -525,7 +525,10 @@ a:hover {
     grid-template-columns: minmax(0, 4fr) minmax(0, 8fr);
     align-items: start;
   }
+}
 
+/* The facts column stays in view only on screens tall enough to show all of it, links included. */
+@media (min-width: 960px) and (min-height: 1000px) {
   .recall-facts {
     position: sticky;
     top: 24px;
@@ -806,6 +809,13 @@ a:hover {
 /* Two columns of tiles: ten make the point without pushing the table far down. */
 @media (max-width: 559px) {
   .sheet li:nth-child(n + 11) {
+    display: none;
+  }
+}
+
+/* Four columns: sixteen tiles fill four rows instead of leaving two tiles alone in a fifth. */
+@media (min-width: 800px) and (max-width: 1099px) {
+  .sheet li:nth-child(n + 17) {
     display: none;
   }
 }

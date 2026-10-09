@@ -78,6 +78,13 @@ export function realCountries(trail) {
   return trail.countries.filter(([code]) => code !== "XX");
 }
 
+// "117 store listings in 28 countries"; when no address names a country, it says so instead of "0 countries".
+export function listingsAndCountries(trail) {
+  const listings = plural(trail.selling.length, "store listing");
+  const countries = realCountries(trail).length;
+  return countries ? `${listings} in ${plural(countries, "country", "countries")}` : `${listings}, country not shown`;
+}
+
 export function matchCount(trail) {
   return trail.matches_capped ? `${trail.matches_total}+` : String(trail.matches_total);
 }

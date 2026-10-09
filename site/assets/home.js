@@ -5,6 +5,7 @@ import {
   el,
   fmtDate,
   frame,
+  listingsAndCountries,
   loadData,
   matchCount,
   monthName,
@@ -116,7 +117,7 @@ function renderHero(stats, trail) {
       `One Google Lens search on the recall photo matched ${matches} pages, including ` +
         `${plural(h.live_listings, "store listing")} on ${plural(h.stores, "store")}. ` +
         (h.india_listings ? `${plural(h.india_listings, "listing")} sit on stores that sell in India. ` : "") +
-        (h.listings_titled_with_recalled_brand === 0
+        (h.recalled_brand && h.listings_titled_with_recalled_brand === 0
           ? `No listing title uses the name ${h.recalled_brand}. `
           : "") +
         (unnamedInIndia
@@ -143,14 +144,10 @@ function indiaCell(trail) {
 
 // Phones hide the number columns; this line under the name carries the same counts.
 function rowMeta(trail) {
-  const listings = trail.selling.length;
-  const countries = realCountries(trail).length;
   return el(
     "span",
     { class: "row-meta" },
-    listings
-      ? `${plural(listings, "store listing")} in ${plural(countries, "country", "countries")}`
-      : "No store listings",
+    trail.selling.length ? listingsAndCountries(trail) : "No store listings",
     trail.india.length ? [" ", el("span", { class: "tag" }, `${trail.india.length} on India stores`)] : null,
   );
 }
@@ -175,7 +172,11 @@ function recallRow(trail) {
       { class: "num secondary" },
       listings ? listings.toLocaleString("en") : el("span", { class: "none" }, "None"),
     ),
-    el("td", { class: "num secondary" }, listings ? realCountries(trail).length : ""),
+    el(
+      "td",
+      { class: "num secondary" },
+      !listings ? "" : realCountries(trail).length || el("span", { class: "none" }, "Not shown"),
+    ),
     el("td", { class: "secondary" }, indiaCell(trail)),
   );
 }

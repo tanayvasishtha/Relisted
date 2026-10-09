@@ -5,6 +5,7 @@ import {
   el,
   fmtDate,
   frame,
+  listingsAndCountries,
   loadData,
   matchCount,
   plural,
@@ -54,7 +55,7 @@ function renderCounts(trail) {
   const listings = trail.selling.length;
   const countries = realCountries(trail).length;
   document.getElementById("claim").textContent = listings
-    ? `${plural(listings, "store listing")} in ${plural(countries, "country", "countries")}`
+    ? listingsAndCountries(trail)
     : "No store listings found in this search";
   const counts = [
     ["Pages Lens matched", matchCount(trail)],
@@ -109,7 +110,7 @@ function listOf(names, most = 3) {
 }
 
 function nameLine(s) {
-  if (s.name == null) return "The name is not counted, because the product name starts with an ordinary word.";
+  if (s.name == null) return "The name is not counted: the product name does not start with a word that names a brand.";
   if (s.titled_with_name === 0) return `None of them carries the name ${s.name}.`;
   return `${plural(s.titled_with_name, "result")} ${s.titled_with_name === 1 ? "carries" : "carry"} the name ${s.name}.`;
 }
@@ -254,14 +255,14 @@ function renderListings(trail) {
 function renderLeftOut(trail) {
   const k = trail.kinds;
   const parts = [
-    [k.spam, "copies of the listing on unrelated sites"],
-    [k.news, "news stories"],
-    [k.social, "social posts"],
-    [k.store_page, "store category pages"],
-    [k.other, "other pages that are not listings"],
+    [k.spam, "copy of the listing on an unrelated site", "copies of the listing on unrelated sites"],
+    [k.news, "news story", "news stories"],
+    [k.social, "social post", "social posts"],
+    [k.store_page, "store category page", "store category pages"],
+    [k.other, "other page that is not a listing", "other pages that are not listings"],
   ]
     .filter(([count]) => count)
-    .map(([count, what]) => `${count.toLocaleString("en")} ${what}`);
+    .map(([count, one, many]) => plural(count, one, many));
   const holder = document.getElementById("left-out");
   if (!parts.length) return holder.replaceChildren();
   holder.replaceChildren(
@@ -269,7 +270,8 @@ function renderLeftOut(trail) {
     el(
       "p",
       { class: "note" },
-      `Of the ${matchCount(trail)} pages Lens matched, these are not counted as store listings: ${parts.join(", ")}. ` +
+      `Of the ${matchCount(trail)} ${trail.matches_total === 1 ? "page" : "pages"} Lens matched, ` +
+        `these are not counted as store listings: ${parts.join(", ")}. ` +
         "They stay in the raw result.",
     ),
   );
