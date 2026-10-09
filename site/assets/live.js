@@ -88,5 +88,8 @@ const LOCAL = ["localhost", "127.0.0.1", "[::1]"].includes(location.hostname);
 const status = LOCAL ? await getJson("api/status") : null;
 if (status) {
   renderBar(status);
-  if (status.mode === "live") await renderCandidates();
+  if (status.mode === "live") {
+    document.getElementById("hosted-note")?.remove(); // the search button below does what the note describes
+    await renderCandidates();
+  }
 }

@@ -184,7 +184,9 @@ function recallTable(trails, label) {
 function renderTable(stats, trails) {
   document.getElementById("table-intro").textContent =
     `${plural(stats.recalls_checked, "recall")} from 2026, one Google Lens search each. ` +
-    `${stats.recalls_with_listings} of them have store listings.`;
+    `${stats.recalls_with_listings} of them have store listings. ` +
+    "Plain-looking products, such as pool drain covers, also match other brands. " +
+    "Open a recall to compare the photos.";
   const sorted = [...trails].sort((a, b) => b.selling.length - a.selling.length);
   const found = sorted.filter((t) => t.selling.length);
   const empty = sorted.filter((t) => !t.selling.length);

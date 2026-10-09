@@ -489,6 +489,10 @@ a:hover {
   margin: 0;
 }
 
+.steps + .note {
+  margin-top: 32px;
+}
+
 /* Recall page */
 
 .recall-band {
