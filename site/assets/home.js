@@ -100,6 +100,8 @@ function renderHero(stats, trail) {
   document.getElementById("hero-title").textContent =
     `Recalled in ${monthName(h.date)}. Still listed in ${h.countries} countries.`;
   const matches = h.matches_capped ? `${h.matches} or more` : `${h.matches}`;
+  const shop = h.india_shopping;
+  const unnamedInIndia = shop && shop.name && shop.results && shop.titled_with_name === 0;
   const lede = document.getElementById("hero-lede");
   lede.replaceChildren(
     el(
@@ -115,7 +117,10 @@ function renderHero(stats, trail) {
         `${plural(h.live_listings, "store listing")} on ${plural(h.stores, "store")}. ` +
         (h.india_listings ? `${plural(h.india_listings, "listing")} sit on stores that sell in India. ` : "") +
         (h.listings_titled_with_recalled_brand === 0
-          ? `No listing title uses the name ${h.recalled_brand}.`
+          ? `No listing title uses the name ${h.recalled_brand}. `
+          : "") +
+        (unnamedInIndia
+          ? `Google Shopping India shows ${shop.results} results for the product, and none carries that name either.`
           : ""),
     ),
     el(
