@@ -69,7 +69,7 @@ function listingRow(m) {
   return el(
     "tr",
     {},
-    el("td", { class: "thumb-cell" }, frame(m.thumbnail, "", "thumb")),
+    el("td", { class: "thumb-cell" }, frame(m.thumbnail, "", "thumb thumb-large")),
     el(
       "td",
       {},
@@ -80,10 +80,11 @@ function listingRow(m) {
   );
 }
 
+// Titles wrap, so these tables fit any width and the wrapper needs no tab stop of its own.
 function listingTable(matches, label) {
   return el(
     "div",
-    { class: "table-wrap", tabindex: "0", role: "region", "aria-label": label },
+    { class: "table-wrap" },
     el(
       "table",
       { class: "data" },
@@ -120,8 +121,7 @@ function renderListings(trail) {
       el(
         "p",
         { class: "note" },
-        "Lens found no store listing for this photo in this search. That does not mean the product is gone: " +
-          "Lens only finds pages that carry this one photo.",
+        "Lens found no store listing for this photo in this search. The product may still be sold with other photos.",
       ),
     );
     return;

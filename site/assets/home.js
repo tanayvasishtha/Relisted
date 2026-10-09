@@ -142,7 +142,7 @@ function recallRow(trail) {
   return el(
     "tr",
     {},
-    el("td", { class: "thumb-cell" }, frame(trail.recall_photo_local, `Recall notice photo of ${r.product}`, "thumb")),
+    el("td", { class: "thumb-cell" }, frame(trail.recall_photo_local, "", "thumb")),
     el(
       "td",
       {},
