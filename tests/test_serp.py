@@ -70,3 +70,22 @@ def test_every_paid_search_is_logged_without_the_key(tmp_path, monkeypatch):
     entry = json.loads(lines[0])
     assert entry["engine"] == "google_lens" and entry["status"] == "Success"
     assert "test-key" not in lines[0]
+
+
+def test_page_tokens_are_never_stored():
+    from relisted.serp import strip_tokens
+
+    data = {
+        "page_token": "4fPK4Xicz",
+        "shopping_results": [
+            {
+                "title": "Toy",
+                "immersive_product_page_token": "J2Lb2Xicb",
+                "serpapi_immersive_product_api": "https://serpapi.com/search.json?page_token=J2Lb2Xicb",
+                "product_link": "https://www.google.com/shopping/product/1",
+            }
+        ],
+    }
+    assert strip_tokens(data) == {
+        "shopping_results": [{"title": "Toy", "product_link": "https://www.google.com/shopping/product/1"}]
+    }

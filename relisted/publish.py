@@ -16,6 +16,7 @@ from PIL import Image
 
 from .config import ROOT, Settings, load_settings
 from .photos import USER_AGENT, download, open_image
+from .serp import strip_tokens
 
 SITE = ROOT / "site"
 THUMB_WIDTH = 360
@@ -59,7 +60,7 @@ def copy_raw(search_key: str, settings: Settings, site: Path) -> str | None:
     source = settings.cache_dir / f"{search_key}.json"
     if not source.exists():
         return None
-    data = json.loads(source.read_text(encoding="utf-8"))
+    data = strip_tokens(json.loads(source.read_text(encoding="utf-8")))
     for name in ARCHIVE_FIELDS:
         data.get("search_metadata", {}).pop(name, None)
     relative = f"data/raw/{search_key}.json"

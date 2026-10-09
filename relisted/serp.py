@@ -25,6 +25,23 @@ class BudgetExceeded(RuntimeError):
     """A live search would push this run past its credit cap."""
 
 
+def strip_tokens(value: Any) -> Any:
+    """Drop Google's opaque page tokens and the links that carry them.
+
+    They only fetch another page or a product page. They are not credentials, but secret scanners
+    flag them, and nothing here uses them, so they are never written to disk.
+    """
+    if isinstance(value, dict):
+        return {
+            k: strip_tokens(v)
+            for k, v in value.items()
+            if not k.endswith("page_token") and not (isinstance(v, str) and "page_token=" in v)
+        }
+    if isinstance(value, list):
+        return [strip_tokens(v) for v in value]
+    return value
+
+
 def cache_key(params: dict[str, Any]) -> str:
     blob = json.dumps(params, sort_keys=True, ensure_ascii=False)
     return f"{params['engine']}_{hashlib.sha256(blob.encode()).hexdigest()[:16]}"
@@ -57,7 +74,7 @@ class SerpClient:
                 f"Credit cap of {self.settings.max_credits} reached for this run. "
                 "Raise RELISTED_MAX_CREDITS to allow more."
             )
-        data = self._live(params)
+        data = strip_tokens(self._live(params))
         self.credits_used += 1
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
