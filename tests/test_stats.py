@@ -86,3 +86,10 @@ def test_write_saves_json(tmp_path):
     path = tmp_path / "out" / "stats.json"
     stats.write({"1": trail("1", 3)}, tmp_path / "none.jsonl", path)
     assert json.loads(path.read_text(encoding="utf-8"))["recalls_checked"] == 1
+
+
+def test_a_recall_whose_name_cannot_name_a_brand_never_leads(tmp_path):
+    nameless = trail("nameless", 500)
+    nameless["recalled_brand"] = None  # an absent name proves nothing
+    trails = {"nameless": nameless, "fit": trail("fit", 90)}
+    assert stats.compute(trails, tmp_path / "none.jsonl")["headline"]["recall_id"] == "fit"

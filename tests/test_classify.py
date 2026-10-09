@@ -127,3 +127,30 @@ def test_unknown_shop_about_something_else_is_not_a_listing():
     }
     assert classify(item).kind == "shop"
     assert classify(item, product_terms("Wnttmt Baby Walkers")).kind == "other"
+
+
+@pytest.mark.parametrize(
+    "domain, country",
+    [
+        ("brunei.desertcart.com", "BN"),
+        ("liberia.ubuy.com", "LR"),
+        ("barbabos.ubuy.com", "BB"),  # Ubuy's own spelling
+        ("kuwait.whizzcart.com", "KW"),
+        ("brunei.example.com", "XX"),  # only stores known to run country storefronts
+        ("shop.example.eu", "XX"),  # .eu serves a union, not one country
+        ("ar.dhgate.com", "XX"),  # a language subdomain, not a country
+    ],
+)
+def test_country_storefronts_and_non_countries(domain, country):
+    assert country_of(domain) == country
+
+
+def test_a_story_telling_readers_to_stop_using_a_product_is_news():
+    title = "If you bought this infant walker on Amazon, stop using it immediately"
+    assert kind(title, "https://www.silive.com/news/2026/03/walker.html") == "news"
+    assert kind(title, "https://www.silive.com/2026/03/walker.html", price=None) == "news"
+
+
+def test_a_malformed_link_does_not_crash_the_run():
+    match = classify({"title": "Baby Walker", "link": "https://[www.broken.test/item/1"})
+    assert match.domain == "" and match.kind in {"other", "shop"}

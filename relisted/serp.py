@@ -25,6 +25,18 @@ class BudgetExceeded(RuntimeError):
     """A live search would push this run past its credit cap."""
 
 
+class SearchFailed(RuntimeError):
+    """SerpApi gave no usable answer. Nothing was cached or counted, so the next run tries again."""
+
+
+TIMEOUT = 90  # seconds; a stalled connection must not hold the live-search lock forever
+
+
+def redact(text: str, secret: str | None) -> str:
+    """Error text from the HTTP layer quotes the request URL, and with it the API key."""
+    return text.replace(secret, "***") if secret else text
+
+
 def strip_tokens(value: Any) -> Any:
     """Drop Google's opaque page tokens and the links that carry them.
 
@@ -56,9 +68,6 @@ class SerpClient:
     def path_for(self, params: dict[str, Any]) -> Path:
         return self.settings.cache_dir / f"{cache_key(params)}.json"
 
-    def is_cached(self, params: dict[str, Any]) -> bool:
-        return self.path_for(params).exists()
-
     def search(self, params: dict[str, Any]) -> dict[str, Any]:
         path = self.path_for(params)
         if path.exists():
@@ -75,6 +84,11 @@ class SerpClient:
                 "Raise RELISTED_MAX_CREDITS to allow more."
             )
         data = strip_tokens(self._live(params))
+        if data.get("search_metadata", {}).get("status") != "Success":
+            # A bad key, no searches left or a server error is not an answer: keep nothing, count nothing.
+            # "No results" is different: it comes back as Success with an error field, and is kept.
+            reason = data.get("error") or "no reason given"
+            raise SearchFailed(redact(f"SerpApi could not run the search: {reason}", self.settings.api_key))
         self.credits_used += 1
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -84,18 +98,17 @@ class SerpClient:
     def _live(self, params: dict[str, Any]) -> dict[str, Any]:
         import serpapi
 
-        client = serpapi.Client(api_key=self.settings.api_key)
+        client = serpapi.Client(api_key=self.settings.api_key, timeout=TIMEOUT)
         try:
             return dict(client.search(dict(params)))  # copy: the SDK adds the key to the dict it gets
         except serpapi.HTTPError as exc:
-            # SerpApi reports "no results" as an error payload. Keep it, it is still a paid answer.
-            response = getattr(exc, "response", None)
-            if response is not None:
-                try:
-                    return response.json()
-                except ValueError:
-                    pass
-            raise
+            try:
+                return exc.response.json()  # SerpApi explains most failures in a JSON body
+            except (AttributeError, ValueError):
+                failure: Exception = exc
+        except Exception as exc:  # network errors: their text holds the request URL
+            failure = exc
+        raise SearchFailed(redact(f"SerpApi did not answer: {failure}", self.settings.api_key)) from None
 
     def _log(self, params: dict[str, Any], data: dict[str, Any]) -> None:
         entry = {

@@ -41,6 +41,11 @@ STORES: dict[str, re.Pattern[str]] = {
     "shopee": re.compile(r"-i\.\d+"),
     "offerup": re.compile(r"/item/"),
     "karrotmarket": re.compile(r"/"),
+    "myntra": re.compile(r"/\d+/buy"),
+    "ajio": re.compile(r"/p/"),
+    "nykaa": re.compile(r"/p/"),
+    "shopsy": re.compile(r"/p/"),
+    "tatacliq": re.compile(r"/p-mp\d+"),
     "kmart": re.compile(r"/product/"),
     "argos": re.compile(r"/product/"),
     "babylist": re.compile(r"/gp/"),
@@ -61,7 +66,7 @@ NEWS_DOMAINS = (
 ).split()
 NEWS_TOKEN = re.compile(r"(^|[.-])(news|times|herald|tribune|gazette|radio|press)([.-]|$)")
 RECALL_WORDS = re.compile(
-    r"\brecall(?:ed|s)?\b|safety (?:alert|notice|warning)|\bCPSC\b|"
+    r"\brecall(?:ed|s)?\b|safety (?:alert|notice|warning)|\bCPSC\b|\bstop using\b|"
     r"\bchoked\b|\bdeaths?\b|\binjur(?:y|ies|ed)\b",
     re.I,
 )
@@ -87,18 +92,44 @@ UNKNOWN_COUNTRY = "XX"
 US_STORES = frozenset(
     "amazon ebay walmart target etsy wayfair offerup bedbathandbeyond kmart babylist".split()
 )
-# Two-letter domain endings that are used as generic names, not countries.
+# Two-letter domain endings that are used as generic names, not countries (.eu serves a whole union).
 GENERIC_CC = frozenset(
-    "io ai tv me cc ly to fm ws la tk ml ga cf gq pw sh vc gg ac ms nu so st su tf gl gs mn bz sx".split()
+    "io ai tv me cc ly to fm ws la tk ml ga cf gq pw sh vc gg ac ms nu so st su tf gl gs mn bz sx eu".split()
 )
 # Country subdomains used by marketplaces, such as jp.mercari.com and us.shein.com.
 COUNTRY_SUBDOMAINS = frozenset({"jp", "us", "uk", "in", "de", "fr", "it", "es", "mx", "br", "ca", "au"})
 ISO_FIX = {"uk": "GB"}
+# Stores that run one storefront per country and name it in full, such as brunei.desertcart.com.
+STOREFRONT_NETWORKS = frozenset({"desertcart.com", "ubuy.com", "whizzcart.com"})
+# fmt: off
+STOREFRONT_COUNTRIES = {
+    "angola": "AO", "aruba": "AW", "bahamas": "BS", "bahrain": "BH", "barbados": "BB", "barbabos": "BB",
+    "belize": "BZ", "bermuda": "BM", "botswana": "BW", "brunei": "BN", "cameroon": "CM", "comoros": "KM",
+    "cyprus": "CY", "fiji": "FJ", "gambia": "GM", "ghana": "GH", "grenada": "GD", "guinea": "GN",
+    "guyana": "GY", "jamaica": "JM", "kenya": "KE", "kosovo": "XK", "kuwait": "KW", "liberia": "LR",
+    "malawi": "MW", "maldives": "MV", "malta": "MT", "mauritius": "MU", "namibia": "NA", "nigeria": "NG",
+    "oman": "OM", "qatar": "QA", "rwanda": "RW", "seychelles": "SC", "tanzania": "TZ", "trinidad": "TT",
+    "uganda": "UG", "zambia": "ZM",
+}
+# fmt: on
 
 # Words that are not a brand when they open a recalled product's name.
 NOT_A_BRAND = frozenset(
     "a an the new baby babies infant kids kid child children toddler boy girl adult".split()
 )
+# Brand words from CPSC product names that are ordinary English: a title containing one proves nothing.
+ORDINARY_WORDS = frozenset(
+    "magnetic little deli organic happiness lights girls various lil members childrens multipurpose".split()
+)
+
+
+def countable_brand(word: str | None) -> str | None:
+    """The brand word, when it is distinctive enough that finding it in a title means something."""
+    if not word or len(word) < 3 or word.lower() in ORDINARY_WORDS or word.lower() in NOT_A_BRAND:
+        return None
+    return word
+
+
 # Words in a recalled product's name that say nothing about what the product is.
 NOT_A_NOUN = frozenset("baby babies infant kids child children toddler with sets pack recalled".split())
 
@@ -125,12 +156,18 @@ class Match:
 
 
 def domain_of(link: str) -> str:
-    host = (urlparse(link).hostname or "").lower()
+    try:
+        host = (urlparse(link).hostname or "").lower()
+    except ValueError:  # a malformed address, such as an unclosed [ in the host
+        return ""
     return host.removeprefix("www.")
 
 
 def path_of(link: str) -> str:
-    parsed = urlparse(link)
+    try:
+        parsed = urlparse(link)
+    except ValueError:
+        return ""
     return parsed.path + (f"?{parsed.query}" if parsed.query else "")
 
 
@@ -143,6 +180,8 @@ def country_of(domain: str) -> str:
     labels = domain.split(".")
     if any(label in INDIAN_STORES for label in labels):
         return "IN"
+    if ".".join(labels[-2:]) in STOREFRONT_NETWORKS and labels[0] in STOREFRONT_COUNTRIES:
+        return STOREFRONT_COUNTRIES[labels[0]]
     if len(labels) > 2 and labels[0] in COUNTRY_SUBDOMAINS:
         return ISO_FIX.get(labels[0], labels[0].upper())
     tld = labels[-1]

@@ -15,24 +15,28 @@ from typing import Any
 
 from fastapi import Depends, FastAPI, Header, HTTPException, Request
 from fastapi.staticfiles import StaticFiles
-from serpapi import SerpApiError
 from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.middleware.trustedhost import TrustedHostMiddleware
 
 from . import publish, shopping, stats, store
 from .config import ROOT, load_settings
 from .hunt import best_photo, hunt
 from .recalls import fetch, ranked
-from .serp import BudgetExceeded, NotRecorded, SerpClient, account_status
+from .serp import BudgetExceeded, NotRecorded, SearchFailed, SerpClient, account_status
 
 SITE = ROOT / "site"
 mimetypes.add_type("font/woff2", ".woff2")
 STATUS_TTL = 60  # seconds the free Account API answer is reused
 CANDIDATES = 12
 SEARCH_CAP = 2  # one Lens search and one Google Shopping India search
+# A page on another site can point its own domain at 127.0.0.1 (DNS rebinding); its Host header shows it.
+LOCAL_HOSTS = ["127.0.0.1", "localhost"]
 
 _lock = threading.Lock()  # one search at a time, and trails.json is written by one request at a time
 _status: dict[str, Any] = {"at": 0.0, "value": None}
-_candidates: dict[str, Any] = {"value": None}  # scoring photos takes a few seconds, so keep the answer
+# Scoring photos takes a few seconds, so the answer is kept. A search bumps the generation, so a list
+# that was being built while the search ran is not kept.
+_candidates: dict[str, Any] = {"value": None, "generation": 0}
 
 
 class NoCache(BaseHTTPMiddleware):
@@ -46,6 +50,7 @@ class NoCache(BaseHTTPMiddleware):
 
 app = FastAPI(title="Relisted", docs_url=None, redoc_url=None)
 app.add_middleware(NoCache)
+app.add_middleware(TrustedHostMiddleware, allowed_hosts=LOCAL_HOSTS)
 
 
 def require_header(x_relisted: str | None = Header(default=None)) -> None:
@@ -81,6 +86,7 @@ def candidates() -> list[dict]:
         return []
     if _candidates["value"] is not None:
         return _candidates["value"]
+    started = _candidates["generation"]
     done = set(store.load().get("trails", {}))
     found: list[dict] = []
     for recall in ranked([r for r in fetch() if r.recall_id not in done]):
@@ -97,7 +103,8 @@ def candidates() -> list[dict]:
             )
         if len(found) == CANDIDATES:
             break
-    _candidates["value"] = found
+    if _candidates["generation"] == started:
+        _candidates["value"] = found
     return found
 
 
@@ -109,7 +116,8 @@ def search(recall_id: str) -> dict:
     recall = next((r for r in fetch() if r.recall_id == recall_id), None)
     if recall is None:
         raise HTTPException(404, f"No recall with id {recall_id}.")
-    client = SerpClient(settings=dataclasses.replace(settings, max_credits=SEARCH_CAP))
+    cap = min(settings.max_credits, SEARCH_CAP)  # never more than the configured cap
+    client = SerpClient(settings=dataclasses.replace(settings, max_credits=cap))
     with _lock:
         try:
             trail = hunt(recall, client)
@@ -117,8 +125,8 @@ def search(recall_id: str) -> dict:
             raise HTTPException(429, str(exc)) from exc
         except NotRecorded as exc:
             raise HTTPException(409, str(exc)) from exc
-        except SerpApiError as exc:
-            raise HTTPException(502, f"SerpApi answered with an error: {exc}") from exc
+        except SearchFailed as exc:
+            raise HTTPException(502, str(exc)) from exc  # the message never carries the key
         if trail is None:
             raise HTTPException(
                 422, "This recall has no listing-style photo, so Lens would only find look-alikes."
@@ -126,7 +134,7 @@ def search(recall_id: str) -> dict:
         found = trail.to_dict()
         try:
             shopping.check(found, client)
-        except (SerpApiError, BudgetExceeded):
+        except (SearchFailed, BudgetExceeded):
             pass  # the Lens result stands on its own; the page shows no name check
         done = publish.publish_trail(found, settings)
         trails = store.load().get("trails", {})
@@ -134,7 +142,7 @@ def search(recall_id: str) -> dict:
         store.save(trails, client.credits_used)
         stats.write(trails, settings.ledger_path)  # the home page counts must match its table
         _count_search(client.credits_used)
-        _candidates["value"] = None  # this recall is no longer a candidate
+        _candidates.update(value=None, generation=_candidates["generation"] + 1)  # no longer a candidate
     return {
         "recall_id": recall_id,
         "credits_used": client.credits_used,

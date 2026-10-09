@@ -37,7 +37,10 @@ def headline(trails: list[dict]) -> dict | None:
     fits = [
         t
         for t in trails
-        if t["recall"]["kids"] and t["recall"]["marketplace"] and t["recalled_brand_listings"] == 0
+        if t["recall"]["kids"]
+        and t["recall"]["marketplace"]
+        and t["recalled_brand"]  # a product name that cannot name a brand proves nothing by its absence
+        and t["recalled_brand_listings"] == 0
     ]
     top = max(fits or trails, key=lambda t: len(t["selling"]))
     return {

@@ -89,3 +89,51 @@ def test_page_tokens_are_never_stored():
     assert strip_tokens(data) == {
         "shopping_results": [{"title": "Toy", "product_link": "https://www.google.com/shopping/product/1"}]
     }
+
+
+def test_network_errors_never_show_the_key(tmp_path, monkeypatch):
+    import requests
+    import serpapi
+
+    from relisted.serp import SearchFailed
+
+    def stalled(self, params=None, **kwargs):
+        raise requests.exceptions.ConnectionError(
+            "Max retries exceeded with url: /search?api_key=test-key&q=x"
+        )
+
+    monkeypatch.setattr(serpapi.Client, "search", stalled)
+    c = client(tmp_path, replay=False)
+    with pytest.raises(SearchFailed) as failed:
+        c.search(PARAMS)
+    assert "test-key" not in str(failed.value) and "***" in str(failed.value)
+    assert failed.value.__cause__ is None and failed.value.__suppress_context__  # no traceback quoting it
+    assert c.credits_used == 0 and not c.path_for(PARAMS).exists()
+
+
+def test_an_error_reply_is_neither_cached_nor_counted(tmp_path, monkeypatch):
+    from relisted.serp import SearchFailed
+
+    reply = {"search_metadata": {"status": "Error"}, "error": "Your account has run out of searches."}
+    monkeypatch.setattr(SerpClient, "_live", lambda self, params: reply)
+    c = client(tmp_path, replay=False)
+    with pytest.raises(SearchFailed, match="run out of searches"):
+        c.search(PARAMS)
+    assert c.credits_used == 0 and not c.path_for(PARAMS).exists()
+    assert not c.settings.ledger_path.exists()  # the next run tries again
+
+
+def test_no_results_is_a_real_answer_and_is_kept(tmp_path, monkeypatch):
+    reply = {"search_metadata": {"status": "Success"}, "error": "Google hasn't returned any results."}
+    monkeypatch.setattr(SerpClient, "_live", lambda self, params: reply)
+    c = client(tmp_path, replay=False)
+    assert c.search(PARAMS) == reply
+    assert c.credits_used == 1 and c.path_for(PARAMS).exists()
+
+
+def test_page_tokens_never_reach_the_cache(tmp_path, monkeypatch):
+    reply = {"search_metadata": {"status": "Success"}, "page_token": "4fPK4Xicz", "exact_matches": []}
+    monkeypatch.setattr(SerpClient, "_live", lambda self, params: reply)
+    c = client(tmp_path, replay=False)
+    c.search(PARAMS)
+    assert "page_token" not in c.path_for(PARAMS).read_text(encoding="utf-8")

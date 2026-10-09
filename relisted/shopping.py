@@ -9,23 +9,20 @@ from __future__ import annotations
 
 from collections import Counter
 
+from .classify import countable_brand
 from .serp import SerpClient, cache_key
-
-# Brand words from CPSC product names that are ordinary English: a title containing one proves nothing.
-ORDINARY_WORDS = frozenset(
-    "magnetic little deli organic happiness lights girls various lil members childrens multipurpose".split()
-)
 
 
 def shopping_params(product: str) -> dict:
     return {"engine": "google_shopping", "q": product, "gl": "in", "hl": "en"}
 
 
-def countable_name(brand: str | None) -> str | None:
-    """The brand word, when it is distinctive enough that finding it in a title means something."""
-    if not brand or len(brand) < 3 or brand.lower() in ORDINARY_WORDS:
-        return None
-    return brand
+def all_results(data: dict) -> list[dict]:
+    """The main list plus the grouped lists Google sometimes shows above it."""
+    grouped = [
+        r for group in data.get("categorized_shopping_results", []) for r in group.get("shopping_results", [])
+    ]
+    return data.get("shopping_results", []) + grouped
 
 
 def store_counts(results: list[dict]) -> list[tuple[str, int]]:
@@ -40,8 +37,8 @@ def store_counts(results: list[dict]) -> list[tuple[str, int]]:
 
 
 def summarize(data: dict, product: str, brand: str | None) -> dict:
-    results = data.get("shopping_results", [])
-    name = countable_name(brand)
+    results = all_results(data)
+    name = countable_brand(brand)
     titled = sum(1 for r in results if name and name.lower() in (r.get("title") or "").lower())
     return {
         "query": product,

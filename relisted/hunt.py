@@ -12,9 +12,9 @@ from collections import Counter
 from dataclasses import asdict, dataclass, field
 from urllib.parse import quote
 
-from .classify import NOT_A_BRAND, Match, classify, product_terms
+from .classify import Match, classify, countable_brand, product_terms
 from .photos import PhotoScore, score
-from .recalls import Recall
+from .recalls import Photo, Recall
 from .serp import SerpClient, cache_key
 
 # Lens returns at most this many exact matches for one photo, with no way to page further.
@@ -61,9 +61,13 @@ def lens_params(photo_url: str) -> dict:
 
 
 def recalled_brand(recall: Recall) -> str | None:
-    """The brand as CPSC writes it: the first word of the product name, unless it is a generic word."""
-    first = re.sub(r"[^A-Za-z0-9]", "", recall.product.split()[0]) if recall.product.split() else ""
-    return first if first[:1].isalpha() and first.lower() not in NOT_A_BRAND else None
+    """The brand as CPSC writes it: the first word of the product name, when that word can name a brand.
+
+    A hyphenated first word (Male-to-Male, Multi-Purpose, 1-K) describes the product instead.
+    """
+    word = recall.product.split()[0] if recall.product.split() else ""
+    first = re.sub(r"[^A-Za-z0-9]", "", word)
+    return countable_brand(first) if first[:1].isalpha() and "-" not in word else None
 
 
 def build_trail(recall: Recall, photo: PhotoScore, data: dict) -> Trail:
@@ -88,6 +92,14 @@ def build_trail(recall: Recall, photo: PhotoScore, data: dict) -> Trail:
         india=[asdict(m) | {"india": True} for m in matches if m.india],
         status="ok" if matches else "no_copies",
     )
+
+
+def rebuild(trail: dict, client: SerpClient) -> Trail:
+    """Sort a saved trail again with the current rules, from its recorded Lens response."""
+    fields = {k: v for k, v in trail["recall"].items() if k in Recall.__dataclass_fields__}
+    fields["photos"] = [Photo(**p) for p in fields.get("photos", [])]
+    photo = PhotoScore(**{k: v for k, v in trail["photo"].items() if k in PhotoScore.__dataclass_fields__})
+    return build_trail(Recall(**fields), photo, client.search(lens_params(photo.url)))
 
 
 def hunt(recall: Recall, client: SerpClient, photo: PhotoScore | None = None) -> Trail | None:

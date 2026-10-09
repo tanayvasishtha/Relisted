@@ -19,7 +19,7 @@ WALKER = "https://www.cpsc.gov/s3fs-public/bwalk-1.jpg"
 def client():
     server._status.update(at=0.0, value=None)
     server._candidates["value"] = None
-    return TestClient(server.app)
+    return TestClient(server.app, base_url="http://127.0.0.1")
 
 
 @pytest.fixture(scope="module")
@@ -125,3 +125,29 @@ def test_the_font_is_served_with_its_real_type(client):
     response = client.get("/assets/fonts/archivo-latin.woff2")
     assert response.status_code == 200
     assert response.headers["content-type"] == "font/woff2"
+
+
+def test_a_request_for_another_host_is_refused():
+    foreign = TestClient(server.app, base_url="http://rebind.attacker.test")
+    assert foreign.get("/").status_code == 400
+
+
+def test_a_live_search_never_spends_more_than_the_configured_cap(client, live, monkeypatch):
+    capped = Settings(
+        api_key="test-key", replay=False, max_credits=1, data_dir=server.load_settings().data_dir
+    )
+    monkeypatch.setattr(server, "load_settings", lambda: capped)
+    body = client.post("/api/search/10901", headers=HEADERS).json()
+    assert body["credits_used"] == 1  # Lens ran; the name search was skipped, not paid for
+    assert live["trails"]["10901"].get("india_shopping") is None
+
+
+def test_a_failed_search_is_reported_without_the_key(client, live, monkeypatch):
+    from relisted.serp import SearchFailed
+
+    def fail(self, params):
+        raise SearchFailed("SerpApi did not answer: url /search?api_key=***")
+
+    monkeypatch.setattr(SerpClient, "_live", fail)
+    response = client.post("/api/search/10901", headers=HEADERS)
+    assert response.status_code == 502 and "test-key" not in response.text

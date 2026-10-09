@@ -3,15 +3,14 @@
 from __future__ import annotations
 
 import argparse
+import dataclasses
 import sys
-
-from serpapi import SerpApiError
 
 from . import og, publish, recalls, shopping, stats, store
 from .config import load_settings
-from .hunt import best_photo, hunt
+from .hunt import best_photo, hunt, rebuild
 from .recalls import MIN_PRIORITY, Recall, fetch
-from .serp import BudgetExceeded, NotRecorded, SerpClient, account_status
+from .serp import BudgetExceeded, NotRecorded, SearchFailed, SerpClient, account_status
 
 
 def ranked(args: argparse.Namespace) -> list[Recall]:
@@ -39,12 +38,14 @@ def cmd_sweep(args: argparse.Namespace) -> None:
     print(f"mode: {client.settings.mode}   credit cap: {client.settings.max_credits}")
     trails = store.load().get("trails", {})
     for recall in ranked(args):
+        if recall.recall_id in trails:
+            continue  # already searched and published; `relisted rebuild` re-sorts it for free
         try:
             trail = hunt(recall, client)
         except (BudgetExceeded, NotRecorded) as exc:
             print(f"stopped: {exc}")
             break
-        except (SerpApiError, OSError) as exc:
+        except (SearchFailed, OSError) as exc:
             print(f"{recall.recall_id:>6} skipped, search failed: {exc}")
             continue
         if trail is None:
@@ -59,19 +60,17 @@ def cmd_sweep(args: argparse.Namespace) -> None:
 
 
 def cmd_shopping(_: argparse.Namespace) -> None:
-    """One Google Shopping India search per recall with store listings, up to RELISTED_MAX_CREDITS."""
+    """One Google Shopping India search per saved recall, up to RELISTED_MAX_CREDITS."""
     client = SerpClient()
     print(f"mode: {client.settings.mode}   credit cap: {client.settings.max_credits}")
     trails = store.load().get("trails", {})
     for recall_id, trail in trails.items():
-        if not trail["selling"]:
-            continue
         try:
             summary = shopping.check(trail, client)
         except (BudgetExceeded, NotRecorded) as exc:
             print(f"stopped: {exc}")
             break
-        except (SerpApiError, OSError) as exc:
+        except SearchFailed as exc:
             print(f"{recall_id:>6} skipped, search failed: {exc}")
             continue
         store.save(trails, client.credits_used)
@@ -80,6 +79,26 @@ def cmd_shopping(_: argparse.Namespace) -> None:
             f"titled with {summary['name']}: {summary['titled_with_name']}"
         )
     print(f"\nsearches paid this run: {client.credits_used}   served from cache: {client.cache_hits}")
+
+
+def cmd_rebuild(_: argparse.Namespace) -> None:
+    """Sort every saved trail again with the current rules, from the recorded searches. Free."""
+    client = SerpClient(settings=dataclasses.replace(load_settings(), replay=True))  # cannot spend
+    trails: dict[str, dict] = {}
+    for recall_id, old in store.load().get("trails", {}).items():
+        trail = rebuild(old, client).to_dict()
+        if old.get("india_shopping"):
+            shopping.check(trail, client)
+        trails[recall_id] = trail
+        before, after = len(old["selling"]), len(trail["selling"])
+        if before != after or old["countries"] != trail["countries"]:
+            print(
+                f"{recall_id:>6} listings {before} -> {after}   countries {len(old['countries'])} -> "
+                f"{len(trail['countries'])}"
+            )
+    publish.publish_all(trails)
+    store.save(trails, 0)
+    print(f"{len(trails)} trails rebuilt from {client.cache_hits} recorded searches; none paid")
 
 
 def cmd_thumbs(_: argparse.Namespace) -> None:
@@ -122,7 +141,8 @@ def cmd_serve(args: argparse.Namespace) -> None:
 def main(argv: list[str] | None = None) -> None:
     sys.stdout.reconfigure(encoding="utf-8")
     parser = argparse.ArgumentParser(
-        prog="relisted", description="Find recalled products still on sale under new names."
+        prog="relisted",
+        description="Match US recall photos to store listings, and search their names in India.",
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
@@ -139,6 +159,9 @@ def main(argv: list[str] | None = None) -> None:
     sub.add_parser(
         "shopping", help="search each recall's name on Google Shopping India (one search per recall)"
     ).set_defaults(func=cmd_shopping)
+    sub.add_parser(
+        "rebuild", help="sort the saved searches again with the current rules (free)"
+    ).set_defaults(func=cmd_rebuild)
     sub.add_parser("thumbs", help="save thumbnails and raw responses for the site (free)").set_defaults(
         func=cmd_thumbs
     )

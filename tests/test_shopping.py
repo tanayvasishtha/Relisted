@@ -24,10 +24,23 @@ def test_the_search_is_google_shopping_in_india():
 
 
 def test_only_distinctive_names_are_counted():
-    assert shopping.countable_name("AiTuiTui") == "AiTuiTui"
-    assert shopping.countable_name("Magnetic") is None  # an ordinary word proves nothing
-    assert shopping.countable_name("GM") is None  # too short
-    assert shopping.countable_name(None) is None
+    from relisted.classify import countable_brand
+
+    assert countable_brand("AiTuiTui") == "AiTuiTui"
+    assert countable_brand("Magnetic") is None  # an ordinary word proves nothing
+    assert countable_brand("GM") is None  # too short
+    assert countable_brand(None) is None
+
+
+def test_grouped_results_are_counted_too():
+    data = {
+        "shopping_results": [{"title": "Battery pack", "source": "Flipkart"}],
+        "categorized_shopping_results": [
+            {"title": "Popular", "shopping_results": [{"title": "EEMB 3.7V battery", "source": "amazon.in"}]}
+        ],
+    }
+    summary = shopping.summarize(data, "EEMB Lithium Battery Packs", "EEMB")
+    assert summary["results"] == 2 and summary["titled_with_name"] == 1
 
 
 def test_summary_counts_results_stores_and_titles_with_the_name():
