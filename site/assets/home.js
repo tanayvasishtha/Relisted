@@ -136,6 +136,20 @@ function indiaCell(trail) {
   return el("span", { class: "tag" }, plural(trail.india.length, "listing"));
 }
 
+// Phones hide the number columns; this line under the name carries the same counts.
+function rowMeta(trail) {
+  const listings = trail.selling.length;
+  const countries = realCountries(trail).length;
+  return el(
+    "span",
+    { class: "row-meta" },
+    listings
+      ? `${plural(listings, "store listing")} in ${plural(countries, "country", "countries")}`
+      : "No store listings",
+    trail.india.length ? [" ", el("span", { class: "tag" }, `${trail.india.length} on India stores`)] : null,
+  );
+}
+
 function recallRow(trail) {
   const r = trail.recall;
   const listings = trail.selling.length;
@@ -148,11 +162,16 @@ function recallRow(trail) {
       {},
       el("a", { class: "product-link", href: recallLink(trail) }, r.product),
       r.sold_on && el("span", { class: "row-sub" }, `Sold on ${r.sold_on}`),
+      rowMeta(trail),
     ),
     el("td", { class: "secondary" }, fmtDate(r.date)),
-    el("td", { class: "num" }, listings ? listings.toLocaleString("en") : el("span", { class: "none" }, "None")),
+    el(
+      "td",
+      { class: "num secondary" },
+      listings ? listings.toLocaleString("en") : el("span", { class: "none" }, "None"),
+    ),
     el("td", { class: "num secondary" }, listings ? realCountries(trail).length : ""),
-    el("td", {}, indiaCell(trail)),
+    el("td", { class: "secondary" }, indiaCell(trail)),
   );
 }
 
@@ -166,9 +185,9 @@ function tableHead() {
       el("th", { scope: "col" }, el("span", { class: "visually-hidden" }, "Photo")),
       el("th", { scope: "col" }, "Recalled product"),
       el("th", { scope: "col", class: "secondary" }, "Recalled"),
-      el("th", { scope: "col", class: "num" }, "Store listings"),
+      el("th", { scope: "col", class: "num secondary" }, "Store listings"),
       el("th", { scope: "col", class: "num secondary" }, "Countries"),
-      el("th", { scope: "col" }, "On India stores"),
+      el("th", { scope: "col", class: "secondary" }, "On India stores"),
     ),
   );
 }

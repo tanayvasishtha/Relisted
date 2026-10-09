@@ -241,6 +241,7 @@ a:hover {
 .tag {
   display: inline-block;
   padding: 1px 8px;
+  white-space: nowrap;
   background: var(--signal);
   color: var(--ink);
   font-stretch: 88%;
@@ -441,6 +442,10 @@ a:hover {
 
 .none {
   color: var(--quiet);
+}
+
+.row-meta {
+  display: none;
 }
 
 @media (max-width: 719px) {
@@ -701,9 +706,15 @@ a:hover {
   white-space: nowrap;
 }
 
+/* The wordmark and three links fit on one line down to a 360px phone. */
 @media (max-width: 480px) {
+  .site-header {
+    gap: 12px;
+  }
+
   .site-nav {
-    gap: 16px;
+    gap: 12px;
+    font-size: 0.875rem;
   }
 }
 
@@ -717,5 +728,60 @@ a:hover {
   .thumb-large {
     width: 64px;
     height: 64px;
+  }
+}
+
+/* Phones */
+
+@media (max-width: 719px) {
+  /* The number columns are hidden; their counts move under the product name. */
+  .row-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 8px;
+    align-items: center;
+    margin-top: 6px;
+  }
+
+  /* Recall page: the photo sits beside the name, so the result is on the first screen. */
+  .recall-facts {
+    display: grid;
+    grid-template-columns: 120px minmax(0, 1fr);
+    gap: 0 16px;
+    align-items: center;
+  }
+
+  .recall-photo {
+    margin-bottom: 0;
+  }
+
+  .recall-name {
+    margin: 0;
+    font-size: 1.625rem;
+  }
+
+  .facts {
+    grid-column: 1 / -1;
+    margin-top: 20px;
+  }
+
+  .recall-layout {
+    padding-top: 24px;
+  }
+
+  /* Touch targets of at least 44px. */
+  .site-nav a {
+    padding-block: 10px;
+  }
+
+  .button {
+    padding-block: 13px;
+  }
+}
+
+/* Two columns of tiles: ten make the point without pushing the table far down. */
+@media (max-width: 559px) {
+  .sheet li:nth-child(n + 11) {
+    display: none;
   }
 }
