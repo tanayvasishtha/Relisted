@@ -3,7 +3,8 @@ import { loadData, plural, snapshotNote } from "./data.js";
 try {
   const { doc, stats } = await loadData();
   document.getElementById("usage").textContent =
-    `The results on this site come from ${plural(stats.recalls_checked, "Lens search", "Lens searches")}. ` +
+    `The results on this site come from ${plural(stats.recalls_checked, "Lens search", "Lens searches")} ` +
+    `and ${plural(stats.shopping_searches, "Google Shopping India search", "Google Shopping India searches")}. ` +
     `With the test searches before them, ${stats.searches_paid_total} SerpApi searches were paid for in total.`;
   document.getElementById("snapshot").textContent = snapshotNote(doc);
 } catch (error) {
