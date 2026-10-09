@@ -99,6 +99,8 @@ ISO_FIX = {"uk": "GB"}
 NOT_A_BRAND = frozenset(
     "a an the new baby babies infant kids kid child children toddler boy girl adult".split()
 )
+# Words in a recalled product's name that say nothing about what the product is.
+NOT_A_NOUN = frozenset("baby babies infant kids child children toddler with sets pack recalled".split())
 
 
 @dataclass
@@ -174,20 +176,7 @@ def kind_of(title: str, link: str, domain: str, has_price: bool) -> str:
 
 def product_terms(product: str) -> set[str]:
     """Nouns from the recalled product name, singular and plural, used to keep unknown shops honest."""
-    filler = {
-        "baby",
-        "babies",
-        "infant",
-        "kids",
-        "child",
-        "children",
-        "toddler",
-        "with",
-        "sets",
-        "pack",
-        "recalled",
-    }
-    words = {w for w in re.findall(r"[a-z]{4,}", product.lower()) if w not in filler}
+    words = {w for w in re.findall(r"[a-z]{4,}", product.lower()) if w not in NOT_A_NOUN}
     return words | {w[:-1] for w in words if w.endswith("s")} | {w + "s" for w in words}
 
 

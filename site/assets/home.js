@@ -168,7 +168,7 @@ function tableHead() {
       el("th", { scope: "col", class: "secondary" }, "Recalled"),
       el("th", { scope: "col", class: "num" }, "Store listings"),
       el("th", { scope: "col", class: "num secondary" }, "Countries"),
-      el("th", { scope: "col" }, "In India"),
+      el("th", { scope: "col" }, "On India stores"),
     ),
   );
 }
